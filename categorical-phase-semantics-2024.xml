@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5070</fr:anchor><fr:addr
+type="user">categorical-phase-semantics-2024</fr:addr><fr:route>categorical-phase-semantics-2024.xml</fr:route><fr:title
+text="Categorical phase semantics for linear logic">Categorical phase semantics for linear logic</fr:title><fr:taxon>Paper</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author><fr:author>Steve Zdancewic</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We introduce the generalized phase semantics of linear logic, a categorical
+framework for constructing provability-sound models of linear logic from the
+subobject posets of monoids. We prove soundness and completeness results in
+categories with well-behaved factorization systems, and prove soundness for
+fragments of the logic in categories with less structure present.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4812</fr:anchor><fr:addr
+type="machine">#312</fr:addr><fr:route>unstable-312.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>By the <fr:link
+type="local"
+href="rs-002F.xml"
+addr="rs-002F"
+title="Completeness criterion">completeness criterion</fr:link>, it suffices to give
+  <fr:link
+type="local"
+href="rs-0023.xml"
+addr="rs-0023"
+title="Product">products</fr:link> and <fr:link
+type="local"
+href="rs-0025.xml"
+addr="rs-0025"
+title="Equalizer">equalizers</fr:link>. Products are given by the
+  <fr:link
+type="local"
+href="rs-000S.xml"
+addr="rs-000S"
+title="Product category">product category</fr:link>. The equalizer of <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functors</fr:link> <fr:tex
+display="inline"><![CDATA[C\overset {F,G}{\rightrightarrows } D]]></fr:tex> is
+  the <fr:link
+type="local"
+href="rs-004X.xml"
+addr="rs-004X"
+title="Subcategory">subcategory</fr:link> of <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> consisting of objects <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[Fx = Gx]]></fr:tex> and
+  morphisms <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[Ff = Gf]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4814</fr:anchor><fr:addr
+type="user">rs-002W</fr:addr><fr:route>rs-002W.xml</fr:route><fr:title
+text="Cat is complete"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Cat</html:span> is complete</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">RIehl</fr:meta><fr:meta
+name="ref-at">Proposition 3.5.6</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p><fr:link
+type="local"
+href="rs-002V.xml"
+addr="rs-002V"
+title="Category of categories"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Cat</html:span></fr:link> is <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3255</fr:anchor><fr:addr
+type="machine">#312</fr:addr><fr:route>unstable-312.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>By the <fr:link
+type="local"
+href="rs-002F.xml"
+addr="rs-002F"
+title="Completeness criterion">completeness criterion</fr:link>, it suffices to give
+  <fr:link
+type="local"
+href="rs-0023.xml"
+addr="rs-0023"
+title="Product">products</fr:link> and <fr:link
+type="local"
+href="rs-0025.xml"
+addr="rs-0025"
+title="Equalizer">equalizers</fr:link>. Products are given by the
+  <fr:link
+type="local"
+href="rs-000S.xml"
+addr="rs-000S"
+title="Product category">product category</fr:link>. The equalizer of <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functors</fr:link> <fr:tex
+display="inline"><![CDATA[C\overset {F,G}{\rightrightarrows } D]]></fr:tex> is
+  the <fr:link
+type="local"
+href="rs-004X.xml"
+addr="rs-004X"
+title="Subcategory">subcategory</fr:link> of <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> consisting of objects <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[Fx = Gx]]></fr:tex> and
+  morphisms <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[Ff = Gf]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

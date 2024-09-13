@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6133</fr:anchor><fr:addr
+type="machine">#327</fr:addr><fr:route>unstable-327.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>In the forwards direction, we already know that <fr:link
+type="local"
+href="rs-000P.xml"
+addr="rs-000P"
+title="Functors preserve isomorphisms">functors preserve isomorphisms</fr:link>.</fr:p>
+
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[Fx\xrightarrow {g} Fy]]></fr:tex> be an isomorphism in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Since <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> is full, there is a
+  morphism <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[Ff = g]]></fr:tex>. Now the result follows
+  because <fr:link
+type="local"
+href="rs-001M.xml"
+addr="rs-001M"
+title="Fully faithful functors reflect isomorphisms">fully faithful functors reflect isomorphisms</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6135</fr:anchor><fr:addr
+type="user">rs-001N</fr:addr><fr:route>rs-001N.xml</fr:route><fr:title
+text="Fully faithful functors create isomorphisms">Fully faithful functors create isomorphisms</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Exercise 1.5.iv(ii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p><fr:link
+type="local"
+href="rs-0017.xml"
+addr="rs-0017"
+title="Full functor">Fully</fr:link> <fr:link
+type="local"
+href="rs-0018.xml"
+addr="rs-0018"
+title="Faithful functor">faithful functors</fr:link> <fr:link
+type="local"
+href="rs-001L.xml"
+addr="rs-001L"
+title="Creation of a property">create</fr:link>
+<fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link>.</fr:p><fr:p>Explicitly, let <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> be a full and faithful functor. Then
+<fr:tex
+display="inline"><![CDATA[x\cong  y]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> if and only if <fr:tex
+display="inline"><![CDATA[Fx\cong  Fy]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6137</fr:anchor><fr:addr
+type="machine">#327</fr:addr><fr:route>unstable-327.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>In the forwards direction, we already know that <fr:link
+type="local"
+href="rs-000P.xml"
+addr="rs-000P"
+title="Functors preserve isomorphisms">functors preserve isomorphisms</fr:link>.</fr:p>
+
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[Fx\xrightarrow {g} Fy]]></fr:tex> be an isomorphism in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Since <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> is full, there is a
+  morphism <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[Ff = g]]></fr:tex>. Now the result follows
+  because <fr:link
+type="local"
+href="rs-001M.xml"
+addr="rs-001M"
+title="Fully faithful functors reflect isomorphisms">fully faithful functors reflect isomorphisms</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

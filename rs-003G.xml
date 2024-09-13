@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4262</fr:anchor><fr:addr
+type="user">rs-003G</fr:addr><fr:route>rs-003G.xml</fr:route><fr:title
+text="Two-variable adjunction">Two-variable adjunction</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 4.3.7</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>two-variable adjunction</fr:em> consists of three <fr:link
+type="local"
+href="rs-000T.xml"
+addr="rs-000T"
+title="Bifunctor">bifunctors</fr:link>
+<fr:tex
+display="block"><![CDATA[{C\times  D\xrightarrow {F} E}, C^\text {op}\times  E\xrightarrow {G} D,  D^\text {op}\times  E\xrightarrow {H} C]]></fr:tex>
+and a <fr:link
+type="local"
+href="rs-0010.xml"
+addr="rs-0010"
+title="Natural isomorphism">natural isomorphism</fr:link> <fr:tex
+display="block"><![CDATA[E(F(c, d), e)\cong  D(d, G(c, e))\cong  C(c, H(d, e)).]]></fr:tex> The functor <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> is called <fr:em>biclosed</fr:em>, while the functors
+<fr:tex
+display="inline"><![CDATA[G]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[H]]></fr:tex> are called <fr:em>left</fr:em> and <fr:em>right closures</fr:em>, respectively.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4264</fr:anchor><fr:addr
+type="user">riehl-2017</fr:addr><fr:route>riehl-2017.xml</fr:route><fr:title
+text="Category theory in context">Category theory in context</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
+name="isbn">9780486820804</fr:meta><fr:meta
+name="external">https://math.jhu.edu/~eriehl/context/</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{riehl-2017,
+  title = {Category Theory in Context},
+  author = {Riehl, Emily},
+  isbn = {9780486820804},
+  series = {Aurora: Dover Modern Math Originals},
+  year = {2017},
+  publisher = {Dover Publications}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Suitable for advanced undergraduates and graduate students in mathematics,
+the text provides tools for understanding and attacking difficult problems in
+algebra, number theory, algebraic geometry, and algebraic topology. Drawing upon
+a broad range of mathematical examples from the categorical perspective, the
+author illustrates how the concepts and constructions of category theory arise
+from and illuminate more basic mathematical ideas. Prerequisites are limited to
+familiarity with some basic set theory and logic.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4266</fr:anchor><fr:addr
+type="user">rs-005J</fr:addr><fr:route>rs-005J.xml</fr:route><fr:title
+text="Closed symmetric monoidal category">Closed symmetric monoidal category</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane</fr:meta><fr:meta
+name="ref-at">p. 184</fr:meta><fr:meta
+name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-1978.xml"
+addr="maclane-1978"
+title="Categories for the working mathematician" />
+<fr:p>A <fr:em>closed monoidal category</fr:em> is a <fr:link
+type="local"
+href="rs-005I.xml"
+addr="rs-005I"
+title="Symmetric monoidal category">symmetric monoidal category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> such
+that the <fr:link
+type="local"
+href="rs-000T.xml"
+addr="rs-000T"
+title="Bifunctor">bifunctor</fr:link> <fr:tex
+display="inline"><![CDATA[\otimes ]]></fr:tex> is <fr:link
+type="local"
+href="rs-003G.xml"
+addr="rs-003G"
+title="Two-variable adjunction">closed</fr:link>. Explicitly, this
+means there is a bifunctor <fr:tex
+display="inline"><![CDATA[C^\text {op}\times  C\xrightarrow {[-, -]} C]]></fr:tex>, called
+the <fr:em>internal hom</fr:em>, together with a <fr:link
+type="local"
+href="rs-0010.xml"
+addr="rs-0010"
+title="Natural isomorphism">natural isormorphism</fr:link>
+<fr:tex
+display="block"><![CDATA[C(x\otimes  y, z)\cong  C(x, [y, z]),]]></fr:tex> called <fr:em>currying</fr:em>.</fr:p><fr:p>The <fr:link
+type="local"
+href="rs-0039.xml"
+addr="rs-0039"
+title="Unit and counit of an adjunction">counit</fr:link> of the <fr:link
+type="local"
+href="rs-0043.xml"
+addr="rs-0043"
+title="Adjunctions">adjunction</fr:link> <fr:tex
+display="inline"><![CDATA[(-\otimes  y)\dashv  [y, -]]]></fr:tex>
+is called <fr:em>evaluation</fr:em>: it is a <fr:link
+type="local"
+href="rs-000V.xml"
+addr="rs-000V"
+title="Natural transformation">natural transformation</fr:link> <fr:tex
+display="block"><![CDATA[[y, x]\otimes  y\xrightarrow {\operatorname {ev}} x.]]></fr:tex></fr:p><fr:p>Applying the adjunction with <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> the monoidal unit <fr:tex
+display="inline"><![CDATA[I]]></fr:tex>
+implies that maps <fr:tex
+display="inline"><![CDATA[y\to  z]]></fr:tex> are in natural bijection with maps <fr:tex
+display="inline"><![CDATA[I\to  [y, z]]]></fr:tex>. By the <fr:link
+type="local"
+href="rs-006F.xml"
+addr="rs-006F"
+title="Global element">philosophy of generalized elements</fr:link>, this explains the
+name internal hom: its elements are maps.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4268</fr:anchor><fr:addr
+type="user">rs-000T</fr:addr><fr:route>rs-000T.xml</fr:route><fr:title
+text="Bifunctor">Bifunctor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">p. 19</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>bifunctor</fr:em> is a <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> whose domain is a <fr:link
+type="local"
+href="rs-000S.xml"
+addr="rs-000S"
+title="Product category">product
+category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4270</fr:anchor><fr:addr
+type="user">rs-0010</fr:addr><fr:route>rs-0010.xml</fr:route><fr:title
+text="Natural isomorphism">Natural isomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">p. 24</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>natural isomorphism</fr:em> is an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> in a <fr:link
+type="local"
+href="rs-000Y.xml"
+addr="rs-000Y"
+title="Functor category">functor
+category</fr:link>. Explicitly, it is a <fr:link
+type="local"
+href="rs-000V.xml"
+addr="rs-000V"
+title="Natural transformation">natural transformation</fr:link> whose
+components are each isomorphisms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

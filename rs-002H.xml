@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5125</fr:anchor><fr:addr
+type="user">rs-002H</fr:addr><fr:route>rs-002H.xml</fr:route><fr:title
+text="Preservation of limits">Preservation of limits</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">definition 3.3.1</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> <fr:em><fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link></fr:em> if for
+every diagram <fr:tex
+display="inline"><![CDATA[J\xrightarrow {K} C]]></fr:tex> and every limit cone over <fr:tex
+display="inline"><![CDATA[K]]></fr:tex>, the image of this
+cone under <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> is a limit cone over <fr:tex
+display="inline"><![CDATA[FK]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5127</fr:anchor><fr:addr
+type="user">riehl-2017</fr:addr><fr:route>riehl-2017.xml</fr:route><fr:title
+text="Category theory in context">Category theory in context</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
+name="isbn">9780486820804</fr:meta><fr:meta
+name="external">https://math.jhu.edu/~eriehl/context/</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{riehl-2017,
+  title = {Category Theory in Context},
+  author = {Riehl, Emily},
+  isbn = {9780486820804},
+  series = {Aurora: Dover Modern Math Originals},
+  year = {2017},
+  publisher = {Dover Publications}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Suitable for advanced undergraduates and graduate students in mathematics,
+the text provides tools for understanding and attacking difficult problems in
+algebra, number theory, algebraic geometry, and algebraic topology. Drawing upon
+a broad range of mathematical examples from the categorical perspective, the
+author illustrates how the concepts and constructions of category theory arise
+from and illuminate more basic mathematical ideas. Prerequisites are limited to
+familiarity with some basic set theory and logic.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5129</fr:anchor><fr:addr
+type="user">rs-0077</fr:addr><fr:route>rs-0077.xml</fr:route><fr:title
+text="Projection from categories of elements creates (co)limits">Projection from categories of elements creates (co)limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Exercise 3.4.iii</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F}]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> be any <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link>. Then the projection
+functor <fr:tex
+display="inline"><![CDATA[\text {el}(F)\xrightarrow {\Pi } C]]></fr:tex> from the <fr:link
+type="local"
+href="rs-001S.xml"
+addr="rs-001S"
+title="Category of elements">category of elements</fr:link> strictly
+<fr:link
+type="local"
+href="rs-002J.xml"
+addr="rs-002J"
+title="Creation of limits">creates</fr:link>:
+<fr:ul><fr:li>all <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> that <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> admits and <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link>;</fr:li>
+  <fr:li>all <fr:link
+type="local"
+href="rs-002M.xml"
+addr="rs-002M"
+title="Connected category">connected</fr:link> <fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimits</fr:link> that <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> admits.</fr:li></fr:ul></fr:p><fr:p>In particular, the forgetful functor from an <fr:link
+type="local"
+href="rs-0007.xml"
+addr="rs-0007"
+title="Slice category">over category</fr:link> <fr:tex
+display="inline"><![CDATA[C/c]]></fr:tex>
+strictly creates all connected limits that <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> admits and all colimits that
+<fr:tex
+display="inline"><![CDATA[C]]></fr:tex> admits.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5131</fr:anchor><fr:addr
+type="user">rs-006D</fr:addr><fr:route>rs-006D.xml</fr:route><fr:title
+text="Equational theory of cartesian closed categories">Equational theory of cartesian closed categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 46</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>In addition to <fr:link
+type="local"
+href="rs-0033.xml"
+addr="rs-0033"
+title="Equational theory of cartesian categories">those of a cartesian category</fr:link>, a <fr:link
+type="local"
+href="rs-005K.xml"
+addr="rs-005K"
+title="Cartesian closed category">cartesian closed
+category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> saitsfies the following equations up to <fr:link
+type="local"
+href="rs-0010.xml"
+addr="rs-0010"
+title="Natural isomorphism">natural
+isomorphism</fr:link>:</fr:p><fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[1^x \cong  1]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x^1 \cong  x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[(y\times  z)^x\cong  y^x\times  z^x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x^{y\times  z}\cong  (x^y)^z]]></fr:tex>.</fr:li></fr:ul>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1800</fr:anchor><fr:addr
+type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>To see the first, note that <fr:tex
+display="block"><![CDATA[C(-, 1^x)\cong  C(-\times  x, 1)\cong  *,]]></fr:tex> and
+  the <fr:link
+type="local"
+href="rs-002R.xml"
+addr="rs-002R"
+title="Yoneda embedding preserves and reflects limits">Yoneda embedding reflects limits</fr:link>, so that <fr:tex
+display="inline"><![CDATA[1^x]]></fr:tex> is
+  <fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>. for a more abstract proof, observe that <fr:tex
+display="inline"><![CDATA[(-)^x]]></fr:tex>
+  has a right adjoint, so <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves limits</fr:link>.</fr:p>
+
+  <fr:p>To see the second, note that <fr:tex
+display="block"><![CDATA[C(-, x^1)\cong  C(-\times  1, x)\cong  C(-,   x),]]></fr:tex> and <fr:link
+type="local"
+href="rs-001O.xml"
+addr="rs-001O"
+title="Representable isomorphism is isomorphism">representable isomorphism is isomorphism</fr:link>.</fr:p>
+
+  <fr:p>To see the third, note that <fr:tex
+display="block"><![CDATA[\begin {aligned}     C(-, (y\times  z)^x) &\cong  C(-\times  x, y\times  z) \\     &\cong  C(-\times  x, y)\times  C(-\times  x, z) \\     &\cong  C(-, y^x)\times  C(-, z^x) \\     &\cong  C(-, y^x\times  z^x).   \end {aligned}]]></fr:tex> In particular, the second step uses the <fr:link
+type="local"
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability
+  of limits</fr:link>.</fr:p>
+
+  <fr:p>To see the fourth, note that <fr:tex
+display="block"><![CDATA[\begin {aligned}   C(-, x^{y\times  z}) &\cong  C(-, x^{z\times  y}) \\   &\cong  C(-\times  (z\times  y), x) \\   &\cong  C((-\times  z)\times  y, x) \\   &\cong  C(-\times  z, x^y) \\   &\cong  C(-, (x^y)^z).   \end {aligned}]]></fr:tex></fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5133</fr:anchor><fr:addr
+type="user">rs-004S</fr:addr><fr:route>rs-004S.xml</fr:route><fr:title
+text="Finitary functor">Finitary functor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 5.5.4</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> is <fr:em>finitary</fr:em> if it <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link>
+<fr:link
+type="local"
+href="rs-004K.xml"
+addr="rs-004K"
+title="Filtered category">filtered</fr:link> <fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimits</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5135</fr:anchor><fr:addr
+type="user">rs-004Z</fr:addr><fr:route>rs-004Z.xml</fr:route><fr:title
+text="Monadic functors create limits">Monadic functors create limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Proposition 4.5.15</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:link
+type="local"
+href="rs-004J.xml"
+addr="rs-004J"
+title="Monadic adjunction">monadic functor</fr:link> <fr:tex
+display="inline"><![CDATA[D\xrightarrow {U} C]]></fr:tex> <fr:link
+type="local"
+href="rs-002J.xml"
+addr="rs-002J"
+title="Creation of limits">creates</fr:link></fr:p><fr:ol><fr:li>any <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> that <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> has;</fr:li>
+  <fr:li>any <fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimits</fr:link> that <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> has and that <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T^2]]></fr:tex>, where
+  <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> is the <fr:link
+type="local"
+href="rs-0045.xml"
+addr="rs-0045"
+title="Adjunctions induce monads">induced monad</fr:link> of the adjunction, <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserve</fr:link>.</fr:li></fr:ol></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5137</fr:anchor><fr:addr
+type="user">rs-004O</fr:addr><fr:route>rs-004O.xml</fr:route><fr:title
+text="Absolute limit">Absolute limit</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link> is <fr:em>absolute</fr:em> if it is <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserved</fr:link> by all
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functors</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5139</fr:anchor><fr:addr
+type="user">rs-003V</fr:addr><fr:route>rs-003V.xml</fr:route><fr:title
+text="Cocontinuous functor">Cocontinuous functor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">p. 99</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta><fr:meta
+name="dual-note">rs-003U</fr:meta><fr:meta
+name="dual-name">continuous functor</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+
+  
+  
+<fr:p>A <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> is called <fr:em>cocontinuous</fr:em> if it <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves
+colimits</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5141</fr:anchor><fr:addr
+type="user">rs-003U</fr:addr><fr:route>rs-003U.xml</fr:route><fr:title
+text="Continuous functor">Continuous functor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">p. 99</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta><fr:meta
+name="dual-note">rs-003V</fr:meta><fr:meta
+name="dual-name">cocontinuous functor</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+
+  
+  
+<fr:p>A <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> is called <fr:em>continuous</fr:em> if it <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves
+limits</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5143</fr:anchor><fr:addr
+type="user">rs-003P</fr:addr><fr:route>rs-003P.xml</fr:route><fr:title
+text="Right adjoints preserve limits; left adjoints preserve colimits">Right adjoints preserve limits; left adjoints preserve colimits</fr:title><fr:taxon>Theorem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Theorem 4.5.2</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p><fr:link
+type="local"
+href="rs-0036.xml"
+addr="rs-0036"
+title="Adjunctions via transposition">Right adjoints</fr:link> <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserve limits</fr:link>. Dually, left adjoints
+preserve colimits.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>484</fr:anchor><fr:addr
+type="machine">#292</fr:addr><fr:route>unstable-292.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Let 
+
+ 
+  
+  <fr:figure><fr:resource
+hash="cf9ecb81f69e0fa3f2b9a654498ce939"><fr:resource-content><fr:img
+src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuMyAtLT4KPHN2ZyB2ZXJzaW9uPScxLjEnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgeG1sbnM6eGxpbms9J2h0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsnIHdpZHRoPScxNDYuNDk2Mjg0cHQnIGhlaWdodD0nNzAuNjgzMzE4cHQnIHZpZXdCb3g9Jy03MiAtNzIgOTcuNjY0MTg5IDQ3LjEyMjIxMic+CjxzdHlsZSB0eXBlPSd0ZXh0L2Nzcyc+CjwhW0NEQVRBW0Bmb250LWZhY2V7Zm9udC1mYW1pbHk6Y21taTc7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQVJZQUFvQUFBQUFCUFFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRU1BQUFCZ2hXRjFQMk50WVhBQUFBRTRBQUFBTEFBQUFEUUFEQUNhWjJ4NVpnQUFBV1FBQUFHaUFBQUIwSUxEOXFwb1pXRmtBQUFEQ0FBQUFDOEFBQUEyS0htSkkyaG9aV0VBQUFNNEFBQUFIZ0FBQUNRR3FnSW5hRzEwZUFBQUExZ0FBQUFNQUFBQURBazVBSTlzYjJOaEFBQURaQUFBQUFnQUFBQUlBRzRBNkcxaGVIQUFBQU5zQUFBQUZ3QUFBQ0FBQlFCUGJtRnRaUUFBQTRRQUFBRElBQUFCTXZNOC9DZHdiM04wQUFBRVRBQUFBQXdBQUFBZ0FBTUFBSGphWTJCbUZtYWN3TURLd01BMGkrbnNQeEdHZmhETitJYnhEWU14SXljREVMQXh3QUVqQXhKSUtTNUxCMHE2TWJnek0vd0g4cGtoMGtocS9nT0ZBYTJXREpFQWVOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdCU0FOQXNRZ3ZqdS8vOERTYmYvLy8vdkJ2TVpBRk1SQnFONDJoVlFUV3ZVVUJUTnVmZk5leE16eWN0TVloS3FZK3c4SjFGR096QWpTZFV5VWFFZkRHcmJSYUZRL01LRlM3c1FGOTI1cVZzUnQ0TGd4clZ1M1BzUFhQb2IvQTJOcnh5NGNPNDVGODY1RHB6dHR1VTkrdVZzT1E2VVRPTjVXZ1dZUW8yS0trMnFPcXJxcXBoQ1dyWmFKUnFKS2M0M3loUlM4ZHdhRnBqUFVrM1NqTXFHcXNMZ1dTT1FWd1phZnYyZzBmZnZYcGFuRExoaG1XTVFrSWw5amhERkhlS0hyNzdrWWVmQjYyWWpZT1dGRUxVU2JnaVdvUEU2bHEwV2ZSSkdRWWhjQWRHUXNnczlaVVVlV2VvbVAxZDQ1WFpUQTM1eTFtSjh6L2QwL0hmUTBmNmxLRXNjVzhmWmFmL3hDL3JqUExhRUE1aXlLQnVzb2JUWkE2Z2t0YWhuVmNOVlVSWktMcEJUUFV1RGM5MFdzajU3WXFmdGE1SGtTTkxhL29TZk42eDZuczBCdkR5NjlXbi96aWJFL1o2L3RWeTh5N3dCNEdYREt3VnB0WDl3SEJCcE9jbFVFbmN1NXU2Tjk1dWZ2NE1QMTNkUFBoNnR5WnR5MlZNQi9UNXJkWmZJOVllSGI0aW1qelorSEx5ZGVkM3JOSmxlVzNaZGx4aTgyZ1ZEaE5yMjdsOTkrbVRZS1FlVE1YODdPVDNlbWUreE1NTDR1d0d4OHg4d3lVRzJBQUI0Mm1OZ1pHQmdBR0pic1lYZThmdzJYeG1ZV1JoQTRER2owaFlFL2Y4TmN3TFRKU0NYZzRFSkpBb0ErcGdKaUFCNDJtTmdaR0JnWnZqUEFDVDdHTnovVDJWT1lBQ0tvQUJtQUZ5cEE5Y0FBQUxHQUFBQzVRQkhBNDRBU0FBQUFBQUFiZ0RvZU5wallHUmdZR0JtOEdNQTBReFFFZ2tBQUFoV0FGVUFlTnBGalMydndqQVVocCtGallSZGdTRUVkVy9GMVF0a0FvTkRvTEFJSE5DR1RMUWwzVmdDQXNVUDUxQ2FjTVRKODM2Y0ZpaDVrUEdlakhIYzc4a3BSSDI0NElkSjRxR292OFFsTS80WmtPVWpjWDVaSmM0bDJTY3VtS0lURDhXL0p5Nlo4MXg3ZTdsMkpxaXQxeWE0azdYTmNtZEMyM2luRnRVODZvMXhKaHc2bzlYeHBuVGZ0UDNacXJxcVdlT3hYTGpTWVFnb3R1TG95STZUWkphR0pidm90TUplZk1XQ1N2Nys1aHZKWGV3YzRrdGFPa2R1c2pXOU5GclpaK2txYXJtc1g1K3lMeXQ0Mm1OZ1pzQUxBQUI5QUFRPSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtc3kxMDtzcmM6dXJsKGRhdGE6YXBwbGljYXRpb24veC1mb250LXdvZmY7YmFzZTY0LGQwOUdSZ0FCQUFBQUFBTVFBQW9BQUFBQUEzQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCUFV5OHlBQUFBOUFBQUFFc0FBQUJncXZDVTZXTnRZWEFBQUFGQUFBQUFLZ0FBQURRQURDTDRaMng1WmdBQUFXd0FBQUJNQUFBQVRCenYxTFpvWldGa0FBQUJ1QUFBQUM4QUFBQTJLRFdKRDJob1pXRUFBQUhvQUFBQUhnQUFBQ1FHTi8rQWFHMTBlQUFBQWdnQUFBQUdBQUFBQmdOVkFBQnNiMk5oQUFBQ0VBQUFBQVlBQUFBR0FDWUFBRzFoZUhBQUFBSVlBQUFBRndBQUFDQUFCQUFWYm1GdFpRQUFBakFBQUFEUEFBQUJPSUJEZGpkd2IzTjBBQUFEQUFBQUFCQUFBQUFnQUFNQUFYamFZMkJtbG1HY3dNREt3TUEwaStuc1B4R0dmaEROK0lieERZTXhJeWNERUxBeG9BQUhHQ09sdUN5ZGdVMXBxZEpTWnFrL21nd016RkxNMTRIQ2pBaWwvLzh6TUFBQTgzc1BEUUI0Mm1OZ1lHQmlZR0JnQm1JUklNa0lwbGtZRklBMEN4QUMrVXBMLy8rSGtIZGp3UElNQUYyM0J5TUFBQUFCQURuLy93TGpBcXNBRXdBQUFSRWhOaFlVQmljaEJpWTBOaGNoRVNZMk1oWUJvd0VlRFJVVkRmMmNEQmdZREFFZEFRY2RCd0tIL2FJQkJ4MEhBUUVISFFjQkFsNE1HQlVBQUFCNDJtTmdaR0JnQU9LTmtVM3M4ZncyWHhtWVdSaEE0REdqMGhZRS9mOC9zd3pUYWlDWGc0RUpKQW9BQm9JSmhBQjQybU5nWkdCZ2x2cWpDU1JsR0N3WkxKa2VNd0JGVUFBakFFUGpBcndBQUFNY0FBQUFPUUFBQUFBQUFBQW1BQUI0Mm1OZ1pHQmdZR0lRWVFEUkRGQVNDUUFBQXBFQUdnQjQyazJPc1U3RE1CUkZUMFFhaVlERUJHSkNuaGlqUk5sWk9uVHEyb21sYmF5U0lVNWxwNUd5OUFQNGFtNWREenhMVDhmMzN2ZHNvT1JLeHEweVhtSy9WVTZoMjUxWFBQR2F1TkF4aVV2ZStlU0JMSCtVOHNGWDRweG52aE92ZU9NbmNTSDltcmlrNW5jOUR1ZkxaTDNaanAzMTdqaUVwYWwzMW9kK2RLYXA2cnV3c2M3Ni9XUTdjMWhNTi9kaFBnMm1yVnJXakF5Y3VUQmg4ZnJYVmtvWDJYR1VGMWhvOU5JdWFvRmV2bE91b1pMNlA3RlJ3c1hVUG03cmxEcklNNkpaYzBIOXBMeWgxV3o3QjlYVE1FY0FlTnBqWUdaQUJvd01hQUFBQUk0QUJRPT0pIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbW1pMTA7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQVFNQUFvQUFBQUFCSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRVFBQUFCZ2hWNTFDV050WVhBQUFBRTRBQUFBTEFBQUFEUUFEQUNYWjJ4NVpnQUFBV1FBQUFGT0FBQUJXRmhRd0pkb1pXRmtBQUFDdEFBQUFDOEFBQUEyS0ZDSkltaG9aV0VBQUFMa0FBQUFIZ0FBQUNRR1l3SWphRzEwZUFBQUF3UUFBQUFNQUFBQURBaWdBRnhzYjJOaEFBQURFQUFBQUFnQUFBQUlBRjRBckcxaGVIQUFBQU1ZQUFBQUdBQUFBQ0FBQmdBNmJtRnRaUUFBQXpBQUFBRE9BQUFCT0dvZGRodHdiM04wQUFBRUFBQUFBQXdBQUFBZ0FBTUFBSGphWTJCbWVzQTRnWUdWZ1lGcEZ0UFpmeUlNL1NDYThRM2pHd1pqUms0R0lHQmpnQU5HQmlTUVVseVdEcFIwWm5CaFp2Z1A1RE5EcEpIVS9BY0tBd0QyL1ExWGVOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdCU0FOQXNRZ3ZndS8vOERTZWYvLy8vdkEvTVpBRkxTQnFCNDJoV1B2VXJEVUJpR3ozdSs5RVRia2hRRE9RVXhwZFkyVmtnUkdrNnE0QThHaTNhdzlRY3RLb3FEZ3dYL3FFZ0hCd2RGRkIxY1hCeWR2UU12d01uSkszRHpHcVN0TGMvMHZ0UHpNTEJpOTVkaS9KdVZHQU1aeUxnNWR3NSt6aldnQ3hOQ09naHNGY3dpVUNrNEVIcnZMOEJWUVI5YjJqSlEwcWJvUElub1lBUWNtOVhGMjhueXNMQ2hYUzJQN3l2ZkU5cWdIaUd2bkQ4UFc2OUU2MzZsZWJPZUh4ZExCdUw4cy9ObjZPQzZtZHR1QUdHcHZwL2M5UzRQT0VZbkNydkpHTURqeHd2Wkl1amwrdjZpNHErUk5wWTFxZ1lueGhobitXNmJBdjdCa3N4akxMQ1VLM3dsMHc2azBQdWsrOU5XRnZVNmlyS2ZNQWZsRnFCbmN1THRDYUdUTUZGdlhvR3FFNlhHZGVkOXhEU21uWjlIRFRBZTlscHlPamt3Qkg2MGNwS3lhbndxUVRRaVFNK25kMmN6M2dhUkl3Q0xoKzJ2SVJHRlZrdXQ3cVMzM01OdHdPeXAvUU5FNUR2VkFBQjQybU5nWkdCZ0FPSmxSWEtINC9sdHZqSXdzekNBd0dOR3BTMEkrdjlMWm5PbUswQXVCd01UU0JRQUdTa0tHQUI0Mm1OZ1pHQmdadmpQQUNUOUdUVC9YMkEyWndDS29BQm1BRldjQTR3QUFBSjJBQUFDMndBekEwOEFLUUFBQUFBQVhnQ3NlTnBqWUdSZ1lHQm1zR1JnWWdBQlJnWTBBQUFHWUFCQmVOcE5qcjF1d2pBVVJrL1VFS2xwcFU2dG1KQ25qbEdpN0YwWW1GaVp1Z0MyYUFiYktBbVJXSGlBUG5VL2dvZmEwdFc1NTM3K0FVcHVaTnhYeHR0Yzd5dW5VUGZnQlMrOEp5NjBUZUtTSlo4OGtlWFBNaXUrRXVlODhwMTR3UWMvaVF2NVcrS1NtdDkxOU9mTDZIcXpqZGIxNGVoOTE5UTcxdzlkREthcDZvZll1T0Q2L2Vpc09WeU5uYnBoT25uVFZpMXJJcDR6RjBZY3ZmNjFsYkV6QjQ2YWVUb2F2YlNiM2FBdWFtTGtLdG4vaVkwU1lVN3Q1OXVzVWdldXFwWkptVUgxcExTaDFkbjJENjQ5TCs4QUFIamFZMkJtd0FzQUFIMEFCQT09KSBmb3JtYXQoJ3dvZmYnKTt9CnRleHQuZjAge2ZvbnQtZmFtaWx5OmNtc3kxMDtmb250LXNpemU6OS45NjI2NHB4fQp0ZXh0LmYxIHtmb250LWZhbWlseTpjbW1pMTA7Zm9udC1zaXplOjkuOTYyNjRweH0KdGV4dC5mMiB7Zm9udC1mYW1pbHk6Y21taTc7Zm9udC1zaXplOjYuOTczODQ4cHh9Cl1dPgo8L3N0eWxlPgo8ZyBpZD0ncGFnZTEnPgo8ZyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0yMy4xNjc5MTIsLTQ5LjQwNzQ4KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyBmaWxsPScjMDAwJyBzdHJva2U9JyMwMDAnPgo8ZyBzdHJva2Utd2lkdGg9JzAuNCc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC00OS4wMTUyMSwtMy40NzIyMSknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTIzLjE2NzkxMiwtNDkuNDA3NDgpc2NhbGUoLTEsLTEpJz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0xNC45NjE4OTgsLTQ5LjQwNzQ4KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMy45MzEyNCwwLjApJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC0xNC45NjE4OTgsLTQ5LjQwNzQ4KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjEnIHg9Jy0xNC45NjE4OTgnIHk9Jy00OS40MDc0OCc+QzwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgyNS4zMTgyNDksLTQ5LjQwNzQ4KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMy44ODg5LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoMjUuMzE4MjQ5LC00OS40MDc0OClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YwJyB4PScyNS4zMTgyNDknIHk9Jy00OS40MDc0OCc+4oqlPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDY1Ljk0NDMyOSwtNDkuNDA3NDgpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC00LjI3ODQ3LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoNjUuOTQ0MzI5LC00OS40MDc0OClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YxJyB4PSc2NS45NDQzMjknIHk9Jy00OS40MDc0OCc+RDwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2Utd2lkdGg9JzAuMzk5OTgnPgo8cGF0aCBkPSdNLTMyLjM0MTY0IDMuODk0MzVDLTEwLjY4NjQyIDE2LjQ4NzQzIDkuOTEzNjIgMTYuNTUyIDMxLjMwMDIyIDQuMjkzNTInIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSdtYXRyaXgoMC44Njc1NCwtMC40OTcyOCwwLjQ5NzI4LDAuODY3NTQsMzEuNDczNyw0LjE5NDA5KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0zLjQ1MDU4LDE1Ljc0MTE1KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjMuMTY3OTEyLC00OS40MDc0OClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctMjMuMTY3OTEyJyB5PSctNDkuNDA3NDgnPkY8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2Utd2lkdGg9JzAuMzk5OTgnPgo8cGF0aCBkPSdNMzEuNjQ3MTktNi4wMzkwNkM5LjkxMzYyLTE4LjQ5NjQzLTEwLjY4NjQyLTE4LjQzMTg1LTMxLjk5NTkxLTYuMDM5ODEnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSdtYXRyaXgoLTAuODY0NDMsMC41MDI2NywtMC41MDI2NywtMC44NjQ0MywtMzIuMTY4NzgsLTUuOTM5MyknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMy40ODk2LC0yMi40Njg5KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjMuMTY3OTEyLC00OS40MDc0OClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctMjMuMTY3OTEyJyB5PSctNDkuNDA3NDgnPkc8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+Cjwvc3ZnPg==" /></fr:resource-content><fr:resource-source
+type="latex"
+part="preamble"><![CDATA[
+   
+    \usepackage{tikz, tikz-cd, mathtools, amssymb}
+  \usetikzlibrary{shapes.geometric}
+  \usetikzlibrary{calc}
+  \usetikzlibrary{matrix}
+  \usetikzlibrary{decorations.markings}
+
+  \tikzset{
+    % basics
+    square/.style={draw, regular polygon, regular polygon sides=4},
+    triangle/.style={draw, regular polygon, regular polygon sides=3},
+  }
+
+  \tikzset{
+    % string diagrams
+    state/.style={triangle, shape border rotate=180, anchor=north},
+    costate/.style={triangle, anchor=south},
+    morphism/.style={draw, rectangle},
+    over/.style={
+      draw=white,
+      double=black,
+      % default is .4pt
+      line width=1.2pt,
+      double distance=.4pt,
+      text=black
+    },
+  }
+
+  \tikzset{ 
+    % tables
+    % https://tikz.net/tikz-table/
+    table/.style={
+        matrix of nodes,
+        row sep=-\pgflinewidth,
+        column sep=-\pgflinewidth,
+        nodes={
+            rectangle,
+            draw=black,
+            align=center
+        },
+        minimum height=1.5em,
+        text depth=0.5ex,
+        text height=2ex,
+        nodes in empty cells,
+%%
+        every even row/.style={
+            nodes={fill=gray!20}
+        },
+        column 1/.style={
+            nodes={font=\bfseries}
+        },
+        row 1/.style={
+            nodes={
+                fill=black,
+                text=white,
+                font=\bfseries
+            }
+        }
+    }
+  }
+
+  ]]></fr:resource-source><fr:resource-source
+type="latex"
+part="body"><![CDATA[
+  \begin {tikzcd}
+    C\ar [rr, bend left, "F"] & \bot  & D\ar [ll, bend left, "G"]\makebox [0pt][l]\,
+  \end {tikzcd}
+]]></fr:resource-source></fr:resource></fr:figure>
+ 
+
+ be an adjunction. Let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {K} D]]></fr:tex> be a
+  <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> and <fr:tex
+display="inline"><![CDATA[\operatorname *{lim} K\xrightarrow {\lambda _j} K_j]]></fr:tex> be a limiting
+  <fr:link
+type="local"
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cone</fr:link> over <fr:tex
+display="inline"><![CDATA[K]]></fr:tex>. We show that the cone <fr:tex
+display="inline"><![CDATA[G\operatorname *{lim} K\xrightarrow {G\lambda _j}   GK_j]]></fr:tex> is in fact a limiting cone over <fr:tex
+display="inline"><![CDATA[GK]]></fr:tex>. We need the following two
+  observations:
+  <fr:ol><fr:li><fr:link
+type="local"
+href="rs-003N.xml"
+addr="rs-003N"
+title="Adjunctions lift to functor categories">adjunctions lift to functor categories</fr:link>;</fr:li>
+    <fr:li><fr:link
+type="local"
+href="rs-003Q.xml"
+addr="rs-003Q"
+title="The constant diagram functor commutes with functors">the constant diagram functor commutes with functors</fr:link>.</fr:li></fr:ol></fr:p>
+
+  <fr:p>Letting <fr:tex
+display="inline"><![CDATA[\Delta ]]></fr:tex> be the <fr:link
+type="local"
+href="rs-001V.xml"
+addr="rs-001V"
+title="Constant functor">constant diagram functor</fr:link>, we have the
+  following series of <fr:link
+type="local"
+href="rs-0010.xml"
+addr="rs-0010"
+title="Natural isomorphism">natural isomorphisms</fr:link>:
+  <fr:tex
+display="block"><![CDATA[\begin {aligned}   C^J(\Delta  c, GK) &\cong  D^J(F\Delta  c, K)   &&\text {by (1)}\\\\   &\cong  D^J(\Delta  Fc, K) &&\text {by (2)}\\\\   &\cong  D(Fc, \operatorname *{lim}_J K) &&\text {by the definition of limits}\\\\   &\cong  C(c, G\operatorname *{lim}_J K) &&\text {by the adjunction}.   \end {aligned}]]></fr:tex>
+  By definition of
+  <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link>, this exhibits <fr:tex
+display="inline"><![CDATA[G\operatorname *{lim}_J K]]></fr:tex> as a limit of <fr:tex
+display="inline"><![CDATA[GK]]></fr:tex>.</fr:p>
+  </fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5145</fr:anchor><fr:addr
+type="user">rs-002R</fr:addr><fr:route>rs-002R.xml</fr:route><fr:title
+text="Yoneda embedding preserves and reflects limits">Yoneda embedding preserves and reflects limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Theorem 3.4.6(ii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>The <fr:link
+type="local"
+href="rs-0016.xml"
+addr="rs-0016"
+title="Yoneda embedding">Yoneda embedding</fr:link> <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> and <fr:link
+type="local"
+href="rs-002I.xml"
+addr="rs-002I"
+title="Reflection of limits">reflects</fr:link>
+<fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2059</fr:anchor><fr:addr
+type="machine">#314</fr:addr><fr:route>unstable-314.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Preservation of limits follows because <fr:link
+type="local"
+href="rs-002P.xml"
+addr="rs-002P"
+title="Representable functors preserve limits">hom-functors preserve
+  limits</fr:link> and <fr:link
+type="local"
+href="rs-002N.xml"
+addr="rs-002N"
+title="Limits and colimits in functor categories are computed pointwise">limits in functor categories are computed
+  pointwise</fr:link>.</fr:p>
+
+  <fr:p>Reflection of limits follows because <fr:link
+type="local"
+href="rs-0019.xml"
+addr="rs-0019"
+title="Full and faithfullness of the Yoneda embedding">the Yoneda embedding is fully
+  faithful</fr:link> and <fr:link
+type="local"
+href="rs-005A.xml"
+addr="rs-005A"
+title="Fully faithful functors reflect limits">fully faithful functors reflect limits</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5147</fr:anchor><fr:addr
+type="user">rs-002N</fr:addr><fr:route>rs-002N.xml</fr:route><fr:title
+text="Limits and colimits in functor categories are computed pointwise">Limits and colimits in functor categories are computed pointwise</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Proposition 3.3.9</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
+type="local"
+href="rs-002B.xml"
+addr="rs-002B"
+title="Small category">small category</fr:link>. Then where <fr:tex
+display="inline"><![CDATA[\operatorname *{obj} C]]></fr:tex> is the
+<fr:link
+type="local"
+href="rs-001H.xml"
+addr="rs-001H"
+title="Discrete category">discrete category</fr:link> of objects, the <fr:link
+type="local"
+href="rs-001I.xml"
+addr="rs-001I"
+title="Forgetful functor">forgetful functor</fr:link>
+<fr:tex
+display="inline"><![CDATA[C^A\to  C^{\operatorname *{obj} A}]]></fr:tex>
+ strictly <fr:link
+type="local"
+href="rs-002J.xml"
+addr="rs-002J"
+title="Creation of limits">creates</fr:link> all <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> and
+<fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimits</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>. For each <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>, the <fr:link
+type="local"
+href="rs-005J.xml"
+addr="rs-005J"
+title="Closed symmetric monoidal category">evaluation at <fr:tex
+display="inline"><![CDATA[a]]></fr:tex>
+functor</fr:link> <fr:tex
+display="inline"><![CDATA[C^A\to  C]]></fr:tex> <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> all limits and colimits which
+exist in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1595</fr:anchor><fr:addr
+type="machine">#317</fr:addr><fr:route>unstable-317.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5149</fr:anchor><fr:addr
+type="user">rs-002P</fr:addr><fr:route>rs-002P.xml</fr:route><fr:title
+text="Representable functors preserve limits">Representable functors preserve limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Proposition 3.4.5</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> be <fr:link
+type="local"
+href="rs-002Q.xml"
+addr="rs-002Q"
+title="Locally small category">locally small</fr:link>. The <fr:link
+type="local"
+href="rs-000U.xml"
+addr="rs-000U"
+title="Hom bifunctor">hom bifunctor</fr:link> <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves
+limits</fr:link> in both arguments. In particular, <fr:link
+type="local"
+href="rs-000Q.xml"
+addr="rs-000Q"
+title="Covariant hom-functor">covariant hom-functors</fr:link>
+preserve limits and <fr:link
+type="local"
+href="rs-000N.xml"
+addr="rs-000N"
+title="Contravariant functor">contravariant hom-functors</fr:link> preserve colimits, and
+so <fr:link
+type="local"
+href="rs-0013.xml"
+addr="rs-0013"
+title="Representable functor">representable functors</fr:link> preserve limits.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2055</fr:anchor><fr:addr
+type="machine">#315</fr:addr><fr:route>unstable-315.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We show the result for covariant hom-functors. Let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {F} C]]></fr:tex> be a
+  <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> with <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname *{lim} F\xrightarrow {\lambda _j} Fj]]></fr:tex>.
+  The image of this diagram under <fr:tex
+display="inline"><![CDATA[C(x, -)]]></fr:tex> is the diagram <fr:tex
+display="block"><![CDATA[J\xrightarrow {F}   C\xrightarrow {C(x, -)} Set,]]></fr:tex> which is a limit in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> by the
+  <fr:link
+type="local"
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability of limits</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5151</fr:anchor><fr:addr
+type="user">rs-002K</fr:addr><fr:route>rs-002K.xml</fr:route><fr:title
+text="Functors which create existing limits preserve them">Functors which create existing limits preserve them</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Proposition 3.3.3</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> <fr:link
+type="local"
+href="rs-002J.xml"
+addr="rs-002J"
+title="Creation of limits">create</fr:link> a class of <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> and let <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> have those
+limits. Then <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> has those limits and <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> them.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5077</fr:anchor><fr:addr
+type="machine">#318</fr:addr><fr:route>unstable-318.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {K} C]]></fr:tex> be a <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> so that <fr:tex
+display="inline"><![CDATA[d\xrightarrow {\mu } FK]]></fr:tex> is a
+  limiting <fr:link
+type="local"
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cone</fr:link> in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Then since <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> creates limits, there is a
+  limiting cone <fr:tex
+display="inline"><![CDATA[c\xrightarrow {\lambda } K]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> so that <fr:tex
+display="inline"><![CDATA[F\lambda ]]></fr:tex> is a limiting
+  cone of <fr:tex
+display="inline"><![CDATA[KF]]></fr:tex>, and so since [rs-002A] <fr:tex
+display="inline"><![CDATA[\mu \cong  F\lambda ]]></fr:tex> as cones. Now to
+  show preservation, given any limiting cone <fr:tex
+display="inline"><![CDATA[c'\xrightarrow {\lambda '} K]]></fr:tex>, it is
+  isomorphic to <fr:tex
+display="inline"><![CDATA[\lambda ]]></fr:tex> and <fr:link
+type="local"
+href="rs-000P.xml"
+addr="rs-000P"
+title="Functors preserve isomorphisms">so</fr:link> <fr:tex
+display="inline"><![CDATA[F\lambda ']]></fr:tex> is isomorphic to
+  <fr:tex
+display="inline"><![CDATA[F\lambda ]]></fr:tex>, hence is a limit cone of <fr:tex
+display="inline"><![CDATA[FK]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5153</fr:anchor><fr:addr
+type="user">rs-001Y</fr:addr><fr:route>rs-001Y.xml</fr:route><fr:title
+text="Limit">Limit</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 3.1.5</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta><fr:meta
+name="dual-note">rs-001Z</fr:meta><fr:meta
+name="dual-name">colimit</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+
+  
+  
+<fr:p>A <fr:em>limit</fr:em> of a <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> is a <fr:link
+type="local"
+href="rs-001P.xml"
+addr="rs-001P"
+title="Universal property">universal</fr:link>
+<fr:link
+type="local"
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cone</fr:link>.</fr:p><fr:p>By the definition of universal elements, a limit of a diagram <fr:tex
+display="inline"><![CDATA[J\xrightarrow {D} C]]></fr:tex>
+consists of an object <fr:tex
+display="inline"><![CDATA[\operatorname *{lim} D\in  C]]></fr:tex> and a cone <fr:tex
+display="inline"><![CDATA[\operatorname *{lim} D\xrightarrow {\lambda } D]]></fr:tex> which
+is universal in the sense that it induces, by the <fr:link
+type="local"
+href="rs-0014.xml"
+addr="rs-0014"
+title="Yoneda lemma">Yoneda lemma</fr:link>, a
+<fr:link
+type="local"
+href="rs-0010.xml"
+addr="rs-0010"
+title="Natural isomorphism">natural isomorphism</fr:link> <fr:tex
+display="block"><![CDATA[C(-, \operatorname *{lim} D)\cong  \operatorname *{Cone}_D.]]></fr:tex></fr:p><fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1478</fr:anchor><fr:addr
+type="user">rs-001Y-up</fr:addr><fr:route>rs-001Y-up.xml</fr:route><fr:title
+text="Universal property of limits">Universal property of limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 3.1.6</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Since <fr:link
+type="local"
+href="rs-0022.xml"
+addr="rs-0022"
+title="Universal elements are initial or terminal">universal elements are terminal</fr:link>, the <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname *{lim} D\xrightarrow {\lambda } D]]></fr:tex> of a
+  <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> <fr:tex
+display="inline"><![CDATA[J\xrightarrow {D} C]]></fr:tex> is <fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal</fr:link> in the <fr:link
+type="local"
+href="rs-001S.xml"
+addr="rs-001S"
+title="Category of elements">category of
+  elements</fr:link> <fr:tex
+display="inline"><![CDATA[\text {el}(\operatorname *{Cone}_D)]]></fr:tex>, in the sense that for any other <fr:link
+type="local"
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cone</fr:link>
+  <fr:tex
+display="inline"><![CDATA[c\xrightarrow {\mu } D]]></fr:tex>, there exists a unique map <fr:tex
+display="inline"><![CDATA[c\to \operatorname *{lim} D]]></fr:tex> so that each of
+  the following triangles commute:
+ 
+  
+  <fr:figure><fr:resource
+hash="60c25bb95f1a7395771b713f7f823f85"><fr:resource-content><fr:img
+src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuMyAtLT4KPHN2ZyB2ZXJzaW9uPScxLjEnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgeG1sbnM6eGxpbms9J2h0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsnIHdpZHRoPScxNzIuNjMzNjE0cHQnIGhlaWdodD0nNzQuMTU3MjhwdCcgdmlld0JveD0nLTcyIC03MiAxMTUuMDg5MDc2IDQ5LjQzODE4Nyc+CjxzdHlsZSB0eXBlPSd0ZXh0L2Nzcyc+CjwhW0NEQVRBW0Bmb250LWZhY2V7Zm9udC1mYW1pbHk6Y21taTU7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQU5zQUFvQUFBQUFBOWdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRVFBQUFCZ2hZVjFKbU50WVhBQUFBRTRBQUFBS1FBQUFEUUFEQUM5WjJ4NVpnQUFBV1FBQUFDMUFBQUF1QzBycERsb1pXRmtBQUFDSEFBQUFDOEFBQUEyS0cySVBHaG9aV0VBQUFKTUFBQUFIZ0FBQUNRRk1nS25hRzEwZUFBQUFtd0FBQUFJQUFBQUNBV3VBQ1pzYjJOaEFBQUNkQUFBQUFZQUFBQUdBRndBQUcxaGVIQUFBQUo4QUFBQUZnQUFBQ0FBQlFBNmJtRnRaUUFBQXBRQUFBRElBQUFCTXZNMC9DZHdiM04wQUFBRFhBQUFBQkFBQUFBZ0FBTUFBWGphWTJCbXVzNDRnWUdWZ1lGcEZ0UFpmeUlNL1NDYThRM2pHd1pqUms0R0lHQmpnQU5HQmlTUVVseVdEcFRNWXNoaVp2Z1A1RE5EcEpIVS9BY0tBd0Q4dncyYmVOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdCU0FOQXNRZ3ZoWi8vOUR5UC9Ud1h3R0FGWDBCc1lBQUFCNDJoWEtUUTdCUUJnRzRIbS9ObE5hV21tcm95TnBoTTUwbytLM2JFZ0lHM1lXYkN5c1hhSjNjQXlYY2hLL2ViWVBJNlkvT2RuMFlEWmJNQVlYVmxmUFZoaEhSbERNQ3AxcGJ2RmVwclBwdlBoSklMaGxjQTk4Z095L21pRzNJckVDMlVobEdFUG5yZWZWZ0p1MHo4b0lheFdrbmhnZkZqdkF2TWhOdEwwdGdYVFNyUHVPSEI2cEZBcHhJRlQ4V3FPcytxNG1tdTVkSXJzeGlzS2hpWGsvOE43M2szSVNxSzdVMG5NNmpnbnMyQmRvMmhnbUFBQUFlTnBqWUdSZ1lBRGlUNEZCN2ZIOE5sOFptRmtZUU9BeG85SVdCUDFmbHptRWFSV1F5OEhBQkJJRkFCU0hDWElBZU5wallHUmdZR2I0endBa1F4alVHQUtZdUJpQUlpaUFDUUF4L2dIZ0FBQURWQUFBQWxvQUpnQUFBQUFBWEFBQWVOcGpZR1JnWUdCaXNBUmlFR0JrUUFNQUJrVUFRQUFBZU5wRmpUMnJ3akFVaHA5aUs5Zzd1SWc0M1p2aHprVXBibTRPVHE0T2JtcUNkRWdpYVMzbzRPUVA5eGdEbnVId3ZCOG5BVW9lWkx3bll4ejNlM0lLVVI4dStHR1NlQ2pxTDNISmpIOEdaUGxJbkY5V2lYTko5b2tMcHVqRVEvSHZpVXZtUE5mZVhxNmRDV3JydFFudVpHMnozSm5RTnQ2cFJUV1BlbU9jQ1lmT2FIVzhLZDAzYlgrMnFxNXExbmdzRjY1MEdBS0tyVGc2c3VNa21hVmh5UzQ2cmJBWFg3R2drcisvK1VaeUZ6dUgrSktXenBHYmJFMHZqVmIyV2JxS1dpN3JGNXhLTHlONDJtTmdaa0FHakF4b0FBQUFqZ0FGKSBmb3JtYXQoJ3dvZmYnKTt9CkBmb250LWZhY2V7Zm9udC1mYW1pbHk6Y21taTc7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQVAwQUFvQUFBQUFCSUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRWNBQUFCZ2hsRjRZR050WVhBQUFBRThBQUFBTVFBQUFEd0cwdjRNWjJ4NVpnQUFBWEFBQUFFeUFBQUJWSmVsQjJsb1pXRmtBQUFDcEFBQUFDOEFBQUEySjkrSVVXaG9aV0VBQUFMVUFBQUFJQUFBQUNRRnl3SDhhRzEwZUFBQUF2UUFBQUFNQUFBQURBaENBSDlzYjJOaEFBQURBQUFBQUFnQUFBQUlBR29BcW0xaGVIQUFBQU1JQUFBQUZ3QUFBQ0FBQlFCSGJtRnRaUUFBQXlBQUFBRElBQUFCTXZNOC9DZHdiM04wQUFBRDZBQUFBQXdBQUFBZ0FBTUFBSGphWTJCbU9zQTRnWUdWZ1lGcEZ0UFpmeUlNL1NDYThRM2pHd1pqUms0R0lHQmpnSU1tQmlTUVVseVdEcFRjeXJ5Ym1lRS9rTS9Nd0FnU1prU28rQThVQmdBZ3dnNmtBSGphWTJCZ1lHSmdZR0FHWWhFZ3lRaW1XUmcwZ0RRYmtHWUV5bTVsM3YzL1A1QVBwdi83L0hFSHF3SUNBS3hFQ2R3QUFBQjQyaDJQVDByRFFCeUY1LzBtVFRveG5TVE5uNm0ySkRHeEdSVEp3a0FxTFZRS0ZrUUVMK0RDWTRnYmNlbktuYmh5NXdVOGcrQXhQRVIzZ3EyeHZNV0REOTZEajRIVm16Rzk0Sk10R1ZQQkhKTlloUzZYVUxHYTQ4eVlvLzRISkJHRlc0SW1SVXRNcTAycHQ2VmRTRmg1cVNmUEZBNzN5VkpLY25LODZmRzVFanExeEVBa2hsa29VOGd3eTBYWHNJVkpnVDlzM0l1QTlPRmlWcWRlTyt4RmVLZFRweUJLTzlIdHpheGZIQlFHVG5MLzlXNVgya2d0OVhRVFZUSWVnWlo2YUlMSTdpeXltdE9nTnRQTVFQSTRsUVY1UGdPNzJxem9nYjVZd1ppQXBGSTNFL0FLT2k5Ym53UXFhTzFhQ1YyMENxWEcyM3BGL2IwWUNGRGQ5elBQMklFbnJoditZM2RGK3hzNkkya25HSysvdVFNdlVBNThKRWN4T3FGQmxmLzdFZlZzYnJrY1hWOWVNc2IrQU1JdUtvMEFBSGphWTJCa1lHQUFZbzV6TFUvaitXMitNakN6TUlEQVkwYWxMUWo2dnlyVE1hYmpRQzRIQXhOSUZBQWZXUW9iQUhqYVkyQmtZR0JtK00vQXdNQjBuTUdZd1pCcEdnTlFCQVV3QXdCR0pBTE5Bc1lBQUFMSEFETUN0UUJNQUFBQUFBQnFBS3A0Mm1OZ1pHQmdZR1p3WXdEUkRGQVNDUUFBQjQ0QVRRQjQya1dOTGEvQ01CU0duNFdOaEYyQklRUjFiOFhWQzJRQ2cwT2dzQWdjMElaTXRDWGRXQUlDeFEvblVKcHd4TW56ZnB3V0tIbVE4WjZNY2R6dnlTbEVmYmpnaDBuaW9haS94Q1V6L2htUTVTTnhmbGtsemlYWkp5NllvaE1QeGI4bkxwbnpYSHQ3dVhZbXFLM1hKcmlUdGMxeVowTGJlS2NXMVR6cWpYRW1IRHFqMWZHbWROKzAvZG1xdXFwWjQ3RmN1TkpoQ0NpMjR1aklqcE5rbG9ZbHUraTB3bDU4eFlKSy92N21HOGxkN0J6aVMxbzZSMjZ5TmIwMFd0bG42U3BxdWF4Zm43SXZLM2phWTJCbXdBc0FBSDBBQkE9PSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtc3k3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFNY0FBb0FBQUFBQTRnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVvQUFBQmdxa3lVVG1OdFlYQUFBQUZBQUFBQUtnQUFBRFFBRENKV1oyeDVaZ0FBQVd3QUFBQmNBQUFBYUo1Z1ZJWm9aV0ZrQUFBQnlBQUFBQzhBQUFBMktLcUpMR2hvWldFQUFBSDRBQUFBSGdBQUFDUUZ1d0FVYUcxMGVBQUFBaGdBQUFBSUFBQUFDQVluQUZCc2IyTmhBQUFDSUFBQUFBWUFBQUFHQURRQUFHMWhlSEFBQUFJb0FBQUFGd0FBQUNBQUJBQWZibUZ0WlFBQUFrQUFBQURMQUFBQk1oTkkvRk53YjNOMEFBQUREQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm1GbWFjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4b0FBSEdDT2x1Q3lkZ1UySldZbVpXZkdQRVFNRHN5THpPYUF3STBMcC8vOE1EQURMeEEzT0FBQjQybU5nWUdCaVlHQmdCbUlSSU1rSXBsa1lGSUEwQ3hBQytVck0vLzlEeUx2L3dQSU1BRkJ0Qm9FQUFIamFZMkJrQ1BqL244bUQ2UVNETEFNRG82QVltN29pbTVxSm1iaWlJQnB0SnNia3ppZ28rUytLVDBxU24zSE92MEllU1JrK3hxNS9LV0QrTWtsQnB2bC9PNlg0R1JrNVZEZ1lHU1VobERnanB6SW5JNk1BQXdEN05oSE5lTnBqWUdSZ1lBRGlGdGJTM2ZIOE5sOFptRmtZUU9BeG85SVdCUDMvUC9ORXBoTkFMZ2NERTBnVUFCTFlDandBZU5wallHUmdZRmI4WXdRa0p6SUVNUGd4ZVRBQVJWQUFFd0JKZUFMVEFBQURrUUFBQXBZQVVBQUFBQUFBTkFBQWVOcGpZR1JnWUdCaWtHTUEwUXhRRWdrQUFBT0xBQ1FBZU5wRmpUMVB3ekFVUlU5RVVva3dzQ0RFQkI2WW8xWVp1ckIxNk5TMUExdGJXMVdHT0pXZFJnb0RFeitjVzJPSk56eWQrL0Zzb09hYmd0c1VQS1o5bTVKSzZvOHJIbmpLdkpCNnkxenp3anQzRk9XOW5GYytNcGRLUGpOWFBHTXpMK1IvWmE1WjhyTVorc3QxZE1Ic0J1dUNQL1Z4WHU5ZGlOM2d6YXBaSnIxMTNvWEQ2S3c1enNaT1haek92V21ibGcwRFBSZXVqRGdDaHAwY205aHpVaGFaV2JOUFRxUlQ2dFZhMGVqdi8zeXIzS2ZPSWIxazFUa3FNYUpKVjFIN3JMYWgxV1g3QzhYU0w0TUFlTnBqWUdaQUJvd01hQUFBQUk0QUJRPT0pIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbXI3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFNSUFBb0FBQUFBQTJ3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVNQUFBQmdoVHgwRldOdFlYQUFBQUU0QUFBQUtRQUFBRFFBREFCMFoyeDVaZ0FBQVdRQUFBQlVBQUFBVko1UDc1MW9aV0ZrQUFBQnVBQUFBQzBBQUFBMkordUpRR2hvWldFQUFBSG9BQUFBSUFBQUFDUUVUQUpCYUcxMGVBQUFBZ2dBQUFBSUFBQUFDQVFlQUdwc2IyTmhBQUFDRUFBQUFBWUFBQUFHQUNvQUFHMWhlSEFBQUFJWUFBQUFGZ0FBQUNBQUJRQVhibUZ0WlFBQUFqQUFBQURIQUFBQkxMNFdra0J3YjNOMEFBQUMrQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm00bWVjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0FFakF4SklLUzVMQjBvcU1pZ3lNL3dIOHBraDBraHEvZ09GQWFMN0RFRUFlTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHQlNBTkFzUWd2aUsvLzlEeVA4UHdId0dBRS8zQm4wQUFBQUFBZ0JxQUFBQTRBTGJBQXNBRlFBQUV3TU9BU0ltSndNK0FUSVdFdzRDTGdFMk54NEI0Q2dCQ0JNSkFTZ0NJaTBrQVFFaE1TRUNJQndZSVFLai9qc1BDUWtRQWNRYUhoMzlmUmtoQVNBeklnRUJJUUI0Mm1OZ1pHQmdBT0pHN2NrZjQvbHR2akl3c3pDQXdHTkdwUzNJTk5ObHB0dEFpb09CQ2NRREFBeHlDUWtBQUFCNDJtTmdaR0JnWnZqUHdNREFkSmtoaXlHYjRRRURVQVFGTUFFQVZsZ0RrUUxUQUFBQlN3QnFBQUFBQUFBcUFBQjQybU5nWkdCZ1lHSVFBMklRWUdSQUF3QUMyZ0FkQUFCNDJqV09QUXZDTUJSRlQ3RVZyVU1IUVp3aytBT0swa0Z3ZFhCeUZVYy9FcVJEVTBscm9VdC91NjhodnNEanZIdnZTd0trREVTTUZaSDVQbFlzSnd1Y3NHQVplQ3I2Sm5ES21pMFRvbmd1eW9aajRKZ1p0OEFKSys2QnA2SjNnVk4yREtlNitueGI0OVNsMXNiWlYrVU9WK09hc3JacW4rL0c4V3lzY1kvV2FQWHNsZTdLcG50WHFzZ0xUdFJVZlBqU1luQW9McUpvejVhWGVJNERWejgzbE9KWnlleko1ZDIvZXhiWCtzVEQzNklsOGFTWHJ1V2ZwZXgxdkNXcktHU3YrQUUzRFMxL0FIamFZMkJtUUFhTURHZ0FBQUNPQUFVPSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtcjEwO3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFQNEFBb0FBQUFBQk5RQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVRQUFBQmdoVWwwSjJOdFlYQUFBQUU0QUFBQU5nQUFBRVFBZlFFRloyeDVaZ0FBQVhBQUFBRW5BQUFCbEZrbm5sVm9aV0ZrQUFBQ21BQUFBQzBBQUFBMktGbUpMR2hvWldFQUFBTElBQUFBSGdBQUFDUUdaQUp2YUcxMGVBQUFBdWdBQUFBVUFBQUFGQWtwQUw1c2IyTmhBQUFDL0FBQUFBd0FBQUFNQUhZQkRHMWhlSEFBQUFNSUFBQUFHQUFBQUNBQUNBQkdibUZ0WlFBQUF5QUFBQURLQUFBQk1vTXErOEZ3YjNOMEFBQUQ3QUFBQUF3QUFBQWdBQU1BQUhqYVkyQm12TW80Z1lHVmdZRnBGdFBaZnlJTS9TQ2E4UTNqR3daalJrNEdJR0JqZ0FOR0JpU1FVbHlXRHBUVVk4aGxadmdQNURORHBKSFUvQWNLQXdEMHVnMWZlTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHQXlBTkFjUWd1VDBHRElaY3YvL2g3Snkvdi8vZi9uL3pQL1R3V3JCQUFEb2VndDhBQUI0Mm1XUHpVckRRQlNGNzVsZzQwOGJERFZUSzJRbUNUUVJzVGEyeVJRUmlxMHVkT2ZDTHR5NXQ0dlc5QjEwS2ZnY0xyc1RWNWEralc5UWNhS0VMZ3JEZ2JtWDg1MXpDWFJQb0RtTmFKT29heUVJRTlYbWM4aW0xRS94WENVUk1RcTBMdGs3N1ZLZHFHcVhlTmVKekpTcnlGYWhtV3JyQ1pJZStJelZUeC9IYlFtNDhSdEU3THF4d1B6bnhiWGhHWVlIeTBlMTRVQisxbDNJSXgrQ2RMNW1ZNE10Tkh1ZFBJTnNQMDAwa0ltRUxaYlB2bFdBMkY2RFErWituOGpvWTBGWDJ2L1h4dW1ocTNoTnEwQk53SFFFQ21pcXdpZ29tYzRxWm4weTBWbXYvT1lzSEZiSzF4ZkhhcHZ2QU5GaE5zM3ZFcTNPa09sUzJiUWo5Sld0NVArWDVidUh2RkY1RkorRGhYMXZZR0MvY2pEb2YvR3Rvdk4zODVMZDNYNnNqbGdiMEM4L25UdEdBSGphWTJCa1lHQUE0b0xwd1gvaitXMitNakN6TUlEQVkwYWxMY2cwc3lQVGNTREZ3Y0FFNGdFQUN5d0lpd0FBQUhqYVkyQmtZR0JtK004QUpFTVpGQmxFbUIwWmdDSW9nQlVBTU9RQjJ3QUFBb0FBQUFFY0FGa0JIQUFpQVJ3QUlnTlZBQ0VBQUFBQUFCUUFRZ0JpQU1wNDJtTmdaR0JnWUdWd1pXQmlBQUZHQmpRQUFBZkNBRTk0MmtXTlBXL0NNQlJGVDlRRXFlblFCVldkV2crZG8wUloyUmlZV0JtNkFiWlFoampJQ1pIb3dNUVA3OFcxMURjOG5mdnhiS0RrUnNaak1sN2pma3hPSWZYSEJTOHNFeStrUGhPWHZQUEZFMW4rTE9lRFZlSmN5WGZpZ2pkczRvWDhuOFFsTmZmMTBKOHZrd3RtTzFnWC9MRVBUYjF6WWV3R2I1cXFqbnJqdkF2N3lWbHp1Qm83ZCtOODZrMWJ0YXdaNkRselljSVJNR3psMk1pZW83SkFvMTkyMFJucGxIcTFHaXE1Ly9sR3VZK2RmWHpKcW5QZ3FtMlpkVFZxbjlRMnRMcHNmd0U3MWk1REFBQjQybU5nWnNBTEFBQjlBQVE9KSBmb3JtYXQoJ3dvZmYnKTt9CkBmb250LWZhY2V7Zm9udC1mYW1pbHk6Y21taTEwO3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFTUUFBb0FBQUFBQlRBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVNQUFBQmdoVjkwbUdOdFlYQUFBQUU0QUFBQU13QUFBRVFBZHdFWVoyeDVaZ0FBQVd3QUFBRytBQUFCOElnc0tSMW9aV0ZrQUFBRExBQUFBREVBQUFBMktFT0lUMmhvWldFQUFBTmdBQUFBSGdBQUFDUUdMQUpYYUcxMGVBQUFBNEFBQUFBUUFBQUFFQWtsQUVac2IyTmhBQUFEa0FBQUFBb0FBQUFLQVVZQW5HMWhlSEFBQUFPY0FBQUFHQUFBQUNBQUJ3QTVibUZ0WlFBQUE3UUFBQURPQUFBQk9Hb2RkaHR3YjNOMEFBQUVoQUFBQUF3QUFBQWdBQU1BQUhqYVkyQm04bVNjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0FFakF4SklLUzVMQjBxNk1HUXhNL3dIOHBraDBraHEvZ09GQWNTUERPY0FlTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHQXlBTkFjUWd1UmNHSklac3Y3L1I3RCs3LzAvLy85TXNGb3dBQURxcnd1SkFIamFKYysvYnROUUZNZngrN3ZYdlliRXNSUGJ1VGNsMU1heHNOczBjZEtrdFVORVF2OEloTm9JVWdrQkFxbFVJQVlZQU1IU0FhRXVDSUZnWUtFUGdCaVpXVmdaNFNGNEJjU1locHR5emxtKzIrY1FTcGFtRTViUjc2UkNtb1JrVGhyejFWUUdIaVRYWnh2TVVxUU9zOEM3Y29nc3ZZUTBUcUNIRWYvOEFWdGUwY0x0RnkvQnJ0ZDdqdytQdnk1WVp0LzcvVjREekhkN0I3SmZPV1dEUHJyMnhIZkc5RUtSc1FVTzl2SHBtMmVENWczR1BBNDRkR3Z5eStZNWFHTi85MjV3SzM1NEI3Q0lHcEQ2OUMrKzRRZHBxMGdRbXRCTmxGMGhoVEpraXVXZUVCT3NxVktyMENiQ1doU3Zxc0lubzFOZEhzMVh6emJhUnQrOE9OQjVQaW5ZL2YzeFRiWlJja1o3dlhVZ2tKWUFOd1JlbDEzMG1wMkRzTFVPWnM2Vkx1ZEJLL1Y4YmttakQ2N2UzeTNiVnhoV0lqOHNPYnhjc0FtaDB6L1RCRWYwQ3psTk1xVlR0Q2dlb2l1WWs2VnJ5UXlxcnFYVUo3S09NdXZzUDI0SVR6M0JkWkVOZ1NNRTRqd1FPdEhQL1RrSzExamVkRG5udW9aNVM4U0R4UlRnOThUelh0UUZhb3VPbEY2dXNVa1BoUTlXazc0MmFlQ1ZORXArQ1hSN3hkUUJXbXlmcWJTMGJvUDd4MjlINDhDditoQ0Y0am1lcDlnaDVCKzczRXZFQUFCNDJtTmdaR0JnQUdMbmZzK044ZncyWHhtWVdSaEE0REdqMGhZWS9mL3pmejFtYzZZOVFDNEhBeE5JRkFBbTZnc0tBQUFBZU5wallHUmdZR2I0endBay9mOS9abUJtTm1jQWlxQUFGZ0JZOEFPS0FBQUNkZ0FBQTA4QUtRRzZBQ29CcGYvekFBQUFBQUJPQUp3QStBQUFlTnBqWUdSZ1lHQmhzR0JnWWdBQlJnWTBBQUFHWWdCQmVOcE5qcjF1d2pBVVJrL1VFS2xwcFU2dG1KQ25qbEdpN0YwWW1GaVp1Z0MyYUFiYktBbVJXSGlBUG5VL2dvZmEwdFc1NTM3K0FVcHVaTnhYeHR0Yzd5dW5VUGZnQlMrOEp5NjBUZUtTSlo4OGtlWFBNaXUrRXVlODhwMTR3UWMvaVF2NVcrS1NtdDkxOU9mTDZIcXpqZGIxNGVoOTE5UTcxdzlkREthcDZvZll1T0Q2L2Vpc09WeU5uYnBoT25uVFZpMXJJcDR6RjBZY3ZmNjFsYkV6QjQ2YWVUb2F2YlNiM2FBdWFtTGtLdG4vaVkwU1lVN3Q1OXVzVWdldXFwWkptVUgxcExTaDFkbjJENjQ5TCs4QUFIamFZMkJtd0FzQUFIMEFCQT09KSBmb3JtYXQoJ3dvZmYnKTt9CnRleHQuZjAge2ZvbnQtZmFtaWx5OmNtc3k3O2ZvbnQtc2l6ZTo2Ljk3Mzg0OHB4fQp0ZXh0LmYxIHtmb250LWZhbWlseTpjbW1pMTA7Zm9udC1zaXplOjkuOTYyNjRweH0KdGV4dC5mMiB7Zm9udC1mYW1pbHk6Y21taTc7Zm9udC1zaXplOjYuOTczODQ4cHh9CnRleHQuZjMge2ZvbnQtZmFtaWx5OmNtbWk1O2ZvbnQtc2l6ZTo0Ljk4MTMycHh9CnRleHQuZjQge2ZvbnQtZmFtaWx5OmNtcjEwO2ZvbnQtc2l6ZTo5Ljk2MjY0cHh9CnRleHQuZjUge2ZvbnQtZmFtaWx5OmNtcjc7Zm9udC1zaXplOjYuOTczODQ4cHh9Cl1dPgo8L3N0eWxlPgo8ZyBpZD0ncGFnZTEnPgo8ZyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0xNC40NTU0NjYsLTQ2LjY1MjAzNSlzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgZmlsbD0nIzAwMCcgc3Ryb2tlPScjMDAwJz4KPGcgc3Ryb2tlLXdpZHRoPScwLjQnPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNTcuNzYwMzMsLTE4LjU3NjQpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC0xNC40NTU0NjYsLTQ2LjY1MjAzNSlzY2FsZSgtMSwtMSknPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTguMDEwMzIxLC03OC42ODQ3MylzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTIuMTYzNzcsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtOC4wMTAzMjEsLTc4LjY4NDczKXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjEnIHg9Jy04LjAxMDMyMScgeT0nLTc4LjY4NDczJz5jPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDMzLjIzMzU1OSwtNzguNjg0NzMpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KScvPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoODQuMzMyOTUyLC03OC42ODQ3MylzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTEyLjA1NjI0LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoODQuMzMyOTUyLC03OC42ODQ3MylzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2Y0JyB4PSc4NC4zMzI5NTInIHk9Jy03OC42ODQ3Myc+bGltPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjEnIHg9Jzk5LjgzMDM5NCcgeT0nLTc4LjY4NDczJz5EPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC04LjAxMDMyMSwtNDYuNjUyMDM1KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknLz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDMzLjIzMzU1OSwtNDYuNjUyMDM1KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNi42MjM3MiwwLjApJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKDMzLjIzMzU1OSwtNDYuNjUyMDM1KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjEnIHg9JzMzLjIzMzU1OScgeT0nLTQ2LjY1MjAzNSc+RDx0c3BhbiB4PSc0MS43NTg1NDgnPmo8L3RzcGFuPjwvdGV4dD4KPHRleHQgY2xhc3M9J2Y0JyB4PSc0Ni40MzE1MjgnIHk9Jy00Ni42NTIwMzUnPi48L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPGcgc3Ryb2tlLWRhc2hhcnJheT0nMi43OTk4NSwxLjU5OTkxJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KPHBhdGggZD0nTS00NC42MjE3IDE2LjA3NjQySDI0LjQzNjgnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMjQuNjM2NzgsMTYuMDc2NDIpJz4KPGcgc3Ryb2tlLWRhc2hhcnJheT0nbm9uZScgc3Ryb2tlLWRhc2hvZmZzZXQ9JzAuMCc+CiA8ZyBzdHJva2UtbGluZWNhcD0ncm91bmQnPgogPGcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+CiA8cGF0aCBkPSdNLTIuMDc5ODggMi4zOTk4NkMtMS42OTk4OSAuOTU5OTItLjg1MzEzIC4yNzk5OCAwIDBDLS44NTMxMy0uMjc5OTgtMS42OTk4OS0uOTU5OTItMi4wNzk4OC0yLjM5OTg2JyBmaWxsPSdub25lJy8+CiA8L2c+CiA8L2c+CiA8L2c+CjwvZz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTEzLjI4ODMxLDE4LjQyOTE3KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMTQuNDU1NDY2LC00Ni42NTIwMzUpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nLTE0LjQ1NTQ2NicgeT0nLTQ2LjY1MjAzNSc+4oiDPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjUnIHg9Jy05Ljk0NDU4MScgeT0nLTQ2LjY1MjAzNSc+ITwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTS00NC42MjE3IDEwLjg5NzU3TC0yMC43NTU5LTcuNjM4MDUnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSdtYXRyaXgoMC43ODk3NSwtMC42MTMzNywwLjYxMzM3LDAuNzg5NzUsLTIwLjU5Nzk5LC03Ljc2MDcpJz4KPGcgc3Ryb2tlLWRhc2hhcnJheT0nbm9uZScgc3Ryb2tlLWRhc2hvZmZzZXQ9JzAuMCc+CiA8ZyBzdHJva2UtbGluZWNhcD0ncm91bmQnPgogPGcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+CiA8cGF0aCBkPSdNLTIuMDc5ODggMi4zOTk4NkMtMS42OTk4OSAuOTU5OTItLjg1MzEzIC4yNzk5OCAwIDBDLS44NTMxMy0uMjc5OTgtMS42OTk4OS0uOTU5OTItMi4wNzk4OC0yLjM5OTg2JyBmaWxsPSdub25lJy8+CiA8L2c+CiA8L2c+CiA8L2c+CjwvZz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTQzLjQ4MTgxLC0zLjg1OTUzKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMTQuNDU1NDY2LC00Ni42NTIwMzUpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nLTE0LjQ1NTQ2NicgeT0nLTQ2LjY1MjAzNSc+wrU8L3RleHQ+Cjx0ZXh0IGNsYXNzPSdmMycgeD0nLTkuNjExMzExJyB5PSctNDUuNjU1NzcxJz5qPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTTMxLjI1NzY5IDkuNzE2NjlMMS41NzU2NS04Ljg5MTM3JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0nbWF0cml4KC0wLjg0NzI2LC0wLjUzMTE0LDAuNTMxMTQsLTAuODQ3MjYsMS40MDYyMiwtOC45OTc1OSknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgxOC41OTk5OSwtNi45MDc0MSknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTE0LjQ1NTQ2NiwtNDYuNjUyMDM1KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjInIHg9Jy0xNC40NTU0NjYnIHk9Jy00Ni42NTIwMzUnPs67PC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjMnIHg9Jy05LjczMDEnIHk9Jy00NS42NTU3NzEnPmo8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+Cjwvc3ZnPg==" /></fr:resource-content><fr:resource-source
+type="latex"
+part="preamble"><![CDATA[
+   
+    \usepackage{tikz, tikz-cd, mathtools, amssymb}
+  \usetikzlibrary{shapes.geometric}
+  \usetikzlibrary{calc}
+  \usetikzlibrary{matrix}
+  \usetikzlibrary{decorations.markings}
+
+  \tikzset{
+    % basics
+    square/.style={draw, regular polygon, regular polygon sides=4},
+    triangle/.style={draw, regular polygon, regular polygon sides=3},
+  }
+
+  \tikzset{
+    % string diagrams
+    state/.style={triangle, shape border rotate=180, anchor=north},
+    costate/.style={triangle, anchor=south},
+    morphism/.style={draw, rectangle},
+    over/.style={
+      draw=white,
+      double=black,
+      % default is .4pt
+      line width=1.2pt,
+      double distance=.4pt,
+      text=black
+    },
+  }
+
+  \tikzset{ 
+    % tables
+    % https://tikz.net/tikz-table/
+    table/.style={
+        matrix of nodes,
+        row sep=-\pgflinewidth,
+        column sep=-\pgflinewidth,
+        nodes={
+            rectangle,
+            draw=black,
+            align=center
+        },
+        minimum height=1.5em,
+        text depth=0.5ex,
+        text height=2ex,
+        nodes in empty cells,
+%%
+        every even row/.style={
+            nodes={fill=gray!20}
+        },
+        column 1/.style={
+            nodes={font=\bfseries}
+        },
+        row 1/.style={
+            nodes={
+                fill=black,
+                text=white,
+                font=\bfseries
+            }
+        }
+    }
+  }
+
+  ]]></fr:resource-source><fr:resource-source
+type="latex"
+part="body"><![CDATA[
+    \begin {tikzcd}
+      c\ar [rr, dashed, "\exists  !"]\ar [dr, "\mu _j"'] && \operatorname *{lim} D\ar [dl, "\lambda _j"] \\
+      & Dj\makebox [0pt][l]{.}
+    \end {tikzcd}
+  ]]></fr:resource-source></fr:resource></fr:figure></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5155</fr:anchor><fr:addr
+type="user">rs-001K</fr:addr><fr:route>rs-001K.xml</fr:route><fr:title
+text="Preservation of a property">Preservation of a property</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">morphism</fr:link> <fr:em>preserves</fr:em> a property if, whenever
+the property obtains in its domain, it obtains in its codomain.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5157</fr:anchor><fr:addr
+type="user">rs-000L</fr:addr><fr:route>rs-000L.xml</fr:route><fr:title
+text="Functor">Functor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.3.1</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>functor</fr:em> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> between <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">categories</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>
+consists of the following data:</fr:p><fr:ul><fr:li>for each object <fr:tex
+display="inline"><![CDATA[x\in  C]]></fr:tex>, an object <fr:tex
+display="inline"><![CDATA[Fx\in  D]]></fr:tex>;</fr:li>
+  <fr:li>for each morphism <fr:tex
+display="inline"><![CDATA[f\in  C(x, y)]]></fr:tex>, a morphism <fr:tex
+display="inline"><![CDATA[Ff\in  D(Fx, Fy)]]></fr:tex>.</fr:li></fr:ul><fr:p>This data must preserve the structure of the category, namely identities
+and composites, meaning:</fr:p><fr:ul><fr:li>for each object <fr:tex
+display="inline"><![CDATA[x\in  C]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[F1_x = 1_{Fx};]]></fr:tex></fr:li>
+  <fr:li>for each pair <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f}y\xrightarrow {g}z]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[F(gf) = (Fg)(Fg)]]></fr:tex>.</fr:li></fr:ul></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

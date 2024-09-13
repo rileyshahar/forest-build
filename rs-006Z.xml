@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1513</fr:anchor><fr:addr
+type="user">rs-006Z</fr:addr><fr:route>rs-006Z.xml</fr:route><fr:title
+text="Heyting algebras are Boolean iff they satisfy double negation elimination">Heyting algebras are Boolean iff they satisfy double negation elimination</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Proposition I.8.4</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting algebra</fr:link> is <fr:link
+type="local"
+href="rs-006X.xml"
+addr="rs-006X"
+title="Boolean algebra">boolean</fr:link> if and only if it
+satisfies <fr:em>double <fr:link
+type="local"
+href="rs-006Y.xml"
+addr="rs-006Y"
+title="Negation in a Heyting algebra">negation</fr:link> elimination</fr:em>: <fr:tex
+display="inline"><![CDATA[\lnot  \lnot  x = x]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1515</fr:anchor><fr:addr
+type="user">maclane-moerdijk-1994</fr:addr><fr:route>maclane-moerdijk-1994.xml</fr:route><fr:title
+text="Sheaves in geometry and logic">Sheaves in geometry and logic</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1994</fr:year></fr:date><fr:authors><fr:author>Saunders Mac Lane</fr:author><fr:author>Ieke Moerdijk</fr:author></fr:authors><fr:meta
+name="isbn">9781461209270</fr:meta><fr:meta
+name="doi">10.1007/978-1-4612-0927-0</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{maclane-moerdijk-1994,
+  title = {Sheaves in Geometry and Logic: A First Introduction to Topos Theory},
+  author = {MacLane, S. and Moerdijk, I.},
+  isbn = {9781461209270},
+  doi = {10.1007/978-1-4612-0927-0}
+  lccn = {91033709},
+  series = {Universitext},
+  url = {https://books.google.com/books?id=LZWLBAAAQBAJ},
+  year = {1994},
+  publisher = {Springer New York},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We dedicate this book to the memory of J. Frank Adams. His clear insights
+have inspired many mathematicians, including both of us. In January 1989, when
+the first draft of our book had been completed, we heard the sad news of his
+untimely death. This has cast a shadow on our subsequent work. Our views of
+topos theory, as presented here, have been shaped by continued study, by
+conferences, and by many personal contacts with friends and colleagues-including
+especially O. Bruno, P. Freyd, J.M.E. Hyland, P.T. Johnstone, A. Joyal, A. Kock,
+F.W. Lawvere, G.E. Reyes, R Solovay, R Swan, RW. Thomason, M. Tierney, and G.C.
+Wraith. Our presentation combines ideas and results from these people and from
+many others, but we have not endeavored to specify the various original sources.
+Moreover, a number of people have assisted in our work by pro viding helpful
+comments on portions of the manuscript. In this respect, we extend our hearty
+thanks in particular to P. Corazza, K. Edwards, J. Greenlees, G. Janelidze, G.
+Lewis, and S. Schanuel.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1518</fr:anchor><fr:addr
+type="user">rs-0072</fr:addr><fr:route>rs-0072.xml</fr:route><fr:title
+text="Heyting algebras">Heyting algebras</fr:title><fr:taxon>Collection</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1520</fr:anchor><fr:addr
+type="user">rs-006V</fr:addr><fr:route>rs-006V.xml</fr:route><fr:title
+text="Heyting algebra">Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Section I.8</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Heyting algebra</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">posetal</fr:link> <fr:link
+type="local"
+href="rs-006R.xml"
+addr="rs-006R"
+title="Bicartesian closed category">bicartesian closed
+category</fr:link>. In particular, this means it has all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets and joins</fr:link> (is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>), along with an operation
+<fr:tex
+display="inline"><![CDATA[\Rightarrow ]]></fr:tex>, called <fr:em>implication</fr:em>, such that <fr:tex
+display="block"><![CDATA[z\leq  x\Rightarrow  y\text { if and only if } z\wedge  x\leq  y.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+  
+  <fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1522</fr:anchor><fr:addr
+type="user">rs-0071</fr:addr><fr:route>rs-0071.xml</fr:route><fr:title
+text="Every complete lattice is a Heyting algebra">Every complete lattice is a Heyting algebra</fr:title><fr:taxon>Example</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 51</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>Every <fr:link
+type="local"
+href="rs-006O.xml"
+addr="rs-006O"
+title="Complete lattice">complete</fr:link> <fr:link
+type="local"
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> is a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting
+algebra</fr:link> with the implication <fr:tex
+display="block"><![CDATA[x\Rightarrow  y := \bigvee \{z : z\wedge  x\leq  y\}.]]></fr:tex></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1505</fr:anchor><fr:addr
+type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  This comes from the <fr:link
+type="local"
+href="rs-003W.xml"
+addr="rs-003W"
+title="General adjoint functor theorem">general adjoint functor theorem</fr:link>.
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1524</fr:anchor><fr:addr
+type="user">rs-0073</fr:addr><fr:route>rs-0073.xml</fr:route><fr:title
+text="Every Boolean algebra is a Heyting algebra">Every Boolean algebra is a Heyting algebra</fr:title><fr:taxon>Example</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 51</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>Every <fr:link
+type="local"
+href="rs-006X.xml"
+addr="rs-006X"
+title="Boolean algebra">Boolean algebra</fr:link> is a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting algebra</fr:link> with the
+implication <fr:tex
+display="block"><![CDATA[x\Rightarrow  y := \lnot  x\vee  y.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1526</fr:anchor><fr:addr
+type="user">rs-006Y</fr:addr><fr:route>rs-006Y.xml</fr:route><fr:title
+text="Negation in a Heyting algebra">Negation in a Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 52(8)</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>In a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting algebra</fr:link>, the <fr:em>negation</fr:em> of an element <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> is
+<fr:tex
+display="block"><![CDATA[\lnot  x := x \Rightarrow  0.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1528</fr:anchor><fr:addr
+type="user">rs-006W</fr:addr><fr:route>rs-006W.xml</fr:route><fr:title
+text="Equational theory of Heyting algebras">Equational theory of Heyting algebras</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Proposition I.8.3</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>In addition to <fr:link
+type="local"
+href="rs-006S.xml"
+addr="rs-006S"
+title="Equational theory of bicartesian closed categories">those of a bicartesian closed category</fr:link>, a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting
+algebra</fr:link> satisfies the following equations: <fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[x\Rightarrow  x = \top ]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\wedge  (x\Rightarrow  y) = x\wedge  y]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[y\wedge  (x\Rightarrow  y) = y]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\Rightarrow  (y\wedge  z) = (x\Rightarrow  y)\wedge  (x\Rightarrow  z)]]></fr:tex>.</fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1530</fr:anchor><fr:addr
+type="user">rs-006Z</fr:addr><fr:route>rs-006Z.xml</fr:route><fr:title
+text="Heyting algebras are Boolean iff they satisfy double negation elimination">Heyting algebras are Boolean iff they satisfy double negation elimination</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Proposition I.8.4</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting algebra</fr:link> is <fr:link
+type="local"
+href="rs-006X.xml"
+addr="rs-006X"
+title="Boolean algebra">boolean</fr:link> if and only if it
+satisfies <fr:em>double <fr:link
+type="local"
+href="rs-006Y.xml"
+addr="rs-006Y"
+title="Negation in a Heyting algebra">negation</fr:link> elimination</fr:em>: <fr:tex
+display="inline"><![CDATA[\lnot  \lnot  x = x]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1532</fr:anchor><fr:addr
+type="user">rs-006Y</fr:addr><fr:route>rs-006Y.xml</fr:route><fr:title
+text="Negation in a Heyting algebra">Negation in a Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 52(8)</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>In a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting algebra</fr:link>, the <fr:em>negation</fr:em> of an element <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> is
+<fr:tex
+display="block"><![CDATA[\lnot  x := x \Rightarrow  0.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1534</fr:anchor><fr:addr
+type="user">rs-006V</fr:addr><fr:route>rs-006V.xml</fr:route><fr:title
+text="Heyting algebra">Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Section I.8</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Heyting algebra</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">posetal</fr:link> <fr:link
+type="local"
+href="rs-006R.xml"
+addr="rs-006R"
+title="Bicartesian closed category">bicartesian closed
+category</fr:link>. In particular, this means it has all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets and joins</fr:link> (is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>), along with an operation
+<fr:tex
+display="inline"><![CDATA[\Rightarrow ]]></fr:tex>, called <fr:em>implication</fr:em>, such that <fr:tex
+display="block"><![CDATA[z\leq  x\Rightarrow  y\text { if and only if } z\wedge  x\leq  y.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1536</fr:anchor><fr:addr
+type="user">rs-006X</fr:addr><fr:route>rs-006X.xml</fr:route><fr:title
+text="Boolean algebra">Boolean algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 50</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Boolean algebra</fr:em> is a <fr:link
+type="local"
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> in which every
+element <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> has a <fr:em>complement</fr:em> <fr:tex
+display="inline"><![CDATA[\lnot  x]]></fr:tex> satisfying
+  <fr:tex
+display="block"><![CDATA[x\wedge  \lnot  x = \bot \quad \text { and }\quad  x\vee  \lnot  x = \top .]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

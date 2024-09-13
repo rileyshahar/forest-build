@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1495</fr:anchor><fr:addr
+type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p><fr:link
+type="local"
+href="rs-002N.xml"
+addr="rs-002N"
+title="Limits and colimits in functor categories are computed pointwise">Limits and colimits are computed pointwise</fr:link> and <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> is
+  <fr:link
+type="local"
+href="rs-002E.xml"
+addr="rs-002E"
+title="Set is complete">complete</fr:link> and <fr:link
+type="local"
+href="rs-002T.xml"
+addr="rs-002T"
+title="Set is cocomplete">cocomplete</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1497</fr:anchor><fr:addr
+type="user">rs-0074</fr:addr><fr:route>rs-0074.xml</fr:route><fr:title
+text="Presheaf categories are complete and cocomplete">Presheaf categories are complete and cocomplete</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 39</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>Every <fr:link
+type="external"
+href="rs-0015l">presheaf category</fr:link> is <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link> and
+<fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link>, with <fr:link
+type="local"
+href="rs-002E.xml"
+addr="rs-002E"
+title="Set is complete">limits</fr:link> and <fr:link
+type="local"
+href="rs-002T.xml"
+addr="rs-002T"
+title="Set is cocomplete">colimits</fr:link> computed as in
+<fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1499</fr:anchor><fr:addr
+type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p><fr:link
+type="local"
+href="rs-002N.xml"
+addr="rs-002N"
+title="Limits and colimits in functor categories are computed pointwise">Limits and colimits are computed pointwise</fr:link> and <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> is
+  <fr:link
+type="local"
+href="rs-002E.xml"
+addr="rs-002E"
+title="Set is complete">complete</fr:link> and <fr:link
+type="local"
+href="rs-002T.xml"
+addr="rs-002T"
+title="Set is cocomplete">cocomplete</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

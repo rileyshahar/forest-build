@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2787</fr:anchor><fr:addr
+type="user">rs-005M</fr:addr><fr:route>rs-005M.xml</fr:route><fr:title
+text="Set-function">Set-function</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Lawvere &amp; Schanuel</fr:meta><fr:meta
+name="ref-at">p. 14</fr:meta><fr:meta
+name="ref-note">lawvere-schanuel-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="lawvere-schanuel-2009.xml"
+addr="lawvere-schanuel-2009"
+title="Conceptual mathematics" />
+<fr:p>A <fr:em>(set-)function</fr:em> consists of two <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">sets</fr:link>, the <fr:em>domain</fr:em> and
+the <fr:em>codomain</fr:em>, and a <fr:em>rule</fr:em> (say, a <fr:em>derivation</fr:em>) that assigns to each
+element of the domain a unique element of the codomain.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2789</fr:anchor><fr:addr
+type="user">lawvere-schanuel-2009</fr:addr><fr:route>lawvere-schanuel-2009.xml</fr:route><fr:title
+text="Conceptual mathematics">Conceptual mathematics</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2009</fr:year></fr:date><fr:authors><fr:author>William Lawvere</fr:author><fr:author>Stephen Schanuel</fr:author></fr:authors><fr:meta
+name="isbn">9780521719162</fr:meta><fr:meta
+name="doi">10.1017/CBO9780511804199 </fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{lawvere-Schanuel-2009,
+  place = {Cambridge},
+  edition = {2},
+  title = {Conceptual Mathematics: A First Introduction to Categories},
+  publisher = {Cambridge University Press},
+  author = {Lawvere, F. William and Schanuel, Stephen H.},
+  year = {2009}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>In the last 60 years, the use of the notion of category has led to a
+remarkable unification and simplification of mathematics. Conceptual Mathematics
+introduces this tool for the learning, development, and use of mathematics, to
+beginning students and also to practising mathematical scientists. This book
+provides a skeleton key that makes explicit some concepts and procedures that
+are common to all branches of pure and applied mathematics. The treatment does
+not presuppose knowledge of specific fields, but rather develops, from basic
+definitions, such elementary categories as discrete dynamical systems and
+directed graphs; the fundamental ideas are then illuminated by examples in these
+categories. This second edition provides links with more advanced topics of
+possible study. In the new appendices and annotated bibliography the reader will
+find concise introductions to adjoint functors and geometrical structures, as
+well as sketches of relevant historical developments.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2792</fr:anchor><fr:addr
+type="user">rs-007N</fr:addr><fr:route>rs-007N.xml</fr:route><fr:title
+text="Operation">Operation</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em><fr:tex
+display="inline"><![CDATA[k]]></fr:tex>-ary operaton</fr:em> on a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is a <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">function</fr:link>
+<fr:tex
+display="inline"><![CDATA[X^k\to  X]]></fr:tex>. We call <fr:tex
+display="inline"><![CDATA[k]]></fr:tex> the <fr:em>arity</fr:em> of the operation.</fr:p><fr:p>A <fr:em>constant</fr:em> is a <fr:em><fr:tex
+display="inline"><![CDATA[0]]></fr:tex>-ary operation</fr:em>, while a <fr:em>binary operation</fr:em>
+is a <fr:tex
+display="inline"><![CDATA[2]]></fr:tex>-ary operation.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2794</fr:anchor><fr:addr
+type="user">rs-0064</fr:addr><fr:route>rs-0064.xml</fr:route><fr:title
+text="Restriction maps of a presheaf">Restriction maps of a presheaf</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 25</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C^\text {op}\xrightarrow {P}]]></fr:tex> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> be a <fr:link
+type="local"
+href="rs-0015.xml"
+addr="rs-0015"
+title="Presheaf">presheaf</fr:link>, <fr:tex
+display="inline"><![CDATA[y\xrightarrow {f} x\in  C]]></fr:tex> a
+map, and <fr:tex
+display="inline"><![CDATA[p\in  Px]]></fr:tex> an element. Then the <fr:em>restriction of <fr:tex
+display="inline"><![CDATA[p]]></fr:tex> along <fr:tex
+display="inline"><![CDATA[f]]></fr:tex></fr:em>, or
+the <fr:em>pullback of <fr:tex
+display="inline"><![CDATA[p]]></fr:tex> along <fr:tex
+display="inline"><![CDATA[f]]></fr:tex></fr:em>, is <fr:tex
+display="block"><![CDATA[p|_f = Pf(p).]]></fr:tex> The <fr:em>restriction
+maps</fr:em> of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> are just the induced <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">set-functions</fr:link> <fr:tex
+display="inline"><![CDATA[Pf]]></fr:tex> for each
+morphism <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2796</fr:anchor><fr:addr
+type="user">rs-000C</fr:addr><fr:route>rs-000C.xml</fr:route><fr:title
+text="Category of sets">Category of sets</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.3(i)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>The <fr:em>category of sets</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> is the <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> whose objects
+are <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">sets</fr:link> and whose morphisms are <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">set-functions</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2798</fr:anchor><fr:addr
+type="user">rs-005L</fr:addr><fr:route>rs-005L.xml</fr:route><fr:title
+text="Set">Set</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Lawvere &amp; Schanuel</fr:meta><fr:meta
+name="ref-at">p. 13</fr:meta><fr:meta
+name="ref-note">lawvere-schanuel-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="lawvere-schanuel-2009.xml"
+addr="lawvere-schanuel-2009"
+title="Conceptual mathematics" />
+<fr:p>A <fr:em>(pre)set</fr:em> is a collection of some pre-mathematical <fr:em>elements</fr:em>. We
+write <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex> to denote that <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> is an element of the set <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

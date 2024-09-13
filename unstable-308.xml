@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4627</fr:anchor><fr:addr
+type="machine">#308</fr:addr><fr:route>unstable-308.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Since <fr:link
+type="local"
+href="rs-001O.xml"
+addr="rs-001O"
+title="Representable isomorphism is isomorphism">representable isomorphism implies isomorphism</fr:link>, it suffices to
+  prove that <fr:tex
+display="block"><![CDATA[     C(X, \operatorname *{lim}_I \operatorname *{lim}_J F) \cong  C(X, \operatorname *{lim}_{I\times  J} F) \cong  C(X, \operatorname *{lim}_J \operatorname *{lim}_I F)   ]]></fr:tex> <fr:link
+type="local"
+href="rs-000V.xml"
+addr="rs-000V"
+title="Natural transformation">naturally</fr:link> in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>. Since <fr:link
+type="local"
+href="rs-002P.xml"
+addr="rs-002P"
+title="Representable functors preserve limits">hom functors preserve limits</fr:link>,
+  the desired result becomes <fr:tex
+display="block"><![CDATA[     \operatorname *{lim}_I \operatorname *{lim}_J C(X, F) \cong  \operatorname *{lim}_{I\times  J} C(X, F) \cong  \operatorname *{lim}_J \operatorname *{lim}_I     C(X, F);   ]]></fr:tex>i.e., the general case reduces to that of <fr:link
+type="local"
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>. By the
+  <fr:link
+type="local"
+href="rs-0033.xml"
+addr="rs-0033"
+title="Equational theory of cartesian categories">isomorphism</fr:link> <fr:tex
+display="inline"><![CDATA[I\times  J\cong  J\times  I]]></fr:tex>, it suffices to prove the
+  first isomorphism.</fr:p>
+
+  <fr:p>The proof is essentially by <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">currying</fr:link>. Let <fr:tex
+display="inline"><![CDATA[I\times  J\xrightarrow {G}]]></fr:tex>
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> be a diagram. By the <fr:link
+type="local"
+href="rs-002E-construction.xml"
+addr="rs-002E-construction"
+title="Set is complete › construction of limits in Set">construction of limits in
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>, the limit <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_J G(i, -)]]></fr:tex> is the set of
+  <fr:link
+type="local"
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cones</fr:link> over <fr:tex
+display="inline"><![CDATA[G(i, -)]]></fr:tex> with summit <fr:tex
+display="inline"><![CDATA[*]]></fr:tex>, hence equivalently the set
+  of <fr:tex
+display="inline"><![CDATA[J]]></fr:tex>-<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">tuples</fr:link> <fr:tex
+display="inline"><![CDATA[(x_j\in  G(i, j))]]></fr:tex> satisfying <fr:tex
+display="inline"><![CDATA[G(i, f)(x_j) = x_{j'}]]></fr:tex>
+  for each <fr:tex
+display="inline"><![CDATA[j\xrightarrow {f}j'\in  J]]></fr:tex>. Taking the limit over <fr:tex
+display="inline"><![CDATA[I]]></fr:tex>, we now conclude that
+  <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_I \operatorname *{lim}_J G]]></fr:tex> consists of the tuples <fr:tex
+display="inline"><![CDATA[(x_{ij}\in  G(i, j))]]></fr:tex> which commute
+  with <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-images of maps in <fr:tex
+display="inline"><![CDATA[I]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[J]]></fr:tex>. This is exactly the data of
+  <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_{I\times  J} G]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4629</fr:anchor><fr:addr
+type="user">rs-0032</fr:addr><fr:route>rs-0032.xml</fr:route><fr:title
+text="Limits commute">Limits commute</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Theorem 3.8.1</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[I\times  J\xrightarrow {F} C]]></fr:tex> be a <fr:link
+type="local"
+href="rs-000U.xml"
+addr="rs-000U"
+title="Hom bifunctor">bifunctorial</fr:link> <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link>
+such that the <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_I \operatorname *{lim}_J F]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_J \operatorname *{lim}_I F]]></fr:tex> exist.
+Then <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_{I\times  J} F]]></fr:tex> exists, and the three limits are
+<fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphic</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2039</fr:anchor><fr:addr
+type="machine">#308</fr:addr><fr:route>unstable-308.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Since <fr:link
+type="local"
+href="rs-001O.xml"
+addr="rs-001O"
+title="Representable isomorphism is isomorphism">representable isomorphism implies isomorphism</fr:link>, it suffices to
+  prove that <fr:tex
+display="block"><![CDATA[     C(X, \operatorname *{lim}_I \operatorname *{lim}_J F) \cong  C(X, \operatorname *{lim}_{I\times  J} F) \cong  C(X, \operatorname *{lim}_J \operatorname *{lim}_I F)   ]]></fr:tex> <fr:link
+type="local"
+href="rs-000V.xml"
+addr="rs-000V"
+title="Natural transformation">naturally</fr:link> in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>. Since <fr:link
+type="local"
+href="rs-002P.xml"
+addr="rs-002P"
+title="Representable functors preserve limits">hom functors preserve limits</fr:link>,
+  the desired result becomes <fr:tex
+display="block"><![CDATA[     \operatorname *{lim}_I \operatorname *{lim}_J C(X, F) \cong  \operatorname *{lim}_{I\times  J} C(X, F) \cong  \operatorname *{lim}_J \operatorname *{lim}_I     C(X, F);   ]]></fr:tex>i.e., the general case reduces to that of <fr:link
+type="local"
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>. By the
+  <fr:link
+type="local"
+href="rs-0033.xml"
+addr="rs-0033"
+title="Equational theory of cartesian categories">isomorphism</fr:link> <fr:tex
+display="inline"><![CDATA[I\times  J\cong  J\times  I]]></fr:tex>, it suffices to prove the
+  first isomorphism.</fr:p>
+
+  <fr:p>The proof is essentially by <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">currying</fr:link>. Let <fr:tex
+display="inline"><![CDATA[I\times  J\xrightarrow {G}]]></fr:tex>
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> be a diagram. By the <fr:link
+type="local"
+href="rs-002E-construction.xml"
+addr="rs-002E-construction"
+title="Set is complete › construction of limits in Set">construction of limits in
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>, the limit <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_J G(i, -)]]></fr:tex> is the set of
+  <fr:link
+type="local"
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cones</fr:link> over <fr:tex
+display="inline"><![CDATA[G(i, -)]]></fr:tex> with summit <fr:tex
+display="inline"><![CDATA[*]]></fr:tex>, hence equivalently the set
+  of <fr:tex
+display="inline"><![CDATA[J]]></fr:tex>-<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">tuples</fr:link> <fr:tex
+display="inline"><![CDATA[(x_j\in  G(i, j))]]></fr:tex> satisfying <fr:tex
+display="inline"><![CDATA[G(i, f)(x_j) = x_{j'}]]></fr:tex>
+  for each <fr:tex
+display="inline"><![CDATA[j\xrightarrow {f}j'\in  J]]></fr:tex>. Taking the limit over <fr:tex
+display="inline"><![CDATA[I]]></fr:tex>, we now conclude that
+  <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_I \operatorname *{lim}_J G]]></fr:tex> consists of the tuples <fr:tex
+display="inline"><![CDATA[(x_{ij}\in  G(i, j))]]></fr:tex> which commute
+  with <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-images of maps in <fr:tex
+display="inline"><![CDATA[I]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[J]]></fr:tex>. This is exactly the data of
+  <fr:tex
+display="inline"><![CDATA[\operatorname *{lim}_{I\times  J} G]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

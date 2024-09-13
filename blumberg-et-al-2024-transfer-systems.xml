@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7790</fr:anchor><fr:addr
+type="user">blumberg-et-al-2024-transfer-systems</fr:addr><fr:route>blumberg-et-al-2024-transfer-systems.xml</fr:route><fr:title
+text="Homotopical combinatorics">Homotopical combinatorics</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:authors><fr:author>Andrew J Blumberg</fr:author><fr:author>Michael A Hill</fr:author><fr:author>Kyle Ormsby</fr:author><fr:author>Angélica M Osorno</fr:author><fr:author>Constanze Roitzheim</fr:author></fr:authors><fr:meta
+name="doi">10.1090/noti2882</fr:meta><fr:meta
+name="venue">Notices of the American Mathematical Society</fr:meta><fr:meta
+name="bibtex"><![CDATA[@article{Blumberg_2024,
+  title = {Homotopical Combinatorics},
+  volume = {71},
+  ISSN = {1088-9477},
+  url = {http://dx.doi.org/10.1090/not i2882},
+  DOI = {10.1090/noti2882},
+  number = {02},
+  journal = {Notices of the American Mathematical Society},
+  publisher = {American Math ematical Society (AMS)},
+  author = {Blumberg, Andrew J and Hill, Michael A. and Ormsby, Kyle and Osorno,
+            Angélica M. and Roitzheim, Constanze},
+  year = {2024},
+  month = feb,
+  pages = {1},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Homotopical combinatorics is an emerging field that studies combinatorial
+structures encoding aspects of equivariant homotopy theory, equivariant algebra,
+and abstract homotopy theory. Its methods—a pleasant mix of enumerative
+combinatorics, algebraic combinatorics, and order theory—are relatively
+elementary, but its theorems have deep implications in homotopy theory. The
+youth and accessibility of homotopical combinatorics should make the field
+especially attractive to early career researchers, and we hope that this article
+and the 2024 Mathematics Research Community by the same name welcome
+mathematicians from many backgrounds into the field.</fr:p><fr:p>The central object in homotopical combinatorics is the transfer system. These
+combinatorial gadgets were originally defined in order to encode the homotopy
+theory of <fr:tex
+display="inline"><![CDATA[N_\infty ]]></fr:tex> operads, which control multiplicative structures in
+equivariant stable homotopy theory. Special pairs of transfer systems control
+the structure of bi-incomplete Tambara functors, basic objects of equivariant
+algebra. In a seemingly unrelated direction, pairs of transfer systems also
+encode model structures (presentations of <fr:tex
+display="inline"><![CDATA[(\infty  ,1)]]></fr:tex>-categories) on posets.
+Below, we introduce transfer systems in purely combinatorial terms, and then
+explore their applications.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

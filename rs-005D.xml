@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2838</fr:anchor><fr:addr
+type="user">rs-005D</fr:addr><fr:route>rs-005D.xml</fr:route><fr:title
+text="Zero object">Zero object</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane</fr:meta><fr:meta
+name="ref-at">p. 20</fr:meta><fr:meta
+name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-1978.xml"
+addr="maclane-1978"
+title="Categories for the working mathematician" />
+<fr:p>A <fr:em>zero object</fr:em> is both <fr:link
+type="local"
+href="rs-0021.xml"
+addr="rs-0021"
+title="Initial object">initial</fr:link> and <fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2840</fr:anchor><fr:addr
+type="user">maclane-1978</fr:addr><fr:route>maclane-1978.xml</fr:route><fr:title
+text="Categories for the working mathematician">Categories for the working mathematician</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1978</fr:year></fr:date><fr:authors><fr:author>Saunders Mac Lane</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Categories for the Working Mathematician provides an array of general ideas
+useful in a wide variety of fields. Starting from the foundations, this book
+illuminates the concepts of category, functor, natural transformation, and
+duality. The book then turns to adjoint functors, which provide a description of
+universal constructions, an analysis of the representations of functors by sets
+of morphisms, and a means of manipulating direct and inverse limits. These
+categorical concepts are extensively illustrated in the remaining chapters,
+which include many applications of the basic existence theorem for adjoint
+functors. The categories of algebraic systems are constructed from certain
+adjoint-like data and characterized by Beck's theorem. After considering a
+variety of applications, the book continues with the construction and
+exploitation of Kan extensions. This second edition includes a number of
+revisions and additions, including two new chapters on topics of active
+interest. One is onsymmetric monoidal categories and braided monoidal categories
+and the coherence theorems for them. The second describes 2-categories and the
+higher dimensional categories which have recently come into prominence. The
+bibliography has also been expanded to cover some of the many other recent
+advances concerning categories.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2842</fr:anchor><fr:addr
+type="user">rs-005E</fr:addr><fr:route>rs-005E.xml</fr:route><fr:title
+text="Zero morphism">Zero morphism</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane</fr:meta><fr:meta
+name="ref-at">p. 20</fr:meta><fr:meta
+name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-1978.xml"
+addr="maclane-1978"
+title="Categories for the working mathematician" />
+<fr:p>In a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> with a <fr:link
+type="local"
+href="rs-005D.xml"
+addr="rs-005D"
+title="Zero object">zero object</fr:link> <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>, the canonical
+morphism <fr:tex
+display="inline"><![CDATA[x\to  0\to  y]]></fr:tex> induced by the <fr:link
+type="local"
+href="rs-0021-up.xml"
+addr="rs-0021-up"
+title="Initial object › universal property of initial objects">universal properties of
+initial</fr:link> and <fr:link
+type="local"
+href="rs-0020-up.xml"
+addr="rs-0020-up"
+title="Terminal object › universal property of terminal objects">terminal</fr:link> objects is called the <fr:em>zero
+morphism</fr:em> <fr:tex
+display="inline"><![CDATA[0_{x,y}]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2844</fr:anchor><fr:addr
+type="user">rs-0021</fr:addr><fr:route>rs-0021.xml</fr:route><fr:title
+text="Initial object">Initial object</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.6.14</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta><fr:meta
+name="dual-note">rs-0020</fr:meta><fr:meta
+name="dual-name">terminal object</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+
+  
+  
+<fr:p>An <fr:em>initial object</fr:em> is a <fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimit</fr:link> of an <fr:link
+type="local"
+href="rs-001F.xml"
+addr="rs-001F"
+title="Empty category">empty</fr:link>
+<fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link>.</fr:p><fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1873</fr:anchor><fr:addr
+type="user">rs-0021-up</fr:addr><fr:route>rs-0021-up.xml</fr:route><fr:title
+text="Universal property of initial objects">Universal property of initial objects</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>By the <fr:link
+type="local"
+href="rs-001Z-up.xml"
+addr="rs-001Z-up"
+title="Colimit › universal property of colimits">universal property of colimits</fr:link>, an object <fr:tex
+display="inline"><![CDATA[i]]></fr:tex> is
+  <fr:link
+type="local"
+href="rs-0021.xml"
+addr="rs-0021"
+title="Initial object">initial</fr:link> in the <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> if and only if for every
+  object <fr:tex
+display="inline"><![CDATA[c]]></fr:tex>, there is a unique morphism <fr:tex
+display="inline"><![CDATA[i\to  c]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2846</fr:anchor><fr:addr
+type="user">rs-0020</fr:addr><fr:route>rs-0020.xml</fr:route><fr:title
+text="Terminal object">Terminal object</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.6.14</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta><fr:meta
+name="dual-note">rs-0021</fr:meta><fr:meta
+name="dual-name">initial object</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+
+  
+  
+<fr:p>An <fr:em>terminal object</fr:em> is a <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link> of an <fr:link
+type="local"
+href="rs-001F.xml"
+addr="rs-001F"
+title="Empty category">empty</fr:link>
+<fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link>.</fr:p><fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1452</fr:anchor><fr:addr
+type="user">rs-0020-up</fr:addr><fr:route>rs-0020-up.xml</fr:route><fr:title
+text="Universal property of terminal objects">Universal property of terminal objects</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>By the <fr:link
+type="local"
+href="rs-001Y-up.xml"
+addr="rs-001Y-up"
+title="Limit › universal property of limits">universal property of limits</fr:link>, an object <fr:tex
+display="inline"><![CDATA[t]]></fr:tex> is
+  <fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal</fr:link> in the <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> if and only if for every
+  object <fr:tex
+display="inline"><![CDATA[c]]></fr:tex>, there is a unique morphism <fr:tex
+display="inline"><![CDATA[c\to  t]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

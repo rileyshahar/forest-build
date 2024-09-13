@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4828</fr:anchor><fr:addr
+type="user">undergraduate-thesis</fr:addr><fr:route>undergraduate-thesis.xml</fr:route><fr:title
+text="Categories for Cryptographic Composability">Categories for Cryptographic Composability</fr:title><fr:taxon>Thesis</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We present introductory material on cryptography and category theory, focused on
+the prerequisites to cryptographic composability. We then present the approach
+to cryptographic composability of Broadbent &amp; Karvonen. We give
+several novel contributions, including a new model for cryptographic protocols
+which use both single- and multi-use resources, and a 2-categorical
+generalization of their model which incorporates data about computational
+reductions.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

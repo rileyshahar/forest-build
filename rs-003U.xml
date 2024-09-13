@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3875</fr:anchor><fr:addr
+type="user">rs-003U</fr:addr><fr:route>rs-003U.xml</fr:route><fr:title
+text="Continuous functor">Continuous functor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">p. 99</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta><fr:meta
+name="dual-note">rs-003V</fr:meta><fr:meta
+name="dual-name">cocontinuous functor</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+
+  
+  
+<fr:p>A <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> is called <fr:em>continuous</fr:em> if it <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves
+limits</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3877</fr:anchor><fr:addr
+type="user">riehl-2017</fr:addr><fr:route>riehl-2017.xml</fr:route><fr:title
+text="Category theory in context">Category theory in context</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
+name="isbn">9780486820804</fr:meta><fr:meta
+name="external">https://math.jhu.edu/~eriehl/context/</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{riehl-2017,
+  title = {Category Theory in Context},
+  author = {Riehl, Emily},
+  isbn = {9780486820804},
+  series = {Aurora: Dover Modern Math Originals},
+  year = {2017},
+  publisher = {Dover Publications}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Suitable for advanced undergraduates and graduate students in mathematics,
+the text provides tools for understanding and attacking difficult problems in
+algebra, number theory, algebraic geometry, and algebraic topology. Drawing upon
+a broad range of mathematical examples from the categorical perspective, the
+author illustrates how the concepts and constructions of category theory arise
+from and illuminate more basic mathematical ideas. Prerequisites are limited to
+familiarity with some basic set theory and logic.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3879</fr:anchor><fr:addr
+type="user">rs-004U</fr:addr><fr:route>rs-004U.xml</fr:route><fr:title
+text="Special adjoint functor theorem">Special adjoint functor theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Theorem 4.6.10</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[D\xrightarrow {G} C]]></fr:tex> be a <fr:link
+type="local"
+href="rs-003U.xml"
+addr="rs-003U"
+title="Continuous functor">continuous functor</fr:link> with <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link>
+domain and <fr:link
+type="local"
+href="rs-002Q.xml"
+addr="rs-002Q"
+title="Locally small category">locally small</fr:link> domain and codomain. Suppose that <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> has a
+<fr:link
+type="local"
+href="rs-002B.xml"
+addr="rs-002B"
+title="Small category">small</fr:link> <fr:link
+type="local"
+href="rs-004T.xml"
+addr="rs-004T"
+title="Separator">coseparating family</fr:link> and that every collection of
+<fr:link
+type="local"
+href="rs-002Z.xml"
+addr="rs-002Z"
+title="Subobject">subobjects</fr:link> <fr:tex
+display="inline"><![CDATA[x_\alpha \hookrightarrow  x]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> admits a <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meet</fr:link>,
+i.e. a <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link>. Then <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> has a <fr:link
+type="local"
+href="rs-0036.xml"
+addr="rs-0036"
+title="Adjunctions via transposition">left adjoint</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3881</fr:anchor><fr:addr
+type="user">rs-003W</fr:addr><fr:route>rs-003W.xml</fr:route><fr:title
+text="General adjoint functor theorem">General adjoint functor theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Theorem 4.6.3</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[D\xrightarrow {G} C]]></fr:tex> be a <fr:link
+type="local"
+href="rs-003U.xml"
+addr="rs-003U"
+title="Continuous functor">continuous functor</fr:link> with <fr:link
+type="local"
+href="rs-002Q.xml"
+addr="rs-002Q"
+title="Locally small category">locally
+small</fr:link> <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link> domain <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Suppose that <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> satisfies the
+<fr:em>solution set condition</fr:em>: for each object <fr:tex
+display="inline"><![CDATA[c]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, there exists a
+<fr:link
+type="local"
+href="rs-002B.xml"
+addr="rs-002B"
+title="Small category">small</fr:link> family of maps <fr:tex
+display="inline"><![CDATA[c\xrightarrow {f_i} Gd_i]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> such that any map
+<fr:tex
+display="inline"><![CDATA[c\xrightarrow {f} Gd]]></fr:tex> factors through one of the <fr:tex
+display="inline"><![CDATA[f_i]]></fr:tex> via the <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-image of a map
+<fr:tex
+display="inline"><![CDATA[d_i\to  d]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Then <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> admits a <fr:link
+type="local"
+href="rs-0036.xml"
+addr="rs-0036"
+title="Adjunctions via transposition">left adjoint</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3883</fr:anchor><fr:addr
+type="user">rs-002H</fr:addr><fr:route>rs-002H.xml</fr:route><fr:title
+text="Preservation of limits">Preservation of limits</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">definition 3.3.1</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> <fr:em><fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link></fr:em> if for
+every diagram <fr:tex
+display="inline"><![CDATA[J\xrightarrow {K} C]]></fr:tex> and every limit cone over <fr:tex
+display="inline"><![CDATA[K]]></fr:tex>, the image of this
+cone under <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> is a limit cone over <fr:tex
+display="inline"><![CDATA[FK]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3885</fr:anchor><fr:addr
+type="user">rs-000L</fr:addr><fr:route>rs-000L.xml</fr:route><fr:title
+text="Functor">Functor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.3.1</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>functor</fr:em> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> between <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">categories</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>
+consists of the following data:</fr:p><fr:ul><fr:li>for each object <fr:tex
+display="inline"><![CDATA[x\in  C]]></fr:tex>, an object <fr:tex
+display="inline"><![CDATA[Fx\in  D]]></fr:tex>;</fr:li>
+  <fr:li>for each morphism <fr:tex
+display="inline"><![CDATA[f\in  C(x, y)]]></fr:tex>, a morphism <fr:tex
+display="inline"><![CDATA[Ff\in  D(Fx, Fy)]]></fr:tex>.</fr:li></fr:ul><fr:p>This data must preserve the structure of the category, namely identities
+and composites, meaning:</fr:p><fr:ul><fr:li>for each object <fr:tex
+display="inline"><![CDATA[x\in  C]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[F1_x = 1_{Fx};]]></fr:tex></fr:li>
+  <fr:li>for each pair <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f}y\xrightarrow {g}z]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[F(gf) = (Fg)(Fg)]]></fr:tex>.</fr:li></fr:ul></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

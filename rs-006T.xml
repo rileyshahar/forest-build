@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1755</fr:anchor><fr:addr
+type="user">rs-006T</fr:addr><fr:route>rs-006T.xml</fr:route><fr:title
+text="Distributive lattice">Distributive lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">p. 107</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link> (or, more generally, a <fr:link
+type="local"
+href="rs-006P.xml"
+addr="rs-006P"
+title="Pseudolattice">pseudolattice</fr:link>) is
+<fr:em>distributive</fr:em> if <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">joins</fr:link> distribute over meets or, equivalently,
+meets distribute over joins, i.e. if it satisfies either of the
+equivalent conditions
+<fr:tex
+display="block"><![CDATA[   x\wedge  (y\vee  z) = (x\wedge  y)\vee  (x\wedge  z)\quad \text { and }\quad    x\vee  (y\wedge  z) = (x\vee  y)\wedge  (x\vee  z). ]]></fr:tex></fr:p><fr:p>Equivalently, a distributive lattice is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">posetal</fr:link> <fr:link
+type="local"
+href="rs-006U.xml"
+addr="rs-006U"
+title="Distributive category">distributive
+category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1757</fr:anchor><fr:addr
+type="user">abramsky-jung-1994</fr:addr><fr:route>abramsky-jung-1994.xml</fr:route><fr:title
+text="Domain theory">Domain theory</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1994</fr:year></fr:date><fr:authors><fr:author>Samson Abramsky</fr:author><fr:author>Achim Jung</fr:author></fr:authors><fr:meta
+name="bibtex"><![CDATA[@book{abramsky-jung-1994,
+  title = {Domain Theory},
+  author = {Samson Abramsky and Achim Jung},
+  url = {https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf},
+  year = {1994},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1760</fr:anchor><fr:addr
+type="user">rs-006Q</fr:addr><fr:route>rs-006Q.xml</fr:route><fr:title
+text="Order theory">Order theory</fr:title><fr:taxon>Collection</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1648</fr:anchor><fr:addr
+type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:title
+text="Basic Notions">Basic Notions</fr:title><fr:taxon>Section</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1634</fr:anchor><fr:addr
+type="user">rs-005T</fr:addr><fr:route>rs-005T.xml</fr:route><fr:title
+text="Preorder">Preorder</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>preorder</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> in which, for each pair of objects
+<fr:tex
+display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[P(x, y)]]></fr:tex> is either empty or a singleton. Explicitly, this means
+that it has a collection of elements (its objects) and a <fr:link
+type="local"
+href="rs-005Q.xml"
+addr="rs-005Q"
+title="Reflexive relation">reflexive</fr:link>,
+<fr:link
+type="local"
+href="rs-005R.xml"
+addr="rs-005R"
+title="Transitive relation">transitive</fr:link> <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> (inhabitance of hom-sets).</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1636</fr:anchor><fr:addr
+type="user">rs-006G</fr:addr><fr:route>rs-006G.xml</fr:route><fr:title
+text="Lower set">Lower set</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(1)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[(P, \leq )]]></fr:tex> is a <fr:em>lower
+set</fr:em> if it is <fr:em>downward closed</fr:em>, i.e., if for all <fr:tex
+display="inline"><![CDATA[a \in  A]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[x \in  P]]></fr:tex>,
+if <fr:tex
+display="inline"><![CDATA[x\leq  a]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[x\in  A]]></fr:tex>. <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">Dually</fr:link>, an <fr:em>upper set</fr:em> is
+<fr:em>upward closed</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1638</fr:anchor><fr:addr
+type="user">rs-006H</fr:addr><fr:route>rs-006H.xml</fr:route><fr:title
+text="Lower bound">Lower bound</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(2)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>lower bound</fr:em> of a <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[A\subseteq  P]]></fr:tex> of a
+<fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is an element <fr:tex
+display="inline"><![CDATA[x\in  P]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[x\leq  a]]></fr:tex> for all
+<fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>. The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion is <fr:em>upper bound</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1640</fr:anchor><fr:addr
+type="user">rs-006I</fr:addr><fr:route>rs-006I.xml</fr:route><fr:title
+text="Minimal element">Minimal element</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(3)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>An element <fr:tex
+display="inline"><![CDATA[x\in  P]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is <fr:em>minimal</fr:em> if, whenever
+<fr:tex
+display="inline"><![CDATA[y\leq  x]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[x\leq  y]]></fr:tex>. The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion is <fr:em>maximal</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1642</fr:anchor><fr:addr
+type="user">rs-006K</fr:addr><fr:route>rs-006K.xml</fr:route><fr:title
+text="Least element">Least element</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(4)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>least element</fr:em> or <fr:em>bottom</fr:em> <fr:tex
+display="inline"><![CDATA[\bot ]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is
+an element such that <fr:tex
+display="inline"><![CDATA[\bot \leq  x]]></fr:tex> for all <fr:tex
+display="inline"><![CDATA[x\in  P.]]></fr:tex> The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion
+is <fr:em>greatest element</fr:em> or <fr:em>top</fr:em> <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex>.</fr:p><fr:p>Equivalently, considering <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> as a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, <fr:tex
+display="inline"><![CDATA[\bot ]]></fr:tex> is a
+<fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal object</fr:link> and <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex> is a <fr:link
+type="local"
+href="rs-0021.xml"
+addr="rs-0021"
+title="Initial object">initial object</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1644</fr:anchor><fr:addr
+type="user">rs-006J</fr:addr><fr:route>rs-006J.xml</fr:route><fr:title
+text="Meet">Meet</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(4)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet</fr:em>, <fr:em>infimum</fr:em>, or <fr:em>greatest lower bound</fr:em> of a subset
+<fr:tex
+display="inline"><![CDATA[A\subseteq  P]]></fr:tex> in a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006K.xml"
+addr="rs-006K"
+title="Least element">greatest</fr:link> <fr:link
+type="local"
+href="rs-006H.xml"
+addr="rs-006H"
+title="Lower bound">lower
+bound</fr:link> of <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. We write <fr:tex
+display="inline"><![CDATA[\bigwedge {A}]]></fr:tex>, or <fr:tex
+display="inline"><![CDATA[x\wedge  y]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[\bigwedge \{x, y\}]]></fr:tex>. The dual notion is <fr:em>join</fr:em>, <fr:em>supremum</fr:em>, or <fr:em>least upper bound</fr:em>,
+written <fr:tex
+display="inline"><![CDATA[\vee ]]></fr:tex>.</fr:p><fr:p>When <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is considered as a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, a meet is a
+<fr:link
+type="local"
+href="rs-0023.xml"
+addr="rs-0023"
+title="Product">product</fr:link> and a join is a <fr:link
+type="local"
+href="rs-0024.xml"
+addr="rs-0024"
+title="Coproduct">coproduct</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1650</fr:anchor><fr:addr
+type="machine">#258</fr:addr><fr:route>unstable-258.xml</fr:route><fr:title
+text="Special Preorders">Special Preorders</fr:title><fr:taxon>Section</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1652</fr:anchor><fr:addr
+type="user">rs-005U</fr:addr><fr:route>rs-005U.xml</fr:route><fr:title
+text="Poset">Poset</fr:title><fr:taxon>Definition</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>poset</fr:em> is a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> which is <fr:link
+type="local"
+href="rs-001D.xml"
+addr="rs-001D"
+title="Skeletal category">skeletal</fr:link> as a
+<fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>; equivalently, this means its <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> is
+additionally <fr:link
+type="local"
+href="rs-005S.xml"
+addr="rs-005S"
+title="Antisymmetric relation">antisymmetric</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1654</fr:anchor><fr:addr
+type="user">rs-006L</fr:addr><fr:route>rs-006L.xml</fr:route><fr:title
+text="Pseudosemilattice">Pseudosemilattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet-pseudosemilattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all binary
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link>. <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">Dually</fr:link>, a <fr:em>join-pseudosemilattice</fr:em> is a poset with all
+binary joins.</fr:p><fr:p>Some authors use <fr:em>semilattice</fr:em> to refer to this notion, using (e.g.)
+<fr:em>bounded semilattice</fr:em> or <fr:em>semilattice with <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex></fr:em> for what we call
+merely <fr:link
+type="local"
+href="rs-006M.xml"
+addr="rs-006M"
+title="Semilattice">semilattice</fr:link>.</fr:p><fr:p>As a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, a meet-pseudosemilattice is a <fr:link
+type="local"
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">cartesian</fr:link>
+poset.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1656</fr:anchor><fr:addr
+type="user">rs-006P</fr:addr><fr:route>rs-006P.xml</fr:route><fr:title
+text="Pseudolattice">Pseudolattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>pseudolattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all binary <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link>
+and joins; in particular, it is both a meet- and
+join-<fr:link
+type="local"
+href="rs-006L.xml"
+addr="rs-006L"
+title="Pseudosemilattice">pseudosemilattice</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1658</fr:anchor><fr:addr
+type="user">rs-006M</fr:addr><fr:route>rs-006M.xml</fr:route><fr:title
+text="Semilattice">Semilattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet-semilattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link>; in particular, it is a <fr:link
+type="local"
+href="rs-006L.xml"
+addr="rs-006L"
+title="Pseudosemilattice">meet-pseudosemilattice</fr:link> with
+<fr:link
+type="local"
+href="rs-006K.xml"
+addr="rs-006K"
+title="Least element">bottom</fr:link>. <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">Dually</fr:link>, a <fr:em>join-semilattice</fr:em> is a poset with
+all finite joins.</fr:p><fr:p>Equivalently, a meet-semilattice is a posetal finitely <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete category</fr:link>, while a
+join-semilattice is a posetal finitely <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1660</fr:anchor><fr:addr
+type="user">rs-006N</fr:addr><fr:route>rs-006N.xml</fr:route><fr:title
+text="Lattice">Lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>lattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link> and joins; in particular, it is both a meet- and
+join-<fr:link
+type="local"
+href="rs-006M.xml"
+addr="rs-006M"
+title="Semilattice">semilattice</fr:link>.</fr:p><fr:p>Equivalently, it is a posetal <fr:link
+type="local"
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">bicartesian category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1662</fr:anchor><fr:addr
+type="user">rs-006T</fr:addr><fr:route>rs-006T.xml</fr:route><fr:title
+text="Distributive lattice">Distributive lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">p. 107</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link> (or, more generally, a <fr:link
+type="local"
+href="rs-006P.xml"
+addr="rs-006P"
+title="Pseudolattice">pseudolattice</fr:link>) is
+<fr:em>distributive</fr:em> if <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">joins</fr:link> distribute over meets or, equivalently,
+meets distribute over joins, i.e. if it satisfies either of the
+equivalent conditions
+<fr:tex
+display="block"><![CDATA[   x\wedge  (y\vee  z) = (x\wedge  y)\vee  (x\wedge  z)\quad \text { and }\quad    x\vee  (y\wedge  z) = (x\vee  y)\wedge  (x\vee  z). ]]></fr:tex></fr:p><fr:p>Equivalently, a distributive lattice is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">posetal</fr:link> <fr:link
+type="local"
+href="rs-006U.xml"
+addr="rs-006U"
+title="Distributive category">distributive
+category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1664</fr:anchor><fr:addr
+type="user">rs-006O</fr:addr><fr:route>rs-006O.xml</fr:route><fr:title
+text="Complete lattice">Complete lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>complete lattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link> and
+joins; equivalently, it is <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link> and <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link> as a
+category.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1666</fr:anchor><fr:addr
+type="user">rs-006V</fr:addr><fr:route>rs-006V.xml</fr:route><fr:title
+text="Heyting algebra">Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Section I.8</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Heyting algebra</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">posetal</fr:link> <fr:link
+type="local"
+href="rs-006R.xml"
+addr="rs-006R"
+title="Bicartesian closed category">bicartesian closed
+category</fr:link>. In particular, this means it has all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets and joins</fr:link> (is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>), along with an operation
+<fr:tex
+display="inline"><![CDATA[\Rightarrow ]]></fr:tex>, called <fr:em>implication</fr:em>, such that <fr:tex
+display="block"><![CDATA[z\leq  x\Rightarrow  y\text { if and only if } z\wedge  x\leq  y.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1668</fr:anchor><fr:addr
+type="user">rs-006X</fr:addr><fr:route>rs-006X.xml</fr:route><fr:title
+text="Boolean algebra">Boolean algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 50</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Boolean algebra</fr:em> is a <fr:link
+type="local"
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> in which every
+element <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> has a <fr:em>complement</fr:em> <fr:tex
+display="inline"><![CDATA[\lnot  x]]></fr:tex> satisfying
+  <fr:tex
+display="block"><![CDATA[x\wedge  \lnot  x = \bot \quad \text { and }\quad  x\vee  \lnot  x = \top .]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1762</fr:anchor><fr:addr
+type="user">rs-0071</fr:addr><fr:route>rs-0071.xml</fr:route><fr:title
+text="Every complete lattice is a Heyting algebra">Every complete lattice is a Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 51</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>Every <fr:link
+type="local"
+href="rs-006O.xml"
+addr="rs-006O"
+title="Complete lattice">complete</fr:link> <fr:link
+type="local"
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> is a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting
+algebra</fr:link> with the implication <fr:tex
+display="block"><![CDATA[x\Rightarrow  y := \bigvee \{z : z\wedge  x\leq  y\}.]]></fr:tex></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1505</fr:anchor><fr:addr
+type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  This comes from the <fr:link
+type="local"
+href="rs-003W.xml"
+addr="rs-003W"
+title="General adjoint functor theorem">general adjoint functor theorem</fr:link>.
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1764</fr:anchor><fr:addr
+type="user">rs-006X</fr:addr><fr:route>rs-006X.xml</fr:route><fr:title
+text="Boolean algebra">Boolean algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 50</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Boolean algebra</fr:em> is a <fr:link
+type="local"
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> in which every
+element <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> has a <fr:em>complement</fr:em> <fr:tex
+display="inline"><![CDATA[\lnot  x]]></fr:tex> satisfying
+  <fr:tex
+display="block"><![CDATA[x\wedge  \lnot  x = \bot \quad \text { and }\quad  x\vee  \lnot  x = \top .]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1766</fr:anchor><fr:addr
+type="user">rs-006U</fr:addr><fr:route>rs-006U.xml</fr:route><fr:title
+text="Distributive category">Distributive category</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">bicartesian</fr:link> category <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> is <fr:em>distributive</fr:em> if the <fr:link
+type="local"
+href="rs-0034.xml"
+addr="rs-0034"
+title="Comparison of limits and colimits">canonical
+comparison morphism</fr:link> <fr:tex
+display="block"><![CDATA[(A\times  B) + (A\times  C)\to  A\times  (B+C)]]></fr:tex>
+is an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1768</fr:anchor><fr:addr
+type="user">rs-006N</fr:addr><fr:route>rs-006N.xml</fr:route><fr:title
+text="Lattice">Lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>lattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link> and joins; in particular, it is both a meet- and
+join-<fr:link
+type="local"
+href="rs-006M.xml"
+addr="rs-006M"
+title="Semilattice">semilattice</fr:link>.</fr:p><fr:p>Equivalently, it is a posetal <fr:link
+type="local"
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">bicartesian category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1770</fr:anchor><fr:addr
+type="user">rs-006P</fr:addr><fr:route>rs-006P.xml</fr:route><fr:title
+text="Pseudolattice">Pseudolattice</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>pseudolattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all binary <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link>
+and joins; in particular, it is both a meet- and
+join-<fr:link
+type="local"
+href="rs-006L.xml"
+addr="rs-006L"
+title="Pseudosemilattice">pseudosemilattice</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1772</fr:anchor><fr:addr
+type="user">rs-006J</fr:addr><fr:route>rs-006J.xml</fr:route><fr:title
+text="Meet">Meet</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(4)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet</fr:em>, <fr:em>infimum</fr:em>, or <fr:em>greatest lower bound</fr:em> of a subset
+<fr:tex
+display="inline"><![CDATA[A\subseteq  P]]></fr:tex> in a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006K.xml"
+addr="rs-006K"
+title="Least element">greatest</fr:link> <fr:link
+type="local"
+href="rs-006H.xml"
+addr="rs-006H"
+title="Lower bound">lower
+bound</fr:link> of <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. We write <fr:tex
+display="inline"><![CDATA[\bigwedge {A}]]></fr:tex>, or <fr:tex
+display="inline"><![CDATA[x\wedge  y]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[\bigwedge \{x, y\}]]></fr:tex>. The dual notion is <fr:em>join</fr:em>, <fr:em>supremum</fr:em>, or <fr:em>least upper bound</fr:em>,
+written <fr:tex
+display="inline"><![CDATA[\vee ]]></fr:tex>.</fr:p><fr:p>When <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is considered as a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, a meet is a
+<fr:link
+type="local"
+href="rs-0023.xml"
+addr="rs-0023"
+title="Product">product</fr:link> and a join is a <fr:link
+type="local"
+href="rs-0024.xml"
+addr="rs-0024"
+title="Coproduct">coproduct</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1774</fr:anchor><fr:addr
+type="user">rs-005U</fr:addr><fr:route>rs-005U.xml</fr:route><fr:title
+text="Poset">Poset</fr:title><fr:taxon>Definition</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>poset</fr:em> is a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> which is <fr:link
+type="local"
+href="rs-001D.xml"
+addr="rs-001D"
+title="Skeletal category">skeletal</fr:link> as a
+<fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>; equivalently, this means its <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> is
+additionally <fr:link
+type="local"
+href="rs-005S.xml"
+addr="rs-005S"
+title="Antisymmetric relation">antisymmetric</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

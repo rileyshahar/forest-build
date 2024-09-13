@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1286</fr:anchor><fr:addr
+type="user">rs-007B</fr:addr><fr:route>rs-007B.xml</fr:route><fr:title
+text="Grothendieck topologies are like spaces">Grothendieck topologies are like spaces</fr:title><fr:taxon>Moral</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The collection <fr:tex
+display="inline"><![CDATA[J(x)]]></fr:tex> of covering sieves of an object <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> in a <fr:link
+type="local"
+href="rs-0079.xml"
+addr="rs-0079"
+title="Grothendieck topology">Grothendieck
+topology</fr:link> is like the collection of <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">covers</fr:link> of an open set <fr:tex
+display="inline"><![CDATA[U]]></fr:tex> in the
+<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">poset of opens</fr:link> in a <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>. In particular,:</fr:p><fr:ul><fr:li>the identity axiom corresponds to the fact that <fr:tex
+display="inline"><![CDATA[\{U\}]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[U]]></fr:tex>;</fr:li>
+  <fr:li>the stability axiom corresponds to the fact that, if <fr:tex
+display="inline"><![CDATA[\{U_i\}]]></fr:tex> covers
+  <fr:tex
+display="inline"><![CDATA[U]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[V\subseteq  U]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[\{U_i\cap  V\}]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[V]]></fr:tex>;</fr:li>
+  <fr:li>the transitivity  axiom corresponds to the fact, if <fr:tex
+display="inline"><![CDATA[\{U_i\}_i]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[U]]></fr:tex> and
+  <fr:tex
+display="inline"><![CDATA[\{U_{ij}\}_j]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[U_i]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[\{U_{ij}\}_{ij}]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[U]]></fr:tex>.</fr:li></fr:ul></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1288</fr:anchor><fr:addr
+type="user">rs-0079</fr:addr><fr:route>rs-0079.xml</fr:route><fr:title
+text="Grothendieck topology">Grothendieck topology</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Definition III.2.1</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Grothendieck topology</fr:em> <fr:tex
+display="inline"><![CDATA[J]]></fr:tex> on a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> consists of,
+for each object <fr:tex
+display="inline"><![CDATA[x\in  C]]></fr:tex>, a collection of <fr:link
+type="local"
+href="rs-0061.xml"
+addr="rs-0061"
+title="Sieve">sieves on
+<fr:tex
+display="inline"><![CDATA[x]]></fr:tex></fr:link> <fr:tex
+display="inline"><![CDATA[J(x)]]></fr:tex>, called <fr:em>covering sieves</fr:em>, so that:
+<fr:ul><fr:li><fr:em>identity</fr:em>: the <fr:link
+type="local"
+href="rs-007D.xml"
+addr="rs-007D"
+title="Maximal sieve">maximal sieve</fr:link> at <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>;</fr:li>
+  <fr:li><fr:em>stability</fr:em>: if <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[y\xrightarrow {f} x]]></fr:tex> is any map, then the <fr:link
+type="local"
+href="rs-0078.xml"
+addr="rs-0078"
+title="Pullback of a sieve">pullback
+  sieve</fr:link> <fr:tex
+display="inline"><![CDATA[f^*S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>;</fr:li>
+  <fr:li><fr:em>transitivity</fr:em>: if <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> is a sieve on <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> so that, for each map
+  <fr:tex
+display="inline"><![CDATA[y\xrightarrow {f} x \in  S]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[f^* T]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>.</fr:li></fr:ul></fr:p><fr:p>Equivalently, say that a sieve <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers a map <fr:tex
+display="inline"><![CDATA[y\xrightarrow {f} x]]></fr:tex> if the
+pullback <fr:tex
+display="inline"><![CDATA[f^*S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>. Then the axioms state: <fr:ul><fr:li>if <fr:tex
+display="inline"><![CDATA[f\in  S]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>;</fr:li>
+  <fr:li>if <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>, then it covers <fr:tex
+display="inline"><![CDATA[fg]]></fr:tex> for any <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> where the
+  composition makes sense;</fr:li>
+  <fr:li>if <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> covers each <fr:tex
+display="inline"><![CDATA[g\in  S]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> covers
+  <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>.</fr:li></fr:ul></fr:p><fr:p>A category equipped with a Grothendieck topology is called a <fr:em>site</fr:em>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1269</fr:anchor><fr:addr
+type="machine">#251</fr:addr><fr:route>unstable-251.xml</fr:route><fr:title
+text="Of the equivalence">Of the equivalence</fr:title><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>In the backwards direction, if <fr:tex
+display="inline"><![CDATA[J]]></fr:tex> satisfies the map axioms, then letting
+  <fr:tex
+display="inline"><![CDATA[f = 1_x]]></fr:tex> shows that it satisfies the object axioms.</fr:p>
+
+  <fr:p>In the forwards direction, let <fr:tex
+display="inline"><![CDATA[J]]></fr:tex> satisfy the object axioms. Then:</fr:p> <fr:ul><fr:li>For any sieve <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> on <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> and any <fr:tex
+display="inline"><![CDATA[f\in  S]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[f^*S]]></fr:tex> covers the domain of
+    <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> by the stability axiom, so <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>.</fr:li>
+    <fr:li>If <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[f^*S]]></fr:tex> covers the domain of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>, so that by
+    stability <fr:tex
+display="inline"><![CDATA[g^*f^*S]]></fr:tex> covers the domain of <fr:tex
+display="inline"><![CDATA[g]]></fr:tex>.</fr:li>
+    <fr:li>If <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[y\xrightarrow {f} x]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> covers each <fr:tex
+display="inline"><![CDATA[g\in  S]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[f^*S]]></fr:tex> covers
+    the <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>, while for each <fr:tex
+display="inline"><![CDATA[g\in  S]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[g^*T]]></fr:tex> covers the domain of
+    <fr:tex
+display="inline"><![CDATA[g]]></fr:tex>. Now by transitivity, <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> covers <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>, so that by stability, <fr:tex
+display="inline"><![CDATA[T]]></fr:tex>
+    covers <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>.</fr:li></fr:ul>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1290</fr:anchor><fr:addr
+type="user">TODO</fr:addr><fr:route>TODO.xml</fr:route><fr:title
+text="TODO">TODO</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>This note is still to do.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

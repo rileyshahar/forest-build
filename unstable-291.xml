@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3958</fr:anchor><fr:addr
+type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  On the left, we have the action <fr:tex
+display="inline"><![CDATA[c\mapsto  (j\mapsto  c)\mapsto  (j\mapsto    c\mapsto  Fc);]]></fr:tex> on the right, we have the action <fr:tex
+display="inline"><![CDATA[c\mapsto  Fc\mapsto  (j\mapsto    Fc)]]></fr:tex>. These agree.
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3960</fr:anchor><fr:addr
+type="user">rs-003Q</fr:addr><fr:route>rs-003Q.xml</fr:route><fr:title
+text="The constant diagram functor commutes with functors">The constant diagram functor commutes with functors</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The <fr:link
+type="local"
+href="rs-001V.xml"
+addr="rs-001V"
+title="Constant functor">constant diagram functor</fr:link> <fr:tex
+display="inline"><![CDATA[\Delta ]]></fr:tex> commutes with other
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functors</fr:link>. In particular, for any category <fr:tex
+display="inline"><![CDATA[J]]></fr:tex> and functor <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex>, <fr:tex
+display="block"><![CDATA[C\xrightarrow {\Delta } C^J\xrightarrow {F_*} D^J= C\xrightarrow {F} D\xrightarrow {\Delta } D^J.]]></fr:tex></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3962</fr:anchor><fr:addr
+type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  On the left, we have the action <fr:tex
+display="inline"><![CDATA[c\mapsto  (j\mapsto  c)\mapsto  (j\mapsto    c\mapsto  Fc);]]></fr:tex> on the right, we have the action <fr:tex
+display="inline"><![CDATA[c\mapsto  Fc\mapsto  (j\mapsto    Fc)]]></fr:tex>. These agree.
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

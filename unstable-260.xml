@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1957</fr:anchor><fr:addr
+type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>To see the first, note that <fr:tex
+display="block"><![CDATA[C(-, 1^x)\cong  C(-\times  x, 1)\cong  *,]]></fr:tex> and
+  the <fr:link
+type="local"
+href="rs-002R.xml"
+addr="rs-002R"
+title="Yoneda embedding preserves and reflects limits">Yoneda embedding reflects limits</fr:link>, so that <fr:tex
+display="inline"><![CDATA[1^x]]></fr:tex> is
+  <fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>. for a more abstract proof, observe that <fr:tex
+display="inline"><![CDATA[(-)^x]]></fr:tex>
+  has a right adjoint, so <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves limits</fr:link>.</fr:p>
+
+  <fr:p>To see the second, note that <fr:tex
+display="block"><![CDATA[C(-, x^1)\cong  C(-\times  1, x)\cong  C(-,   x),]]></fr:tex> and <fr:link
+type="local"
+href="rs-001O.xml"
+addr="rs-001O"
+title="Representable isomorphism is isomorphism">representable isomorphism is isomorphism</fr:link>.</fr:p>
+
+  <fr:p>To see the third, note that <fr:tex
+display="block"><![CDATA[\begin {aligned}     C(-, (y\times  z)^x) &\cong  C(-\times  x, y\times  z) \\     &\cong  C(-\times  x, y)\times  C(-\times  x, z) \\     &\cong  C(-, y^x)\times  C(-, z^x) \\     &\cong  C(-, y^x\times  z^x).   \end {aligned}]]></fr:tex> In particular, the second step uses the <fr:link
+type="local"
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability
+  of limits</fr:link>.</fr:p>
+
+  <fr:p>To see the fourth, note that <fr:tex
+display="block"><![CDATA[\begin {aligned}   C(-, x^{y\times  z}) &\cong  C(-, x^{z\times  y}) \\   &\cong  C(-\times  (z\times  y), x) \\   &\cong  C((-\times  z)\times  y, x) \\   &\cong  C(-\times  z, x^y) \\   &\cong  C(-, (x^y)^z).   \end {aligned}]]></fr:tex></fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1959</fr:anchor><fr:addr
+type="user">rs-006D</fr:addr><fr:route>rs-006D.xml</fr:route><fr:title
+text="Equational theory of cartesian closed categories">Equational theory of cartesian closed categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 46</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>In addition to <fr:link
+type="local"
+href="rs-0033.xml"
+addr="rs-0033"
+title="Equational theory of cartesian categories">those of a cartesian category</fr:link>, a <fr:link
+type="local"
+href="rs-005K.xml"
+addr="rs-005K"
+title="Cartesian closed category">cartesian closed
+category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> saitsfies the following equations up to <fr:link
+type="local"
+href="rs-0010.xml"
+addr="rs-0010"
+title="Natural isomorphism">natural
+isomorphism</fr:link>:</fr:p><fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[1^x \cong  1]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x^1 \cong  x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[(y\times  z)^x\cong  y^x\times  z^x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x^{y\times  z}\cong  (x^y)^z]]></fr:tex>.</fr:li></fr:ul>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1800</fr:anchor><fr:addr
+type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>To see the first, note that <fr:tex
+display="block"><![CDATA[C(-, 1^x)\cong  C(-\times  x, 1)\cong  *,]]></fr:tex> and
+  the <fr:link
+type="local"
+href="rs-002R.xml"
+addr="rs-002R"
+title="Yoneda embedding preserves and reflects limits">Yoneda embedding reflects limits</fr:link>, so that <fr:tex
+display="inline"><![CDATA[1^x]]></fr:tex> is
+  <fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>. for a more abstract proof, observe that <fr:tex
+display="inline"><![CDATA[(-)^x]]></fr:tex>
+  has a right adjoint, so <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves limits</fr:link>.</fr:p>
+
+  <fr:p>To see the second, note that <fr:tex
+display="block"><![CDATA[C(-, x^1)\cong  C(-\times  1, x)\cong  C(-,   x),]]></fr:tex> and <fr:link
+type="local"
+href="rs-001O.xml"
+addr="rs-001O"
+title="Representable isomorphism is isomorphism">representable isomorphism is isomorphism</fr:link>.</fr:p>
+
+  <fr:p>To see the third, note that <fr:tex
+display="block"><![CDATA[\begin {aligned}     C(-, (y\times  z)^x) &\cong  C(-\times  x, y\times  z) \\     &\cong  C(-\times  x, y)\times  C(-\times  x, z) \\     &\cong  C(-, y^x)\times  C(-, z^x) \\     &\cong  C(-, y^x\times  z^x).   \end {aligned}]]></fr:tex> In particular, the second step uses the <fr:link
+type="local"
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability
+  of limits</fr:link>.</fr:p>
+
+  <fr:p>To see the fourth, note that <fr:tex
+display="block"><![CDATA[\begin {aligned}   C(-, x^{y\times  z}) &\cong  C(-, x^{z\times  y}) \\   &\cong  C(-\times  (z\times  y), x) \\   &\cong  C((-\times  z)\times  y, x) \\   &\cong  C(-\times  z, x^y) \\   &\cong  C(-, (x^y)^z).   \end {aligned}]]></fr:tex></fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

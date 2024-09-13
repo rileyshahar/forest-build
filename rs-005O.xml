@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2746</fr:anchor><fr:addr
+type="user">rs-005O</fr:addr><fr:route>rs-005O.xml</fr:route><fr:title
+text="Relation">Relation</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>relation</fr:em> <fr:tex
+display="inline"><![CDATA[A R B]]></fr:tex> between <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">sets</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[B]]></fr:tex> is a
+<fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[R\subseteq  A\times B]]></fr:tex>. Given <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[b\in  B]]></fr:tex>, we say that <fr:tex
+display="inline"><![CDATA[a]]></fr:tex> <fr:em><fr:tex
+display="inline"><![CDATA[R]]></fr:tex>-relates</fr:em> to <fr:tex
+display="inline"><![CDATA[b]]></fr:tex> if <fr:tex
+display="inline"><![CDATA[(a,b)\in  R]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2748</fr:anchor><fr:addr
+type="user">rs-005S</fr:addr><fr:route>rs-005S.xml</fr:route><fr:title
+text="Antisymmetric relation">Antisymmetric relation</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An <fr:link
+type="local"
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism">endo</fr:link><fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> is <fr:em>antisymmetric</fr:em> if, whenever
+<fr:tex
+display="inline"><![CDATA[x\leq  y]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[y\leq  x]]></fr:tex>, we have <fr:tex
+display="inline"><![CDATA[x=y]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2750</fr:anchor><fr:addr
+type="user">rs-005P</fr:addr><fr:route>rs-005P.xml</fr:route><fr:title
+text="Category of relations">Category of relations</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane</fr:meta><fr:meta
+name="ref-at">p. 26</fr:meta><fr:meta
+name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-1978.xml"
+addr="maclane-1978"
+title="Categories for the working mathematician" />
+<fr:p>The <fr:em>category of relations</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Rel</html:span> has <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">sets</fr:link> as objects and
+<fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relations</fr:link> as morphisms. Composition is given by existence, i.e. <fr:tex
+display="inline"><![CDATA[a (SR) c]]></fr:tex> if and only if there is some <fr:tex
+display="inline"><![CDATA[b]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[aRb]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[bRc]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2752</fr:anchor><fr:addr
+type="user">rs-005T</fr:addr><fr:route>rs-005T.xml</fr:route><fr:title
+text="Preorder">Preorder</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>preorder</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> in which, for each pair of objects
+<fr:tex
+display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[P(x, y)]]></fr:tex> is either empty or a singleton. Explicitly, this means
+that it has a collection of elements (its objects) and a <fr:link
+type="local"
+href="rs-005Q.xml"
+addr="rs-005Q"
+title="Reflexive relation">reflexive</fr:link>,
+<fr:link
+type="local"
+href="rs-005R.xml"
+addr="rs-005R"
+title="Transitive relation">transitive</fr:link> <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> (inhabitance of hom-sets).</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2754</fr:anchor><fr:addr
+type="user">rs-005Q</fr:addr><fr:route>rs-005Q.xml</fr:route><fr:title
+text="Reflexive relation">Reflexive relation</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An <fr:link
+type="local"
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism">endo</fr:link><fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> <fr:tex
+display="inline"><![CDATA[A\sim  A]]></fr:tex> is <fr:em>reflexive</fr:em> if <fr:tex
+display="inline"><![CDATA[a\sim  a]]></fr:tex> for all <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2756</fr:anchor><fr:addr
+type="user">rs-005R</fr:addr><fr:route>rs-005R.xml</fr:route><fr:title
+text="Transitive relation">Transitive relation</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An <fr:link
+type="local"
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism">endo</fr:link><fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> <fr:tex
+display="inline"><![CDATA[A\leq  A]]></fr:tex> is <fr:em>transitive</fr:em> if, for
+all <fr:tex
+display="inline"><![CDATA[a,b,c\in  A]]></fr:tex>, if <fr:tex
+display="inline"><![CDATA[a\leq  b]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[b\leq  c]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[a\leq  c]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2758</fr:anchor><fr:addr
+type="user">rs-005U</fr:addr><fr:route>rs-005U.xml</fr:route><fr:title
+text="Poset">Poset</fr:title><fr:taxon>Definition</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>poset</fr:em> is a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> which is <fr:link
+type="local"
+href="rs-001D.xml"
+addr="rs-001D"
+title="Skeletal category">skeletal</fr:link> as a
+<fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>; equivalently, this means its <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> is
+additionally <fr:link
+type="local"
+href="rs-005S.xml"
+addr="rs-005S"
+title="Antisymmetric relation">antisymmetric</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2760</fr:anchor><fr:addr
+type="user">rs-005L</fr:addr><fr:route>rs-005L.xml</fr:route><fr:title
+text="Set">Set</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Lawvere &amp; Schanuel</fr:meta><fr:meta
+name="ref-at">p. 13</fr:meta><fr:meta
+name="ref-note">lawvere-schanuel-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="lawvere-schanuel-2009.xml"
+addr="lawvere-schanuel-2009"
+title="Conceptual mathematics" />
+<fr:p>A <fr:em>(pre)set</fr:em> is a collection of some pre-mathematical <fr:em>elements</fr:em>. We
+write <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex> to denote that <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> is an element of the set <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2762</fr:anchor><fr:addr
+type="user">rs-005N</fr:addr><fr:route>rs-005N.xml</fr:route><fr:title
+text="Subset">Subset</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>subset</fr:em> is a <fr:link
+type="local"
+href="rs-002Z.xml"
+addr="rs-002Z"
+title="Subobject">subobject</fr:link> in <fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

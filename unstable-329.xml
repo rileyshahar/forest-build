@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6145</fr:anchor><fr:addr
+type="machine">#329</fr:addr><fr:route>unstable-329.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Consider a <fr:link
+type="local"
+href="rs-000V.xml"
+addr="rs-000V"
+title="Natural transformation">natural transformation</fr:link> <fr:tex
+display="inline"><![CDATA[     yA\xrightarrow {\alpha }yB.   ]]></fr:tex> By the <fr:link
+type="local"
+href="rs-0014.xml"
+addr="rs-0014"
+title="Yoneda lemma">Yoneda lemma</fr:link>, there is a canonical morphism <fr:tex
+display="inline"><![CDATA[A\xrightarrow {f}B]]></fr:tex>
+  corresponding to <fr:tex
+display="inline"><![CDATA[\alpha ]]></fr:tex>, which in particular satisfies <fr:tex
+display="inline"><![CDATA[\alpha _A(1_A) = f]]></fr:tex>. The natural
+  transformation <fr:tex
+display="inline"><![CDATA[yf = f^*]]></fr:tex> satisfies this condition, and so by the Yoneda lemma
+  is the only morphism to do so. As such, the Yoneda embedding induces exactly
+  the bijection <fr:tex
+display="block"><![CDATA[     C(A, B) = yBA \cong  \hat {C}(yA, yB)   ]]></fr:tex>established by the Yoneda lemma.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6147</fr:anchor><fr:addr
+type="user">rs-0019</fr:addr><fr:route>rs-0019.xml</fr:route><fr:title
+text="Full and faithfullness of the Yoneda embedding">Full and faithfullness of the Yoneda embedding</fr:title><fr:taxon>Theorem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Corollary 2.2.8</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>The <fr:link
+type="local"
+href="rs-0016.xml"
+addr="rs-0016"
+title="Yoneda embedding">Yoneda embedding</fr:link> is <fr:link
+type="local"
+href="rs-0017.xml"
+addr="rs-0017"
+title="Full functor">full</fr:link> and <fr:link
+type="local"
+href="rs-0018.xml"
+addr="rs-0018"
+title="Faithful functor">faithful</fr:link>.
+This result is sometimes conflated with the <fr:link
+type="local"
+href="rs-0014.xml"
+addr="rs-0014"
+title="Yoneda lemma">Yoneda lemma</fr:link>.</fr:p><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2381</fr:anchor><fr:addr
+type="machine">#329</fr:addr><fr:route>unstable-329.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Consider a <fr:link
+type="local"
+href="rs-000V.xml"
+addr="rs-000V"
+title="Natural transformation">natural transformation</fr:link> <fr:tex
+display="inline"><![CDATA[     yA\xrightarrow {\alpha }yB.   ]]></fr:tex> By the <fr:link
+type="local"
+href="rs-0014.xml"
+addr="rs-0014"
+title="Yoneda lemma">Yoneda lemma</fr:link>, there is a canonical morphism <fr:tex
+display="inline"><![CDATA[A\xrightarrow {f}B]]></fr:tex>
+  corresponding to <fr:tex
+display="inline"><![CDATA[\alpha ]]></fr:tex>, which in particular satisfies <fr:tex
+display="inline"><![CDATA[\alpha _A(1_A) = f]]></fr:tex>. The natural
+  transformation <fr:tex
+display="inline"><![CDATA[yf = f^*]]></fr:tex> satisfies this condition, and so by the Yoneda lemma
+  is the only morphism to do so. As such, the Yoneda embedding induces exactly
+  the bijection <fr:tex
+display="block"><![CDATA[     C(A, B) = yBA \cong  \hat {C}(yA, yB)   ]]></fr:tex>established by the Yoneda lemma.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

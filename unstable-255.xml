@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1507</fr:anchor><fr:addr
+type="machine">#255</fr:addr><fr:route>unstable-255.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>First, we show that the subobject poset of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>.
+  Let <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> be <fr:link
+type="local"
+href="rs-0060.xml"
+addr="rs-0060"
+title="Subfunctor">subfunctors</fr:link> of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex>. Then:
+  <fr:ul><fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meet</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\wedge  Q)X = PX\cap  QX;]]></fr:tex></fr:li>
+    <fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">join</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\vee  Q)X = PX\cup  QX;]]></fr:tex></fr:li>
+    <fr:li>the implication is given by <fr:tex
+display="block"><![CDATA[(P\Rightarrow  Q)X = \{x\in  PX: \text { for all }     Y\xrightarrow {f} X\in  C, \text { if } Pf(x)\in  SY \text { then } Pf(x)\in  TY\}.]]></fr:tex></fr:li></fr:ul></fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1509</fr:anchor><fr:addr
+type="user">rs-0070</fr:addr><fr:route>rs-0070.xml</fr:route><fr:title
+text="The subobjects of a presheaf form a Heyting algebra">The subobjects of a presheaf form a Heyting algebra</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Proposition I.8.5</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C^\text {op}\xrightarrow {P}]]></fr:tex> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> be a <fr:link
+type="local"
+href="rs-0015.xml"
+addr="rs-0015"
+title="Presheaf">presheaf</fr:link>. Then the <fr:link
+type="local"
+href="rs-002Z.xml"
+addr="rs-002Z"
+title="Subobject">subobject
+poset</fr:link> of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting algebra</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1511</fr:anchor><fr:addr
+type="machine">#255</fr:addr><fr:route>unstable-255.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>First, we show that the subobject poset of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>.
+  Let <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> be <fr:link
+type="local"
+href="rs-0060.xml"
+addr="rs-0060"
+title="Subfunctor">subfunctors</fr:link> of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex>. Then:
+  <fr:ul><fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meet</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\wedge  Q)X = PX\cap  QX;]]></fr:tex></fr:li>
+    <fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">join</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\vee  Q)X = PX\cup  QX;]]></fr:tex></fr:li>
+    <fr:li>the implication is given by <fr:tex
+display="block"><![CDATA[(P\Rightarrow  Q)X = \{x\in  PX: \text { for all }     Y\xrightarrow {f} X\in  C, \text { if } Pf(x)\in  SY \text { then } Pf(x)\in  TY\}.]]></fr:tex></fr:li></fr:ul></fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

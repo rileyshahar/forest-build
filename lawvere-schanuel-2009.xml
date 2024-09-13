@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8170</fr:anchor><fr:addr
+type="user">lawvere-schanuel-2009</fr:addr><fr:route>lawvere-schanuel-2009.xml</fr:route><fr:title
+text="Conceptual mathematics">Conceptual mathematics</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2009</fr:year></fr:date><fr:authors><fr:author>William Lawvere</fr:author><fr:author>Stephen Schanuel</fr:author></fr:authors><fr:meta
+name="isbn">9780521719162</fr:meta><fr:meta
+name="doi">10.1017/CBO9780511804199 </fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{lawvere-Schanuel-2009,
+  place = {Cambridge},
+  edition = {2},
+  title = {Conceptual Mathematics: A First Introduction to Categories},
+  publisher = {Cambridge University Press},
+  author = {Lawvere, F. William and Schanuel, Stephen H.},
+  year = {2009}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>In the last 60 years, the use of the notion of category has led to a
+remarkable unification and simplification of mathematics. Conceptual Mathematics
+introduces this tool for the learning, development, and use of mathematics, to
+beginning students and also to practising mathematical scientists. This book
+provides a skeleton key that makes explicit some concepts and procedures that
+are common to all branches of pure and applied mathematics. The treatment does
+not presuppose knowledge of specific fields, but rather develops, from basic
+definitions, such elementary categories as discrete dynamical systems and
+directed graphs; the fundamental ideas are then illuminated by examples in these
+categories. This second edition provides links with more advanced topics of
+possible study. In the new appendices and annotated bibliography the reader will
+find concise introductions to adjoint functors and geometrical structures, as
+well as sketches of relevant historical developments.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8173</fr:anchor><fr:addr
+type="user">rs-005L</fr:addr><fr:route>rs-005L.xml</fr:route><fr:title
+text="Set">Set</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Lawvere &amp; Schanuel</fr:meta><fr:meta
+name="ref-at">p. 13</fr:meta><fr:meta
+name="ref-note">lawvere-schanuel-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="lawvere-schanuel-2009.xml"
+addr="lawvere-schanuel-2009"
+title="Conceptual mathematics" />
+<fr:p>A <fr:em>(pre)set</fr:em> is a collection of some pre-mathematical <fr:em>elements</fr:em>. We
+write <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex> to denote that <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> is an element of the set <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8175</fr:anchor><fr:addr
+type="user">rs-005M</fr:addr><fr:route>rs-005M.xml</fr:route><fr:title
+text="Set-function">Set-function</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Lawvere &amp; Schanuel</fr:meta><fr:meta
+name="ref-at">p. 14</fr:meta><fr:meta
+name="ref-note">lawvere-schanuel-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="lawvere-schanuel-2009.xml"
+addr="lawvere-schanuel-2009"
+title="Conceptual mathematics" />
+<fr:p>A <fr:em>(set-)function</fr:em> consists of two <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">sets</fr:link>, the <fr:em>domain</fr:em> and
+the <fr:em>codomain</fr:em>, and a <fr:em>rule</fr:em> (say, a <fr:em>derivation</fr:em>) that assigns to each
+element of the domain a unique element of the codomain.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
