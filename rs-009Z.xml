@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>373</fr:anchor><fr:addr
+type="user">rs-009Z</fr:addr><fr:route>rs-009Z.xml</fr:route><fr:title
+text="Cardinality">Cardinality</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The <fr:em>cardinality</fr:em> <fr:tex
+display="inline"><![CDATA[|X|]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is its
+<fr:link
+type="local"
+href="rs-000E.xml"
+addr="rs-000E"
+title="Bijection">bijection</fr:link> <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">equivalence class</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>375</fr:anchor><fr:addr
+type="user">rs-00A0</fr:addr><fr:route>rs-00A0.xml</fr:route><fr:title
+text="Lagrange's theorem">Lagrange's theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Corollary 8.14</fr:meta><fr:meta
+name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="external"
+href="aluffi-2007" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[H\leq  G]]></fr:tex> be a <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroup</fr:link>, and <fr:tex
+display="inline"><![CDATA[G/H]]></fr:tex> the set of
+<fr:link
+type="local"
+href="rs-009W.xml"
+addr="rs-009W"
+title="Coset">cosets</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>. Then there is an equation of <fr:link
+type="local"
+href="rs-009Z.xml"
+addr="rs-009Z"
+title="Cardinality">cardinalities</fr:link>
+<fr:tex
+display="block"><![CDATA[|H||G/H| = |G|.]]></fr:tex></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>365</fr:anchor><fr:addr
+type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>The cosets partition <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>, so it suffices to show that all cosets have
+  cardinality <fr:tex
+display="inline"><![CDATA[|H|]]></fr:tex>. The map <fr:tex
+display="block"><![CDATA[H\to  gH,\quad  h\mapsto  gh]]></fr:tex> is a
+  <fr:link
+type="local"
+href="rs-000E.xml"
+addr="rs-000E"
+title="Bijection">bijection</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>377</fr:anchor><fr:addr
+type="user">rs-009X</fr:addr><fr:route>rs-009X.xml</fr:route><fr:title
+text="Orbit-stabilizer theorem">Orbit-stabilizer theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Corollary 9.10</fr:meta><fr:meta
+name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="external"
+href="aluffi-2007" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action"><fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-set</fr:link> and <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>. Then there is an equation of
+<fr:link
+type="local"
+href="rs-009Z.xml"
+addr="rs-009Z"
+title="Cardinality">cardinalities</fr:link> <fr:tex
+display="block"><![CDATA[|\operatorname {stab}_G(a)||Ga| = |G|,]]></fr:tex> where the former is the
+<fr:link
+type="local"
+href="rs-009V.xml"
+addr="rs-009V"
+title="Stabilizer">stabilizer</fr:link> and the latter is the <fr:link
+type="local"
+href="rs-009U.xml"
+addr="rs-009U"
+title="Orbit">orbit</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>371</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We construct a <fr:link
+type="local"
+href="rs-000E.xml"
+addr="rs-000E"
+title="Bijection">bijection</fr:link> <fr:tex
+display="inline"><![CDATA[Ga\cong  G/\operatorname {stab}_G(a)]]></fr:tex>, whence the
+  result follows from <fr:link
+type="local"
+href="rs-00A0.xml"
+addr="rs-00A0"
+title="Lagrange's theorem">Lagrange's theorem</fr:link>. Given an element <fr:tex
+display="inline"><![CDATA[b = ga\in  Ga]]></fr:tex>,
+  identify it with the <fr:link
+type="local"
+href="rs-009W.xml"
+addr="rs-009W"
+title="Coset">coset</fr:link> <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>. This is well-defined: if
+  <fr:tex
+display="inline"><![CDATA[b = ga = ha]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[gh^{-1}\in \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>. Moreover, it is <fr:link
+type="local"
+href="rs-000H.xml"
+addr="rs-000H"
+title="Injection">injective</fr:link>: if <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[gh^{-1} \in  \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[ga = ha]]></fr:tex>. Finally, it
+  is <fr:link
+type="local"
+href="rs-000I.xml"
+addr="rs-000I"
+title="Surjection">surjective</fr:link>: given some <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>, it is the image of
+  <fr:tex
+display="inline"><![CDATA[ga\in  Ga]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>379</fr:anchor><fr:addr
+type="user">rs-00A1</fr:addr><fr:route>rs-00A1.xml</fr:route><fr:title
+text="Order">Order</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A1.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.1.9</fr:meta><fr:meta
+name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="external"
+href="aluffi-2007" />
+<fr:p>The <fr:em>order</fr:em> of an element <fr:tex
+display="inline"><![CDATA[g\in  G]]></fr:tex> of a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> is the
+smallest <fr:tex
+display="inline"><![CDATA[n]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[g^n = e]]></fr:tex>; equivalently, it is the
+<fr:link
+type="local"
+href="rs-009Z.xml"
+addr="rs-009Z"
+title="Cardinality">cardinality</fr:link> of the <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroup</fr:link> generated by <fr:tex
+display="inline"><![CDATA[g]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>381</fr:anchor><fr:addr
+type="user">rs-0096</fr:addr><fr:route>rs-0096.xml</fr:route><fr:title
+text="Equivalence relation">Equivalence relation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0096.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An <fr:em>equivalence relation</fr:em> is a <fr:link
+type="local"
+href="rs-0094.xml"
+addr="rs-0094"
+title="Congruence">congruence</fr:link> in
+<fr:link
+type="local"
+href="rs-0097.xml"
+addr="rs-0097"
+title="Sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>. Explicitly, it is a <fr:link
+type="local"
+href="rs-005Q.xml"
+addr="rs-005Q"
+title="Reflexive relation">reflexive</fr:link>,
+<fr:link
+type="local"
+href="rs-0095.xml"
+addr="rs-0095"
+title="Symmetric relation">symmetric</fr:link>, and <fr:link
+type="local"
+href="rs-005R.xml"
+addr="rs-005R"
+title="Transitive relation">transitive</fr:link> <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>383</fr:anchor><fr:addr
+type="user">rs-005L</fr:addr><fr:route>rs-005L.xml</fr:route><fr:title
+text="Set">Set</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Lawvere &amp; Schanuel</fr:meta><fr:meta
+name="ref-at">p. 13</fr:meta><fr:meta
+name="ref-note">lawvere-schanuel-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="lawvere-schanuel-2009.xml"
+addr="lawvere-schanuel-2009"
+title="Conceptual mathematics" />
+<fr:p>A <fr:em>(pre)set</fr:em> is a collection of some pre-mathematical <fr:em>elements</fr:em>. We
+write <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex> to denote that <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> is an element of the set <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>385</fr:anchor><fr:addr
+type="user">rs-000E</fr:addr><fr:route>rs-000E.xml</fr:route><fr:title
+text="Bijection">Bijection</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>bijection</fr:em> is an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> in <fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.
+Explicitly, a map is bijective if it is both <fr:link
+type="local"
+href="rs-000H.xml"
+addr="rs-000H"
+title="Injection">injective</fr:link> and
+<fr:link
+type="local"
+href="rs-000I.xml"
+addr="rs-000I"
+title="Surjection">surjective</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

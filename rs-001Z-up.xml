@@ -7,13 +7,13 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5957</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6867</fr:anchor><fr:addr
 type="user">rs-001Z-up</fr:addr><fr:route>rs-001Z-up.xml</fr:route><fr:title
 text="Colimit › universal property of colimits"><fr:link
 type="local"
 href="rs-001Z.xml"
 addr="rs-001Z"
-title="Colimit">Colimit</fr:link> › universal property of colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+title="Colimit">Colimit</fr:link> › universal property of colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -154,9 +154,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5959</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6869</fr:anchor><fr:addr
 type="user">riehl-2017</fr:addr><fr:route>riehl-2017.xml</fr:route><fr:title
-text="Category theory in context">Category theory in context</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
+text="Category theory in context">Category theory in context</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/riehl-2017.tree</fr:source-path><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
 name="isbn">9780486820804</fr:meta><fr:meta
 name="external">https://math.jhu.edu/~eriehl/context/</fr:meta><fr:meta
 name="bibtex"><![CDATA[@book{riehl-2017,
@@ -187,9 +187,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5961</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6871</fr:anchor><fr:addr
 type="user">rs-001Z</fr:addr><fr:route>rs-001Z.xml</fr:route><fr:title
-text="Colimit">Colimit</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Colimit">Colimit</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -245,9 +245,9 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>805</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1724</fr:anchor><fr:addr
 type="user">rs-001Z-up</fr:addr><fr:route>rs-001Z-up.xml</fr:route><fr:title
-text="Universal property of colimits">Universal property of colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Universal property of colimits">Universal property of colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -388,9 +388,127 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5963</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6873</fr:anchor><fr:addr
+type="user">rs-0098-up</fr:addr><fr:route>rs-0098-up.xml</fr:route><fr:title
+text="Quotient object › universal property of quotients"><fr:link
+type="local"
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">Quotient object</fr:link> › universal property of quotients</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0098.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The <fr:link
+type="local"
+href="rs-001Z-up.xml"
+addr="rs-001Z-up"
+title="Colimit › universal property of colimits">universal property</fr:link> of the <fr:link
+type="local"
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">quotient</fr:link> <fr:tex
+display="inline"><![CDATA[x/r]]></fr:tex> of a
+  <fr:link
+type="local"
+href="rs-0094.xml"
+addr="rs-0094"
+title="Congruence">congruence</fr:link> <fr:tex
+display="inline"><![CDATA[r\xrightarrow {r_1,r_2} x]]></fr:tex> is that, for any object <fr:tex
+display="inline"><![CDATA[z]]></fr:tex>
+  equipped with a morphism <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} z]]></fr:tex> which is constant on equivalence classes,
+  in that <fr:tex
+display="inline"><![CDATA[fr_1 = fr_2]]></fr:tex>, there exists a unique factorization of <fr:tex
+display="inline"><![CDATA[x/r\to  z]]></fr:tex> of
+  <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>:
+  
+ 
+  
+  <fr:figure><fr:resource
+hash="9c00293ea272592be8dffdc6743dc4d3"><fr:resource-content><fr:img
+src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuNCAtLT4KPHN2ZyB2ZXJzaW9uPScxLjEnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgeG1sbnM6eGxpbms9J2h0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsnIHdpZHRoPScxNDkuMjA0MTg5cHQnIGhlaWdodD0nNzIuOTMyNzI3cHQnIHZpZXdCb3g9Jy03MiAtNzIgOTkuNDY5NDYgNDguNjIxODE4Jz4KPHN0eWxlIHR5cGU9J3RleHQvY3NzJz4KPCFbQ0RBVEFbQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbXI3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFNSUFBb0FBQUFBQTJ3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVNQUFBQmdoVHgwRldOdFlYQUFBQUU0QUFBQUtRQUFBRFFBREFCMFoyeDVaZ0FBQVdRQUFBQlVBQUFBVko1UDc1MW9aV0ZrQUFBQnVBQUFBQzBBQUFBMktCZ0pabWhvWldFQUFBSG9BQUFBSUFBQUFDUUVUQUpCYUcxMGVBQUFBZ2dBQUFBSUFBQUFDQVFlQUdwc2IyTmhBQUFDRUFBQUFBWUFBQUFHQUNvQUFHMWhlSEFBQUFJWUFBQUFGZ0FBQUNBQUJRQVhibUZ0WlFBQUFqQUFBQURIQUFBQkxMNFdra0p3YjNOMEFBQUMrQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm00bWVjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0FFakF4SklLUzVMQjBvcU1pZ3lNL3dIOHBraDBraHEvZ09GQWFMN0RFRUFlTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHQlNBTkFzUWd2aUsvLzlEeVA4UHdId0dBRS8zQm4wQUFBQUFBZ0JxQUFBQTRBTGJBQXNBRlFBQUV3TU9BU0ltSndNK0FUSVdFdzRDTGdFMk54NEI0Q2dCQ0JNSkFTZ0NJaTBrQVFFaE1TRUNJQndZSVFLai9qc1BDUWtRQWNRYUhoMzlmUmtoQVNBeklnRUJJUUI0Mm1OZ1pHQmdBT0tHUzVNWHh2UGJmR1ZnWm1FQWdjZmlTY2VSYWFiTFRMZUJGQWNERTRnSEFDL2xDakVBQUFCNDJtTmdaR0JnWnZqUHdNREFkSmtoaXlHYjRRRURVQVFGTUFFQVZsZ0RrUUxUQUFBQlN3QnFBQUFBQUFBcUFBQjQybU5nWkdCZ1lHSVFBMklRWUdSQUF3QUMyZ0FkQUFCNDJqV09Pd3ZDTUJTRnYySXRXZ2NIUVp3aytBT0tvaUM0T25SeUxZNCtFcVJEVTBrZjRPSnY5emJFRzdoODk1eHprd0FwWHlLR2lwajdQbFFzWng1NHpJeEY0RVQwZGVDVUZSdEdSUEZVbERXbndERVRyb0hITExrRlRrVHZBNmRzK1o3cjZ0MjF4cWxMclkyeno4b2RDK09hc3JacWwyMkhNVGZXdUh0cnRIcDhsTzdMcG45VmFwOGRPRk5UOGFhanhlQlFYRVRSbmkxUDhSeEhDajgzbE9KWnllekk1TjIvbTR0cmZlTHViOUdTZVBDUnJ1V2ZwZXoxdkNTcjJNdmU0UWMzZ3kyQkFIamFZMkJtUUFhTURHZ0FBQUNPQUFVPSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtc3k3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFNY0FBb0FBQUFBQTRnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVvQUFBQmdxa3lVVG1OdFlYQUFBQUZBQUFBQUtnQUFBRFFBRENKV1oyeDVaZ0FBQVd3QUFBQmNBQUFBYUo1Z1ZJWm9aV0ZrQUFBQnlBQUFBQzhBQUFBMktOY0pVbWhvWldFQUFBSDRBQUFBSGdBQUFDUUZ1d0FVYUcxMGVBQUFBaGdBQUFBSUFBQUFDQVluQUZCc2IyTmhBQUFDSUFBQUFBWUFBQUFHQURRQUFHMWhlSEFBQUFJb0FBQUFGd0FBQUNBQUJBQWZibUZ0WlFBQUFrQUFBQURNQUFBQk1oTksvRk53YjNOMEFBQUREQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm1GbWFjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4b0FBSEdDT2x1Q3lkZ1UySldZbVpXZkdQRVFNRHN5THpPYUF3STBMcC8vOE1EQURMeEEzT0FBQjQybU5nWUdCaVlHQmdCbUlSSU1rSXBsa1lGSUEwQ3hBQytVck0vLzlEeUx2L3dQSU1BRkJ0Qm9FQUFIamFZMkJrQ1BqL244bUQ2UVNETEFNRG82QVltN29pbTVxSm1iaWlJQnB0SnNia3ppZ28rUytLVDBxU24zSE92MEllU1JrK3hxNS9LV0QrTWtsQnB2bC9PNlg0R1JrNVZEZ1lHU1VobERnanB6SW5JNk1BQXdEN05oSE5lTnBqWUdSZ1lBRGk1aFdsK2ZIOE5sOFptRmtZUU9DeGVOSnhCUDMvUC9ORXBoTkFMZ2NERTBnVUFEWkRDMlFBZU5wallHUmdZRmI4WXdRa0p6SUVNUGd4ZVRBQVJWQUFFd0JKZUFMVEFBQURrUUFBQXBZQVVBQUFBQUFBTkFBQWVOcGpZR1JnWUdCaWtHTUEwUXhRRWdrQUFBT0xBQ1FBZU5wRmpUMVB3ekFVUlU5RVVva3dzQ0RFQkI2WW8xYXQxSVd0UTZldUhkamEycW95eEtuc05GSVltUGpoM0JwTHZPSHAzSTluQXpYZkZOeW00REh0MjVSVVVuOWM4Y0JUNXBuVVcrYWFGOTY1b3lqdjVienlrYmxVOHBtNTRobWJlU2IvSzNQTm5KOU4zMTJ1Z3d0bTExc1gvS21MMDNydlFteDdieGJOUE9tdDh5NGNCbWZOY1RKMmJPTjQ3c3l5V2JHaHArUENsUUZId0xDVFl4TjdUc29pRTJ2MnlZbTBTcjFhQ3hyOS9aOXZsZnZVT2FTWHJEcEhKVVkwNmlwcW45VTJMSFc1K2dYR1RDK0ZlTnBqWUdaQUJvd01hQUFBQUk0QUJRPT0pIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbW1pNztzcmM6dXJsKGRhdGE6YXBwbGljYXRpb24veC1mb250LXdvZmY7YmFzZTY0LGQwOUdSZ0FCQUFBQUFBU3NBQW9BQUFBQUJXQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCUFV5OHlBQUFBOUFBQUFFTUFBQUJnaFlCMHFXTnRZWEFBQUFFNEFBQUFNZ0FBQUR3QWtRQzNaMng1WmdBQUFXd0FBQUhpQUFBQ0xBMFJnZ0JvWldGa0FBQURVQUFBQUM4QUFBQTJLQXdJaTJob1pXRUFBQU9BQUFBQUlBQUFBQ1FGblFHYmFHMTBlQUFBQTZBQUFBQVFBQUFBRUFsS0FNQnNiMk5oQUFBRHNBQUFBQW9BQUFBS0FXd0F2RzFoZUhBQUFBTzhBQUFBR0FBQUFDQUFCd0JDYm1GdFpRQUFBOVFBQUFESkFBQUJNdk0rL0Nkd2IzTjBBQUFFb0FBQUFBd0FBQUFnQUFNQUFIamFZMkJtQ21LY3dNREt3TUEwaStuc1B4R0dmaEROK0lieERZTXhJeWNERUxBeHdBRWpBeEpJS1M1TEIwcW1NaFF4TS93SDhwa2gwa2hxL2dPRkFjeTdEUmtBZU5wallHQmdZbUJnWUFaaUVTREpDS1paR0RTQU5CdVFaZ1RLcGpFVS9mOFA1S2VDNlA5ei9rOEVxd0lDQUpvWENVSUFBSGphUlpHOWJoTkJGSVhueks1bjExNW5aMnp2ajIzdyttZnRXVHNodHZIYXV5WWtheWNPQXVFb0FvRVVRUUU5QlFYaUJYZ0JLZ29hQ3A2QWw0aG9FUTlCUVVsQkdpVE1XQWh4dTNQUEZOOTNoMUJ5WjNPRlg3Z2traVNFcENIakNCQjdDeVJwRXNCMU9KZ3h4RXlsTklrbm51OHhneGxSN0cxek9rUW9WV1RmbG5sUUpDTnhWRjdlTHV4WWszcjIrdWt6L1o1YmZmUTR2UXVFOHh2ak41UEdZYTh6MHpFS3ZkamVtWDN2dTBHVzBXSk9MQzBVbVQwUWZaMitmUERxMU9HejhWNzF5TFgxR2xqT2R0S2dwVGxHb1VWQTFwc1JmVUcva2lVaDBMWmtOb3lPakRJRnZBWHptc2l3MEVJbUV6L09rS3E5SXJZVlpDU1RWSTVnVTQ0NDhWaUVqd2RDRi9YODhjMytBZEIxcFFiZTVKeDMyMXBqeU04Q1d1RVB1V3Q3SitIZ1VPRjdxaGNCNStWeVVERHJ6N2MxM3YyK3ZGOWFUcDJWSnNPZ1Jic3NzdklVK3RwOS8vTkM2eGk0ZUhJdGtyM3Uvd28xdWY5Vzc1Z2dha0RHbXl0YXhHY3lWMWZuc0tFOEZsb3ltOHBJU2RrWVlhaStRRWtrbnAvNC96U21melcyRHpoK1JLWlpyVHNvN0JVdHhpdEJ4OG9aQll2QkxSV2pobnNxVnVlRFk0cGVSV3BPVFlocWU5ZXM5eWovOHFISmJWSGEvVFFlK3NLOURtUmp4d0tsZk5YMEcwQmpmMDNEZnF0SnU3eWR6MnNVcnVITXpWc0srUTliajBwckFBQjQybU5nWkdCZ0FHSU5wcTc1OGZ3Mlh4bVlXUmhBNExGNDBuRUUvVitmNlJqVFJTQ1hnNEVKSkFvQUN6MEtGUUI0Mm1OZ1pHQmdadmpQd01EQWRJekI0UDhGcGl3R29BZ0tZQUVBWlhnRVBBTEdBQUFDS3dCRkFqb0FTd0lmQURBQUFBQUFBRllBdkFFV0FBQjQybU5nWkdCZ1lHRndaR0JpQUFGR0JqUUFBQWREQUVwNDJrV05QYXZDTUJTR24ySXJXQWNYa1R0cEJ1ZWlLTGpjemNISjFjRk5UWkFPU1NTdEJSMmM3Zy8zbUJ2d0RJZm4vVGdKVVBJaTR6TVpvN2cvazFPSSt1ZUNJZVBFZlZHenhDVS96T21SNVFOeHB2d216aVU1Smk2WW9CUDN4WDhtTGxud3QvWDJkbTlOVUh1dlRYQVhhK3ZOd1lTbTlrNHRxMFhVTytOTU9MVkdxL05ENmE1dXVxdFZxMnJORm8vbHhwMFdRMEN4RjBkSGRsd2tzOVJzT0VTbkVmYmlLNVpVOHZjMzMwbnVZdWNVWDlMU09mT1FyZW1rMGNpK1NsZXhrc3YxRzZBc0x5MEFBQUI0Mm1OZ1pzQUxBQUI5QUFRPSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtcjU7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQU9vQUFvQUFBQUFCQkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRVFBQUFCZ2hVeDFBbU50WVhBQUFBRTRBQUFBTEFBQUFEUUFEQUNGWjJ4NVpnQUFBV1FBQUFEMEFBQUE5TnUrK1pKb1pXRmtBQUFDV0FBQUFDd0FBQUEyS0pjSk5taG9aV0VBQUFLRUFBQUFIZ0FBQUNRRnVnS3lhRzEwZUFBQUFxUUFBQUFLQUFBQUNnWm5BSkpzYjJOaEFBQUNzQUFBQUFnQUFBQUlBRElBZW0xaGVIQUFBQUs0QUFBQUZ3QUFBQ0FBQlFBdGJtRnRaUUFBQXRBQUFBREhBQUFCTEx3VWtqNXdiM04wQUFBRG1BQUFBQkFBQUFBZ0FBTUFBWGphWTJCbWVzMDRnWUdWZ1lGcEZ0UFpmeUlNL1NDYThRM2pHd1pqUms0R0lHQmpnQU5HQmlTUVVseVdEcFEwWkRCaVp2Z1A1RE5EcEpIVS9BY0tBd0QyeEEwK2VOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdCU0FOQXNRZ3ZoRy8vOERTY1AvLy85ZkFQTVpBRkZZQm80QUFRQ1NBQUFDTndLckFCNEFBQUVSQmhZN0FSVW1KeU1HQnpVek1qWW5FUTRCSnlNMU14WS9BVFkzTmhZQm1BUWlUak1zT3RFNkxETk9JUU11VkJNU0VoSStCejg1R0E0Q2kvM05GeFF0QXdFQkF5MFVGd0lBRWd3QkxRSUtBZ291QVFrQUFBRUFYUUFBQWxzQ3FnQXJBQUFsQnlFMU5EOENQZ0UzTGdFbklnWUhIZ0VYRGdFakJpWW5QZ0UzTWhZWERnRUhCZzhCSlRZM1BnRTNBbHNpL2lRRENmbzlUUUVDYUUwMFVoWVlJUUVCSmhVT0xBSUNoR3B3bXdNQ2FFZ3ZOV2tCQWlvS0RROEN4c1lmQlFJSjFERnFQMHhUQVNvakFoOGJJQjBCR1NkTlpRSnBZMUJwTGlBblRnRUJCQXRCRWdBQWVOcGpZR1JnWUFCaXhwaXl2Zkg4Tmw4Wm1Ga1lRT0N4ZU5KeFpKbzVpR2sxa09KZ1lBTHhBUHR2Q0l0NDJtTmdaR0JnWnZqUEFDU0RHR0laWXBtaUdZQWlLSUFKQUQzUkFuTUFBQU5TQUFBQ3VBQ1NBRjBBQUFBQUFBQUFNZ0I2ZU5wallHUmdZR0JtMEdFQTBReFFFZ2tBQUFVRUFETUFlTm8xampzTHdqQVVoYjlpTFZvSEIwR2NKUGdEaXFJdXJnNmRYSXVqandUcDBGVFNCN2o0MjcwTjhRWXUzejNuM0NSQXlwZUlvU0xtdmc4Vnk1a0hIak5qRVRnUmZSMDRaY1dHRVZFOEZXWE5LWERNaEd2Z01VdHVnUlBSKzhBcFc3N251bnAzclhIcVVtdmo3TE55eDhLNHBxeXQybVhiWWN5Tk5lN2VHcTBlSDZYN3N1bGZsZHBuQjg3VVZMenBhREU0RkJkUnRHZkxVenpIa2NMUERhVjRWakk3TW5uMzcrYmlXcCs0KzF1MEpCNThwR3Y1WnlsN1BTL0pLdmF5ZC9nQk5ERXRlUUI0Mm1OZ1prQUdqQXhvQUFBQWpnQUYpIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbXIxMDtzcmM6dXJsKGRhdGE6YXBwbGljYXRpb24veC1mb250LXdvZmY7YmFzZTY0LGQwOUdSZ0FCQUFBQUFBTGNBQW9BQUFBQUEwZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCUFV5OHlBQUFBOUFBQUFFUUFBQUJnaFVsejRXTnRZWEFBQUFFNEFBQUFLUUFBQURRQURBQ0JaMng1WmdBQUFXUUFBQUFvQUFBQUtJMU00SzlvWldGa0FBQUJqQUFBQUN3QUFBQTJKOFVHOTJob1pXRUFBQUc0QUFBQUh3QUFBQ1FFSUFIYWFHMTBlQUFBQWRnQUFBQUlBQUFBQ0FPY0FGbHNiMk5oQUFBQjRBQUFBQVlBQUFBR0FCUUFBRzFoZUhBQUFBSG9BQUFBRndBQUFDQUFCQUFLYm1GdFpRQUFBZ0FBQUFES0FBQUJNb01zKzhGd2IzTjBBQUFDekFBQUFCQUFBQUFnQUFNQUFYamFZMkJtUE1jNGdZR1ZnWUZwRnRQWmZ5SU0vU0NhOFEzakd3WmpSazRHSUdCamdBTkdCaVNRVWx5V0RwVFVZOUJqWnZnUDVETkRwSkhVL0FjS0F3RHJEQTBaZU5wallHQmdZbUJnWUFaaUVTREpDS1paR0JTQU5Bc1Fndmg2Ly85RHlQK1h3WHdHQUZFSUJvb0FBQUFBQVFCWkFBRUF4UUJzQUFnQUFEY09BU0ltTkRZeUZzVUJIeTBmSHkwZk5oWWZIeTBmSHdBQWVOcGpZR1JnWUFCaXFZUFAyT1A1YmI0eU1MTXdnTUJqOGFUanlEUlRBME1Pa09KZ1lBTHhBQVhtQ0s5NDJtTmdaR0JnWnZqUHdNREExTUFReVJET2NKUUJLSUlDbUFCSkVRTCtBQUtBQUFBQkhBQlpBQUFBQUFBVUFBQjQybU5nWkdCZ1lHTGdaQURSREZBU0NRQUFBWDRBRHdCNDJrV05QVy9DTUJSRlQ5UUVxZW5RQlZXZFdnK2RvMFF3c2pFd3NUSjBBMnloREhHUUV5TFJnWWtmM290cnFXOTRPdmZqMlVESmpZekhaTHpHL1ppY1F1cVBDMTZZSjU1SmZTWXVlZWVMSjdMOFdjNEhxOFM1a3UvRUJXL1l4RFA1UDRsTGF1N3J2anRmUmhmTXRyY3UrR01YbW5ybnd0RDIzalJWSGZYR2VSZjJvN1BtY0RWMmFvZnAxSmxGdFdSTlQ4ZVpDeU9PZ0dFcngwYjJISlVGR3YyeWk4NUFxOVNyMVZESi9jODN5bjNzN09OTFZwMERWMjNMcEt0Qis2UzJZYUhMNVM4OFVDNUZBQUI0Mm1OZ1prQUdqQXhvQUFBQWpnQUYpIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbW1pMTA7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQVVvQUFvQUFBQUFCaUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRU1BQUFCZ2hVcDBkR050WVhBQUFBRTRBQUFBT3dBQUFFd0JTd0RZWjJ4NVpnQUFBWFFBQUFKUEFBQUMxSklROEE5b1pXRmtBQUFEeEFBQUFDNEFBQUEySjd3SWltaG9aV0VBQUFQMEFBQUFJQUFBQUNRRlBRRjRhRzEwZUFBQUJCUUFBQUFVQUFBQUZBcHBBS0JzYjJOaEFBQUVLQUFBQUF3QUFBQU1BUklCMm0xaGVIQUFBQVEwQUFBQUZ3QUFBQ0FBQndCYWJtRnRaUUFBQkV3QUFBRFBBQUFCT0dvZGRoMXdiM04wQUFBRkhBQUFBQXdBQUFBZ0FBTUFBSGphWTJCbUVtV2N3TURLd01BMGkrbnNQeEdHZmhETitJYnhEWU14SXljREVMQXh3QUVqQXhKSUtTNUxCMHJxTTFReE0vd0g4cGtoMGtocS9nT0ZBYkR3REs0QWVOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdDeUFOQmNEQjFDT2lVR2ZvWWloZ3FIcS8zK2dHSno5LzlML0NmKzcvM2VCZFVBQkFGbGNEaG9BZU5vMVVjdHUwMEFVOVJrNzQ4YngrNW5FenRpeFd6dVBObW1jMkU2cnFpMVpCYnJnSVZFaHhKSVZZc2MzSUxIZ0ovZ1JGa2pBbGkwN2ZvQVZZb2RhcGhITUhjM00xYmwzZE04NUFvVDF6UzIraW9LZ0NFSWJOQzhhMUVzL3dLZWJEelFqTGJ5a0hZZVE3Mzh1KzZMdGlOL2F4Qllnc052ZitJalBRaTBJRjZTdVZybXNnKzg1WnFpYmMrSUg1MmdZZEo1V3E3b3A4bUlIRzZLT0xDMmE1MmVhNkdoUnFrbFVsaVZZdXB4dUY3S3hLVWRIR0U0Y0ZxaUtsMHlwbTByRHZrRTlKUlRGczUrTnBROGM0TjdhM0FPSXVvbk1NYVpaVUJQazZ3U2U1aVVTYlFGOTJhNjB0NjlyUXdzZGdhL2RyQ1RDRitFWlR3eFF6MlY4eG5vWitKNHJVeDR6RkhkWG1oZDg2TkozcWV6SDRNOXpWRFBJT2NmbXlJdFZVOS9GamhrLy8xUEw1NkQ4VTF4bm10US9lUkpDazF1c1k0NDNzMFloWVZUdW54TEVYYlVYT2FicHBFdDFFSklESzN3OElCMjVCZGF4UjV2dXhtdlhoNE5MRWZ1RkUvbVc0WloreTBQMXZ2TE1jQ1NlUEZSQjl0eUZhODBsekprU0Q2VmgyaC9DbkF3a2hSQ2NIcjk2NDA5RGtQVWpsZXNpdTZWakhVdGdDN2NSd1lvNDR0SzRpZFFtUkJvcjB6czlEbTkvNFFmWDR3SDNEc3ZTRDNaNmxQL1V5SXNaTXU0VzNYbkp6VzI0TUR4MldMTzY0TFVNdktYa1BURjh6K2VBUWQ1WkhTUHVzOU1yVnd3R3FqbTZtSFR0bnRrN3NtaUhHMXhWTHk3bnNSMnpsQ2xuRmpRTmczWlNkeE9qNHgvc0I3Uk5XNlRjc3VGQi9WU1VGWTNrQzAzeFNwc1RGalBQUmhZWkJFUy9XbDJmVERKSjFRRWpWVURhemxnZFMralp1c015alZQZkUrOXZHVXVPaGIrMXgxZGhBSGphWTJCa1lHQUFZbjJSVFMvaitXMitNakN6TUlEQVkvR2s0d2o2MzMrbU1tWVFsNE9CQ1VRQkFDSVlDazhBQUhqYVkyQmtZR0JtK00vQXdNQlV4aUQzL3crVERBTlFCQVd3QWdCWjNRTzVBbllBQUFJQUFEZ0J6Z0FlQWtrQUhnSGNBQ3dBQUFBQUFCb0FjQUQ0QVdwNDJtTmdaR0JnWUdXSVpBRFJERkFTQ1FBQUNaOEFZZ0I0MmsyT3ZXN0NNQlJHVDlRUXFXa2xwbGFkS2s4ZG8wUXdzekF3c1RKMUFXelJESTVSRWlLeDhBQjk2bjRZRDdXbHEzUFAvZndEbE56SXVLK01lYXozbFZPb2UvQ01GOTRTRjlvbWNja0hYenlSNWM4eW42d1M1N3p5blhqR096K0pDL2xiNHBLYTMzWHc1OHZvZXJNTjF2WGQwZnUycVhldUg5clFtYWFxSDJMak90ZnZSMmZONFdyczFBN1R5WnRGdFdSTndIUG13b2lqMTcrMk1qWnl4MUV6VDB1amwzYlJEZXFDSmthdWt2MmYyQ2pSeGRRKzNtYVZPbkJWdFV6S0RLb25wUTBMblYzK0FhNjdML0VBZU5wallHYkFDd0FBZlFBRSkgZm9ybWF0KCd3b2ZmJyk7fQp0ZXh0LmYwIHtmb250LWZhbWlseTpjbXN5Nztmb250LXNpemU6Ni45NzM4NDhweH0KdGV4dC5mMSB7Zm9udC1mYW1pbHk6Y21taTEwO2ZvbnQtc2l6ZTo5Ljk2MjY0cHh9CnRleHQuZjIge2ZvbnQtZmFtaWx5OmNtbWk3O2ZvbnQtc2l6ZTo2Ljk3Mzg0OHB4fQp0ZXh0LmYzIHtmb250LWZhbWlseTpjbXIxMDtmb250LXNpemU6OS45NjI2NHB4fQp0ZXh0LmY0IHtmb250LWZhbWlseTpjbXI3O2ZvbnQtc2l6ZTo2Ljk3Mzg0OHB4fQp0ZXh0LmY1IHtmb250LWZhbWlseTpjbXI1O2ZvbnQtc2l6ZTo0Ljk4MTMycHh9Cl1dPgo8L3N0eWxlPgo8ZyBpZD0ncGFnZTEnPgo8ZyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0yMi4yNjUyNzUsLTQ2Ljc2MjczNSlzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgZmlsbD0nIzAwMCcgc3Ryb2tlPScjMDAwJz4KPGcgc3Ryb2tlLXdpZHRoPScwLjQnPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNDkuOTIxMjMsLTE5LjgxMjUyKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjIuMjY1Mjc1LC00Ni43NjI3MzUpc2NhbGUoLTEsLTEpJz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0xNS41OTAwODIsLTc4Ljc2Nzc2MilzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTIuMzk0NjgsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMTUuNTkwMDgyLC03OC43Njc3NjIpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMScgeD0nLTE1LjU5MDA4MicgeT0nLTc4Ljc2Nzc2Mic+cjwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgyMi4xMzE4MzQsLTc4Ljc2Nzc2MilzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTIuODU3NjQsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgyMi4xMzE4MzQsLTc4Ljc2Nzc2MilzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YxJyB4PScyMi4xMzE4MzQnIHk9Jy03OC43Njc3NjInPng8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoNjUuMTkxMzY5LC03OC43Njc3NjIpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC03Ljc1MjMyLDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoNjUuMTkxMzY5LC03OC43Njc3NjIpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMScgeD0nNjUuMTkxMzY5JyB5PSctNzguNzY3NzYyJz54L3I8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTE1LjU5MDA4MiwtNDYuNzYyNzM1KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknLz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDIyLjEzMTgzNCwtNDYuNzYyNzM1KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknLz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDY1LjE5MTM2OSwtNDYuNzYyNzM1KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMi41NDUxNSwwLjApJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKDY1LjE5MTM2OSwtNDYuNzYyNzM1KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjEnIHg9JzY1LjE5MTM2OScgeT0nLTQ2Ljc2MjczNSc+ejwvdGV4dD4KPHRleHQgY2xhc3M9J2YzJyB4PSc3MC4yNjI2NTMnIHk9Jy00Ni43NjI3MzUnPi48L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTS0zNi4zMjA3OSAxNi44MTI1SC0xMy4xMjA3NycgZmlsbD0nbm9uZScvPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMTIuOTIwNzksMTYuODEyNSknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMjguMzI4NywyMC4xNjUyNSknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTIyLjI2NTI3NSwtNDYuNzYyNzM1KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjInIHg9Jy0yMi4yNjUyNzUnIHk9Jy00Ni43NjI3MzUnPnI8L3RleHQ+Cjx0ZXh0IGNsYXNzPSdmNScgeD0nLTE4LjU2NjE1MicgeT0nLTQ1Ljc2NjQ3MSc+MTwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00tMzYuMzIwNzkgMTIuODEyNTZILTEzLjEyMDc3JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0xMi45MjA3OSwxMi44MTI1NiknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMjguMzI4Nyw3LjQ0NTkyKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjIuMjY1Mjc1LC00Ni43NjI3MzUpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nLTIyLjI2NTI3NScgeT0nLTQ2Ljc2MjczNSc+cjwvdGV4dD4KPHRleHQgY2xhc3M9J2Y1JyB4PSctMTguNTY2MTUyJyB5PSctNDUuNzY2NDcxJz4yPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTTIuMDA1NTQgMTQuODEyNTNIMjUuMjA1NTUnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMjUuNDA1NTMsMTQuODEyNTMpJz4KPGcgc3Ryb2tlLWRhc2hhcnJheT0nbm9uZScgc3Ryb2tlLWRhc2hvZmZzZXQ9JzAuMCc+CiA8ZyBzdHJva2UtbGluZWNhcD0ncm91bmQnPgogPGcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+CiA8cGF0aCBkPSdNLTIuMDc5ODggMi4zOTk4NkMtMS42OTk4OSAuOTU5OTItLjg1MzEzIC4yNzk5OCAwIDBDLS44NTMxMy0uMjc5OTgtMS42OTk4OS0uOTU5OTItMi4wNzk4OC0yLjM5OTg2JyBmaWxsPSdub25lJy8+CiA8L2c+CiA8L2c+CiA8L2c+CjwvZz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMTEuOTA4NDgsMTcuMTY1MjgpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC0yMi4yNjUyNzUsLTQ2Ljc2MjczNSlzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctMjIuMjY1Mjc1JyB5PSctNDYuNzYyNzM1Jz5lPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTTIuMDA1NTQgOS4zNDIxOEwzMC40OTE3My0xMS44MzQ0MycgZmlsbD0nbm9uZScvPgo8ZyB0cmFuc2Zvcm09J21hdHJpeCgwLjgwMjQ5LC0wLjU5NjU3LDAuNTk2NTcsMC44MDI0OSwzMC42NTIyLC0xMS45NTM3MiknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSg5LjM3MjI3LC04LjU3OTI3KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjIuMjY1Mjc1LC00Ni43NjI3MzUpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nLTIyLjI2NTI3NScgeT0nLTQ2Ljc2MjczNSc+ZjwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9JzIuNzk5ODUsMS41OTk5MScgc3Ryb2tlLWRhc2hvZmZzZXQ9JzAuMCc+CjxwYXRoIGQ9J00zNy44NjMzNyA1Ljk1MjhWLTExLjI0NzI4JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0nbWF0cml4KDAuMCwtMS4wLDEuMCwwLjAsMzcuODYzMzcsLTExLjQ0NzI3KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDQwLjIxNjEzLC01LjI3Nzc2KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjIuMjY1Mjc1LC00Ni43NjI3MzUpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nLTIyLjI2NTI3NScgeT0nLTQ2Ljc2MjczNSc+4oiDPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjQnIHg9Jy0xNy43NTQzOTEnIHk9Jy00Ni43NjI3MzUnPiE8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9zdmc+" /></fr:resource-content><fr:resource-source
+type="latex"
+part="preamble"><![CDATA[
+   
+    \usepackage{tikz, tikz-cd, mathtools, amssymb}
+  \usetikzlibrary{shapes.geometric}
+  \usetikzlibrary{calc}
+  \usetikzlibrary{matrix}
+  \usetikzlibrary{decorations.markings}
+
+  \tikzset{
+    % basics
+    square/.style={draw, regular polygon, regular polygon sides=4},
+    triangle/.style={draw, regular polygon, regular polygon sides=3},
+  }
+
+  \tikzset{
+    % string diagrams
+    state/.style={triangle, shape border rotate=180, anchor=north},
+    costate/.style={triangle, anchor=south},
+    morphism/.style={draw, rectangle},
+    over/.style={
+      draw=white,
+      double=black,
+      % default is .4pt
+      line width=1.2pt,
+      double distance=.4pt,
+      text=black
+    },
+  }
+
+  \tikzset{ 
+    % tables
+    % https://tikz.net/tikz-table/
+    table/.style={
+        matrix of nodes,
+        row sep=-\pgflinewidth,
+        column sep=-\pgflinewidth,
+        nodes={
+            rectangle,
+            draw=black,
+            align=center
+        },
+        minimum height=1.5em,
+        text depth=0.5ex,
+        text height=2ex,
+        nodes in empty cells,
+%%
+        every even row/.style={
+            nodes={fill=gray!20}
+        },
+        column 1/.style={
+            nodes={font=\bfseries}
+        },
+        row 1/.style={
+            nodes={
+                fill=black,
+                text=white,
+                font=\bfseries
+            }
+        }
+    }
+  }
+
+  ]]></fr:resource-source><fr:resource-source
+type="latex"
+part="body"><![CDATA[
+    \begin {tikzcd}
+      r\ar [r, "r_1", shift left=.2em]\ar [r, "r_2"', shift right=.2em] & x\ar [r,
+      "e"]\ar [dr, "f"'] & x/r\ar [d, dashed, "\exists  !"]\\
+      & & z\makebox [0pt][l]{.}
+    \end {tikzcd}
+  ]]></fr:resource-source></fr:resource></fr:figure></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6875</fr:anchor><fr:addr
 type="user">rs-0034</fr:addr><fr:route>rs-0034.xml</fr:route><fr:title
-text="Comparison of limits and colimits">Comparison of limits and colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Comparison of limits and colimits">Comparison of limits and colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0034.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -442,8 +560,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1786</fr:anchor><fr:addr
-type="machine">#306</fr:addr><fr:route>unstable-306.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2691</fr:anchor><fr:addr
+type="machine">#320</fr:addr><fr:route>unstable-320.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0034.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -577,9 +695,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5965</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6877</fr:anchor><fr:addr
 type="user">rs-0035</fr:addr><fr:route>rs-0035.xml</fr:route><fr:title
-text="Map out of colimits, map into limits">Map out of colimits, map into limits</fr:title><fr:taxon>Moral</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Map out of colimits, map into limits">Map out of colimits, map into limits</fr:title><fr:taxon>Moral</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0035.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -600,13 +718,13 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5967</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6879</fr:anchor><fr:addr
 type="user">rs-0021-up</fr:addr><fr:route>rs-0021-up.xml</fr:route><fr:title
 text="Initial object › universal property of initial objects"><fr:link
 type="local"
 href="rs-0021.xml"
 addr="rs-0021"
-title="Initial object">Initial object</fr:link> › universal property of initial objects</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+title="Initial object">Initial object</fr:link> › universal property of initial objects</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0021.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -635,13 +753,13 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5969</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6881</fr:anchor><fr:addr
 type="user">rs-0024-up</fr:addr><fr:route>rs-0024-up.xml</fr:route><fr:title
 text="Coproduct › universal property of the coproduct"><fr:link
 type="local"
 href="rs-0024.xml"
 addr="rs-0024"
-title="Coproduct">Coproduct</fr:link> › universal property of the coproduct</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+title="Coproduct">Coproduct</fr:link> › universal property of the coproduct</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -835,13 +953,13 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5971</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6883</fr:anchor><fr:addr
 type="user">rs-0026-up</fr:addr><fr:route>rs-0026-up.xml</fr:route><fr:title
 text="Coequalizer › universal property of the coequalizer"><fr:link
 type="local"
 href="rs-0026.xml"
 addr="rs-0026"
-title="Coequalizer">Coequalizer</fr:link> › universal property of the coequalizer</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+title="Coequalizer">Coequalizer</fr:link> › universal property of the coequalizer</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0026.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -951,13 +1069,13 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5973</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6885</fr:anchor><fr:addr
 type="user">rs-0028-up</fr:addr><fr:route>rs-0028-up.xml</fr:route><fr:title
 text="Pushout › universal property of the pushout"><fr:link
 type="local"
 href="rs-0028.xml"
 addr="rs-0028"
-title="Pushout">Pushout</fr:link> › universal property of the pushout</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+title="Pushout">Pushout</fr:link> › universal property of the pushout</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0028.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1153,9 +1271,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5975</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6887</fr:anchor><fr:addr
 type="user">rs-001X</fr:addr><fr:route>rs-001X.xml</fr:route><fr:title
-text="Cocone">Cocone</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Cocone">Cocone</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1299,9 +1417,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5977</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6889</fr:anchor><fr:addr
 type="user">rs-001Z</fr:addr><fr:route>rs-001Z.xml</fr:route><fr:title
-text="Colimit">Colimit</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Colimit">Colimit</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1357,9 +1475,9 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>805</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1724</fr:anchor><fr:addr
 type="user">rs-001Z-up</fr:addr><fr:route>rs-001Z-up.xml</fr:route><fr:title
-text="Universal property of colimits">Universal property of colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Universal property of colimits">Universal property of colimits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1492,9 +1610,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5979</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6891</fr:anchor><fr:addr
 type="user">rs-001U</fr:addr><fr:route>rs-001U.xml</fr:route><fr:title
-text="Diagram">Diagram</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Diagram">Diagram</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1530,9 +1648,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5981</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6893</fr:anchor><fr:addr
 type="user">rs-0021</fr:addr><fr:route>rs-0021.xml</fr:route><fr:title
-text="Initial object">Initial object</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Initial object">Initial object</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0021.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1573,9 +1691,9 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1873</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1332</fr:anchor><fr:addr
 type="user">rs-0021-up</fr:addr><fr:route>rs-0021-up.xml</fr:route><fr:title
-text="Universal property of initial objects">Universal property of initial objects</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Universal property of initial objects">Universal property of initial objects</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0021.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1604,9 +1722,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5983</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6895</fr:anchor><fr:addr
 type="user">rs-0022</fr:addr><fr:route>rs-0022.xml</fr:route><fr:title
-text="Universal elements are initial or terminal">Universal elements are initial or terminal</fr:title><fr:taxon>Proposition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Universal elements are initial or terminal">Universal elements are initial or terminal</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0022.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1672,8 +1790,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4090</fr:anchor><fr:addr
-type="machine">#323</fr:addr><fr:route>unstable-323.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4955</fr:anchor><fr:addr
+type="machine">#337</fr:addr><fr:route>unstable-337.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0022.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1737,9 +1855,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5985</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6897</fr:anchor><fr:addr
 type="user">rs-001S</fr:addr><fr:route>rs-001S.xml</fr:route><fr:title
-text="Category of elements">Category of elements</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Category of elements">Category of elements</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1304</fr:anchor><fr:addr
+type="user">rs-0091</fr:addr><fr:route>rs-0091.xml</fr:route><fr:title
+text="External axiom of choice">External axiom of choice</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0091.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 275</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:link
+type="local"
+href="rs-008Y.xml"
+addr="rs-008Y"
+title="Elementary topos">topos</fr:link> <fr:tex
+display="inline"><![CDATA[E]]></fr:tex> satisfies the <fr:em>(external) axiom of choice</fr:em> if every
+<fr:link
+type="local"
+href="rs-000B.xml"
+addr="rs-000B"
+title="Epimorphism">epimorphism</fr:link> has a <fr:link
+type="local"
+href="rs-000J.xml"
+addr="rs-000J"
+title="Section">section</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1306</fr:anchor><fr:addr
+type="user">maclane-moerdijk-1994</fr:addr><fr:route>maclane-moerdijk-1994.xml</fr:route><fr:title
+text="Sheaves in geometry and logic">Sheaves in geometry and logic</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/maclane-moerdijk-1994.tree</fr:source-path><fr:date><fr:year>1994</fr:year></fr:date><fr:authors><fr:author>Saunders Mac Lane</fr:author><fr:author>Ieke Moerdijk</fr:author></fr:authors><fr:meta
+name="isbn">9781461209270</fr:meta><fr:meta
+name="doi">10.1007/978-1-4612-0927-0</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{maclane-moerdijk-1994,
+  title = {Sheaves in Geometry and Logic: A First Introduction to Topos Theory},
+  author = {MacLane, S. and Moerdijk, I.},
+  isbn = {9781461209270},
+  doi = {10.1007/978-1-4612-0927-0}
+  lccn = {91033709},
+  series = {Universitext},
+  url = {https://books.google.com/books?id=LZWLBAAAQBAJ},
+  year = {1994},
+  publisher = {Springer New York},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We dedicate this book to the memory of J. Frank Adams. His clear insights
+have inspired many mathematicians, including both of us. In January 1989, when
+the first draft of our book had been completed, we heard the sad news of his
+untimely death. This has cast a shadow on our subsequent work. Our views of
+topos theory, as presented here, have been shaped by continued study, by
+conferences, and by many personal contacts with friends and colleagues-including
+especially O. Bruno, P. Freyd, J.M.E. Hyland, P.T. Johnstone, A. Joyal, A. Kock,
+F.W. Lawvere, G.E. Reyes, R Solovay, R Swan, RW. Thomason, M. Tierney, and G.C.
+Wraith. Our presentation combines ideas and results from these people and from
+many others, but we have not endeavored to specify the various original sources.
+Moreover, a number of people have assisted in our work by pro viding helpful
+comments on portions of the manuscript. In this respect, we extend our hearty
+thanks in particular to P. Corazza, K. Edwards, J. Greenlees, G. Janelidze, G.
+Lewis, and S. Schanuel.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1309</fr:anchor><fr:addr
+type="user">rs-0092</fr:addr><fr:route>rs-0092.xml</fr:route><fr:title
+text="Elementary theory of the category of sets">Elementary theory of the category of sets</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0092.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Lawvere's <fr:em>elementary theory of the category of sets</fr:em> asserts that the
+<fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets">category of sets</fr:link> is the <fr:link
+type="local"
+href="rs-008Z.xml"
+addr="rs-008Z"
+title="Well-pointed topos">well-pointed</fr:link> <fr:link
+type="local"
+href="rs-008Y.xml"
+addr="rs-008Y"
+title="Elementary topos">topos</fr:link> with
+<fr:link
+type="local"
+href="rs-0091.xml"
+addr="rs-0091"
+title="External axiom of choice">choice</fr:link> and a <fr:link
+type="local"
+href="rs-0090.xml"
+addr="rs-0090"
+title="Natural numbers object">natural numbers object</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1311</fr:anchor><fr:addr
+type="user">rs-008Y</fr:addr><fr:route>rs-008Y.xml</fr:route><fr:title
+text="Elementary topos">Elementary topos</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008Y.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">Definition IV.1</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>An <fr:em>elementary topos</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> which:</fr:p><fr:ul><fr:li>is <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finitely</fr:link> <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">complete</fr:link> and <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link>;</fr:li>
+  <fr:li>is <fr:link
+type="local"
+href="rs-005K.xml"
+addr="rs-005K"
+title="Cartesian closed category">cartesian closed</fr:link>;</fr:li>
+  <fr:li>has a <fr:link
+type="local"
+href="rs-005V.xml"
+addr="rs-005V"
+title="Subobject classifier">subobject classifier</fr:link>.</fr:li></fr:ul><fr:p>This is not a minimal definition; many of these pieces of structure imply
+each other.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1313</fr:anchor><fr:addr
+type="user">rs-000B</fr:addr><fr:route>rs-000B.xml</fr:route><fr:title
+text="Epimorphism">Epimorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="dual-note">rs-000A</fr:meta><fr:meta
+name="dual-name">monomorphism</fr:meta><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.2.7(ii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+  
+  
+
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">morphism</fr:link> <fr:tex
+display="inline"><![CDATA[x\xtwoheadrightarrow {f} y]]></fr:tex> is an <fr:em>epimorphism</fr:em> if for any pair of
+parallel arrows <fr:tex
+display="inline"><![CDATA[y\overset {g,h}{\rightrightarrows } z]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[gf = hf]]></fr:tex> implies <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1315</fr:anchor><fr:addr
+type="user">rs-000J</fr:addr><fr:route>rs-000J.xml</fr:route><fr:title
+text="Section">Section</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="dual-note">rs-000K</fr:meta><fr:meta
+name="dual-name">retraction</fr:meta><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.2.9</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+  
+  
+
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">morphism</fr:link> <fr:tex
+display="inline"><![CDATA[x\xrightarrow {s}y]]></fr:tex> is a <fr:em>section</fr:em>, <fr:em>pre-inverse</fr:em>,
+or <fr:em>split <fr:link
+type="local"
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monomorphism</fr:link></fr:em> if there exists a morphism <fr:tex
+display="inline"><![CDATA[y\xrightarrow {r}x]]></fr:tex> such that
+<fr:tex
+display="inline"><![CDATA[rs = 1_x]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

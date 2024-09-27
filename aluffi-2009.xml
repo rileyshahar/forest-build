@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9136</fr:anchor><fr:addr
+type="user">aluffi-2009</fr:addr><fr:route>aluffi-2009.xml</fr:route><fr:title
+text="Algebra: chapter 0">Algebra: chapter 0</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/aluffi-2009.tree</fr:source-path><fr:date><fr:year>2009</fr:year></fr:date><fr:authors><fr:author>Paolo Aluffi</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Algebra: Chapter 0 is a self-contained introduction to the main topics of
+algebra, suitable for a first sequence on the subject at the beginning graduate
+or upper undergraduate level. The primary distinguishing feature of the book,
+compared to standard textbooks in algebra, is the early introduction of
+categories, used as a unifying theme in the presentation of the main topics. A
+second feature consists of an emphasis on homological algebra: basic notions on
+complexes are presented as soon as modules have been introduced, and an
+extensive last chapter on homological algebra can form the basis for a follow-up
+introductory course on the subject. Approximately 1,000 exercises both provide
+adequate practice to consolidate the understanding of the main body of the text
+and offer the opportunity to explore many other topics, including applications
+to number theory and algebraic geometry. This will allow instructors to adapt
+the textbook to their specific choice of topics and provide the independent
+reader with a richer exposure to algebra. Many exercises include substantial
+hints, and navigation of the topics is facilitated by an extensive index and by
+hundreds of cross-references.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9138</fr:anchor><fr:addr
+type="user">rs-009B</fr:addr><fr:route>rs-009B.xml</fr:route><fr:title
+text="Category of groups">Category of groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.3.2</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>category of groups</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span> is the <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> whose
+objects are <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">groups</fr:link> and whose morphisms are <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphisms</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9140</fr:anchor><fr:addr
+type="user">rs-009A</fr:addr><fr:route>rs-009A.xml</fr:route><fr:title
+text="Group homomorphism">Group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.3.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>group homomorphism</fr:em> <fr:tex
+display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> is a <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">set-function</fr:link> <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> so
+that, for any <fr:tex
+display="inline"><![CDATA[g, h\in  G]]></fr:tex>, <fr:tex
+display="block"><![CDATA[f(gh) = f(g)f(h).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9142</fr:anchor><fr:addr
+type="user">rs-008X</fr:addr><fr:route>rs-008X.xml</fr:route><fr:title
+text="Cyclic group">Cyclic group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section II.2.3</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>cyclic group</fr:em> <fr:tex
+display="inline"><![CDATA[C_n]]></fr:tex> is the group of <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">integers</fr:link> under the
+<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">relation</fr:link> <fr:tex
+display="inline"><![CDATA[a\sim  n]]></fr:tex> whenever <fr:tex
+display="inline"><![CDATA[a - b]]></fr:tex> <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">divides</fr:link> <fr:tex
+display="inline"><![CDATA[n]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9144</fr:anchor><fr:addr
+type="user">rs-008W</fr:addr><fr:route>rs-008W.xml</fr:route><fr:title
+text="Dihedral group">Dihedral group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008W.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section II.2.2</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>dihedral group</fr:em> <fr:tex
+display="inline"><![CDATA[D_n]]></fr:tex> is the group of <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">symmetries</fr:link> of a
+<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">regular <fr:tex
+display="inline"><![CDATA[n]]></fr:tex>-gon</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9146</fr:anchor><fr:addr
+type="user">rs-008V</fr:addr><fr:route>rs-008V.xml</fr:route><fr:title
+text="Symmetric group">Symmetric group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.2.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link>. Then the <fr:em>symmetric group</fr:em> <fr:tex
+display="inline"><![CDATA[S_A]]></fr:tex> is the
+group of <fr:link
+type="local"
+href="rs-0004.xml"
+addr="rs-0004"
+title="Automorphism">automorphisms</fr:link> of <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> under composition. The symmetric group
+of a <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link> <fr:link
+type="local"
+href="rs-001E.xml"
+addr="rs-001E"
+title="Ordinal category">ordinal</fr:link> <fr:tex
+display="inline"><![CDATA[n]]></fr:tex> is denoted <fr:tex
+display="inline"><![CDATA[S_n]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9148</fr:anchor><fr:addr
+type="user">rs-007X</fr:addr><fr:route>rs-007X.xml</fr:route><fr:title
+text="Group">Group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition 1.2</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>group</fr:em> is a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> equipped with an <fr:link
+type="local"
+href="rs-007P.xml"
+addr="rs-007P"
+title="Associative binary operation">associative</fr:link>,
+<fr:link
+type="local"
+href="rs-007Q.xml"
+addr="rs-007Q"
+title="Identity for a binary operation">unital</fr:link> <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> and <fr:link
+type="local"
+href="rs-007R.xml"
+addr="rs-007R"
+title="Cancellable binary operation">inverses</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

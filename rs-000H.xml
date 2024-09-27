@@ -7,9 +7,9 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7205</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8137</fr:anchor><fr:addr
 type="user">rs-000H</fr:addr><fr:route>rs-000H.xml</fr:route><fr:title
-text="Injection">Injection</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Injection">Injection</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -44,9 +44,110 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7207</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8139</fr:anchor><fr:addr
+type="user">rs-009X</fr:addr><fr:route>rs-009X.xml</fr:route><fr:title
+text="Orbit-stabilizer theorem">Orbit-stabilizer theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Corollary 9.10</fr:meta><fr:meta
+name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="external"
+href="aluffi-2007" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action"><fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-set</fr:link> and <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>. Then there is an equation of
+<fr:link
+type="local"
+href="rs-009Z.xml"
+addr="rs-009Z"
+title="Cardinality">cardinalities</fr:link> <fr:tex
+display="block"><![CDATA[|\operatorname {stab}_G(a)||Ga| = |G|,]]></fr:tex> where the former is the
+<fr:link
+type="local"
+href="rs-009V.xml"
+addr="rs-009V"
+title="Stabilizer">stabilizer</fr:link> and the latter is the <fr:link
+type="local"
+href="rs-009U.xml"
+addr="rs-009U"
+title="Orbit">orbit</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>371</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We construct a <fr:link
+type="local"
+href="rs-000E.xml"
+addr="rs-000E"
+title="Bijection">bijection</fr:link> <fr:tex
+display="inline"><![CDATA[Ga\cong  G/\operatorname {stab}_G(a)]]></fr:tex>, whence the
+  result follows from <fr:link
+type="local"
+href="rs-00A0.xml"
+addr="rs-00A0"
+title="Lagrange's theorem">Lagrange's theorem</fr:link>. Given an element <fr:tex
+display="inline"><![CDATA[b = ga\in  Ga]]></fr:tex>,
+  identify it with the <fr:link
+type="local"
+href="rs-009W.xml"
+addr="rs-009W"
+title="Coset">coset</fr:link> <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>. This is well-defined: if
+  <fr:tex
+display="inline"><![CDATA[b = ga = ha]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[gh^{-1}\in \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>. Moreover, it is <fr:link
+type="local"
+href="rs-000H.xml"
+addr="rs-000H"
+title="Injection">injective</fr:link>: if <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[gh^{-1} \in  \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[ga = ha]]></fr:tex>. Finally, it
+  is <fr:link
+type="local"
+href="rs-000I.xml"
+addr="rs-000I"
+title="Surjection">surjective</fr:link>: given some <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>, it is the image of
+  <fr:tex
+display="inline"><![CDATA[ga\in  Ga]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8141</fr:anchor><fr:addr
 type="user">rs-004X</fr:addr><fr:route>rs-004X.xml</fr:route><fr:title
-text="Subcategory">Subcategory</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Subcategory">Subcategory</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-004X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -97,9 +198,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7209</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8143</fr:anchor><fr:addr
 type="user">rs-0018</fr:addr><fr:route>rs-0018.xml</fr:route><fr:title
-text="Faithful functor">Faithful functor</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Faithful functor">Faithful functor</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0018.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -132,9 +233,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7211</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8145</fr:anchor><fr:addr
 type="user">rs-000E</fr:addr><fr:route>rs-000E.xml</fr:route><fr:title
-text="Bijection">Bijection</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Bijection">Bijection</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -173,9 +274,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7213</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8147</fr:anchor><fr:addr
 type="user">rs-000C</fr:addr><fr:route>rs-000C.xml</fr:route><fr:title
-text="Category of sets">Category of sets</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Category of sets">Category of sets</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -213,9 +314,9 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7215</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8149</fr:anchor><fr:addr
 type="user">rs-000A</fr:addr><fr:route>rs-000A.xml</fr:route><fr:title
-text="Monomorphism">Monomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Monomorphism">Monomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
