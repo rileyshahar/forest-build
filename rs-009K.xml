@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1140</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1842</fr:anchor><fr:addr
 type="user">rs-009K</fr:addr><fr:route>rs-009K.xml</fr:route><fr:title
 text="Normal subobject">Normal subobject</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -37,7 +37,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1142</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1844</fr:anchor><fr:addr
 type="user">rs-009L</fr:addr><fr:route>rs-009L.xml</fr:route><fr:title
 text="Characterization of normal subgroups">Characterization of normal subgroups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -46,13 +46,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Section II.7.6</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>A <fr:link
 type="local"
 href="rs-009J.xml"
@@ -90,7 +92,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1144</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1846</fr:anchor><fr:addr
 type="user">rs-009G</fr:addr><fr:route>rs-009G.xml</fr:route><fr:title
 text="Kernel">Kernel</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -99,13 +101,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Borceux</fr:meta><fr:meta
 name="ref-at">Definition II.1.1.5</fr:meta><fr:meta
-name="ref-note">borceux-1993</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="borceux-1993" />
+type="local"
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
 <fr:p>The <fr:em>kernel</fr:em> of a map <fr:tex
 display="inline"><![CDATA[f]]></fr:tex> is the <fr:link
 type="local"
@@ -130,7 +134,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1146</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1848</fr:anchor><fr:addr
 type="user">rs-002Z</fr:addr><fr:route>rs-002Z.xml</fr:route><fr:title
 text="Subobject">Subobject</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10096</fr:anchor><fr:addr
+type="user">kashiwara-schapira-2005</fr:addr><fr:route>kashiwara-schapira-2005.xml</fr:route><fr:title
+text="Categories and sheaves">Categories and sheaves</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/kashiwara-schapira-2005.tree</fr:source-path><fr:date><fr:year>2005</fr:year></fr:date><fr:authors><fr:author>Masaki Kashiwara</fr:author><fr:author>Pierre Schapira</fr:author></fr:authors><fr:meta
+name="isbn">978-3-540-27950-1</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{riehl-2017,
+  title = {Categories and Sheaves},
+  author = {Kashiwara, Masaki and Schapira, Pierre},
+  isbn = {978-3-540-27950-1},
+  publisher = {Springer Berlin},
+  year = {2005},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Categories and sheaves, which emerged in the middle of the last century as an
+enrichment for the concepts of sets and functions, appear almost everywhere in
+mathematics nowadays.</fr:p><fr:p>This book covers categories, homological algebra and sheaves in a systematic
+and exhaustive manner starting from scratch, and continues with full proofs to
+an exposition of the most recent results in the literature, and sometimes
+beyond.</fr:p><fr:p>The authors present the general theory of categories and functors,
+emphasising inductive and projective limits, tensor categories, representable
+functors, ind-objects and localization. Then they study homological algebra
+including additive, abelian, triangulated categories and also unbounded derived
+categories using transfinite induction and accessible objects. Finally, sheaf
+theory as well as twisted sheaves and stacks appear in the framework of
+Grothendieck topologies.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

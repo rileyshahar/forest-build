@@ -7,41 +7,31 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>808</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>605</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Given a normal subgroup <fr:tex
-display="inline"><![CDATA[N]]></fr:tex>, define the relation <fr:tex
-display="inline"><![CDATA[g\sim  h]]></fr:tex> if and only if
-  <fr:tex
-display="inline"><![CDATA[gh^{-1} \in  N]]></fr:tex>, i.e. if and only if their <fr:link
+  <fr:p>The backwards direction is <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">left cosets</fr:link> agree. This
-  is a congruence, i.e., a <fr:link
+href="rs-00AN.xml"
+addr="rs-00AN"
+title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
+  direction, <fr:link
 type="local"
-href="rs-009J.xml"
-addr="rs-009J"
-title="Subgroup">subgroup</fr:link> of the <fr:link
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
+display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> a regular epi,
+  but note that <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
 type="local"
-href="rs-0023.xml"
-addr="rs-0023"
-title="Product">product</fr:link>
-  <fr:tex
-display="inline"><![CDATA[G\times  G]]></fr:tex>, by normality of <fr:tex
-display="inline"><![CDATA[N]]></fr:tex>. Conversely, given a congruence <fr:tex
-display="inline"><![CDATA[\sim ]]></fr:tex>,
-  define the subgroup <fr:tex
-display="inline"><![CDATA[N]]></fr:tex> consisting of those <fr:tex
-display="inline"><![CDATA[g\in  G]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[g\sim  e]]></fr:tex>,
-  where <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is the unit of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>. These constructions are inverses.</fr:p> 
+href="rs-00AP.xml"
+addr="rs-00AP"
+title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -57,29 +47,38 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>810</fr:anchor><fr:addr
-type="user">rs-009I</fr:addr><fr:route>rs-009I.xml</fr:route><fr:title
-text="Congruences of groups are equivalently normal subgroups">Congruences of groups are equivalently normal subgroups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>607</fr:anchor><fr:addr
+type="user">rs-00AV</fr:addr><fr:route>rs-00AV.xml</fr:route><fr:title
+text="Strong epis are regular in regular categories">Strong epis are regular in regular categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
-display="inline"><![CDATA[G]]></fr:tex> be a <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Borceux</fr:meta><fr:meta
+name="ref-at">Proposition II.2.1.4</fr:meta><fr:meta
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
 type="local"
-href="rs-007X.xml"
-addr="rs-007X"
-title="Group">group</fr:link>. Then the data of a <fr:link
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
+<fr:p>In a <fr:link
 type="local"
-href="rs-0094.xml"
-addr="rs-0094"
-title="Congruence">congruence</fr:link> on <fr:tex
-display="inline"><![CDATA[G]]></fr:tex> is
-equivalent to the data of a <fr:link
+href="rs-00AM.xml"
+addr="rs-00AM"
+title="Regular category">regular category</fr:link>, a map is a <fr:link
 type="local"
-href="rs-009L.xml"
-addr="rs-009L"
-title="Characterization of normal subgroups">normal subgroup</fr:link> of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
+href="rs-00AK.xml"
+addr="rs-00AK"
+title="Strong epimorphism">strong epis</fr:link> iff it is
+a <fr:link
+type="local"
+href="rs-00AL.xml"
+addr="rs-00AL"
+title="Regular epimorphism">regular epi</fr:link>.</fr:p>
   
     
     
@@ -90,41 +89,31 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>461</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>609</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Given a normal subgroup <fr:tex
-display="inline"><![CDATA[N]]></fr:tex>, define the relation <fr:tex
-display="inline"><![CDATA[g\sim  h]]></fr:tex> if and only if
-  <fr:tex
-display="inline"><![CDATA[gh^{-1} \in  N]]></fr:tex>, i.e. if and only if their <fr:link
+  <fr:p>The backwards direction is <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">left cosets</fr:link> agree. This
-  is a congruence, i.e., a <fr:link
+href="rs-00AN.xml"
+addr="rs-00AN"
+title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
+  direction, <fr:link
 type="local"
-href="rs-009J.xml"
-addr="rs-009J"
-title="Subgroup">subgroup</fr:link> of the <fr:link
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
+display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> a regular epi,
+  but note that <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
 type="local"
-href="rs-0023.xml"
-addr="rs-0023"
-title="Product">product</fr:link>
-  <fr:tex
-display="inline"><![CDATA[G\times  G]]></fr:tex>, by normality of <fr:tex
-display="inline"><![CDATA[N]]></fr:tex>. Conversely, given a congruence <fr:tex
-display="inline"><![CDATA[\sim ]]></fr:tex>,
-  define the subgroup <fr:tex
-display="inline"><![CDATA[N]]></fr:tex> consisting of those <fr:tex
-display="inline"><![CDATA[g\in  G]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[g\sim  e]]></fr:tex>,
-  where <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is the unit of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>. These constructions are inverses.</fr:p> 
+href="rs-00AP.xml"
+addr="rs-00AP"
+title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

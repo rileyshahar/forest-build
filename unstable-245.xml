@@ -7,35 +7,35 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>355</fr:anchor><fr:addr
-type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>374</fr:anchor><fr:addr
+type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show that this defines a group, note that the induced equivalence
-  relation is a congruence, hence compatible with the group multiplication, so
-  that the multiplication is well-defined. The group axioms are direct from
-  those of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
-
-  <fr:p>To exhibit the universal property, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> be any
+  <fr:p>The embedding <fr:tex
+display="inline"><![CDATA[Q]]></fr:tex> sends <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> to the "singleton" zig-zag
+  <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex>, and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> by construction. To exhibit the universal
+  property, suppose <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> is given and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>. Then define <fr:tex
+display="inline"><![CDATA[F_S]]></fr:tex>
+  on a zig-zag by mapping it over the zig-zag and composing in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. The diagram
+  commutes on the nose (note in particular that the relations on <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> don't
+  break this, because they hold in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> as well; this is essentially the
   <fr:link
 type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link> which is constant on equivalence classes. Since <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex>
-  is also the <fr:link
-type="local"
-href="rs-0099.xml"
-addr="rs-0099"
-title="Quotient of sets">quotient set</fr:link>, It suffices
-  to show that the induced set-function <fr:tex
-display="inline"><![CDATA[\tilde {f}]]></fr:tex> is a homomorphism:
-  <fr:tex
-display="block"><![CDATA[\tilde {f}(ghN) = f(gh) = f(g)f(h) = \tilde {f}(g)\tilde {f}(h).]]></fr:tex></fr:p>
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">universal property of the quotient</fr:link>), so it remains to show the
+  uniqueness property. But the functor must act appropriately on the inclusion
+  and preserve composites, so this is immediate.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -51,46 +51,64 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr
-type="user">rs-00A2</fr:addr><fr:route>rs-00A2.xml</fr:route><fr:title
-text="Quotient group">Quotient group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>376</fr:anchor><fr:addr
+type="user">rs-00B0</fr:addr><fr:route>rs-00B0.xml</fr:route><fr:title
+text="Construction of the localization of a category">Construction of the localization of a category</fr:title><fr:taxon>Construction</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Aluffi</fr:meta><fr:meta
-name="ref-at">Definition II.7.11</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">borceux-1994</fr:meta><fr:meta
+name="ref-at">Proposition I.5.2.2</fr:meta><fr:meta
+name="ref-note">Borceux</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="external"
-href="aluffi-2007" />
-<fr:p>Let <fr:link
+href="Borceux" />
+<fr:p>The <fr:link
 type="local"
-href="rs-009L.xml"
-addr="rs-009L"
-title="Characterization of normal subgroups"><fr:tex
-display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then the <fr:em>quotient group</fr:em> <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex> is
-the <fr:link
+href="rs-00AZ.xml"
+addr="rs-00AZ"
+title="Localization of a category">localization</fr:link> <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> of a <fr:link
 type="local"
-href="rs-0098.xml"
-addr="rs-0098"
-title="Quotient object">quotient object</fr:link> of the <fr:link
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> at <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> is
+exhibited by the following (not necessarily <fr:link
 type="local"
-href="rs-009I.xml"
-addr="rs-009I"
-title="Congruences of groups are equivalently normal subgroups">induced congruence</fr:link>; explicitly,
-it is the set of <fr:link
+href="rs-002B.xml"
+addr="rs-002B"
+title="Small category">small</fr:link>) construction:</fr:p><fr:ul><fr:li>the objects of <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> are those of <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>;</fr:li>
+  <fr:li>a morphism in <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> is a <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">cosets</fr:link> of <fr:tex
-display="inline"><![CDATA[N]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[G]]></fr:tex> with the operation <fr:tex
-display="block"><![CDATA[(gN)(hN) = (gh)N.]]></fr:tex></fr:p>
+href="rs-002L.xml"
+addr="rs-002L"
+title="Zig-zag">zig-zag</fr:link> of morphisms in
+  <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, where the "rightward" maps consist only of those in <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>,
+  <fr:link
+type="local"
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">modulo</fr:link> the <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">relations</fr:link> generated by composition, the
+  identities, and the equations <fr:tex
+display="inline"><![CDATA[x\xrightarrow {s}y\xleftarrow {s}x \sim  1_x]]></fr:tex> and
+  <fr:tex
+display="inline"><![CDATA[y\xleftarrow {s}x\xrightarrow {s} y \sim  1_y]]></fr:tex> whenever <fr:tex
+display="inline"><![CDATA[s\in  S]]></fr:tex>.</fr:li></fr:ul>
   
     
     
@@ -101,35 +119,35 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>359</fr:anchor><fr:addr
-type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>378</fr:anchor><fr:addr
+type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show that this defines a group, note that the induced equivalence
-  relation is a congruence, hence compatible with the group multiplication, so
-  that the multiplication is well-defined. The group axioms are direct from
-  those of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
-
-  <fr:p>To exhibit the universal property, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> be any
+  <fr:p>The embedding <fr:tex
+display="inline"><![CDATA[Q]]></fr:tex> sends <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> to the "singleton" zig-zag
+  <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex>, and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> by construction. To exhibit the universal
+  property, suppose <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> is given and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>. Then define <fr:tex
+display="inline"><![CDATA[F_S]]></fr:tex>
+  on a zig-zag by mapping it over the zig-zag and composing in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. The diagram
+  commutes on the nose (note in particular that the relations on <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> don't
+  break this, because they hold in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> as well; this is essentially the
   <fr:link
 type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link> which is constant on equivalence classes. Since <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex>
-  is also the <fr:link
-type="local"
-href="rs-0099.xml"
-addr="rs-0099"
-title="Quotient of sets">quotient set</fr:link>, It suffices
-  to show that the induced set-function <fr:tex
-display="inline"><![CDATA[\tilde {f}]]></fr:tex> is a homomorphism:
-  <fr:tex
-display="block"><![CDATA[\tilde {f}(ghN) = f(gh) = f(g)f(h) = \tilde {f}(g)\tilde {f}(h).]]></fr:tex></fr:p>
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">universal property of the quotient</fr:link>), so it remains to show the
+  uniqueness property. But the functor must act appropriately on the inclusion
+  and preserve composites, so this is immediate.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

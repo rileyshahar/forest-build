@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2169</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2876</fr:anchor><fr:addr
 type="user">rs-007M</fr:addr><fr:route>rs-007M.xml</fr:route><fr:title
 text="Trivial category">Trivial category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -41,7 +41,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2171</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2878</fr:anchor><fr:addr
 type="user">riehl-2017</fr:addr><fr:route>riehl-2017.xml</fr:route><fr:title
 text="Category theory in context">Category theory in context</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/riehl-2017.tree</fr:source-path><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
 name="isbn">9780486820804</fr:meta><fr:meta
@@ -74,12 +74,12 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2173</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2880</fr:anchor><fr:addr
 type="user">cat-definition</fr:addr><fr:route>cat-definition.xml</fr:route><fr:title
 text="Category theory › Basics › Categories"><fr:link
 type="local"
-href="unstable-264.xml"
-addr="#264"
+href="unstable-275.xml"
+addr="#275"
 title="Category theory › Basics"><fr:link
 type="local"
 href="rs-007K.xml"
@@ -95,7 +95,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2035</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1239</fr:anchor><fr:addr
 type="user">rs-0001</fr:addr><fr:route>rs-0001.xml</fr:route><fr:title
 text="Category">Category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0001.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -236,7 +236,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2037</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1241</fr:anchor><fr:addr
 type="user">rs-000C</fr:addr><fr:route>rs-000C.xml</fr:route><fr:title
 text="Category of sets">Category of sets</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -277,7 +277,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2039</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1243</fr:anchor><fr:addr
 type="user">rs-005P</fr:addr><fr:route>rs-005P.xml</fr:route><fr:title
 text="Category of relations">Category of relations</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -318,7 +318,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2041</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1245</fr:anchor><fr:addr
 type="user">rs-000D</fr:addr><fr:route>rs-000D.xml</fr:route><fr:title
 text="Category of spaces">Category of spaces</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -353,6 +353,47 @@ href="TODO.xml"
 addr="TODO"
 title="TODO">continuous
 functions</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+      <fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1247</fr:anchor><fr:addr
+type="user">rs-009B</fr:addr><fr:route>rs-009B.xml</fr:route><fr:title
+text="Category of groups">Category of groups</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.3.2</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>category of groups</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span> is the <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> whose
+objects are <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">groups</fr:link> and whose morphisms are <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphisms</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
     <fr:p>We call these examples <fr:em>concrete</fr:em>. However, as the following examples
     show, not all categories look like this.</fr:p>
       
@@ -363,7 +404,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2043</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1249</fr:anchor><fr:addr
 type="user">rs-007L</fr:addr><fr:route>rs-007L.xml</fr:route><fr:title
 text="Empty category">Empty category</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -390,7 +431,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2045</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1251</fr:anchor><fr:addr
 type="user">rs-007M</fr:addr><fr:route>rs-007M.xml</fr:route><fr:title
 text="Trivial category">Trivial category</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -417,7 +458,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2047</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1253</fr:anchor><fr:addr
 type="user">rs-005T</fr:addr><fr:route>rs-005T.xml</fr:route><fr:title
 text="Preorder">Preorder</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -466,7 +507,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2049</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1255</fr:anchor><fr:addr
 type="user">rs-001E</fr:addr><fr:route>rs-001E.xml</fr:route><fr:title
 text="Ordinal category">Ordinal category</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -502,7 +543,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2051</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1257</fr:anchor><fr:addr
 type="user">rs-001B</fr:addr><fr:route>rs-001B.xml</fr:route><fr:title
 text="Monoids as categories">Monoids as categories</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -531,5 +572,44 @@ addr="rs-0001"
 title="Category">category</fr:link> with one object,
 whose morphisms are the elements of the monoid and whoses composition is the
 operation.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+      <fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1259</fr:anchor><fr:addr
+type="user">rs-009S</fr:addr><fr:route>rs-009S.xml</fr:route><fr:title
+text="Groups as categories">Groups as categories</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(ii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>By the <fr:link
+type="local"
+href="rs-001B.xml"
+addr="rs-001B"
+title="Monoids as categories">connection between monoids and categories</fr:link>, a
+<fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> is a <fr:link
+type="local"
+href="rs-000G.xml"
+addr="rs-000G"
+title="Groupoid">groupoid</fr:link> with one object.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
       </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

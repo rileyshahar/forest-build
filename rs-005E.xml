@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3793</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4503</fr:anchor><fr:addr
 type="user">rs-005E</fr:addr><fr:route>rs-005E.xml</fr:route><fr:title
 text="Zero morphism">Zero morphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -62,7 +62,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3795</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4505</fr:anchor><fr:addr
 type="user">maclane-1978</fr:addr><fr:route>maclane-1978.xml</fr:route><fr:title
 text="Categories for the working mathematician">Categories for the working mathematician</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/maclane-1978.tree</fr:source-path><fr:date><fr:year>1978</fr:year></fr:date><fr:authors><fr:author>Saunders Mac Lane</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Categories for the Working Mathematician provides an array of general ideas
 useful in a wide variety of fields. Starting from the foundations, this book
@@ -96,7 +96,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3797</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4507</fr:anchor><fr:addr
 type="user">rs-009G</fr:addr><fr:route>rs-009G.xml</fr:route><fr:title
 text="Kernel">Kernel</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -105,13 +105,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Borceux</fr:meta><fr:meta
 name="ref-at">Definition II.1.1.5</fr:meta><fr:meta
-name="ref-note">borceux-1993</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="borceux-1993" />
+type="local"
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
 <fr:p>The <fr:em>kernel</fr:em> of a map <fr:tex
 display="inline"><![CDATA[f]]></fr:tex> is the <fr:link
 type="local"
@@ -136,7 +138,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3799</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4509</fr:anchor><fr:addr
 type="user">rs-008U</fr:addr><fr:route>rs-008U.xml</fr:route><fr:title
 text="Trivial group">Trivial group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -145,13 +147,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Proposition II.3.3</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>trivial group</fr:em> is the <fr:link
 type="local"
 href="rs-005D.xml"
@@ -170,9 +174,9 @@ addr="rs-007X"
 title="Group">group</fr:link> on the
 <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">singleton</fr:link>. The associated <fr:link
+href="rs-00AB.xml"
+addr="rs-00AB"
+title="Singleton set">singleton</fr:link>. The associated <fr:link
 type="local"
 href="rs-005E.xml"
 addr="rs-005E"
@@ -196,7 +200,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3801</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4511</fr:anchor><fr:addr
 type="user">rs-005D</fr:addr><fr:route>rs-005D.xml</fr:route><fr:title
 text="Zero object">Zero object</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -229,7 +233,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3803</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4513</fr:anchor><fr:addr
 type="user">rs-0020-up</fr:addr><fr:route>rs-0020-up.xml</fr:route><fr:title
 text="Terminal object › universal property of terminal objects"><fr:link
 type="local"
@@ -264,7 +268,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3805</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4515</fr:anchor><fr:addr
 type="user">rs-0021-up</fr:addr><fr:route>rs-0021-up.xml</fr:route><fr:title
 text="Initial object › universal property of initial objects"><fr:link
 type="local"
@@ -299,7 +303,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3807</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4517</fr:anchor><fr:addr
 type="user">rs-0001</fr:addr><fr:route>rs-0001.xml</fr:route><fr:title
 text="Category">Category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0001.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

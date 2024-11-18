@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9136</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10009</fr:anchor><fr:addr
 type="user">aluffi-2009</fr:addr><fr:route>aluffi-2009.xml</fr:route><fr:title
 text="Algebra: chapter 0">Algebra: chapter 0</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/aluffi-2009.tree</fr:source-path><fr:date><fr:year>2009</fr:year></fr:date><fr:authors><fr:author>Paolo Aluffi</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Algebra: Chapter 0 is a self-contained introduction to the main topics of
 algebra, suitable for a first sequence on the subject at the beginning graduate
@@ -39,7 +39,719 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9138</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10011</fr:anchor><fr:addr
+type="user">rs-00AY</fr:addr><fr:route>rs-00AY.xml</fr:route><fr:title
+text="Correspondence theorem for groups">Correspondence theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Proposition II.8.10</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> be a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> and <fr:link
+type="local"
+href="rs-009L.xml"
+addr="rs-009L"
+title="Characterization of normal subgroups"><fr:tex
+display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then there is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>
+<fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> between the lattice of <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroups</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>
+containing <fr:tex
+display="inline"><![CDATA[N]]></fr:tex> and the lattice of subgroups of the <fr:link
+type="local"
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">quotient</fr:link> <fr:tex
+display="inline"><![CDATA[G/N]]></fr:tex>,
+which sends <fr:tex
+display="inline"><![CDATA[N\leq  A\leq  G]]></fr:tex> to <fr:tex
+display="inline"><![CDATA[A/N]]></fr:tex>. Moreover, this assignment
+<fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> and <fr:link
+type="local"
+href="rs-001J.xml"
+addr="rs-001J"
+title="Reflection of a property">reflects</fr:link> normality.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>524</fr:anchor><fr:addr
+type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10013</fr:anchor><fr:addr
+type="user">rs-009R</fr:addr><fr:route>rs-009R.xml</fr:route><fr:title
+text="Faithful action">Faithful action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.9.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action">group action</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> on <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> is <fr:em>faithful</fr:em> if the map
+<fr:tex
+display="inline"><![CDATA[G\to  S_A]]></fr:tex> is a <fr:link
+type="local"
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monomorphism</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10015</fr:anchor><fr:addr
+type="user">rs-00A5</fr:addr><fr:route>rs-00A5.xml</fr:route><fr:title
+text="Image of a group homomorphism">Image of a group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.6.5</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>image</fr:em> of a <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">group homomorphism</fr:link> is the underlying
+<fr:link
+type="local"
+href="rs-000M.xml"
+addr="rs-000M"
+title="Direct image functor">set-theoretic image</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10017</fr:anchor><fr:addr
+type="user">rs-00A4</fr:addr><fr:route>rs-00A4.xml</fr:route><fr:title
+text="Kernel of a group homomorphism">Kernel of a group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A4.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.6.5</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:link
+type="local"
+href="rs-009G.xml"
+addr="rs-009G"
+title="Kernel">kernel</fr:link> of a <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">group homomorphism</fr:link> <fr:tex
+display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> is the
+<fr:link
+type="local"
+href="rs-000O.xml"
+addr="rs-000O"
+title="Inverse image functor">inverse image</fr:link> of the identity <fr:tex
+display="inline"><![CDATA[e\in  H]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10019</fr:anchor><fr:addr
+type="user">rs-00A0</fr:addr><fr:route>rs-00A0.xml</fr:route><fr:title
+text="Lagrange's theorem">Lagrange's theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Corollary 8.14</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[H\leq  G]]></fr:tex> be a <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroup</fr:link>, and <fr:tex
+display="inline"><![CDATA[G/H]]></fr:tex> the set of
+<fr:link
+type="local"
+href="rs-009W.xml"
+addr="rs-009W"
+title="Coset">cosets</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>. Then there is an equation of <fr:link
+type="local"
+href="rs-009Z.xml"
+addr="rs-009Z"
+title="Cardinality">cardinalities</fr:link>
+<fr:tex
+display="block"><![CDATA[|H||G/H| = |G|.]]></fr:tex></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>494</fr:anchor><fr:addr
+type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>The cosets partition <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>, so it suffices to show that all cosets have
+  cardinality <fr:tex
+display="inline"><![CDATA[|H|]]></fr:tex>. The map <fr:tex
+display="block"><![CDATA[H\to  gH,\quad  h\mapsto  gh]]></fr:tex> is a
+  <fr:link
+type="local"
+href="rs-000E.xml"
+addr="rs-000E"
+title="Bijection">bijection</fr:link>, with inverse <fr:tex
+display="inline"><![CDATA[x\mapsto  g^{-1}x]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10021</fr:anchor><fr:addr
+type="user">rs-009U</fr:addr><fr:route>rs-009U.xml</fr:route><fr:title
+text="Orbit">Orbit</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition 9.7</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>orbit</fr:em> of an element <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex> of a <fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action"><fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-set</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> is the
+<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">image</fr:link> of <fr:tex
+display="inline"><![CDATA[a]]></fr:tex> under <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>, i.e. <fr:tex
+display="block"><![CDATA[Ga := \{g\cdot  a: g\in  G\};]]></fr:tex> by
+invertibility in <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>, the orbits form an <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">equivalence relation</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10023</fr:anchor><fr:addr
+type="user">rs-009X</fr:addr><fr:route>rs-009X.xml</fr:route><fr:title
+text="Orbit-stabilizer theorem">Orbit-stabilizer theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Corollary 9.10</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action"><fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-set</fr:link> and <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>. Then there is an equation of
+<fr:link
+type="local"
+href="rs-009Z.xml"
+addr="rs-009Z"
+title="Cardinality">cardinalities</fr:link> <fr:tex
+display="block"><![CDATA[|\operatorname {stab}_G(a)||Ga| = |G|,]]></fr:tex> where the former is the
+<fr:link
+type="local"
+href="rs-009V.xml"
+addr="rs-009V"
+title="Stabilizer">stabilizer</fr:link> and the latter is the <fr:link
+type="local"
+href="rs-009U.xml"
+addr="rs-009U"
+title="Orbit">orbit</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>498</fr:anchor><fr:addr
+type="machine">#258</fr:addr><fr:route>unstable-258.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We construct a <fr:link
+type="local"
+href="rs-000E.xml"
+addr="rs-000E"
+title="Bijection">bijection</fr:link> <fr:tex
+display="inline"><![CDATA[Ga\cong  G/\operatorname {stab}_G(a)]]></fr:tex>, whence the
+  result follows from <fr:link
+type="local"
+href="rs-00A0.xml"
+addr="rs-00A0"
+title="Lagrange's theorem">Lagrange's theorem</fr:link>. Given an element <fr:tex
+display="inline"><![CDATA[b = ga\in  Ga]]></fr:tex>,
+  identify it with the <fr:link
+type="local"
+href="rs-009W.xml"
+addr="rs-009W"
+title="Coset">coset</fr:link> <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>. This is well-defined: if
+  <fr:tex
+display="inline"><![CDATA[b = ga = ha]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[gh^{-1}\in \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>. Moreover, it is <fr:link
+type="local"
+href="rs-000H.xml"
+addr="rs-000H"
+title="Injection">injective</fr:link>: if <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[gh^{-1} \in  \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[ga = ha]]></fr:tex>. Finally, it
+  is <fr:link
+type="local"
+href="rs-000I.xml"
+addr="rs-000I"
+title="Surjection">surjective</fr:link>: given some <fr:tex
+display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>, it is the image of
+  <fr:tex
+display="inline"><![CDATA[ga\in  Ga]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10025</fr:anchor><fr:addr
+type="user">rs-00A1</fr:addr><fr:route>rs-00A1.xml</fr:route><fr:title
+text="Order">Order</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A1.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.1.9</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>order</fr:em> of an element <fr:tex
+display="inline"><![CDATA[g\in  G]]></fr:tex> of a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> is the
+smallest <fr:tex
+display="inline"><![CDATA[n]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[g^n = e]]></fr:tex>; equivalently, it is the
+<fr:link
+type="local"
+href="rs-009Z.xml"
+addr="rs-009Z"
+title="Cardinality">cardinality</fr:link> of the <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroup</fr:link> generated by <fr:tex
+display="inline"><![CDATA[g]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10027</fr:anchor><fr:addr
+type="user">rs-00A3</fr:addr><fr:route>rs-00A3.xml</fr:route><fr:title
+text="Presentation of a group">Presentation of a group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A3.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section 8.2</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>presentation</fr:em> <fr:tex
+display="inline"><![CDATA[\langle  A \mid  R\rangle ]]></fr:tex> of a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>
+consists of a set <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, a set <fr:tex
+display="inline"><![CDATA[R]]></fr:tex> of <fr:link
+type="local"
+href="rs-009C.xml"
+addr="rs-009C"
+title="Explicit construction of free groups">words</fr:link> in <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, and a
+<fr:link
+type="local"
+href="rs-000I.xml"
+addr="rs-000I"
+title="Surjection">surjective</fr:link> <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link> <fr:tex
+display="inline"><![CDATA[FA\twoheadrightarrow  G]]></fr:tex> from the <fr:link
+type="local"
+href="rs-009D.xml"
+addr="rs-009D"
+title="Existence of free groups">free group
+<fr:tex
+display="inline"><![CDATA[FA]]></fr:tex></fr:link> with <fr:link
+type="local"
+href="rs-00A4.xml"
+addr="rs-00A4"
+title="Kernel of a group homomorphism">kernel</fr:link> <fr:tex
+display="inline"><![CDATA[R]]></fr:tex>, in particular <fr:link
+type="local"
+href="rs-00AX.xml"
+addr="rs-00AX"
+title="First isomorphism theorem for groups">realizing</fr:link> <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> as the
+<fr:link
+type="local"
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">quotient</fr:link> of <fr:tex
+display="inline"><![CDATA[FA]]></fr:tex> by the <fr:link
+type="local"
+href="rs-009L.xml"
+addr="rs-009L"
+title="Characterization of normal subgroups">normal subgroup</fr:link> generated by
+<fr:tex
+display="inline"><![CDATA[R]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10029</fr:anchor><fr:addr
+type="user">rs-00A2</fr:addr><fr:route>rs-00A2.xml</fr:route><fr:title
+text="Quotient group">Quotient group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.7.11</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:link
+type="local"
+href="rs-009L.xml"
+addr="rs-009L"
+title="Characterization of normal subgroups"><fr:tex
+display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then the <fr:em>quotient group</fr:em> <fr:tex
+display="inline"><![CDATA[G/N]]></fr:tex> is
+the <fr:link
+type="local"
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">quotient object</fr:link> of the <fr:link
+type="local"
+href="rs-009I.xml"
+addr="rs-009I"
+title="Congruences of groups are equivalently normal subgroups">induced congruence</fr:link>; explicitly,
+it is the set of <fr:link
+type="local"
+href="rs-009W.xml"
+addr="rs-009W"
+title="Coset">cosets</fr:link> of <fr:tex
+display="inline"><![CDATA[N]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> with the operation <fr:tex
+display="block"><![CDATA[(gN)(hN) = (gh)N.]]></fr:tex></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>512</fr:anchor><fr:addr
+type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>To show that this defines a group, note that the induced equivalence
+  relation is a congruence, hence compatible with the group multiplication, so
+  that the multiplication is well-defined. The group axioms are direct from
+  those of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
+
+  <fr:p>To exhibit the universal property, let <fr:tex
+display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> be any
+  <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link> which is constant on equivalence classes. Since <fr:tex
+display="inline"><![CDATA[G/N]]></fr:tex>
+  is also the <fr:link
+type="local"
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">quotient set</fr:link>, It suffices
+  to show that the induced set-function <fr:tex
+display="inline"><![CDATA[\tilde {f}]]></fr:tex> is a homomorphism:
+  <fr:tex
+display="block"><![CDATA[\tilde {f}(ghN) = f(gh) = f(g)f(h) = \tilde {f}(g)\tilde {f}(h).]]></fr:tex></fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10031</fr:anchor><fr:addr
+type="user">rs-009V</fr:addr><fr:route>rs-009V.xml</fr:route><fr:title
+text="Stabilizer">Stabilizer</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition 9.8</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>stabiliizer</fr:em> of an element <fr:tex
+display="inline"><![CDATA[a]]></fr:tex> of a <fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action"><fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-set</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> is the
+<fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroup</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> which fixes <fr:tex
+display="inline"><![CDATA[a]]></fr:tex>, i.e. <fr:tex
+display="block"><![CDATA[\operatorname {stab}_G(a) := \{g\in  G: g\cdot  a = a\}.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10033</fr:anchor><fr:addr
+type="user">rs-009T</fr:addr><fr:route>rs-009T.xml</fr:route><fr:title
+text="Transitive action">Transitive action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.9.6</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action">group action</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> on <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> is <fr:em>transitive</fr:em> if it has a
+single <fr:link
+type="local"
+href="rs-009U.xml"
+addr="rs-009U"
+title="Orbit">orbit</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10035</fr:anchor><fr:addr
 type="user">rs-009B</fr:addr><fr:route>rs-009B.xml</fr:route><fr:title
 text="Category of groups">Category of groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -79,7 +791,151 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9140</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10037</fr:anchor><fr:addr
+type="user">rs-009L</fr:addr><fr:route>rs-009L.xml</fr:route><fr:title
+text="Characterization of normal subgroups">Characterization of normal subgroups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section II.7.6</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroup</fr:link> <fr:tex
+display="inline"><![CDATA[N]]></fr:tex> is <fr:link
+type="local"
+href="rs-009K.xml"
+addr="rs-009K"
+title="Normal subobject">normal</fr:link>, i.e. the <fr:link
+type="local"
+href="rs-00A4.xml"
+addr="rs-00A4"
+title="Kernel of a group homomorphism">kernel</fr:link>
+of a map <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>, if and only if it is closed under <fr:link
+type="local"
+href="rs-009P.xml"
+addr="rs-009P"
+title="Conjugation action">conjugation</fr:link>. We
+write <fr:tex
+display="inline"><![CDATA[N\unlhd  G]]></fr:tex>.</fr:p><fr:p>Most authors take this latter condition as the definition of normal
+subgroups.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10039</fr:anchor><fr:addr
+type="user">rs-009P</fr:addr><fr:route>rs-009P.xml</fr:route><fr:title
+text="Conjugation action">Conjugation action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Example 9.3</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>conjugation action</fr:em> of a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> on itself is the
+<fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action">action</fr:link> given by <fr:em>conjugation</fr:em>, <fr:tex
+display="block"><![CDATA[g\cdot  h = h^g := ghg^{-1}.]]></fr:tex> The
+<fr:link
+type="local"
+href="rs-0004.xml"
+addr="rs-0004"
+title="Automorphism">automorphism</fr:link> associated to an element <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> is called the <fr:em>inner
+automorphism</fr:em> <fr:tex
+display="inline"><![CDATA[\operatorname *{inn}_g]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10041</fr:anchor><fr:addr
+type="user">rs-009C</fr:addr><fr:route>rs-009C.xml</fr:route><fr:title
+text="Explicit construction of free groups">Explicit construction of free groups</fr:title><fr:taxon>Construction</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section II.5.3</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:link
+type="local"
+href="rs-009D.xml"
+addr="rs-009D"
+title="Existence of free groups">free group</fr:link> on a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is the <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> whose
+elements are <fr:em>group words</fr:em> in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>, i.e. finite strings <fr:tex
+display="inline"><![CDATA[x_1^{\epsilon _1}\dots  x_r^{\epsilon _r}]]></fr:tex>, where <fr:tex
+display="inline"><![CDATA[x_i\in  i]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[\epsilon _i\in \{-1, 1\}]]></fr:tex>,
+<fr:link
+type="local"
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">modulo</fr:link> the <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">relation</fr:link> generated by reducing adjacent pairs
+<fr:tex
+display="inline"><![CDATA[x^{\pm  1}x^{\mp  1}]]></fr:tex>, with multiplication by concatenation.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10043</fr:anchor><fr:addr
 type="user">rs-009A</fr:addr><fr:route>rs-009A.xml</fr:route><fr:title
 text="Group homomorphism">Group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -113,7 +969,249 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9142</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10045</fr:anchor><fr:addr
+type="user">rs-009M</fr:addr><fr:route>rs-009M.xml</fr:route><fr:title
+text="Group action">Group action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section II.9.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>(left) action</fr:em> of a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> on a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is a
+<fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link> from <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> to the <fr:link
+type="local"
+href="rs-008V.xml"
+addr="rs-008V"
+title="Symmetric group">automorphism group</fr:link> of <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>.
+By <fr:link
+type="local"
+href="rs-009N.xml"
+addr="rs-009N"
+title="Set is cartesian closed">uncurrying</fr:link> in <fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>, this is equivalently a map
+<fr:tex
+display="inline"><![CDATA[G\times  X\xrightarrow {\cdot } X]]></fr:tex> so that <fr:tex
+display="block"><![CDATA[e\cdot  x = x \text { and }(gh)\cdot  x = g\cdot (h\cdot  x).]]></fr:tex> A set equipped with a <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-action is called a <fr:em><fr:tex
+display="inline"><![CDATA[G]]></fr:tex>-set</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10047</fr:anchor><fr:addr
+type="user">rs-009H</fr:addr><fr:route>rs-009H.xml</fr:route><fr:title
+text="Product group">Product group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Proposition 3.4</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>product group</fr:em> is the <fr:link
+type="local"
+href="rs-0023.xml"
+addr="rs-0023"
+title="Product">product</fr:link> in <fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span></fr:link>.
+<fr:link
+type="local"
+href="rs-009F.xml"
+addr="rs-009F"
+title="Grp is complete">Explicitly</fr:link>, its underlying set is the <fr:link
+type="local"
+href="rs-002S.xml"
+addr="rs-002S"
+title="Cartesian product of sets">cartesian product</fr:link>,
+with operations componentwise.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10049</fr:anchor><fr:addr
+type="user">rs-009J</fr:addr><fr:route>rs-009J.xml</fr:route><fr:title
+text="Subgroup">Subgroup</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition II.6.11</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>subgroup</fr:em> is a <fr:link
+type="local"
+href="rs-002Z.xml"
+addr="rs-002Z"
+title="Subobject">subobject</fr:link> in <fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span></fr:link>, written
+<fr:tex
+display="inline"><![CDATA[H\leq  G]]></fr:tex>; equivalently, it is a <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">closed</fr:link> under the
+group operations.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10051</fr:anchor><fr:addr
+type="user">rs-009O</fr:addr><fr:route>rs-009O.xml</fr:route><fr:title
+text="Translation action">Translation action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Example 9.3</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>(left) translation action</fr:em> of a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> on itself is the
+<fr:link
+type="local"
+href="rs-009M.xml"
+addr="rs-009M"
+title="Group action">action</fr:link> given by multiplication, <fr:tex
+display="inline"><![CDATA[g\cdot  h = gh]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10053</fr:anchor><fr:addr
+type="user">rs-008U</fr:addr><fr:route>rs-008U.xml</fr:route><fr:title
+text="Trivial group">Trivial group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Proposition II.3.3</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>trivial group</fr:em> is the <fr:link
+type="local"
+href="rs-005D.xml"
+addr="rs-005D"
+title="Zero object">zero object</fr:link> in
+<fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span></fr:link>. Explicitly, it is the unique <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> on the
+<fr:link
+type="local"
+href="rs-00AB.xml"
+addr="rs-00AB"
+title="Singleton set">singleton</fr:link>. The associated <fr:link
+type="local"
+href="rs-005E.xml"
+addr="rs-005E"
+title="Zero morphism">zero map</fr:link> is called the <fr:em>trivial
+map</fr:em>; explicitly, it is the constant <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link> at the identity.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10055</fr:anchor><fr:addr
 type="user">rs-008X</fr:addr><fr:route>rs-008X.xml</fr:route><fr:title
 text="Cyclic group">Cyclic group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -155,7 +1253,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9144</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10057</fr:anchor><fr:addr
 type="user">rs-008W</fr:addr><fr:route>rs-008W.xml</fr:route><fr:title
 text="Dihedral group">Dihedral group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008W.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -191,7 +1289,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9146</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10059</fr:anchor><fr:addr
 type="user">rs-008V</fr:addr><fr:route>rs-008V.xml</fr:route><fr:title
 text="Symmetric group">Symmetric group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -239,7 +1337,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9148</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10061</fr:anchor><fr:addr
 type="user">rs-007X</fr:addr><fr:route>rs-007X.xml</fr:route><fr:title
 text="Group">Group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

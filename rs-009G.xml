@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1126</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1828</fr:anchor><fr:addr
 type="user">rs-009G</fr:addr><fr:route>rs-009G.xml</fr:route><fr:title
 text="Kernel">Kernel</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -16,13 +16,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Borceux</fr:meta><fr:meta
 name="ref-at">Definition II.1.1.5</fr:meta><fr:meta
-name="ref-note">borceux-1993</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="borceux-1993" />
+type="local"
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
 <fr:p>The <fr:em>kernel</fr:em> of a map <fr:tex
 display="inline"><![CDATA[f]]></fr:tex> is the <fr:link
 type="local"
@@ -48,6 +50,55 @@ show-metadata="false"
 expanded="true"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1830</fr:anchor><fr:addr
+type="user">borceux-1994</fr:addr><fr:route>borceux-1994.xml</fr:route><fr:title
+text="Handbook of categorical algebra">Handbook of categorical algebra</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/borceux-1994.tree</fr:source-path><fr:date><fr:year>1994</fr:year></fr:date><fr:authors><fr:author>Francis Borceux</fr:author></fr:authors><fr:meta
+name="isbn">9780511525858</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{borceux-1994,
+  place = {Cambridge},
+  series = {Encyclopedia of Mathematics and its Applications},
+  title = {Handbook of Categorical Algebra},
+  publisher = {Cambridge University Press},
+  author = {Borceux, Francis},
+  year = {1994},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A Handbook of Categorical Algebra is designed to give, in three volumes, a
+detailed account of what should be known by everybody working in, or using,
+category theory. As such it will be a unique reference. The volumes are written
+in sequence, with the first being essentially self-contained, and are accessible
+to graduate students with a good background in mathematics.</fr:p><fr:p>Volume 1, which is devoted to general concepts, can be used for advanced
+undergraduate courses on category theory. After introducing the terminology and
+proving the fundamental results concerning limits, adjoint functors and Kan
+extensions, the categories of fractions are studied in detail; special
+consideration is paid to the case of localizations. The remainder of the first
+volume studies various 'refinements' of the fundamental concepts of category and
+functor.</fr:p><fr:p>The second, which assumes familiarity with the material in the first,
+introduces important classes of categories that have played a fundamental role
+in the subject's development and applications. In addition, after several
+chapters discussing specific categories, the book develops all the major
+concepts concerning Benabou's ideas of fibred categories. There is ample
+material here for a graduate course in category theory, and the book should also
+serve as a reference for users.</fr:p><fr:p>Volume 3 begins with the essential aspects of the theory of locales,
+proceeding to a study in chapter 2 of the sheaves on a locale and on a
+topological space, in their various equivalent presentations: functors, etale
+maps or W-sets. Next, this situation is generalized to the case of sheaves on a
+site and the corresponding notion of Grothendieck topos is introduced. Chapter 4
+relates the theory of Grothendieck toposes with that of accessible categories
+and sketches, by proving the existence of a classifying topos for all coherent
+theories.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
 text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
 toc="true"
 numbered="false"
@@ -55,7 +106,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1128</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1832</fr:anchor><fr:addr
 type="user">rs-00A4</fr:addr><fr:route>rs-00A4.xml</fr:route><fr:title
 text="Kernel of a group homomorphism">Kernel of a group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A4.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -64,13 +115,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition II.6.5</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:link
 type="local"
 href="rs-009G.xml"
@@ -93,7 +146,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1130</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1834</fr:anchor><fr:addr
 type="user">rs-009K</fr:addr><fr:route>rs-009K.xml</fr:route><fr:title
 text="Normal subobject">Normal subobject</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -123,7 +176,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1132</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1836</fr:anchor><fr:addr
 type="user">rs-005E</fr:addr><fr:route>rs-005E.xml</fr:route><fr:title
 text="Zero morphism">Zero morphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -170,7 +223,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1134</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1838</fr:anchor><fr:addr
 type="user">rs-0026</fr:addr><fr:route>rs-0026.xml</fr:route><fr:title
 text="Coequalizer">Coequalizer</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0026.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -210,7 +263,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>770</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>629</fr:anchor><fr:addr
 type="user">rs-0026-up</fr:addr><fr:route>rs-0026-up.xml</fr:route><fr:title
 text="Universal property of the coequalizer">Universal property of the coequalizer</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0026.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -322,7 +375,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1136</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1840</fr:anchor><fr:addr
 type="user">rs-0025</fr:addr><fr:route>rs-0025.xml</fr:route><fr:title
 text="Equalizer">Equalizer</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0025.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -362,7 +415,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1138</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>678</fr:anchor><fr:addr
 type="user">rs-0025-up</fr:addr><fr:route>rs-0025-up.xml</fr:route><fr:title
 text="Universal property of the equalizer">Universal property of the equalizer</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0025.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

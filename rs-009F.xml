@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>777</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1475</fr:anchor><fr:addr
 type="user">rs-009F</fr:addr><fr:route>rs-009F.xml</fr:route><fr:title
 text="Grp is complete"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
@@ -60,7 +60,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>779</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1477</fr:anchor><fr:addr
 type="user">rs-008T</fr:addr><fr:route>rs-008T.xml</fr:route><fr:title
 text="Group theory">Group theory</fr:title><fr:taxon>Notes</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
@@ -73,8 +73,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>391</fr:anchor><fr:addr
-type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>426</fr:anchor><fr:addr
+type="machine">#265</fr:addr><fr:route>unstable-265.xml</fr:route><fr:title
 text="The basics">The basics</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -86,7 +86,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>393</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>428</fr:anchor><fr:addr
 type="user">rs-007X</fr:addr><fr:route>rs-007X.xml</fr:route><fr:title
 text="Group">Group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -132,7 +132,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>395</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>430</fr:anchor><fr:addr
 type="user">rs-008V</fr:addr><fr:route>rs-008V.xml</fr:route><fr:title
 text="Symmetric group">Symmetric group</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -180,7 +180,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>397</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>432</fr:anchor><fr:addr
 type="user">rs-008W</fr:addr><fr:route>rs-008W.xml</fr:route><fr:title
 text="Dihedral group">Dihedral group</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008W.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -216,7 +216,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>399</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>434</fr:anchor><fr:addr
 type="user">rs-008X</fr:addr><fr:route>rs-008X.xml</fr:route><fr:title
 text="Cyclic group">Cyclic group</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -258,7 +258,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>401</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>436</fr:anchor><fr:addr
 type="user">rs-009J</fr:addr><fr:route>rs-009J.xml</fr:route><fr:title
 text="Subgroup">Subgroup</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -267,13 +267,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition II.6.11</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>A <fr:em>subgroup</fr:em> is a <fr:link
 type="local"
 href="rs-002Z.xml"
@@ -302,7 +304,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>403</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>438</fr:anchor><fr:addr
 type="user">rs-009S</fr:addr><fr:route>rs-009S.xml</fr:route><fr:title
 text="Groups as categories">Groups as categories</fr:title><fr:taxon>Connection</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -340,8 +342,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>405</fr:anchor><fr:addr
-type="machine">#255</fr:addr><fr:route>unstable-255.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>440</fr:anchor><fr:addr
+type="machine">#266</fr:addr><fr:route>unstable-266.xml</fr:route><fr:title
 text="The category of groups">The category of groups</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -353,7 +355,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>407</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>442</fr:anchor><fr:addr
 type="user">rs-009A</fr:addr><fr:route>rs-009A.xml</fr:route><fr:title
 text="Group homomorphism">Group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -387,7 +389,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>409</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>444</fr:anchor><fr:addr
 type="user">rs-009B</fr:addr><fr:route>rs-009B.xml</fr:route><fr:title
 text="Category of groups">Category of groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -427,7 +429,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>411</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>446</fr:anchor><fr:addr
 type="user">rs-009D</fr:addr><fr:route>rs-009D.xml</fr:route><fr:title
 text="Existence of free groups">Existence of free groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -463,8 +465,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>413</fr:anchor><fr:addr
-type="machine">#251</fr:addr><fr:route>unstable-251.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>448</fr:anchor><fr:addr
+type="machine">#262</fr:addr><fr:route>unstable-262.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -491,7 +493,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>415</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>450</fr:anchor><fr:addr
 type="user">rs-009C</fr:addr><fr:route>rs-009C.xml</fr:route><fr:title
 text="Explicit construction of free groups">Explicit construction of free groups</fr:title><fr:taxon>Construction</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -500,13 +502,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Section II.5.3</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:link
 type="local"
 href="rs-009D.xml"
@@ -543,7 +547,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>417</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>452</fr:anchor><fr:addr
 type="user">rs-009E</fr:addr><fr:route>rs-009E.xml</fr:route><fr:title
 text="Grp is monadic over Set"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
@@ -593,8 +597,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>419</fr:anchor><fr:addr
-type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>454</fr:anchor><fr:addr
+type="machine">#261</fr:addr><fr:route>unstable-261.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -909,7 +913,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>421</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>456</fr:anchor><fr:addr
 type="user">rs-009F</fr:addr><fr:route>rs-009F.xml</fr:route><fr:title
 text="Grp is complete"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
@@ -954,7 +958,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>423</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>458</fr:anchor><fr:addr
 type="user">rs-008U</fr:addr><fr:route>rs-008U.xml</fr:route><fr:title
 text="Trivial group">Trivial group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -963,13 +967,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Proposition II.3.3</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>trivial group</fr:em> is the <fr:link
 type="local"
 href="rs-005D.xml"
@@ -988,9 +994,9 @@ addr="rs-007X"
 title="Group">group</fr:link> on the
 <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">singleton</fr:link>. The associated <fr:link
+href="rs-00AB.xml"
+addr="rs-00AB"
+title="Singleton set">singleton</fr:link>. The associated <fr:link
 type="local"
 href="rs-005E.xml"
 addr="rs-005E"
@@ -1006,7 +1012,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>425</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>460</fr:anchor><fr:addr
 type="user">rs-009H</fr:addr><fr:route>rs-009H.xml</fr:route><fr:title
 text="Product group">Product group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1015,13 +1021,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Proposition 3.4</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>product group</fr:em> is the <fr:link
 type="local"
 href="rs-0023.xml"
@@ -1049,7 +1057,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>427</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>462</fr:anchor><fr:addr
 type="user">rs-00A4</fr:addr><fr:route>rs-00A4.xml</fr:route><fr:title
 text="Kernel of a group homomorphism">Kernel of a group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A4.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1058,13 +1066,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition II.6.5</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:link
 type="local"
 href="rs-009G.xml"
@@ -1087,7 +1097,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>429</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>464</fr:anchor><fr:addr
 type="user">rs-00A5</fr:addr><fr:route>rs-00A5.xml</fr:route><fr:title
 text="Image of a group homomorphism">Image of a group homomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1096,13 +1106,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition II.6.5</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>image</fr:em> of a <fr:link
 type="local"
 href="rs-009A.xml"
@@ -1112,15 +1124,257 @@ title="Group homomorphism">group homomorphism</fr:link> is the underlying
 type="local"
 href="rs-000M.xml"
 addr="rs-000M"
-title="Direct image functor">set-theoretic image</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Direct image functor">set-theoretic image</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>431</fr:anchor><fr:addr
-type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>466</fr:anchor><fr:addr
+type="user">rs-00A8</fr:addr><fr:route>rs-00A8.xml</fr:route><fr:title
+text="Monomorphism of groups">Monomorphism of groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The following are equivalent for a <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link> <fr:tex
+display="inline"><![CDATA[G\xrightarrow {f}H]]></fr:tex> of
+<fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups">groups</fr:link>:
+
+<fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a <fr:link
+type="local"
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monomorphism</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
+type="local"
+href="rs-000H.xml"
+addr="rs-000H"
+title="Injection">injective</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has <fr:link
+type="local"
+href="rs-008U.xml"
+addr="rs-008U"
+title="Trivial group">trivial</fr:link> <fr:link
+type="local"
+href="rs-00A4.xml"
+addr="rs-00A4"
+title="Kernel of a group homomorphism">kernel</fr:link>.</fr:li></fr:ul></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>468</fr:anchor><fr:addr
+type="machine">#255</fr:addr><fr:route>unstable-255.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>To show the first two, note that <fr:link
+type="local"
+href="rs-005F.xml"
+addr="rs-005F"
+title="Monos are characterized by pullbacks">monos are limits</fr:link> and <fr:link
+type="local"
+href="rs-009F.xml"
+addr="rs-009F"
+title="Grp is complete">limits
+  are created in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
+
+  <fr:p>To show the kernel result, note that if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is injective, then the kernel
+  is automatically trivial, whereas if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has trivial kernel, then for any
+  <fr:tex
+display="inline"><![CDATA[x, y\in  G]]></fr:tex> with <fr:tex
+display="inline"><![CDATA[f(x) = f(y)]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[f(xy^{-1}) = e]]></fr:tex>, so <fr:tex
+display="inline"><![CDATA[xy^{-1}\in \ker (f)]]></fr:tex>,
+  meaning <fr:tex
+display="inline"><![CDATA[xy^{-1} = e]]></fr:tex>, and now <fr:tex
+display="inline"><![CDATA[x = y]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>470</fr:anchor><fr:addr
+type="user">rs-00A9</fr:addr><fr:route>rs-00A9.xml</fr:route><fr:title
+text="Epimorphism of groups">Epimorphism of groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane</fr:meta><fr:meta
+name="ref-at">Exercise I.5.5</fr:meta><fr:meta
+name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-1978.xml"
+addr="maclane-1978"
+title="Categories for the working mathematician" />
+<fr:p>An <fr:link
+type="local"
+href="rs-000B.xml"
+addr="rs-000B"
+title="Epimorphism">epimorphism</fr:link> of <fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups">groups</fr:link> is just a
+<fr:link
+type="local"
+href="rs-000I.xml"
+addr="rs-000I"
+title="Surjection">surjective</fr:link> <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>472</fr:anchor><fr:addr
+type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>First, if <fr:tex
+display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> is a surjective homomorphism, then given
+  homomorphisms <fr:tex
+display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex>, we have that <fr:tex
+display="inline"><![CDATA[f = g]]></fr:tex> because <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> is an epi
+  in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span>, so <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> is an epi.</fr:p>
+
+  <fr:p>Second, let <fr:tex
+display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> be an epi in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span>. We wish to find a group
+  <fr:tex
+display="inline"><![CDATA[K]]></fr:tex> and two maps <fr:tex
+display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex> which agree on the <fr:link
+type="local"
+href="rs-00A5.xml"
+addr="rs-00A5"
+title="Image of a group homomorphism">image</fr:link> of
+  <fr:tex
+display="inline"><![CDATA[e]]></fr:tex>, hence are equal, in such a way that their equality allows us to conclude
+  surjectivity of <fr:tex
+display="inline"><![CDATA[e]]></fr:tex>. Let <fr:tex
+display="inline"><![CDATA[K]]></fr:tex> be the <fr:link
+type="local"
+href="rs-008V.xml"
+addr="rs-008V"
+title="Symmetric group">symmetric group</fr:link> of the set of
+  <fr:link
+type="local"
+href="rs-009W.xml"
+addr="rs-009W"
+title="Coset">cosets</fr:link> <fr:tex
+display="inline"><![CDATA[H/e(G)]]></fr:tex> with an <fr:link
+type="local"
+href="rs-002U.xml"
+addr="rs-002U"
+title="Disjoint union of sets">adjoined</fr:link> <fr:link
+type="local"
+href="rs-00AB.xml"
+addr="rs-00AB"
+title="Singleton set">point</fr:link>
+  <fr:tex
+display="inline"><![CDATA[*]]></fr:tex>.</fr:p>
+
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[H\xrightarrow {f} K]]></fr:tex> be the map which sends <fr:tex
+display="inline"><![CDATA[h\in  H]]></fr:tex> to the associated
+  permutation acting on <fr:tex
+display="inline"><![CDATA[kH]]></fr:tex> by <fr:link
+type="local"
+href="rs-009O.xml"
+addr="rs-009O"
+title="Translation action">left translation</fr:link> and fixing <fr:tex
+display="inline"><![CDATA[*]]></fr:tex>.
+  Let <fr:tex
+display="inline"><![CDATA[\sigma \in  K]]></fr:tex> be the permutation which exchanges <fr:tex
+display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[*]]></fr:tex>; let
+  <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> be <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> composed with the <fr:link
+type="local"
+href="rs-009P.xml"
+addr="rs-009P"
+title="Conjugation action">inner automorphism</fr:link> associated to
+  <fr:tex
+display="inline"><![CDATA[\sigma ]]></fr:tex>.</fr:p>
+
+  <fr:p>We finally claim that <fr:tex
+display="inline"><![CDATA[f(e(a)) = g(e(a))]]></fr:tex> for each <fr:tex
+display="inline"><![CDATA[a\in  G]]></fr:tex>. Indeed, since
+  <fr:tex
+display="inline"><![CDATA[e(a)\in  e(G)]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[e(a)]]></fr:tex> fixes <fr:tex
+display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[*]]></fr:tex>, so is fixed under conjugation
+  by <fr:tex
+display="inline"><![CDATA[\sigma ]]></fr:tex>. Now since <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> is an epi, <fr:tex
+display="inline"><![CDATA[f = g]]></fr:tex>. Thus for each <fr:tex
+display="inline"><![CDATA[b\in  H]]></fr:tex>,
+  <fr:tex
+display="inline"><![CDATA[f(b) = g(b)]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g(b)]]></fr:tex> fixes <fr:tex
+display="inline"><![CDATA[f(H)]]></fr:tex>, i.e. <fr:tex
+display="inline"><![CDATA[bf(H) = f(H)]]></fr:tex>, so <fr:tex
+display="inline"><![CDATA[b\in    f(H)]]></fr:tex>, as desired.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>474</fr:anchor><fr:addr
+type="machine">#267</fr:addr><fr:route>unstable-267.xml</fr:route><fr:title
 text="Group actions">Group actions</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -1132,7 +1386,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>433</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>476</fr:anchor><fr:addr
 type="user">rs-009M</fr:addr><fr:route>rs-009M.xml</fr:route><fr:title
 text="Group action">Group action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1141,13 +1395,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Section II.9.1</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>A <fr:em>(left) action</fr:em> of a <fr:link
 type="local"
 href="rs-007X.xml"
@@ -1192,7 +1448,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>435</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>478</fr:anchor><fr:addr
 type="user">rs-009O</fr:addr><fr:route>rs-009O.xml</fr:route><fr:title
 text="Translation action">Translation action</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1201,13 +1457,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Example 9.3</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>(left) translation action</fr:em> of a <fr:link
 type="local"
 href="rs-007X.xml"
@@ -1225,7 +1483,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>437</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>480</fr:anchor><fr:addr
 type="user">rs-009P</fr:addr><fr:route>rs-009P.xml</fr:route><fr:title
 text="Conjugation action">Conjugation action</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1234,13 +1492,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Example 9.3</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>conjugation action</fr:em> of a <fr:link
 type="local"
 href="rs-007X.xml"
@@ -1251,14 +1511,22 @@ type="local"
 href="rs-009M.xml"
 addr="rs-009M"
 title="Group action">action</fr:link> given by <fr:em>conjugation</fr:em>, <fr:tex
-display="block"><![CDATA[g\cdot  h = h^g := ghg^{-1}.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+display="block"><![CDATA[g\cdot  h = h^g := ghg^{-1}.]]></fr:tex> The
+<fr:link
+type="local"
+href="rs-0004.xml"
+addr="rs-0004"
+title="Automorphism">automorphism</fr:link> associated to an element <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> is called the <fr:em>inner
+automorphism</fr:em> <fr:tex
+display="inline"><![CDATA[\operatorname *{inn}_g]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>439</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>482</fr:anchor><fr:addr
 type="user">rs-009R</fr:addr><fr:route>rs-009R.xml</fr:route><fr:title
 text="Faithful action">Faithful action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1267,13 +1535,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition II.9.1</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>A <fr:link
 type="local"
 href="rs-009M.xml"
@@ -1293,7 +1563,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>441</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>484</fr:anchor><fr:addr
 type="user">rs-009U</fr:addr><fr:route>rs-009U.xml</fr:route><fr:title
 text="Orbit">Orbit</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1302,13 +1572,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition 9.7</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>orbit</fr:em> of an element <fr:tex
 display="inline"><![CDATA[a\in  A]]></fr:tex> of a <fr:link
 type="local"
@@ -1337,7 +1609,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>443</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>486</fr:anchor><fr:addr
 type="user">rs-009W</fr:addr><fr:route>rs-009W.xml</fr:route><fr:title
 text="Coset">Coset</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009W.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1373,7 +1645,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>445</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>488</fr:anchor><fr:addr
 type="user">rs-009T</fr:addr><fr:route>rs-009T.xml</fr:route><fr:title
 text="Transitive action">Transitive action</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1382,13 +1654,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition II.9.6</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>A <fr:link
 type="local"
 href="rs-009M.xml"
@@ -1407,7 +1681,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>447</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>490</fr:anchor><fr:addr
 type="user">rs-009V</fr:addr><fr:route>rs-009V.xml</fr:route><fr:title
 text="Stabilizer">Stabilizer</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1416,13 +1690,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition 9.8</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>stabiliizer</fr:em> of an element <fr:tex
 display="inline"><![CDATA[a]]></fr:tex> of a <fr:link
 type="local"
@@ -1445,7 +1721,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>449</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>492</fr:anchor><fr:addr
 type="user">rs-00A0</fr:addr><fr:route>rs-00A0.xml</fr:route><fr:title
 text="Lagrange's theorem">Lagrange's theorem</fr:title><fr:taxon>Lemma</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1454,13 +1730,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Corollary 8.14</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>Let <fr:tex
 display="inline"><![CDATA[H\leq  G]]></fr:tex> be a <fr:link
 type="local"
@@ -1490,8 +1768,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>365</fr:anchor><fr:addr
-type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>494</fr:anchor><fr:addr
+type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1505,7 +1783,8 @@ display="block"><![CDATA[H\to  gH,\quad  h\mapsto  gh]]></fr:tex> is a
 type="local"
 href="rs-000E.xml"
 addr="rs-000E"
-title="Bijection">bijection</fr:link>.</fr:p>
+title="Bijection">bijection</fr:link>, with inverse <fr:tex
+display="inline"><![CDATA[x\mapsto  g^{-1}x]]></fr:tex>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
@@ -1515,7 +1794,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>451</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>496</fr:anchor><fr:addr
 type="user">rs-009X</fr:addr><fr:route>rs-009X.xml</fr:route><fr:title
 text="Orbit-stabilizer theorem">Orbit-stabilizer theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1524,13 +1803,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Corollary 9.10</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>Let <fr:tex
 display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
 type="local"
@@ -1564,8 +1845,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>371</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>498</fr:anchor><fr:addr
+type="machine">#258</fr:addr><fr:route>unstable-258.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1616,7 +1897,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>453</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>500</fr:anchor><fr:addr
 type="user">rs-009Y</fr:addr><fr:route>rs-009Y.xml</fr:route><fr:title
 text="Group actions as functors">Group actions as functors</fr:title><fr:taxon>Connection</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009Y.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1654,8 +1935,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>455</fr:anchor><fr:addr
-type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>502</fr:anchor><fr:addr
+type="machine">#268</fr:addr><fr:route>unstable-268.xml</fr:route><fr:title
 text="Quotient groups">Quotient groups</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -1667,7 +1948,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>457</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>504</fr:anchor><fr:addr
 type="user">rs-009L</fr:addr><fr:route>rs-009L.xml</fr:route><fr:title
 text="Characterization of normal subgroups">Characterization of normal subgroups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1676,13 +1957,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Section II.7.6</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>A <fr:link
 type="local"
 href="rs-009J.xml"
@@ -1712,7 +1995,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>506</fr:anchor><fr:addr
 type="user">rs-009I</fr:addr><fr:route>rs-009I.xml</fr:route><fr:title
 text="Congruences of groups are equivalently normal subgroups">Congruences of groups are equivalently normal subgroups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1745,8 +2028,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>461</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>508</fr:anchor><fr:addr
+type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1789,7 +2072,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>463</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>510</fr:anchor><fr:addr
 type="user">rs-00A2</fr:addr><fr:route>rs-00A2.xml</fr:route><fr:title
 text="Quotient group">Quotient group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1798,13 +2081,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Definition II.7.11</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>Let <fr:link
 type="local"
 href="rs-009L.xml"
@@ -1839,8 +2124,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>359</fr:anchor><fr:addr
-type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>512</fr:anchor><fr:addr
+type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1877,7 +2162,256 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>465</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>514</fr:anchor><fr:addr
+type="user">rs-00AW</fr:addr><fr:route>rs-00AW.xml</fr:route><fr:title
+text="Grp is regular"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span> is regular</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Borceux</fr:meta><fr:meta
+name="ref-at">Example II.2.4.3</fr:meta><fr:meta
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
+<fr:p><fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span></fr:link> is <fr:link
+type="local"
+href="rs-00AM.xml"
+addr="rs-00AM"
+title="Regular category">regular</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>420</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Pullbacks, hence <fr:link
+type="local"
+href="rs-002Y.xml"
+addr="rs-002Y"
+title="Kernel pair">kernel pairs</fr:link>, <fr:link
+type="local"
+href="rs-009F.xml"
+addr="rs-009F"
+title="Grp is complete">exist</fr:link> and <fr:link
+type="local"
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">their coequalizers are quotient
+  groups</fr:link>. It remains to show that <fr:link
+type="local"
+href="rs-00AL.xml"
+addr="rs-00AL"
+title="Regular epimorphism">regular epis</fr:link> are stable
+  under <fr:link
+type="local"
+href="rs-0027.xml"
+addr="rs-0027"
+title="Pullback">pullback</fr:link>. Since <fr:link
+type="local"
+href="rs-00A9.xml"
+addr="rs-00A9"
+title="Epimorphism of groups">epis are surjections</fr:link> and every
+  surjection is the coequalizer of its kernel pair, it in particular remains to show that
+  surjections are stable under pullback. Consider a diagram 
+ 
+  
+  <fr:figure><fr:resource
+hash="6d6887923a81c672a0d11bdef9e2f101"><fr:resource-content><fr:img
+src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuNCAtLT4KPHN2ZyB2ZXJzaW9uPScxLjEnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgeG1sbnM6eGxpbms9J2h0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsnIHdpZHRoPScxMzIuNzE1NTkycHQnIGhlaWdodD0nNzUuNTA2MzAxcHQnIHZpZXdCb3g9Jy03MiAtNzIgODguNDc3MDYxIDUwLjMzNzUzNCc+CjxzdHlsZSB0eXBlPSd0ZXh0L2Nzcyc+CjwhW0NEQVRBW0Bmb250LWZhY2V7Zm9udC1mYW1pbHk6bXNhbTEwO3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFMc0FBb0FBQUFBQTB3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVzQUFBQmdaM0ZsRldOdFlYQUFBQUZBQUFBQUtnQUFBRFFBRE9ETVoyeDVaZ0FBQVd3QUFBQkVBQUFBUkh0czB1ZG9aV0ZrQUFBQnNBQUFBQzhBQUFBMktOTjBZV2hvWldFQUFBSGdBQUFBSHdBQUFDUUdCZ0YrYUcxMGVBQUFBZ0FBQUFBSUFBQUFDQVVjQURwc2IyTmhBQUFDQ0FBQUFBWUFBQUFHQUNJQUFHMWhlSEFBQUFJUUFBQUFGd0FBQUNBQUJBQVNibUZ0WlFBQUFpZ0FBQUMwQUFBQkdwOVVlVkJ3YjNOMEFBQUMzQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm02bU9jd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4SUlBQUVqdWx1Q3lkZ2UxQjVZTktGdVovYWd3TUxNeU10NERDakFnVi8vOHpNQUFBTTRZUVJnQjQybU5nWUdCaVlHQmdCbUlSSU1rSXBsa1lGSUEwQ3hBQytROHEvLytIa1BJZFlIa0dBR3B2QjdVQUFBQUJBRHIvNkFISEFYWUFFQUFBQVJFV0JpY2hCaVkwTmhjaEVTWTJNaFlCeGdFT0YvNjdEUllWRGdGQUFRY2NDQUZVL3JnV0RnRUJDQndIQVFFK0RoZ1ZBQUFBZU5wallHUmdZQUJpaXpzZGQrUDViYjR5TUxNd2dNRGpBRWxtQlAzL0JiTU1ZeG1ReThIQUJCSUZBQmNKQ1VjQWVOcGpZR1JnWUdIK3A4YkF3Q3pEWU1WZ3lYaWNBU2lDQXBnQVB3OENpZ0FESEFBQUFnQUFPZ0FBQUFBQUlnQUFlTnBqWUdSZ1lHQmlFR1FBMFF4UUVna0FBQUpHQUJjQWVOcE5qTUVLZ2tBVVJZK2tRdFk2V3JTWUx4QWwxKzBpNkFOYVp6aUVvQWFPQ20zNjltNDZpK2JCblRPSCt3WkkrQkR3T3dIUm5MOFRFdXUxY01SR3MzQ3MyWGxPMkhOZ1JSQ3VaUklLenlGYlRwNGp0YStlWS9tNzU0U001ancydG05ZDJlYlp6ZmF1Zm5VbVQ3TkZYR3huKzNLd2xYbThUVFhWYm5xMjVwZ1duQmxwc1BTME9FcGxycjl1czNIVXZPZ3djcW5zZitPaVJqZTNTZ2JkbFZvUDNzcUtTWHRPK1ZUWGNOUnU4UVhLOVNlYmVOcGpZR1pBQm93TWFBQUFBSTRBQlE9PSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtbWk3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFVb0FBb0FBQUFBQmZRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVZQUFBQmdoZUo0MEdOdFlYQUFBQUU4QUFBQU13QUFBRVFEM0FTR1oyeDVaZ0FBQVhBQUFBSmNBQUFDdUxtZ3ltZG9aV0ZrQUFBRHpBQUFBQzhBQUFBMktSZDA5MmhvWldFQUFBUDhBQUFBSGdBQUFDUUdrZ0s1YUcxMGVBQUFCQndBQUFBUUFBQUFFQXhhQUw5c2IyTmhBQUFFTEFBQUFBb0FBQUFLQWRZQTltMWhlSEFBQUFRNEFBQUFHQUFBQUNBQUJ3QlBibUZ0WlFBQUJGQUFBQURKQUFBQk12TSsvQ2R3YjNOMEFBQUZIQUFBQUF3QUFBQWdBQU1BQUhqYVkyQm1GbU9jd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0VFakF4SklLUzVMQjBxNk0xOWxadmdQNURNek1JS0VHUkVxL2dPRkFkaThEYVlBQUhqYVkyQmdZR0pnWUdBR1loRWd5UWltV1JnTWdEUUhFSUxrM0psUE1GLzkveC9CK3Ivcmo5VWZQYkJhTUFBQUN2ME1ZZ0I0MmlXU3pXNFNVUlRINTV3N2N5L0RmQUV0TTRPRWp3R1pBYUVGS1E3UXRJT3hGbWhqUzJ0RDBxUnR0RlpqTkNaMllWelVoYTBMM1JwalhMa3pVUk5YK2dxYTZOb1g4QVY4QmNVN2twUGNjM0x1L3lUbjk3OVhBR0U0K1UxdTRrOWhReENBNkZEMFhLOEg4K0M1bE9uQVRJdEh1K24zaU85NkxxTUI1TERkdFBUdzNrREtkWHlFbjM0N0RETUhwdFgyTFpQYzZCR21LaFFRNEhCdjd0VjJkeFhFeTZyV1h3OGUyMG9DUUxFeldSY050ajArMWhFTldyV1pPU3NsYzNMbGJQWDFSeUM3bmRISnk3MTVXcVByS3RQeDY5K0pFVUdVdGN6dVE4VDZ0YVV2NDBkTkpWTEdhdjM4ZWtTV2tRQnhJa0JBakJrTUlKNC8yTXhJWHFKYUl1OU9uaDhQRjdhSVdCU0wya2hId2pHRnhtUU9mK0gzS2ZOMDlaRFlDNkR0bXh5T2hld2VvM1VJelhERDVJYWlGaXRRUmtPTFd2K0htcVlWS3JsSE13RXM4SVJ6Nys4TnZIUVRJSzFGUlNqTVNsVUNscHFwWFQvTjEzQkdwcUE1bmNEc1NCZ3ZKU0NWVzVxQk9IZkpVdVBGb053QjBFdHh4S2NmQ0ZXNUZELzl1U3NGampmc09CVkZ0Sk1PNExtdWV6dTlVdDF3eUdjYnVSK0x6eUNsNVVmS3lzR0ZmQWw2UVl6MzlJYVZuSmNhNVpTejM1ZnY2UGhXaXdKR0JVRkFZVEFwNEEvNEpqU0VRQkFrcGhQT0ZUNzJwWmJmRGtJTWsxRURxSlVGcXdkVFgzakprWGw0bGgvMld1RTMwQUd1MmhIVlRxUUFvbzJqbzBwVlYyTVVRRjZNRVFQeDFqaGh4OHBtMXQ5WldnT3laYWNQbnlTZDB4MWpBOXYrMXFDWWxWL1VUQVcwSkNtOHNlNzNpMmZkR09ON2kvSWdpQzZMM1RXMU83dzRjSjFsQ1ViOUIrTlVzay82SVBiVUs1dVZSWUQ5K2hGSCtRZXdpV1UvZU5wallHUmdZQURpUFZNNTU4YnoyM3hsWUdaaEFJSEhBWkxNQ1BxL0VuTUMweVVnbDRPQkNTUUtBUDE5Q0tBQWVOcGpZR1JnWUdiNHp3QWsreGdNR05TWUV4aUFJaWlBQlFBN2xBSlRBQUFDeGdBQUE0NEFTQU1GQURBREFRQkhBQUFBQUFCNkFQWUJYQUFBZU5wallHUmdZR0JoOEdOZ1lnQUJSZ1kwQUFBSWlBQlhlTnBGalQycndqQVVocDlpSzFnSEY1RTdhUWJub2lpNDNNM0J5ZFhCVFUyUURra2tyUVVkbk80UDk1Z2I4QXlINS8wNENWRHlJdU16R2FPNFA1TlRpUHJuZ2lIanhIMVJzOFFsUDh6cGtlVURjYWI4SnM0bE9TWXVtS0FUOThWL0ppNVo4TGYxOW5adlRWQjdyMDF3RjJ2cnpjR0VwdlpPTGF0RjFEdmpURGkxUnF2elErbXVicnFyVmF0cXpSYVA1Y2FkRmtOQXNSZEhSM1pjSkxQVWJEaEVweEgyNGl1V1ZQTDNOOTlKN21MbkZGL1Mwam56a0szcHBOSEl2a3BYc1pMTDlSdWdMQzh0QUFBQWVOcGpZR2JBQ3dBQWZRQUUpIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbXN5MTA7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQU00QUFvQUFBQUFBNXdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRW9BQUFCZ2lPUnpHMk50WVhBQUFBRkFBQUFBS1FBQUFEUUFEQUVxWjJ4NVpnQUFBV3dBQUFCNEFBQUFlSk1TUEpGb1pXRmtBQUFCNUFBQUFDd0FBQUEyS05KMCsyaG9aV0VBQUFJUUFBQUFIZ0FBQUNRR05mL2RhRzEwZUFBQUFqQUFBQUFHQUFBQUJnT3dBQUJzYjJOaEFBQUNPQUFBQUFZQUFBQUdBRHdBQUcxaGVIQUFBQUpBQUFBQUZ3QUFBQ0FBQkFBa2JtRnRaUUFBQWxnQUFBRFFBQUFCT0lCRGRqbHdiM04wQUFBREtBQUFBQkFBQUFBZ0FBTUFBWGphWTJCbWxtR2N3TURLd01BMGkrbnNQeEdHZmhETitJYnhEWU14SXljREVMQXh3QUVUQXhKSUtTNUxCMHBlWjdqT0xQVkhrNEdCV1lyNU9sQ1lFYUhpLzM4R0JnRHJuUTd2QUFCNDJtTmdZR0JpWUdCZ0JtSVJJTWtJcGxrWUZJQTBDeENDK05mLy80ZVEvN1hBZkFZQVh1VUhNd0FBQUFBQkFKUUFDUUtHQWZnQUlnQUFBVGMyRnhZWEJnOENId0VXQndZSEppOEJCdzRCSXlZbkpqOEJKeVkzTmpjeUZ3R095dzRLRXdFQ0F4cTdwVElFQVFFVEN3WFV5d2tJQmhFREF4RE56UkFEQXhFR0JBRWR5aEVCQWhNS0F4cTdwVElJQXhNQ0FnVFV5d29GQWhNSERjN09EUWNUQWdJQUFIamFZMkJrWUdBQVluYlIrTko0ZnB1dkRNd3NEQ0R3T0VDU0dabG1sbUg4QWFRNEdKaEFQQUM2dXdaWmVOcGpZR1JnWUpiNm93a2taUmltTUV4amFtTUFpcUFBUmdCTXlnTVhBQUFESEFBQUFKUUFBQUFBQUFBQVBBQUFlTnBqWUdSZ1lHQmlVR1lBMFF4UUVna0FBQVFJQUNrQWVOcE5qckZ1d2pBVVJVL1VFS2xwcFU2dE9sV2VPa2FKWU83Q3dNVEsxQVd3UlRQRVFYYUlsSVVQNkZmM0VqejBXWG82dnZlK1p3TWxWekp1bGZFeTkxdmxGTHJkZWNFVHI0a0xIWk80NUoxUEhzanlSeWtmZkNYT2VlWTc4WUkzZmhJWDBxK0pTMnArMTMxM3Znd3VtRzF2WGZESExrNU52WE1odHIwM1RWWGZoWTN6THV3SFo4MWhNblpzNDNqcXpMSmFzYWFuNDh5RkFVZlF2N1pTN015ZW83eklSS09YZHJNV2FlVjc1Um9xcWY4VEd5WDhuTnJQMjZ4U0IzbEdOR291cXArVU55dzF1L29EMWxFd1NYamFZMkJtUUFhTURHZ0FBQUNPQUFVPSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtbWkxMDtzcmM6dXJsKGRhdGE6YXBwbGljYXRpb24veC1mb250LXdvZmY7YmFzZTY0LGQwOUdSZ0FCQUFBQUFBVUVBQW9BQUFBQUJqZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCUFV5OHlBQUFBOUFBQUFFWUFBQUJnaGFwMVJHTnRZWEFBQUFFOEFBQUFNZ0FBQUR3QVlRQ2laMng1WmdBQUFYQUFBQUl6QUFBREFCRGF2U2xvWldGa0FBQURwQUFBQUM4QUFBQTJLVVoxd0dob1pXRUFBQVBVQUFBQUhnQUFBQ1FHdVFJM2FHMTBlQUFBQS9RQUFBQVFBQUFBRUF4VEFJSnNiMk5oQUFBRUJBQUFBQW9BQUFBS0FmNEEvRzFoZUhBQUFBUVFBQUFBRndBQUFDQUFCZ0JVYm1GdFpRQUFCQ2dBQUFEUEFBQUJPR29kZGgxd2IzTjBBQUFFK0FBQUFBd0FBQUFnQUFNQUFIamFZMkJtRm1HY3dNREt3TUEwaStuc1B4R0dmaEROK0lieERZTXhJeWNERUxBeHdBRWpBeEpJS1M1TEIwcTZNM2d6TS93SDhwa2gwakExSGd3TS80SENBTEIrRE44QUFIamFZMkJnWUdKZ1lHQUdZaEVneVFpbVdSZzBnRFFia0dZRXlub3dlUC8vRCtTN2crai91Lzd2QUtzQ0FnQ1NDZ2o5QUFCNDJtMlNRV3NUUVJpRzkvMW1NNVBkWkdkak50bU5UWGJUV3J2YlZtekFwTHROa1ZhUm1scWtoVlk4cU1lZVJBOWl3VXYxMEFSRlFRcWVxcUMvd1pzZzN1c1BFUHdMZXZRc3BzNXVXNFhxWEpaNTl2MFlucGRQZzlZKytNNEs5RVZiMVRRd2lmRW9qQmJSQ1NVRXQ4RzlBSW1ieEVtOGlBV0VMZkFGTkNtNUlCR0YzQ1lWbWtHVVJ0TnZuT1lTMTNPOUpQWmNabDVpM0RSeUlOeDgrK3pjVXExUUluMTd0VDdubEJOUENsaE8wb1FVeTcxN0ZncjZ0TWZIekJ3Snc4OWJZVGgvOWNrZXNZM095c1BCeHRRa1g1WW8wdWZoVHpWRndnNXYzY1gxK003dDZSdW50elpCcFp4WjYzVWI1VHdSYStRQnBvOElvRHphajZvY05GVXRqZG8xc0RmYno3ZFdPdXRNUHpzaDF5UXhUUjFva3djSDdDbDkwdFpTZHhFZ3J2QVdoR3Fnb3dUaXhCbjdIK3lNUjd3VE41RW8wUXBQZThEWXY1QlpMeGdtdXBZWTdLZ09aR0ZtaXZlRyswc1p5dzkyOG9ySitTRDNzaEg2RmgvMFZhYmt6UHI2UmN4ZHJrZStHdXVyaUYyWjllbityNjlsaSt1K0FHT2d2SzNzQ2pXTURMK2RwRTVBM1ZPcWhDT2sya0sxL2dQV1NYYm9IaW4zWGVXK3JpNU9nTGJuVmlXT1JaVm54R3hTOG45WkpoOUg2UVlnaWQxVVVqQzFGVW1zZm1mUUZSVStma2J0QlJtdnpDQlFqMGw5ODdIeXNNclRoSjI5Vm1xUG8wcnNUQjlYQXFUK0ZtWDY2OWdWRGNKb0VZbyt1RlpFa2JzcnZYMFQ3NGJ2Nnc3SWtIOTh5WFFMT1Avb1krVzRCWUpoODhNV1NvejVQQTJPWkIwTVA2Q3QrN0lLbU5rOEdaYW90MThibXZZYkhRNWxod0I0Mm1OZ1pHQmdBR0sxZXpZUDQvbHR2akl3c3pDQXdPTUFTV1lFL2Y4bGN6L1RGU0NYZzRFSkpBb0FFYjhKd2dCNDJtTmdaR0JnWnZqUEFDUlRHZFQvbjJYdVp3Q0tvQUFXQUYzZUEvWUFBQUoyQUFBREpRQXpBMU1BS0FObEFDY0FBQUFBQUg0QS9BR0FBQUI0Mm1OZ1pHQmdZR0VJWmdEUkRGQVNDUUFBQ080QVd3QjQyazJPdlc3Q01CUkdUOVFRcVdrbHBsYWRLazhkbzBRd3N6QXdzVEoxQVd6UkRJNVJFaUt4OEFCOTZuNFlEN1dscTNQUC9md0RsTnpJdUsrTWVhejNsVk9vZS9DTUY5NFNGOW9tY2NrSFh6eVI1Yzh5bjZ3UzU3enluWGpHT3orSkMvbGI0cEthMzNYdzU4dm9lck1OMXZYZDBmdTJxWGV1SDlyUW1hYXFIMkxqT3RmdlIyZk40V3JzMUE3VHladEZ0V1JOd0hQbXdvaWoxNysyTWpaeXgxRXpUMHVqbDNiUkRlcUNKa2F1a3YyZjJDalJ4ZFErM21hVk9uQlZ0VXpLREtvbnBRMExuVjMrQWE2N0wvRUFlTnBqWUdiQUN3QUFmUUFFKSBmb3JtYXQoJ3dvZmYnKTt9CnRleHQuZjAge2ZvbnQtZmFtaWx5Om1zYW0xMDtmb250LXNpemU6OS45NjI2NHB4fQp0ZXh0LmYxIHtmb250LWZhbWlseTpjbXN5MTA7Zm9udC1zaXplOjkuOTYyNjRweH0KdGV4dC5mMiB7Zm9udC1mYW1pbHk6Y21taTEwO2ZvbnQtc2l6ZTo5Ljk2MjY0cHh9CnRleHQuZjMge2ZvbnQtZmFtaWx5OmNtbWk3O2ZvbnQtc2l6ZTo2Ljk3Mzg0OHB4fQpdXT4KPC9zdHlsZT4KPGcgaWQ9J3BhZ2UxJz4KPGcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMjguMzQ5NDM5LC00OC4xODY1MzQpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIGZpbGw9JyMwMDAnIHN0cm9rZT0nIzAwMCc+CjxnIHN0cm9rZS13aWR0aD0nMC40Jz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTQzLjgxNDI1LC0yMC4yNDMwNCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTI4LjM0OTQzOSwtNDguMTg2NTM0KXNjYWxlKC0xLC0xKSc+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNS40ODg5MjMsLTgxLjcxMzU5NClzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTE4LjY0MDcsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNS40ODg5MjMsLTgxLjcxMzU5NClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctNS40ODg5MjMnIHk9Jy04MS43MTM1OTQnPks8L3RleHQ+Cjx0ZXh0IGNsYXNzPSdmMScgeD0nNS44OTg4ODMnIHk9Jy04MS43MTM1OTQnPsOXPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjMnIHg9JzEzLjY0NzYzJyB5PSctODAuMjE5MjEzJz5HPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjInIHg9JzIyLjU2MjM1JyB5PSctODEuNzEzNTk0Jz5IPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDUwLjExNjc5NSwtODEuNzEzNTk0KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNC41NjI0OCwwLjApJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKDUwLjExNjc5NSwtODEuNzEzNTk0KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjInIHg9JzUwLjExNjc5NScgeT0nLTgxLjcxMzU5NCc+SDwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNS40ODg5MjMsLTQ4LjE4NjUzNClzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTQuNjA0MTYsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNS40ODg5MjMsLTQ4LjE4NjUzNClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctNS40ODg5MjMnIHk9Jy00OC4xODY1MzQnPks8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoNTAuMTE2Nzk1LC00OC4xODY1MzQpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0zLjkzMTI0LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoNTAuMTE2Nzk1LC00OC4xODY1MzQpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nNTAuMTE2Nzk1JyB5PSctNDguMTg2NTM0Jz5HPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00yLjI3ODIzIDE1LjkwOTc0SDI1LjQ3ODI0JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDI1LjY3ODIyLDE1LjkwOTc0KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTS0yMC44NjgwMSA4LjA1MDA1Vi05LjE1MDA0JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0nbWF0cml4KDAuMCwtMS4wLDEuMCwwLjAsLTIwLjg2ODAxLC05LjM1MDAyKSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTYuMDQwODMsMy41NzIyNyknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTI4LjM0OTQzOSwtNDguMTg2NTM0KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjAnIHg9Jy0yOC4zNDk0MzknIHk9Jy00OC4xODY1MzQnPu6BuTwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00zNC45NDYyMyA5LjU1MDAyVi05LjE1MDA0JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0nbWF0cml4KDAuMCwtMS4wLDEuMCwwLjAsMzQuOTQ2MjMsLTkuMzUwMDIpJz4KPGcgc3Ryb2tlLWRhc2hhcnJheT0nbm9uZScgc3Ryb2tlLWRhc2hvZmZzZXQ9JzAuMCc+CiA8ZyBzdHJva2UtbGluZWNhcD0ncm91bmQnPgogPGcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+CiA8cGF0aCBkPSdNLTIuMDc5ODggMi4zOTk4NkMtMS42OTk4OSAuOTU5OTItLjg1MzEzIC4yNzk5OCAwIDBDLS44NTMxMy0uMjc5OTgtMS42OTk4OS0uOTU5OTItMi4wNzk4OC0yLjM5OTg2JyBmaWxsPSdub25lJy8+CiA8L2c+CiA8L2c+CiA8L2c+CjwvZz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMzcuMjk4OTgsLTEuNzQ5OTgpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC0yOC4zNDk0MzksLTQ4LjE4NjUzNClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YzJyB4PSctMjguMzQ5NDM5JyB5PSctNDguMTg2NTM0Jz7PiDwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00tMTEuNzU4MzItMTcuNzQzMDRIMjYuMTA5NDgnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMjQuODY5NTUsLTE3Ljc0MzA0KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDI2LjMwOTQ2LC0xNy43NDMwNCknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSg0Ljc0NTcsLTIzLjEwOTY4KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjguMzQ5NDM5LC00OC4xODY1MzQpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMycgeD0nLTI4LjM0OTQzOScgeT0nLTQ4LjE4NjUzNCc+z5U8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+Cjwvc3ZnPg==" /></fr:resource-content><fr:resource-source
+type="latex"
+part="preamble"><![CDATA[
+   
+    \usepackage{tikz, tikz-cd, mathtools, amssymb}
+  \usetikzlibrary{shapes.geometric}
+  \usetikzlibrary{calc}
+  \usetikzlibrary{matrix}
+  \usetikzlibrary{decorations.markings}
+
+  \tikzset{
+    % basics
+    square/.style={draw, regular polygon, regular polygon sides=4},
+    triangle/.style={draw, regular polygon, regular polygon sides=3},
+  }
+
+  \tikzset{
+    % string diagrams
+    state/.style={triangle, shape border rotate=180, anchor=north},
+    costate/.style={triangle, anchor=south},
+    morphism/.style={draw, rectangle},
+    over/.style={
+      draw=white,
+      double=black,
+      % default is .4pt
+      line width=1.2pt,
+      double distance=.4pt,
+      text=black
+    },
+  }
+
+  \tikzset{ 
+    % tables
+    % https://tikz.net/tikz-table/
+    table/.style={
+        matrix of nodes,
+        row sep=-\pgflinewidth,
+        column sep=-\pgflinewidth,
+        nodes={
+            rectangle,
+            draw=black,
+            align=center
+        },
+        minimum height=1.5em,
+        text depth=0.5ex,
+        text height=2ex,
+        nodes in empty cells,
+%%
+        every even row/.style={
+            nodes={fill=gray!20}
+        },
+        column 1/.style={
+            nodes={font=\bfseries}
+        },
+        row 1/.style={
+            nodes={
+                fill=black,
+                text=white,
+                font=\bfseries
+            }
+        }
+    }
+  }
+
+  ]]></fr:resource-source><fr:resource-source
+type="latex"
+part="body"><![CDATA[
+    \begin {tikzcd}
+      K\times _G H\ar [r]\ar [d]\ar [dr, phantom, "\lrcorner ", very near start] & H\ar [d, "\psi "] \\
+      K\ar [r, two heads, "\varphi "'] & G
+    \end {tikzcd}
+  ]]></fr:resource-source></fr:resource></fr:figure>
+ 
+ with <fr:tex
+display="inline"><![CDATA[\varphi ]]></fr:tex> surjective. Then by the <fr:link
+type="local"
+href="rs-002E-construction.xml"
+addr="rs-002E-construction"
+title="Set is complete › construction of limits in Set">characterization of limits in
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>, <fr:tex
+display="inline"><![CDATA[K\times _G H]]></fr:tex> has underlying set those
+  <fr:tex
+display="inline"><![CDATA[(k, h)]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[\varphi (k) = \psi (h)]]></fr:tex>; for any <fr:tex
+display="inline"><![CDATA[h\in  H]]></fr:tex>, by
+  surjectivity of <fr:tex
+display="inline"><![CDATA[\varphi ]]></fr:tex> there is a <fr:tex
+display="inline"><![CDATA[k\in  K]]></fr:tex> so that <fr:tex
+display="inline"><![CDATA[(k, h)\in  K\times _G   H]]></fr:tex>, completing the proof.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>516</fr:anchor><fr:addr
+type="user">rs-00AX</fr:addr><fr:route>rs-00AX.xml</fr:route><fr:title
+text="First isomorphism theorem for groups">First isomorphism theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
+display="inline"><![CDATA[G\xrightarrow {\varphi } H]]></fr:tex> be a <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">group homomorphism</fr:link>. Then there is an
+<fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link>
+<fr:tex
+display="block"><![CDATA[G/\ker (\varphi ) \cong  \operatorname {im}(\varphi ).]]></fr:tex> of the <fr:link
+type="local"
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">quotient</fr:link> of the
+<fr:link
+type="local"
+href="rs-00A4.xml"
+addr="rs-00A4"
+title="Kernel of a group homomorphism">kernel</fr:link> and the <fr:link
+type="local"
+href="rs-00A5.xml"
+addr="rs-00A5"
+title="Image of a group homomorphism">image</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>518</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p><fr:link
+type="local"
+href="rs-00AW.xml"
+addr="rs-00AW"
+title="Grp is regular"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span> is regular</fr:link>; this is the statement of <fr:link
+type="local"
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">(regular epi,
+  mono) factorization</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>520</fr:anchor><fr:addr
 type="user">rs-00A3</fr:addr><fr:route>rs-00A3.xml</fr:route><fr:title
 text="Presentation of a group">Presentation of a group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A3.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1886,13 +2420,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Section 8.2</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>A <fr:em>presentation</fr:em> <fr:tex
 display="inline"><![CDATA[\langle  A \mid  R\rangle ]]></fr:tex> of a <fr:link
 type="local"
@@ -1928,7 +2464,11 @@ type="local"
 href="rs-00A4.xml"
 addr="rs-00A4"
 title="Kernel of a group homomorphism">kernel</fr:link> <fr:tex
-display="inline"><![CDATA[R]]></fr:tex>, in particular realizing <fr:tex
+display="inline"><![CDATA[R]]></fr:tex>, in particular <fr:link
+type="local"
+href="rs-00AX.xml"
+addr="rs-00AX"
+title="First isomorphism theorem for groups">realizing</fr:link> <fr:tex
 display="inline"><![CDATA[G]]></fr:tex> as the
 <fr:link
 type="local"
@@ -1941,7 +2481,99 @@ href="rs-009L.xml"
 addr="rs-009L"
 title="Characterization of normal subgroups">normal subgroup</fr:link> generated by
 <fr:tex
-display="inline"><![CDATA[R]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+display="inline"><![CDATA[R]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>522</fr:anchor><fr:addr
+type="user">rs-00AY</fr:addr><fr:route>rs-00AY.xml</fr:route><fr:title
+text="Correspondence theorem for groups">Correspondence theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Proposition II.8.10</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> be a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> and <fr:link
+type="local"
+href="rs-009L.xml"
+addr="rs-009L"
+title="Characterization of normal subgroups"><fr:tex
+display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then there is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>
+<fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> between the lattice of <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroups</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>
+containing <fr:tex
+display="inline"><![CDATA[N]]></fr:tex> and the lattice of subgroups of the <fr:link
+type="local"
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">quotient</fr:link> <fr:tex
+display="inline"><![CDATA[G/N]]></fr:tex>,
+which sends <fr:tex
+display="inline"><![CDATA[N\leq  A\leq  G]]></fr:tex> to <fr:tex
+display="inline"><![CDATA[A/N]]></fr:tex>. Moreover, this assignment
+<fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> and <fr:link
+type="local"
+href="rs-001J.xml"
+addr="rs-001J"
+title="Reflection of a property">reflects</fr:link> normality.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>524</fr:anchor><fr:addr
+type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -1956,7 +2588,277 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>781</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1479</fr:anchor><fr:addr
+type="user">rs-00AW</fr:addr><fr:route>rs-00AW.xml</fr:route><fr:title
+text="Grp is regular"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span> is regular</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Borceux</fr:meta><fr:meta
+name="ref-at">Example II.2.4.3</fr:meta><fr:meta
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
+<fr:p><fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span></fr:link> is <fr:link
+type="local"
+href="rs-00AM.xml"
+addr="rs-00AM"
+title="Regular category">regular</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>420</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Pullbacks, hence <fr:link
+type="local"
+href="rs-002Y.xml"
+addr="rs-002Y"
+title="Kernel pair">kernel pairs</fr:link>, <fr:link
+type="local"
+href="rs-009F.xml"
+addr="rs-009F"
+title="Grp is complete">exist</fr:link> and <fr:link
+type="local"
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">their coequalizers are quotient
+  groups</fr:link>. It remains to show that <fr:link
+type="local"
+href="rs-00AL.xml"
+addr="rs-00AL"
+title="Regular epimorphism">regular epis</fr:link> are stable
+  under <fr:link
+type="local"
+href="rs-0027.xml"
+addr="rs-0027"
+title="Pullback">pullback</fr:link>. Since <fr:link
+type="local"
+href="rs-00A9.xml"
+addr="rs-00A9"
+title="Epimorphism of groups">epis are surjections</fr:link> and every
+  surjection is the coequalizer of its kernel pair, it in particular remains to show that
+  surjections are stable under pullback. Consider a diagram 
+ 
+  
+  <fr:figure><fr:resource
+hash="6d6887923a81c672a0d11bdef9e2f101"><fr:resource-content><fr:img
+src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuNCAtLT4KPHN2ZyB2ZXJzaW9uPScxLjEnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgeG1sbnM6eGxpbms9J2h0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsnIHdpZHRoPScxMzIuNzE1NTkycHQnIGhlaWdodD0nNzUuNTA2MzAxcHQnIHZpZXdCb3g9Jy03MiAtNzIgODguNDc3MDYxIDUwLjMzNzUzNCc+CjxzdHlsZSB0eXBlPSd0ZXh0L2Nzcyc+CjwhW0NEQVRBW0Bmb250LWZhY2V7Zm9udC1mYW1pbHk6bXNhbTEwO3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFMc0FBb0FBQUFBQTB3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVzQUFBQmdaM0ZsRldOdFlYQUFBQUZBQUFBQUtnQUFBRFFBRE9ETVoyeDVaZ0FBQVd3QUFBQkVBQUFBUkh0czB1ZG9aV0ZrQUFBQnNBQUFBQzhBQUFBMktOTjBZV2hvWldFQUFBSGdBQUFBSHdBQUFDUUdCZ0YrYUcxMGVBQUFBZ0FBQUFBSUFBQUFDQVVjQURwc2IyTmhBQUFDQ0FBQUFBWUFBQUFHQUNJQUFHMWhlSEFBQUFJUUFBQUFGd0FBQUNBQUJBQVNibUZ0WlFBQUFpZ0FBQUMwQUFBQkdwOVVlVkJ3YjNOMEFBQUMzQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm02bU9jd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4SUlBQUVqdWx1Q3lkZ2UxQjVZTktGdVovYWd3TUxNeU10NERDakFnVi8vOHpNQUFBTTRZUVJnQjQybU5nWUdCaVlHQmdCbUlSSU1rSXBsa1lGSUEwQ3hBQytROHEvLytIa1BJZFlIa0dBR3B2QjdVQUFBQUJBRHIvNkFISEFYWUFFQUFBQVJFV0JpY2hCaVkwTmhjaEVTWTJNaFlCeGdFT0YvNjdEUllWRGdGQUFRY2NDQUZVL3JnV0RnRUJDQndIQVFFK0RoZ1ZBQUFBZU5wallHUmdZQUJpaXpzZGQrUDViYjR5TUxNd2dNRGpBRWxtQlAzL0JiTU1ZeG1ReThIQUJCSUZBQmNKQ1VjQWVOcGpZR1JnWUdIK3A4YkF3Q3pEWU1WZ3lYaWNBU2lDQXBnQVB3OENpZ0FESEFBQUFnQUFPZ0FBQUFBQUlnQUFlTnBqWUdSZ1lHQmlFR1FBMFF4UUVna0FBQUpHQUJjQWVOcE5qTUVLZ2tBVVJZK2tRdFk2V3JTWUx4QWwxKzBpNkFOYVp6aUVvQWFPQ20zNjltNDZpK2JCblRPSCt3WkkrQkR3T3dIUm5MOFRFdXUxY01SR3MzQ3MyWGxPMkhOZ1JSQ3VaUklLenlGYlRwNGp0YStlWS9tNzU0U001ancydG05ZDJlYlp6ZmF1Zm5VbVQ3TkZYR3huKzNLd2xYbThUVFhWYm5xMjVwZ1duQmxwc1BTME9FcGxycjl1czNIVXZPZ3djcW5zZitPaVJqZTNTZ2JkbFZvUDNzcUtTWHRPK1ZUWGNOUnU4UVhLOVNlYmVOcGpZR1pBQm93TWFBQUFBSTRBQlE9PSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtbWk3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFVb0FBb0FBQUFBQmZRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVZQUFBQmdoZUo0MEdOdFlYQUFBQUU4QUFBQU13QUFBRVFEM0FTR1oyeDVaZ0FBQVhBQUFBSmNBQUFDdUxtZ3ltZG9aV0ZrQUFBRHpBQUFBQzhBQUFBMktSZDA5MmhvWldFQUFBUDhBQUFBSGdBQUFDUUdrZ0s1YUcxMGVBQUFCQndBQUFBUUFBQUFFQXhhQUw5c2IyTmhBQUFFTEFBQUFBb0FBQUFLQWRZQTltMWhlSEFBQUFRNEFBQUFHQUFBQUNBQUJ3QlBibUZ0WlFBQUJGQUFBQURKQUFBQk12TSsvQ2R3YjNOMEFBQUZIQUFBQUF3QUFBQWdBQU1BQUhqYVkyQm1GbU9jd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0VFakF4SklLUzVMQjBxNk0xOWxadmdQNURNek1JS0VHUkVxL2dPRkFkaThEYVlBQUhqYVkyQmdZR0pnWUdBR1loRWd5UWltV1JnTWdEUUhFSUxrM0psUE1GLzkveC9CK3Ivcmo5VWZQYkJhTUFBQUN2ME1ZZ0I0MmlXU3pXNFNVUlRINTV3N2N5L0RmQUV0TTRPRWp3R1pBYUVGS1E3UXRJT3hGbWhqUzJ0RDBxUnR0RlpqTkNaMllWelVoYTBMM1JwalhMa3pVUk5YK2dxYTZOb1g4QVY4QmNVN2twUGNjM0x1L3lUbjk3OVhBR0U0K1UxdTRrOWhReENBNkZEMFhLOEg4K0M1bE9uQVRJdEh1K24zaU85NkxxTUI1TERkdFBUdzNrREtkWHlFbjM0N0RETUhwdFgyTFpQYzZCR21LaFFRNEhCdjd0VjJkeFhFeTZyV1h3OGUyMG9DUUxFeldSY050ajArMWhFTldyV1pPU3NsYzNMbGJQWDFSeUM3bmRISnk3MTVXcVByS3RQeDY5K0pFVUdVdGN6dVE4VDZ0YVV2NDBkTkpWTEdhdjM4ZWtTV2tRQnhJa0JBakJrTUlKNC8yTXhJWHFKYUl1OU9uaDhQRjdhSVdCU0wya2hId2pHRnhtUU9mK0gzS2ZOMDlaRFlDNkR0bXh5T2hld2VvM1VJelhERDVJYWlGaXRRUmtPTFd2K0htcVlWS3JsSE13RXM4SVJ6Nys4TnZIUVRJSzFGUlNqTVNsVUNscHFwWFQvTjEzQkdwcUE1bmNEc1NCZ3ZKU0NWVzVxQk9IZkpVdVBGb053QjBFdHh4S2NmQ0ZXNUZELzl1U3NGampmc09CVkZ0Sk1PNExtdWV6dTlVdDF3eUdjYnVSK0x6eUNsNVVmS3lzR0ZmQWw2UVl6MzlJYVZuSmNhNVpTejM1ZnY2UGhXaXdKR0JVRkFZVEFwNEEvNEpqU0VRQkFrcGhQT0ZUNzJwWmJmRGtJTWsxRURxSlVGcXdkVFgzakprWGw0bGgvMld1RTMwQUd1MmhIVlRxUUFvbzJqbzBwVlYyTVVRRjZNRVFQeDFqaGh4OHBtMXQ5WldnT3laYWNQbnlTZDB4MWpBOXYrMXFDWWxWL1VUQVcwSkNtOHNlNzNpMmZkR09ON2kvSWdpQzZMM1RXMU83dzRjSjFsQ1ViOUIrTlVzay82SVBiVUs1dVZSWUQ5K2hGSCtRZXdpV1UvZU5wallHUmdZQURpUFZNNTU4YnoyM3hsWUdaaEFJSEhBWkxNQ1BxL0VuTUMweVVnbDRPQkNTUUtBUDE5Q0tBQWVOcGpZR1JnWUdiNHp3QWsreGdNR05TWUV4aUFJaWlBQlFBN2xBSlRBQUFDeGdBQUE0NEFTQU1GQURBREFRQkhBQUFBQUFCNkFQWUJYQUFBZU5wallHUmdZR0JoOEdOZ1lnQUJSZ1kwQUFBSWlBQlhlTnBGalQycndqQVVocDlpSzFnSEY1RTdhUWJub2lpNDNNM0J5ZFhCVFUyUURra2tyUVVkbk80UDk1Z2I4QXlINS8wNENWRHlJdU16R2FPNFA1TlRpUHJuZ2lIanhIMVJzOFFsUDh6cGtlVURjYWI4SnM0bE9TWXVtS0FUOThWL0ppNVo4TGYxOW5adlRWQjdyMDF3RjJ2cnpjR0VwdlpPTGF0RjFEdmpURGkxUnF2elErbXVicnFyVmF0cXpSYVA1Y2FkRmtOQXNSZEhSM1pjSkxQVWJEaEVweEgyNGl1V1ZQTDNOOTlKN21MbkZGL1Mwam56a0szcHBOSEl2a3BYc1pMTDlSdWdMQzh0QUFBQWVOcGpZR2JBQ3dBQWZRQUUpIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbXN5MTA7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQU00QUFvQUFBQUFBNXdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRW9BQUFCZ2lPUnpHMk50WVhBQUFBRkFBQUFBS1FBQUFEUUFEQUVxWjJ4NVpnQUFBV3dBQUFCNEFBQUFlSk1TUEpGb1pXRmtBQUFCNUFBQUFDd0FBQUEyS05KMCsyaG9aV0VBQUFJUUFBQUFIZ0FBQUNRR05mL2RhRzEwZUFBQUFqQUFBQUFHQUFBQUJnT3dBQUJzYjJOaEFBQUNPQUFBQUFZQUFBQUdBRHdBQUcxaGVIQUFBQUpBQUFBQUZ3QUFBQ0FBQkFBa2JtRnRaUUFBQWxnQUFBRFFBQUFCT0lCRGRqbHdiM04wQUFBREtBQUFBQkFBQUFBZ0FBTUFBWGphWTJCbWxtR2N3TURLd01BMGkrbnNQeEdHZmhETitJYnhEWU14SXljREVMQXh3QUVUQXhKSUtTNUxCMHBlWjdqT0xQVkhrNEdCV1lyNU9sQ1lFYUhpLzM4R0JnRHJuUTd2QUFCNDJtTmdZR0JpWUdCZ0JtSVJJTWtJcGxrWUZJQTBDeENDK05mLy80ZVEvN1hBZkFZQVh1VUhNd0FBQUFBQkFKUUFDUUtHQWZnQUlnQUFBVGMyRnhZWEJnOENId0VXQndZSEppOEJCdzRCSXlZbkpqOEJKeVkzTmpjeUZ3R095dzRLRXdFQ0F4cTdwVElFQVFFVEN3WFV5d2tJQmhFREF4RE56UkFEQXhFR0JBRWR5aEVCQWhNS0F4cTdwVElJQXhNQ0FnVFV5d29GQWhNSERjN09EUWNUQWdJQUFIamFZMkJrWUdBQVluYlIrTko0ZnB1dkRNd3NEQ0R3T0VDU0dabG1sbUg4QWFRNEdKaEFQQUM2dXdaWmVOcGpZR1JnWUpiNm93a2taUmltTUV4amFtTUFpcUFBUmdCTXlnTVhBQUFESEFBQUFKUUFBQUFBQUFBQVBBQUFlTnBqWUdSZ1lHQmlVR1lBMFF4UUVna0FBQVFJQUNrQWVOcE5qckZ1d2pBVVJVL1VFS2xwcFU2dE9sV2VPa2FKWU83Q3dNVEsxQVd3UlRQRVFYYUlsSVVQNkZmM0VqejBXWG82dnZlK1p3TWxWekp1bGZFeTkxdmxGTHJkZWNFVHI0a0xIWk80NUoxUEhzanlSeWtmZkNYT2VlWTc4WUkzZmhJWDBxK0pTMnArMTMxM3Znd3VtRzF2WGZESExrNU52WE1odHIwM1RWWGZoWTN6THV3SFo4MWhNblpzNDNqcXpMSmFzYWFuNDh5RkFVZlF2N1pTN015ZW83eklSS09YZHJNV2FlVjc1Um9xcWY4VEd5WDhuTnJQMjZ4U0IzbEdOR291cXArVU55dzF1L29EMWxFd1NYamFZMkJtUUFhTURHZ0FBQUNPQUFVPSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtbWkxMDtzcmM6dXJsKGRhdGE6YXBwbGljYXRpb24veC1mb250LXdvZmY7YmFzZTY0LGQwOUdSZ0FCQUFBQUFBVUVBQW9BQUFBQUJqZ0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCUFV5OHlBQUFBOUFBQUFFWUFBQUJnaGFwMVJHTnRZWEFBQUFFOEFBQUFNZ0FBQUR3QVlRQ2laMng1WmdBQUFYQUFBQUl6QUFBREFCRGF2U2xvWldGa0FBQURwQUFBQUM4QUFBQTJLVVoxd0dob1pXRUFBQVBVQUFBQUhnQUFBQ1FHdVFJM2FHMTBlQUFBQS9RQUFBQVFBQUFBRUF4VEFJSnNiMk5oQUFBRUJBQUFBQW9BQUFBS0FmNEEvRzFoZUhBQUFBUVFBQUFBRndBQUFDQUFCZ0JVYm1GdFpRQUFCQ2dBQUFEUEFBQUJPR29kZGgxd2IzTjBBQUFFK0FBQUFBd0FBQUFnQUFNQUFIamFZMkJtRm1HY3dNREt3TUEwaStuc1B4R0dmaEROK0lieERZTXhJeWNERUxBeHdBRWpBeEpJS1M1TEIwcTZNM2d6TS93SDhwa2gwakExSGd3TS80SENBTEIrRE44QUFIamFZMkJnWUdKZ1lHQUdZaEVneVFpbVdSZzBnRFFia0dZRXlub3dlUC8vRCtTN2crai91Lzd2QUtzQ0FnQ1NDZ2o5QUFCNDJtMlNRV3NUUVJpRzkvMW1NNVBkWkdkak50bU5UWGJUV3J2YlZtekFwTHROa1ZhUm1scWtoVlk4cU1lZVJBOWl3VXYxMEFSRlFRcWVxcUMvd1pzZzN1c1BFUHdMZXZRc3BzNXVXNFhxWEpaNTl2MFlucGRQZzlZKytNNEs5RVZiMVRRd2lmRW9qQmJSQ1NVRXQ4RzlBSW1ieEVtOGlBV0VMZkFGTkNtNUlCR0YzQ1lWbWtHVVJ0TnZuT1lTMTNPOUpQWmNabDVpM0RSeUlOeDgrK3pjVXExUUluMTd0VDdubEJOUENsaE8wb1FVeTcxN0ZncjZ0TWZIekJ3Snc4OWJZVGgvOWNrZXNZM095c1BCeHRRa1g1WW8wdWZoVHpWRndnNXYzY1gxK003dDZSdW50elpCcFp4WjYzVWI1VHdSYStRQnBvOElvRHphajZvY05GVXRqZG8xc0RmYno3ZFdPdXRNUHpzaDF5UXhUUjFva3djSDdDbDkwdFpTZHhFZ3J2QVdoR3Fnb3dUaXhCbjdIK3lNUjd3VE41RW8wUXBQZThEWXY1QlpMeGdtdXBZWTdLZ09aR0ZtaXZlRyswc1p5dzkyOG9ySitTRDNzaEg2RmgvMFZhYmt6UHI2UmN4ZHJrZStHdXVyaUYyWjllbityNjlsaSt1K0FHT2d2SzNzQ2pXTURMK2RwRTVBM1ZPcWhDT2sya0sxL2dQV1NYYm9IaW4zWGVXK3JpNU9nTGJuVmlXT1JaVm54R3hTOG45WkpoOUg2UVlnaWQxVVVqQzFGVW1zZm1mUUZSVStma2J0QlJtdnpDQlFqMGw5ODdIeXNNclRoSjI5Vm1xUG8wcnNUQjlYQXFUK0ZtWDY2OWdWRGNKb0VZbyt1RlpFa2JzcnZYMFQ3NGJ2Nnc3SWtIOTh5WFFMT1Avb1krVzRCWUpoODhNV1NvejVQQTJPWkIwTVA2Q3QrN0lLbU5rOEdaYW90MThibXZZYkhRNWxod0I0Mm1OZ1pHQmdBR0sxZXpZUDQvbHR2akl3c3pDQXdPTUFTV1lFL2Y4bGN6L1RGU0NYZzRFSkpBb0FFYjhKd2dCNDJtTmdaR0JnWnZqUEFDUlRHZFQvbjJYdVp3Q0tvQUFXQUYzZUEvWUFBQUoyQUFBREpRQXpBMU1BS0FObEFDY0FBQUFBQUg0QS9BR0FBQUI0Mm1OZ1pHQmdZR0VJWmdEUkRGQVNDUUFBQ080QVd3QjQyazJPdlc3Q01CUkdUOVFRcVdrbHBsYWRLazhkbzBRd3N6QXdzVEoxQVd6UkRJNVJFaUt4OEFCOTZuNFlEN1dscTNQUC9md0RsTnpJdUsrTWVhejNsVk9vZS9DTUY5NFNGOW9tY2NrSFh6eVI1Yzh5bjZ3UzU3enluWGpHT3orSkMvbGI0cEthMzNYdzU4dm9lck1OMXZYZDBmdTJxWGV1SDlyUW1hYXFIMkxqT3RmdlIyZk40V3JzMUE3VHladEZ0V1JOd0hQbXdvaWoxNysyTWpaeXgxRXpUMHVqbDNiUkRlcUNKa2F1a3YyZjJDalJ4ZFErM21hVk9uQlZ0VXpLREtvbnBRMExuVjMrQWE2N0wvRUFlTnBqWUdiQUN3QUFmUUFFKSBmb3JtYXQoJ3dvZmYnKTt9CnRleHQuZjAge2ZvbnQtZmFtaWx5Om1zYW0xMDtmb250LXNpemU6OS45NjI2NHB4fQp0ZXh0LmYxIHtmb250LWZhbWlseTpjbXN5MTA7Zm9udC1zaXplOjkuOTYyNjRweH0KdGV4dC5mMiB7Zm9udC1mYW1pbHk6Y21taTEwO2ZvbnQtc2l6ZTo5Ljk2MjY0cHh9CnRleHQuZjMge2ZvbnQtZmFtaWx5OmNtbWk3O2ZvbnQtc2l6ZTo2Ljk3Mzg0OHB4fQpdXT4KPC9zdHlsZT4KPGcgaWQ9J3BhZ2UxJz4KPGcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMjguMzQ5NDM5LC00OC4xODY1MzQpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIGZpbGw9JyMwMDAnIHN0cm9rZT0nIzAwMCc+CjxnIHN0cm9rZS13aWR0aD0nMC40Jz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTQzLjgxNDI1LC0yMC4yNDMwNCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTI4LjM0OTQzOSwtNDguMTg2NTM0KXNjYWxlKC0xLC0xKSc+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNS40ODg5MjMsLTgxLjcxMzU5NClzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTE4LjY0MDcsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNS40ODg5MjMsLTgxLjcxMzU5NClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctNS40ODg5MjMnIHk9Jy04MS43MTM1OTQnPks8L3RleHQ+Cjx0ZXh0IGNsYXNzPSdmMScgeD0nNS44OTg4ODMnIHk9Jy04MS43MTM1OTQnPsOXPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjMnIHg9JzEzLjY0NzYzJyB5PSctODAuMjE5MjEzJz5HPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjInIHg9JzIyLjU2MjM1JyB5PSctODEuNzEzNTk0Jz5IPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDUwLjExNjc5NSwtODEuNzEzNTk0KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNC41NjI0OCwwLjApJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKDUwLjExNjc5NSwtODEuNzEzNTk0KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjInIHg9JzUwLjExNjc5NScgeT0nLTgxLjcxMzU5NCc+SDwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNS40ODg5MjMsLTQ4LjE4NjUzNClzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTQuNjA0MTYsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNS40ODg5MjMsLTQ4LjE4NjUzNClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctNS40ODg5MjMnIHk9Jy00OC4xODY1MzQnPks8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoNTAuMTE2Nzk1LC00OC4xODY1MzQpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0zLjkzMTI0LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoNTAuMTE2Nzk1LC00OC4xODY1MzQpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nNTAuMTE2Nzk1JyB5PSctNDguMTg2NTM0Jz5HPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00yLjI3ODIzIDE1LjkwOTc0SDI1LjQ3ODI0JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDI1LjY3ODIyLDE1LjkwOTc0KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTS0yMC44NjgwMSA4LjA1MDA1Vi05LjE1MDA0JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0nbWF0cml4KDAuMCwtMS4wLDEuMCwwLjAsLTIwLjg2ODAxLC05LjM1MDAyKSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTYuMDQwODMsMy41NzIyNyknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTI4LjM0OTQzOSwtNDguMTg2NTM0KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjAnIHg9Jy0yOC4zNDk0MzknIHk9Jy00OC4xODY1MzQnPu6BuTwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00zNC45NDYyMyA5LjU1MDAyVi05LjE1MDA0JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0nbWF0cml4KDAuMCwtMS4wLDEuMCwwLjAsMzQuOTQ2MjMsLTkuMzUwMDIpJz4KPGcgc3Ryb2tlLWRhc2hhcnJheT0nbm9uZScgc3Ryb2tlLWRhc2hvZmZzZXQ9JzAuMCc+CiA8ZyBzdHJva2UtbGluZWNhcD0ncm91bmQnPgogPGcgc3Ryb2tlLWxpbmVqb2luPSdyb3VuZCc+CiA8cGF0aCBkPSdNLTIuMDc5ODggMi4zOTk4NkMtMS42OTk4OSAuOTU5OTItLjg1MzEzIC4yNzk5OCAwIDBDLS44NTMxMy0uMjc5OTgtMS42OTk4OS0uOTU5OTItMi4wNzk4OC0yLjM5OTg2JyBmaWxsPSdub25lJy8+CiA8L2c+CiA8L2c+CiA8L2c+CjwvZz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMzcuMjk4OTgsLTEuNzQ5OTgpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC0yOC4zNDk0MzksLTQ4LjE4NjUzNClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YzJyB4PSctMjguMzQ5NDM5JyB5PSctNDguMTg2NTM0Jz7PiDwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00tMTEuNzU4MzItMTcuNzQzMDRIMjYuMTA5NDgnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMjQuODY5NTUsLTE3Ljc0MzA0KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDI2LjMwOTQ2LC0xNy43NDMwNCknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSg0Ljc0NTcsLTIzLjEwOTY4KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjguMzQ5NDM5LC00OC4xODY1MzQpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMycgeD0nLTI4LjM0OTQzOScgeT0nLTQ4LjE4NjUzNCc+z5U8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+Cjwvc3ZnPg==" /></fr:resource-content><fr:resource-source
+type="latex"
+part="preamble"><![CDATA[
+   
+    \usepackage{tikz, tikz-cd, mathtools, amssymb}
+  \usetikzlibrary{shapes.geometric}
+  \usetikzlibrary{calc}
+  \usetikzlibrary{matrix}
+  \usetikzlibrary{decorations.markings}
+
+  \tikzset{
+    % basics
+    square/.style={draw, regular polygon, regular polygon sides=4},
+    triangle/.style={draw, regular polygon, regular polygon sides=3},
+  }
+
+  \tikzset{
+    % string diagrams
+    state/.style={triangle, shape border rotate=180, anchor=north},
+    costate/.style={triangle, anchor=south},
+    morphism/.style={draw, rectangle},
+    over/.style={
+      draw=white,
+      double=black,
+      % default is .4pt
+      line width=1.2pt,
+      double distance=.4pt,
+      text=black
+    },
+  }
+
+  \tikzset{ 
+    % tables
+    % https://tikz.net/tikz-table/
+    table/.style={
+        matrix of nodes,
+        row sep=-\pgflinewidth,
+        column sep=-\pgflinewidth,
+        nodes={
+            rectangle,
+            draw=black,
+            align=center
+        },
+        minimum height=1.5em,
+        text depth=0.5ex,
+        text height=2ex,
+        nodes in empty cells,
+%%
+        every even row/.style={
+            nodes={fill=gray!20}
+        },
+        column 1/.style={
+            nodes={font=\bfseries}
+        },
+        row 1/.style={
+            nodes={
+                fill=black,
+                text=white,
+                font=\bfseries
+            }
+        }
+    }
+  }
+
+  ]]></fr:resource-source><fr:resource-source
+type="latex"
+part="body"><![CDATA[
+    \begin {tikzcd}
+      K\times _G H\ar [r]\ar [d]\ar [dr, phantom, "\lrcorner ", very near start] & H\ar [d, "\psi "] \\
+      K\ar [r, two heads, "\varphi "'] & G
+    \end {tikzcd}
+  ]]></fr:resource-source></fr:resource></fr:figure>
+ 
+ with <fr:tex
+display="inline"><![CDATA[\varphi ]]></fr:tex> surjective. Then by the <fr:link
+type="local"
+href="rs-002E-construction.xml"
+addr="rs-002E-construction"
+title="Set is complete › construction of limits in Set">characterization of limits in
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>, <fr:tex
+display="inline"><![CDATA[K\times _G H]]></fr:tex> has underlying set those
+  <fr:tex
+display="inline"><![CDATA[(k, h)]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[\varphi (k) = \psi (h)]]></fr:tex>; for any <fr:tex
+display="inline"><![CDATA[h\in  H]]></fr:tex>, by
+  surjectivity of <fr:tex
+display="inline"><![CDATA[\varphi ]]></fr:tex> there is a <fr:tex
+display="inline"><![CDATA[k\in  K]]></fr:tex> so that <fr:tex
+display="inline"><![CDATA[(k, h)\in  K\times _G   H]]></fr:tex>, completing the proof.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1481</fr:anchor><fr:addr
+type="user">rs-00A8</fr:addr><fr:route>rs-00A8.xml</fr:route><fr:title
+text="Monomorphism of groups">Monomorphism of groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The following are equivalent for a <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link> <fr:tex
+display="inline"><![CDATA[G\xrightarrow {f}H]]></fr:tex> of
+<fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups">groups</fr:link>:
+
+<fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a <fr:link
+type="local"
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monomorphism</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
+type="local"
+href="rs-000H.xml"
+addr="rs-000H"
+title="Injection">injective</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has <fr:link
+type="local"
+href="rs-008U.xml"
+addr="rs-008U"
+title="Trivial group">trivial</fr:link> <fr:link
+type="local"
+href="rs-00A4.xml"
+addr="rs-00A4"
+title="Kernel of a group homomorphism">kernel</fr:link>.</fr:li></fr:ul></fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>468</fr:anchor><fr:addr
+type="machine">#255</fr:addr><fr:route>unstable-255.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>To show the first two, note that <fr:link
+type="local"
+href="rs-005F.xml"
+addr="rs-005F"
+title="Monos are characterized by pullbacks">monos are limits</fr:link> and <fr:link
+type="local"
+href="rs-009F.xml"
+addr="rs-009F"
+title="Grp is complete">limits
+  are created in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
+
+  <fr:p>To show the kernel result, note that if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is injective, then the kernel
+  is automatically trivial, whereas if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has trivial kernel, then for any
+  <fr:tex
+display="inline"><![CDATA[x, y\in  G]]></fr:tex> with <fr:tex
+display="inline"><![CDATA[f(x) = f(y)]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[f(xy^{-1}) = e]]></fr:tex>, so <fr:tex
+display="inline"><![CDATA[xy^{-1}\in \ker (f)]]></fr:tex>,
+  meaning <fr:tex
+display="inline"><![CDATA[xy^{-1} = e]]></fr:tex>, and now <fr:tex
+display="inline"><![CDATA[x = y]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1483</fr:anchor><fr:addr
 type="user">rs-009H</fr:addr><fr:route>rs-009H.xml</fr:route><fr:title
 text="Product group">Product group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1965,13 +2867,15 @@ addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Aluffi</fr:meta><fr:meta
 name="ref-at">Proposition 3.4</fr:meta><fr:meta
-name="ref-note">aluffi-2007</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
-type="external"
-href="aluffi-2007" />
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
 <fr:p>The <fr:em>product group</fr:em> is the <fr:link
 type="local"
 href="rs-0023.xml"
@@ -2007,7 +2911,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>783</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1485</fr:anchor><fr:addr
 type="user">rs-009E</fr:addr><fr:route>rs-009E.xml</fr:route><fr:title
 text="Grp is monadic over Set"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
@@ -2057,8 +2961,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>419</fr:anchor><fr:addr
-type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>454</fr:anchor><fr:addr
+type="machine">#261</fr:addr><fr:route>unstable-261.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2373,7 +3277,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>785</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1487</fr:anchor><fr:addr
 type="user">rs-009B</fr:addr><fr:route>rs-009B.xml</fr:route><fr:title
 text="Category of groups">Category of groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2413,7 +3317,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>787</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1489</fr:anchor><fr:addr
 type="user">rs-004Z</fr:addr><fr:route>rs-004Z.xml</fr:route><fr:title
 text="Monadic functors create limits">Monadic functors create limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-004Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2470,7 +3374,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>789</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1491</fr:anchor><fr:addr
 type="user">rs-002J</fr:addr><fr:route>rs-002J.xml</fr:route><fr:title
 text="Creation of limits">Creation of limits</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2523,7 +3427,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>791</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1493</fr:anchor><fr:addr
 type="user">rs-002C</fr:addr><fr:route>rs-002C.xml</fr:route><fr:title
 text="Complete category">Complete category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2566,7 +3470,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>793</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1495</fr:anchor><fr:addr
 type="user">rs-000C</fr:addr><fr:route>rs-000C.xml</fr:route><fr:title
 text="Category of sets">Category of sets</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

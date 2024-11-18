@@ -7,30 +7,46 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7059</fr:anchor><fr:addr
-type="machine">#343</fr:addr><fr:route>unstable-343.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0019.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6688</fr:anchor><fr:addr
+type="machine">#343</fr:addr><fr:route>unstable-343.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Consider a <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {K} C]]></fr:tex> be a <fr:link
 type="local"
-href="rs-000V.xml"
-addr="rs-000V"
-title="Natural transformation">natural transformation</fr:link> <fr:tex
-display="inline"><![CDATA[     yA\xrightarrow {\alpha }yB.   ]]></fr:tex> By the <fr:link
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> so that <fr:tex
+display="inline"><![CDATA[d\xrightarrow {\mu } FK]]></fr:tex> is a
+  limiting <fr:link
 type="local"
-href="rs-0014.xml"
-addr="rs-0014"
-title="Yoneda lemma">Yoneda lemma</fr:link>, there is a canonical morphism <fr:tex
-display="inline"><![CDATA[A\xrightarrow {f}B]]></fr:tex>
-  corresponding to <fr:tex
-display="inline"><![CDATA[\alpha ]]></fr:tex>, which in particular satisfies <fr:tex
-display="inline"><![CDATA[\alpha _A(1_A) = f]]></fr:tex>. The natural
-  transformation <fr:tex
-display="inline"><![CDATA[yf = f^*]]></fr:tex> satisfies this condition, and so by the Yoneda lemma
-  is the only morphism to do so. As such, the Yoneda embedding induces exactly
-  the bijection <fr:tex
-display="block"><![CDATA[     C(A, B) = yBA \cong  \hat {C}(yA, yB)   ]]></fr:tex>established by the Yoneda lemma.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cone</fr:link> in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Then since <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> creates limits, there is a
+  limiting cone <fr:tex
+display="inline"><![CDATA[c\xrightarrow {\lambda } K]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> so that <fr:tex
+display="inline"><![CDATA[F\lambda ]]></fr:tex> is a limiting
+  cone of <fr:tex
+display="inline"><![CDATA[KF]]></fr:tex>, and so since [rs-002A] <fr:tex
+display="inline"><![CDATA[\mu \cong  F\lambda ]]></fr:tex> as cones. Now to
+  show preservation, given any limiting cone <fr:tex
+display="inline"><![CDATA[c'\xrightarrow {\lambda '} K]]></fr:tex>, it is
+  isomorphic to <fr:tex
+display="inline"><![CDATA[\lambda ]]></fr:tex> and <fr:link
+type="local"
+href="rs-000P.xml"
+addr="rs-000P"
+title="Functors preserve isomorphisms">so</fr:link> <fr:tex
+display="inline"><![CDATA[F\lambda ']]></fr:tex> is isomorphic to
+  <fr:tex
+display="inline"><![CDATA[F\lambda ]]></fr:tex>, hence is a limit cone of <fr:tex
+display="inline"><![CDATA[FK]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -45,15 +61,15 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7061</fr:anchor><fr:addr
-type="user">rs-0019</fr:addr><fr:route>rs-0019.xml</fr:route><fr:title
-text="Full and faithfullness of the Yoneda embedding">Full and faithfullness of the Yoneda embedding</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0019.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6690</fr:anchor><fr:addr
+type="user">rs-002K</fr:addr><fr:route>rs-002K.xml</fr:route><fr:title
+text="Functors which create existing limits preserve them">Functors which create existing limits preserve them</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Corollary 2.2.8</fr:meta><fr:meta
+name="ref-at">Proposition 3.3.3</fr:meta><fr:meta
 name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -63,51 +79,73 @@ type="local"
 href="riehl-2017.xml"
 addr="riehl-2017"
 title="Category theory in context" />
-<fr:p>The <fr:link
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> <fr:link
 type="local"
-href="rs-0016.xml"
-addr="rs-0016"
-title="Yoneda embedding">Yoneda embedding</fr:link> is <fr:link
+href="rs-002J.xml"
+addr="rs-002J"
+title="Creation of limits">create</fr:link> a class of <fr:link
 type="local"
-href="rs-0017.xml"
-addr="rs-0017"
-title="Full functor">full</fr:link> and <fr:link
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> and let <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> have those
+limits. Then <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> has those limits and <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> <fr:link
 type="local"
-href="rs-0018.xml"
-addr="rs-0018"
-title="Faithful functor">faithful</fr:link>.
-This result is sometimes conflated with the <fr:link
-type="local"
-href="rs-0014.xml"
-addr="rs-0014"
-title="Yoneda lemma">Yoneda lemma</fr:link>.</fr:p><fr:tree
-toc="true"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> them.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"
+expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3282</fr:anchor><fr:addr
-type="machine">#343</fr:addr><fr:route>unstable-343.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0019.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6692</fr:anchor><fr:addr
+type="machine">#343</fr:addr><fr:route>unstable-343.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Consider a <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {K} C]]></fr:tex> be a <fr:link
 type="local"
-href="rs-000V.xml"
-addr="rs-000V"
-title="Natural transformation">natural transformation</fr:link> <fr:tex
-display="inline"><![CDATA[     yA\xrightarrow {\alpha }yB.   ]]></fr:tex> By the <fr:link
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> so that <fr:tex
+display="inline"><![CDATA[d\xrightarrow {\mu } FK]]></fr:tex> is a
+  limiting <fr:link
 type="local"
-href="rs-0014.xml"
-addr="rs-0014"
-title="Yoneda lemma">Yoneda lemma</fr:link>, there is a canonical morphism <fr:tex
-display="inline"><![CDATA[A\xrightarrow {f}B]]></fr:tex>
-  corresponding to <fr:tex
-display="inline"><![CDATA[\alpha ]]></fr:tex>, which in particular satisfies <fr:tex
-display="inline"><![CDATA[\alpha _A(1_A) = f]]></fr:tex>. The natural
-  transformation <fr:tex
-display="inline"><![CDATA[yf = f^*]]></fr:tex> satisfies this condition, and so by the Yoneda lemma
-  is the only morphism to do so. As such, the Yoneda embedding induces exactly
-  the bijection <fr:tex
-display="block"><![CDATA[     C(A, B) = yBA \cong  \hat {C}(yA, yB)   ]]></fr:tex>established by the Yoneda lemma.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cone</fr:link> in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Then since <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> creates limits, there is a
+  limiting cone <fr:tex
+display="inline"><![CDATA[c\xrightarrow {\lambda } K]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> so that <fr:tex
+display="inline"><![CDATA[F\lambda ]]></fr:tex> is a limiting
+  cone of <fr:tex
+display="inline"><![CDATA[KF]]></fr:tex>, and so since [rs-002A] <fr:tex
+display="inline"><![CDATA[\mu \cong  F\lambda ]]></fr:tex> as cones. Now to
+  show preservation, given any limiting cone <fr:tex
+display="inline"><![CDATA[c'\xrightarrow {\lambda '} K]]></fr:tex>, it is
+  isomorphic to <fr:tex
+display="inline"><![CDATA[\lambda ]]></fr:tex> and <fr:link
+type="local"
+href="rs-000P.xml"
+addr="rs-000P"
+title="Functors preserve isomorphisms">so</fr:link> <fr:tex
+display="inline"><![CDATA[F\lambda ']]></fr:tex> is isomorphic to
+  <fr:tex
+display="inline"><![CDATA[F\lambda ]]></fr:tex>, hence is a limit cone of <fr:tex
+display="inline"><![CDATA[FK]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
