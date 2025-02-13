@@ -7,21 +7,41 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4001</fr:anchor><fr:addr
-type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3899</fr:anchor><fr:addr
+type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0070.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>First, we show that the subobject poset of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
 type="local"
-href="rs-005Y.xml"
-addr="rs-005Y"
-title="Subobject classifiers are equivalently representations of the subobject functor">Subobject classifiers represent the subobject functor</fr:link> and
-<fr:link
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>.
+  Let <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> be <fr:link
 type="local"
-href="rs-001O.xml"
-addr="rs-001O"
-title="Representable isomorphism is isomorphism">representations are unique</fr:link>.</fr:mainmatter><fr:backmatter><fr:tree
+href="rs-0060.xml"
+addr="rs-0060"
+title="Subfunctor">subfunctors</fr:link> of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex>. Then:
+  <fr:ul><fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meet</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\wedge  Q)X = PX\cap  QX;]]></fr:tex></fr:li>
+    <fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">join</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\vee  Q)X = PX\cup  QX;]]></fr:tex></fr:li>
+    <fr:li>the implication is given by <fr:tex
+display="block"><![CDATA[(P\Rightarrow  Q)X = \{x\in  PX: \text { for all }     Y\xrightarrow {f} X\in  C, \text { if } Pf(x)\in  SY \text { then } Pf(x)\in  TY\}.]]></fr:tex></fr:li></fr:ul></fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -36,15 +56,15 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4003</fr:anchor><fr:addr
-type="user">rs-005Z</fr:addr><fr:route>rs-005Z.xml</fr:route><fr:title
-text="Subobject classifiers are unique up to isomorphism">Subobject classifiers are unique up to isomorphism</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3901</fr:anchor><fr:addr
+type="user">rs-0070</fr:addr><fr:route>rs-0070.xml</fr:route><fr:title
+text="The subobjects of a presheaf form a Heyting algebra">The subobjects of a presheaf form a Heyting algebra</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0070.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
-name="ref-at">p. 34</fr:meta><fr:meta
+name="ref-at">Proposition I.8.5</fr:meta><fr:meta
 name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -54,15 +74,24 @@ type="local"
 href="maclane-moerdijk-1994.xml"
 addr="maclane-moerdijk-1994"
 title="Sheaves in geometry and logic" />
-<fr:p><fr:link
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C^\text {op}\xrightarrow {P}]]></fr:tex> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> be a <fr:link
 type="local"
-href="rs-005V.xml"
-addr="rs-005V"
-title="Subobject classifier">Subobject classifiers</fr:link> are unique up to <fr:link
+href="rs-0015.xml"
+addr="rs-0015"
+title="Presheaf">presheaf</fr:link>. Then the <fr:link
 type="local"
-href="rs-0002.xml"
-addr="rs-0002"
-title="Isomorphism">isomorphism</fr:link>.</fr:p>
+href="rs-002Z.xml"
+addr="rs-002Z"
+title="Subobject">subobject
+poset</fr:link> of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting algebra</fr:link>.</fr:p>
   
     
     
@@ -73,20 +102,40 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4005</fr:anchor><fr:addr
-type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3903</fr:anchor><fr:addr
+type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0070.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>First, we show that the subobject poset of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
 type="local"
-href="rs-005Y.xml"
-addr="rs-005Y"
-title="Subobject classifiers are equivalently representations of the subobject functor">Subobject classifiers represent the subobject functor</fr:link> and
-<fr:link
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>.
+  Let <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[T]]></fr:tex> be <fr:link
 type="local"
-href="rs-001O.xml"
-addr="rs-001O"
-title="Representable isomorphism is isomorphism">representations are unique</fr:link>.</fr:mainmatter><fr:backmatter /></fr:tree>
+href="rs-0060.xml"
+addr="rs-0060"
+title="Subfunctor">subfunctors</fr:link> of <fr:tex
+display="inline"><![CDATA[P]]></fr:tex>. Then:
+  <fr:ul><fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meet</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\wedge  Q)X = PX\cap  QX;]]></fr:tex></fr:li>
+    <fr:li>the <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">join</fr:link> is given by <fr:tex
+display="block"><![CDATA[(P\vee  Q)X = PX\cup  QX;]]></fr:tex></fr:li>
+    <fr:li>the implication is given by <fr:tex
+display="block"><![CDATA[(P\Rightarrow  Q)X = \{x\in  PX: \text { for all }     Y\xrightarrow {f} X\in  C, \text { if } Pf(x)\in  SY \text { then } Pf(x)\in  TY\}.]]></fr:tex></fr:li></fr:ul></fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

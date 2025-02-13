@@ -7,35 +7,24 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1075</fr:anchor><fr:addr
-type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1386</fr:anchor><fr:addr
+type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show that this defines a group, note that the induced equivalence
-  relation is a congruence, hence compatible with the group multiplication, so
-  that the multiplication is well-defined. The group axioms are direct from
-  those of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
-
-  <fr:p>To exhibit the universal property, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> be any
-  <fr:link
+  <fr:p><fr:link
 type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link> which is constant on equivalence classes. Since <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex>
-  is also the <fr:link
+href="rs-00AW.xml"
+addr="rs-00AW"
+title="Grp is regular"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span> is regular</fr:link>; this is the statement of <fr:link
 type="local"
-href="rs-0099.xml"
-addr="rs-0099"
-title="Quotient of sets">quotient set</fr:link>, It suffices
-  to show that the induced set-function <fr:tex
-display="inline"><![CDATA[\tilde {f}]]></fr:tex> is a homomorphism:
-  <fr:tex
-display="block"><![CDATA[\tilde {f}(ghN) = f(gh) = f(g)f(h) = \tilde {f}(g)\tilde {f}(h).]]></fr:tex></fr:p>
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">(regular epi,
+  mono) factorization</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -51,48 +40,38 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1077</fr:anchor><fr:addr
-type="user">rs-00A2</fr:addr><fr:route>rs-00A2.xml</fr:route><fr:title
-text="Quotient group">Quotient group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1388</fr:anchor><fr:addr
+type="user">rs-00AX</fr:addr><fr:route>rs-00AX.xml</fr:route><fr:title
+text="First isomorphism theorem for groups">First isomorphism theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Aluffi</fr:meta><fr:meta
-name="ref-at">Definition II.7.11</fr:meta><fr:meta
-name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
-	
-	
-	
-	<fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
+display="inline"><![CDATA[G\xrightarrow {\varphi } H]]></fr:tex> be a <fr:link
 type="local"
-href="aluffi-2009.xml"
-addr="aluffi-2009"
-title="Algebra: chapter 0" />
-<fr:p>Let <fr:link
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">group homomorphism</fr:link>. Then there is an
+<fr:link
 type="local"
-href="rs-009L.xml"
-addr="rs-009L"
-title="Characterization of normal subgroups"><fr:tex
-display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then the <fr:em>quotient group</fr:em> <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex> is
-the <fr:link
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link>
+<fr:tex
+display="block"><![CDATA[G/\ker (\varphi ) \cong  \operatorname {im}(\varphi ).]]></fr:tex> of the <fr:link
 type="local"
-href="rs-0098.xml"
-addr="rs-0098"
-title="Quotient object">quotient object</fr:link> of the <fr:link
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">quotient</fr:link> of the
+<fr:link
 type="local"
-href="rs-009I.xml"
-addr="rs-009I"
-title="Congruences of groups are equivalently normal subgroups">induced congruence</fr:link>; explicitly,
-it is the set of <fr:link
+href="rs-00A4.xml"
+addr="rs-00A4"
+title="Kernel of a group homomorphism">kernel</fr:link> and the <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">cosets</fr:link> of <fr:tex
-display="inline"><![CDATA[N]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[G]]></fr:tex> with the operation <fr:tex
-display="block"><![CDATA[(gN)(hN) = (gh)N.]]></fr:tex></fr:p>
+href="rs-00A5.xml"
+addr="rs-00A5"
+title="Image of a group homomorphism">image</fr:link>.</fr:p>
   
     
     
@@ -103,35 +82,24 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>512</fr:anchor><fr:addr
-type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1354</fr:anchor><fr:addr
+type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show that this defines a group, note that the induced equivalence
-  relation is a congruence, hence compatible with the group multiplication, so
-  that the multiplication is well-defined. The group axioms are direct from
-  those of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
-
-  <fr:p>To exhibit the universal property, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> be any
-  <fr:link
+  <fr:p><fr:link
 type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link> which is constant on equivalence classes. Since <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex>
-  is also the <fr:link
+href="rs-00AW.xml"
+addr="rs-00AW"
+title="Grp is regular"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span> is regular</fr:link>; this is the statement of <fr:link
 type="local"
-href="rs-0099.xml"
-addr="rs-0099"
-title="Quotient of sets">quotient set</fr:link>, It suffices
-  to show that the induced set-function <fr:tex
-display="inline"><![CDATA[\tilde {f}]]></fr:tex> is a homomorphism:
-  <fr:tex
-display="block"><![CDATA[\tilde {f}(ghN) = f(gh) = f(g)f(h) = \tilde {f}(g)\tilde {f}(h).]]></fr:tex></fr:p>
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">(regular epi,
+  mono) factorization</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

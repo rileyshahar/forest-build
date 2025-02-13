@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>377</fr:anchor><fr:addr
+type="user">rs-00C6</fr:addr><fr:route>rs-00C6.xml</fr:route><fr:title
+text="The logical interpretation of topology">The logical interpretation of topology</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C6.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Geometry-Topology Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Our standard intuition for abstract topology is geometric: the notion of open
+set axiomatized the properties of open balls in metric spaces. Maybe
+surprisingly, there is an equally applicable, and in some sense formally dual,
+logical interpretation of topological spaces. In this interpretation, open sets
+behave like "propositions subject to finite proof." This talk---which assumes no
+knowledge of mathematical logic---will explore this perspective, in particular
+as it relates to point-free topology and sheaves.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

@@ -7,13 +7,14 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6463</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7269</fr:anchor><fr:addr
 type="user">undergraduate-thesis</fr:addr><fr:route>undergraduate-thesis.xml</fr:route><fr:title
 text="Categories for cryptographic composability">Categories for cryptographic composability</fr:title><fr:taxon>Thesis</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/undergraduate-thesis.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We present introductory material on cryptography and category theory, focused on
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="institution">Reed College</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We present introductory material on cryptography and category theory, focused on
 the prerequisites to cryptographic composability. We then present the approach
 to cryptographic composability of Broadbent &amp; Karvonen. We give
 several novel contributions, including a new model for cryptographic protocols

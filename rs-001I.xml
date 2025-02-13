@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7987</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8839</fr:anchor><fr:addr
 type="user">rs-001I</fr:addr><fr:route>rs-001I.xml</fr:route><fr:title
 text="Forgetful functor">Forgetful functor</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -33,7 +33,94 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7989</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8841</fr:anchor><fr:addr
+type="user">rs-00B5</fr:addr><fr:route>rs-00B5.xml</fr:route><fr:title
+text="Free abelian group">Free abelian group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section II.5.4</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:link
+type="local"
+href="rs-001I.xml"
+addr="rs-001I"
+title="Forgetful functor">forgetful functor</fr:link> <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ab</html:span></fr:link> <fr:tex
+display="inline"><![CDATA[\xrightarrow {U}]]></fr:tex>
+<fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link> admits a <fr:link
+type="local"
+href="rs-0043.xml"
+addr="rs-0043"
+title="Adjunctions">left adjoint</fr:link>, called the <fr:em>free
+abelian group functor</fr:em>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>814</fr:anchor><fr:addr
+type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>An explicit construction is as follows: given a set <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, we let <fr:tex
+display="inline"><![CDATA[\mathcal {F} A]]></fr:tex>
+  be the set of <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">finitely supported</fr:link> formal <fr:link
+type="local"
+href="rs-00BA.xml"
+addr="rs-00BA"
+title="Integers"><fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex></fr:link>-<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">linear
+  combinations</fr:link> <fr:tex
+display="inline"><![CDATA[\sum _{a\in  A} c_a a]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, with pointwise addition.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8843</fr:anchor><fr:addr
 type="user">rs-009D</fr:addr><fr:route>rs-009D.xml</fr:route><fr:title
 text="Existence of free groups">Existence of free groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -48,17 +135,25 @@ type="local"
 href="rs-001I.xml"
 addr="rs-001I"
 title="Forgetful functor">forgetful
-functor</fr:link> <html:span
+functor</fr:link> <fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span> <fr:tex
-display="inline"><![CDATA[\xrightarrow {U}]]></fr:tex> <html:span
+class="scat">Grp</html:span></fr:link> <fr:tex
+display="inline"><![CDATA[\xrightarrow {U}]]></fr:tex> <fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span> admits a <fr:link
+class="scat">Set</html:span></fr:link> admits
+a <fr:link
 type="local"
 href="rs-0043.xml"
 addr="rs-0043"
-title="Adjunctions">left
-adjoint</fr:link>, called the <fr:em>free group functor</fr:em>.</fr:p>
+title="Adjunctions">left adjoint</fr:link>, called the <fr:em>free group functor</fr:em>.</fr:p>
   
     
     
@@ -69,8 +164,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>448</fr:anchor><fr:addr
-type="machine">#262</fr:addr><fr:route>unstable-262.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1284</fr:anchor><fr:addr
+type="machine">#271</fr:addr><fr:route>unstable-271.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -97,7 +192,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7991</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8845</fr:anchor><fr:addr
 type="user">rs-002N</fr:addr><fr:route>rs-002N.xml</fr:route><fr:title
 text="Limits and colimits in functor categories are computed pointwise">Limits and colimits in functor categories are computed pointwise</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -172,8 +267,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3205</fr:anchor><fr:addr
-type="machine">#342</fr:addr><fr:route>unstable-342.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3983</fr:anchor><fr:addr
+type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -192,7 +287,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7993</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8847</fr:anchor><fr:addr
 type="user">rs-001C</fr:addr><fr:route>rs-001C.xml</fr:route><fr:title
 text="Concrete category">Concrete category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -238,7 +333,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7995</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8849</fr:anchor><fr:addr
 type="user">rs-000L</fr:addr><fr:route>rs-000L.xml</fr:route><fr:title
 text="Functor">Functor</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

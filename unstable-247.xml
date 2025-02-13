@@ -7,24 +7,40 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>552</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>406</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  <fr:p>Given that <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a mono, and noting that the <fr:link
 type="local"
-href="rs-00AW.xml"
-addr="rs-00AW"
-title="Grp is regular"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span> is regular</fr:link>; this is the statement of <fr:link
+href="rs-005E.xml"
+addr="rs-005E"
+title="Zero morphism">zero map</fr:link>
+  <fr:tex
+display="inline"><![CDATA[z\xrightarrow {0} x]]></fr:tex> equalizes <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[x\xrightarrow {0} y]]></fr:tex>, any other map <fr:tex
+display="inline"><![CDATA[x\to  z]]></fr:tex> which
+  equalizes these maps must also be <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>. The zero map factors uniquely through
+  the object <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[0]]></fr:tex> satisfies the universal property of the kernel.</fr:p>
+
+  <fr:p>The coimage is now the <fr:link
 type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">(regular epi,
-  mono) factorization</fr:link>.</fr:p>
+href="rs-00BP.xml"
+addr="rs-00BP"
+title="Images and kernels">cokernel of the kernel</fr:link>, hence the cokernel of
+  the zero map <fr:tex
+display="inline"><![CDATA[0\to  x]]></fr:tex>, hence the coequalizer of the zero map with itself,
+  hence just the identity at <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>.</fr:p>
+
+  <fr:p>Exactness follows from the definition of an exact sequence.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -40,38 +56,61 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>554</fr:anchor><fr:addr
-type="user">rs-00AX</fr:addr><fr:route>rs-00AX.xml</fr:route><fr:title
-text="First isomorphism theorem for groups">First isomorphism theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>408</fr:anchor><fr:addr
+type="user">rs-00BW</fr:addr><fr:route>rs-00BW.xml</fr:route><fr:title
+text="Monos and epis in preabelian categories">Monos and epis in preabelian categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {\varphi } H]]></fr:tex> be a <fr:link
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> be a map in a <fr:link
 type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">group homomorphism</fr:link>. Then there is an
-<fr:link
+href="rs-00BR.xml"
+addr="rs-00BR"
+title="Preabelian category">preabelian category</fr:link>. Then the
+following are equivalent:
+<fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a <fr:link
 type="local"
-href="rs-0002.xml"
-addr="rs-0002"
-title="Isomorphism">isomorphism</fr:link>
-<fr:tex
-display="block"><![CDATA[G/\ker (\varphi ) \cong  \operatorname {im}(\varphi ).]]></fr:tex> of the <fr:link
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monomorphism</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has <fr:link
 type="local"
-href="rs-00A2.xml"
-addr="rs-00A2"
-title="Quotient group">quotient</fr:link> of the
-<fr:link
+href="rs-005D.xml"
+addr="rs-005D"
+title="Zero object">trivial</fr:link> <fr:link
 type="local"
-href="rs-00A4.xml"
-addr="rs-00A4"
-title="Kernel of a group homomorphism">kernel</fr:link> and the <fr:link
+href="rs-009G.xml"
+addr="rs-009G"
+title="Kernel">kernel</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has <fr:link
 type="local"
-href="rs-00A5.xml"
-addr="rs-00A5"
-title="Image of a group homomorphism">image</fr:link>.</fr:p>
+href="rs-00AT.xml"
+addr="rs-00AT"
+title="Regular image">coimage</fr:link> <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[0\to  x\xrightarrow {f} y]]></fr:tex> is <fr:link
+type="local"
+href="rs-00BU.xml"
+addr="rs-00BU"
+title="Exact sequence">exact</fr:link>.</fr:li></fr:ul></fr:p><fr:p>Dually, the following are equivalent:
+<fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is an <fr:link
+type="local"
+href="rs-000B.xml"
+addr="rs-000B"
+title="Epimorphism">epimorphism</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has image <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has trivial cokernel;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y\to  0]]></fr:tex> is exact.</fr:li></fr:ul></fr:p>
   
     
     
@@ -82,24 +121,40 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>518</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>410</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  <fr:p>Given that <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a mono, and noting that the <fr:link
 type="local"
-href="rs-00AW.xml"
-addr="rs-00AW"
-title="Grp is regular"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span> is regular</fr:link>; this is the statement of <fr:link
+href="rs-005E.xml"
+addr="rs-005E"
+title="Zero morphism">zero map</fr:link>
+  <fr:tex
+display="inline"><![CDATA[z\xrightarrow {0} x]]></fr:tex> equalizes <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[x\xrightarrow {0} y]]></fr:tex>, any other map <fr:tex
+display="inline"><![CDATA[x\to  z]]></fr:tex> which
+  equalizes these maps must also be <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>. The zero map factors uniquely through
+  the object <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[0]]></fr:tex> satisfies the universal property of the kernel.</fr:p>
+
+  <fr:p>The coimage is now the <fr:link
 type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">(regular epi,
-  mono) factorization</fr:link>.</fr:p>
+href="rs-00BP.xml"
+addr="rs-00BP"
+title="Images and kernels">cokernel of the kernel</fr:link>, hence the cokernel of
+  the zero map <fr:tex
+display="inline"><![CDATA[0\to  x]]></fr:tex>, hence the coequalizer of the zero map with itself,
+  hence just the identity at <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>.</fr:p>
+
+  <fr:p>Exactness follows from the definition of an exact sequence.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

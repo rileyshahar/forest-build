@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>903</fr:anchor><fr:addr
+type="user">rs-00B7</fr:addr><fr:route>rs-00B7.xml</fr:route><fr:title
+text="Endomorphisms of an abelian group form a ring">Endomorphisms of an abelian group form a ring</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B7.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section III.2.5</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>For any <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, the <fr:link
+type="local"
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism">endomorphisms</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex> of <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>
+form a <fr:link
+type="local"
+href="rs-00B6.xml"
+addr="rs-00B6"
+title="Ring">ring</fr:link>, with pointwise addition and composition as
+multiplication.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>765</fr:anchor><fr:addr
+type="machine">#252</fr:addr><fr:route>unstable-252.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B7.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  The distributive law expresses exactly the linearity of the endomorphisms.
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>905</fr:anchor><fr:addr
+type="user">aluffi-2009</fr:addr><fr:route>aluffi-2009.xml</fr:route><fr:title
+text="Algebra: chapter 0">Algebra: chapter 0</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/aluffi-2009.tree</fr:source-path><fr:date><fr:year>2009</fr:year></fr:date><fr:authors><fr:author>Paolo Aluffi</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Algebra: Chapter 0 is a self-contained introduction to the main topics of
+algebra, suitable for a first sequence on the subject at the beginning graduate
+or upper undergraduate level. The primary distinguishing feature of the book,
+compared to standard textbooks in algebra, is the early introduction of
+categories, used as a unifying theme in the presentation of the main topics. A
+second feature consists of an emphasis on homological algebra: basic notions on
+complexes are presented as soon as modules have been introduced, and an
+extensive last chapter on homological algebra can form the basis for a follow-up
+introductory course on the subject. Approximately 1,000 exercises both provide
+adequate practice to consolidate the understanding of the main body of the text
+and offer the opportunity to explore many other topics, including applications
+to number theory and algebraic geometry. This will allow instructors to adapt
+the textbook to their specific choice of topics and provide the independent
+reader with a richer exposure to algebra. Many exercises include substantial
+hints, and navigation of the topics is facilitated by an extensive index and by
+hundreds of cross-references.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>907</fr:anchor><fr:addr
+type="user">rs-00BE</fr:addr><fr:route>rs-00BE.xml</fr:route><fr:title
+text="Abelian groups as {Z}-modules">Abelian groups as <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex>-modules</fr:title><fr:taxon>Connection</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BE.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Since <fr:link
+type="local"
+href="rs-00BC.xml"
+addr="rs-00BC"
+title="The ring of integers"><fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> is the initial ring</fr:link>, there is a unique ring
+homomorphism from <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> to <fr:link
+type="local"
+href="rs-00B7.xml"
+addr="rs-00B7"
+title="Endomorphisms of an abelian group form a ring"><fr:tex
+display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex></fr:link> for any <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian
+group</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. This defines an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> of
+<fr:link
+type="local"
+href="rs-002V.xml"
+addr="rs-002V"
+title="Category of categories">categories</fr:link> <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ab</html:span></fr:link> <fr:tex
+display="inline"><![CDATA[\cong ]]></fr:tex> <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Mod</html:span>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>909</fr:anchor><fr:addr
+type="user">rs-00B8</fr:addr><fr:route>rs-00B8.xml</fr:route><fr:title
+text="Module of a ring">Module of a ring</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition III.5.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A (left-) <fr:em>module</fr:em> of a <fr:link
+type="local"
+href="rs-00B8.xml"
+addr="rs-00B8"
+title="Module of a ring">ring</fr:link> <fr:tex
+display="inline"><![CDATA[R]]></fr:tex> is an <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[M]]></fr:tex>
+together with a homomorphism from <fr:tex
+display="inline"><![CDATA[R]]></fr:tex> to the <fr:link
+type="local"
+href="rs-00B7.xml"
+addr="rs-00B7"
+title="Endomorphisms of an abelian group form a ring">endomorphism ring</fr:link> of
+<fr:tex
+display="inline"><![CDATA[M]]></fr:tex>. By <fr:link
+type="local"
+href="rs-009N.xml"
+addr="rs-009N"
+title="Set is cartesian closed">uncurrying</fr:link>, this is equivalently a map <fr:tex
+display="inline"><![CDATA[R\times  A\to  A]]></fr:tex> so
+that:
+
+<fr:tex
+display="block"><![CDATA[   r(a + b) = ra + rb,\quad    (r + s)a = ra + sa,\quad    (rs)a = r(sa),\quad \text {and}\quad    1a = a. ]]></fr:tex></fr:p><fr:p>A <fr:em>module homomorphism</fr:em> is a <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">group homomorphism</fr:link> that commutes
+with the action, in that <fr:tex
+display="block"><![CDATA[rf(a) = f(ra);]]></fr:tex> the <fr:em>category of (left-)
+<fr:tex
+display="inline"><![CDATA[R]]></fr:tex>-modules</fr:em> <fr:tex
+display="inline"><![CDATA[R]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Mod</html:span> is the category of modules and homomorphisms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>911</fr:anchor><fr:addr
+type="user">rs-00B6</fr:addr><fr:route>rs-00B6.xml</fr:route><fr:title
+text="Ring">Ring</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B6.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definitoin III.1.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>ring</fr:em> is an <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[(R, +)]]></fr:tex> together with a
+<fr:link
+type="local"
+href="rs-007W.xml"
+addr="rs-007W"
+title="Monoid">monoid</fr:link> <fr:tex
+display="inline"><![CDATA[(R, \cdot )]]></fr:tex> satisfying the (two-sided) <fr:link
+type="local"
+href="rs-007S.xml"
+addr="rs-007S"
+title="Distributive binary operation">distributive law</fr:link>
+<fr:tex
+display="block"><![CDATA[r(s + t) = rs + rt\quad \text {and}\quad  (s + t)r = sr + tr.]]></fr:tex></fr:p><fr:p>A <fr:em>ring homomorphism</fr:em> is an <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">additive homomorphism</fr:link> that
+preserves multiplication and the unit; the <fr:em>category of rings</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ring</html:span> is
+the category of rings and ring homomorphisms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>913</fr:anchor><fr:addr
+type="user">rs-00B1</fr:addr><fr:route>rs-00B1.xml</fr:route><fr:title
+text="Category of abelian groups">Category of abelian groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B1.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">aluffi-2009</fr:meta><fr:meta
+name="ref-at">Section II.3.5</fr:meta><fr:meta
+name="ref-note">Aluffi</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="external"
+href="Aluffi" />
+<fr:p>The <fr:em>category of abelian groups</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ab</html:span> is the <fr:link
+type="local"
+href="rs-0017.xml"
+addr="rs-0017"
+title="Full functor">full</fr:link>
+<fr:link
+type="local"
+href="rs-004X.xml"
+addr="rs-004X"
+title="Subcategory">subcategory</fr:link> of <fr:link
+type="local"
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Grp</html:span></fr:link> spanned by the <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian
+groups</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>915</fr:anchor><fr:addr
+type="user">rs-0003</fr:addr><fr:route>rs-0003.xml</fr:route><fr:title
+text="Endomorphism">Endomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0003.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.1.9</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A morphism in a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> is an <fr:em>endomorphism</fr:em> if its domain and
+codomain agree.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

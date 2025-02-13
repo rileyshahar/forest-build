@@ -7,103 +7,35 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>927</fr:anchor><fr:addr
-type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1208</fr:anchor><fr:addr
+type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First, if <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> is a surjective homomorphism, then given
-  homomorphisms <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex>, we have that <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex> because <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi
-  in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span>, so <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi.</fr:p>
-
-  <fr:p>Second, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> be an epi in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span>. We wish to find a group
+  <fr:p>The embedding <fr:tex
+display="inline"><![CDATA[Q]]></fr:tex> sends <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> to the "singleton" zig-zag
   <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> and two maps <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex> which agree on the <fr:link
-type="local"
-href="rs-00A5.xml"
-addr="rs-00A5"
-title="Image of a group homomorphism">image</fr:link> of
-  <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>, hence are equal, in such a way that their equality allows us to conclude
-  surjectivity of <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>. Let <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> be the <fr:link
-type="local"
-href="rs-008V.xml"
-addr="rs-008V"
-title="Symmetric group">symmetric group</fr:link> of the set of
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex>, and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> by construction. To exhibit the universal
+  property, suppose <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> is given and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>. Then define <fr:tex
+display="inline"><![CDATA[F_S]]></fr:tex>
+  on a zig-zag by mapping it over the zig-zag and composing in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. The diagram
+  commutes on the nose (note in particular that the relations on <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> don't
+  break this, because they hold in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> as well; this is essentially the
   <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">cosets</fr:link> <fr:tex
-display="inline"><![CDATA[H/e(G)]]></fr:tex> with an <fr:link
-type="local"
-href="rs-002U.xml"
-addr="rs-002U"
-title="Disjoint union of sets">adjoined</fr:link> <fr:link
-type="local"
-href="rs-00AB.xml"
-addr="rs-00AB"
-title="Singleton set">point</fr:link>
-  <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.</fr:p>
-
-  <fr:p>Let <fr:tex
-display="inline"><![CDATA[H\xrightarrow {f} K]]></fr:tex> be the map which sends <fr:tex
-display="inline"><![CDATA[h\in  H]]></fr:tex> to the associated
-  permutation acting on <fr:tex
-display="inline"><![CDATA[kH]]></fr:tex> by <fr:link
-type="local"
-href="rs-009O.xml"
-addr="rs-009O"
-title="Translation action">left translation</fr:link> and fixing <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.
-  Let <fr:tex
-display="inline"><![CDATA[\sigma \in  K]]></fr:tex> be the permutation which exchanges <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>; let
-  <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> be <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> composed with the <fr:link
-type="local"
-href="rs-009P.xml"
-addr="rs-009P"
-title="Conjugation action">inner automorphism</fr:link> associated to
-  <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>.</fr:p>
-
-  <fr:p>We finally claim that <fr:tex
-display="inline"><![CDATA[f(e(a)) = g(e(a))]]></fr:tex> for each <fr:tex
-display="inline"><![CDATA[a\in  G]]></fr:tex>. Indeed, since
-  <fr:tex
-display="inline"><![CDATA[e(a)\in  e(G)]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[e(a)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>, so is fixed under conjugation
-  by <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>. Now since <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi, <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex>. Thus for each <fr:tex
-display="inline"><![CDATA[b\in  H]]></fr:tex>,
-  <fr:tex
-display="inline"><![CDATA[f(b) = g(b)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[g(b)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[f(H)]]></fr:tex>, i.e. <fr:tex
-display="inline"><![CDATA[bf(H) = f(H)]]></fr:tex>, so <fr:tex
-display="inline"><![CDATA[b\in    f(H)]]></fr:tex>, as desired.</fr:p>
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">universal property of the quotient</fr:link>), so it remains to show the
+  uniqueness property. But the functor must act appropriately on the inclusion
+  and preserve composites, so this is immediate.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -119,42 +51,64 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>929</fr:anchor><fr:addr
-type="user">rs-00A9</fr:addr><fr:route>rs-00A9.xml</fr:route><fr:title
-text="Epimorphism of groups">Epimorphism of groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1210</fr:anchor><fr:addr
+type="user">rs-00B0</fr:addr><fr:route>rs-00B0.xml</fr:route><fr:title
+text="Construction of the localization of a category">Construction of the localization of a category</fr:title><fr:taxon>Construction</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Mac Lane</fr:meta><fr:meta
-name="ref-at">Exercise I.5.5</fr:meta><fr:meta
-name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">borceux-1994</fr:meta><fr:meta
+name="ref-at">Proposition I.5.2.2</fr:meta><fr:meta
+name="ref-note">Borceux</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
+type="external"
+href="Borceux" />
+<fr:p>The <fr:link
 type="local"
-href="maclane-1978.xml"
-addr="maclane-1978"
-title="Categories for the working mathematician" />
-<fr:p>An <fr:link
+href="rs-00AZ.xml"
+addr="rs-00AZ"
+title="Localization of a category">localization</fr:link> <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> of a <fr:link
 type="local"
-href="rs-000B.xml"
-addr="rs-000B"
-title="Epimorphism">epimorphism</fr:link> of <fr:link
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> at <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> is
+exhibited by the following (not necessarily <fr:link
 type="local"
-href="rs-009B.xml"
-addr="rs-009B"
-title="Category of groups">groups</fr:link> is just a
-<fr:link
+href="rs-002B.xml"
+addr="rs-002B"
+title="Small category">small</fr:link>) construction:</fr:p><fr:ul><fr:li>the objects of <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> are those of <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>;</fr:li>
+  <fr:li>a morphism in <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> is a <fr:link
 type="local"
-href="rs-000I.xml"
-addr="rs-000I"
-title="Surjection">surjective</fr:link> <fr:link
+href="rs-002L.xml"
+addr="rs-002L"
+title="Zig-zag">zig-zag</fr:link> of morphisms in
+  <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, where the "rightward" maps consist only of those in <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>,
+  <fr:link
 type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link>.</fr:p>
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">modulo</fr:link> the <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">relations</fr:link> generated by composition, the
+  identities, and the equations <fr:tex
+display="inline"><![CDATA[x\xrightarrow {s}y\xleftarrow {s}x \sim  1_x]]></fr:tex> and
+  <fr:tex
+display="inline"><![CDATA[y\xleftarrow {s}x\xrightarrow {s} y \sim  1_y]]></fr:tex> whenever <fr:tex
+display="inline"><![CDATA[s\in  S]]></fr:tex>.</fr:li></fr:ul>
   
     
     
@@ -165,103 +119,35 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>472</fr:anchor><fr:addr
-type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1212</fr:anchor><fr:addr
+type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First, if <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> is a surjective homomorphism, then given
-  homomorphisms <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex>, we have that <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex> because <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi
-  in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span>, so <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi.</fr:p>
-
-  <fr:p>Second, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> be an epi in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span>. We wish to find a group
+  <fr:p>The embedding <fr:tex
+display="inline"><![CDATA[Q]]></fr:tex> sends <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> to the "singleton" zig-zag
   <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> and two maps <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex> which agree on the <fr:link
-type="local"
-href="rs-00A5.xml"
-addr="rs-00A5"
-title="Image of a group homomorphism">image</fr:link> of
-  <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>, hence are equal, in such a way that their equality allows us to conclude
-  surjectivity of <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>. Let <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> be the <fr:link
-type="local"
-href="rs-008V.xml"
-addr="rs-008V"
-title="Symmetric group">symmetric group</fr:link> of the set of
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex>, and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> by construction. To exhibit the universal
+  property, suppose <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> is given and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>. Then define <fr:tex
+display="inline"><![CDATA[F_S]]></fr:tex>
+  on a zig-zag by mapping it over the zig-zag and composing in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. The diagram
+  commutes on the nose (note in particular that the relations on <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> don't
+  break this, because they hold in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> as well; this is essentially the
   <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">cosets</fr:link> <fr:tex
-display="inline"><![CDATA[H/e(G)]]></fr:tex> with an <fr:link
-type="local"
-href="rs-002U.xml"
-addr="rs-002U"
-title="Disjoint union of sets">adjoined</fr:link> <fr:link
-type="local"
-href="rs-00AB.xml"
-addr="rs-00AB"
-title="Singleton set">point</fr:link>
-  <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.</fr:p>
-
-  <fr:p>Let <fr:tex
-display="inline"><![CDATA[H\xrightarrow {f} K]]></fr:tex> be the map which sends <fr:tex
-display="inline"><![CDATA[h\in  H]]></fr:tex> to the associated
-  permutation acting on <fr:tex
-display="inline"><![CDATA[kH]]></fr:tex> by <fr:link
-type="local"
-href="rs-009O.xml"
-addr="rs-009O"
-title="Translation action">left translation</fr:link> and fixing <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.
-  Let <fr:tex
-display="inline"><![CDATA[\sigma \in  K]]></fr:tex> be the permutation which exchanges <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>; let
-  <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> be <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> composed with the <fr:link
-type="local"
-href="rs-009P.xml"
-addr="rs-009P"
-title="Conjugation action">inner automorphism</fr:link> associated to
-  <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>.</fr:p>
-
-  <fr:p>We finally claim that <fr:tex
-display="inline"><![CDATA[f(e(a)) = g(e(a))]]></fr:tex> for each <fr:tex
-display="inline"><![CDATA[a\in  G]]></fr:tex>. Indeed, since
-  <fr:tex
-display="inline"><![CDATA[e(a)\in  e(G)]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[e(a)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>, so is fixed under conjugation
-  by <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>. Now since <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi, <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex>. Thus for each <fr:tex
-display="inline"><![CDATA[b\in  H]]></fr:tex>,
-  <fr:tex
-display="inline"><![CDATA[f(b) = g(b)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[g(b)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[f(H)]]></fr:tex>, i.e. <fr:tex
-display="inline"><![CDATA[bf(H) = f(H)]]></fr:tex>, so <fr:tex
-display="inline"><![CDATA[b\in    f(H)]]></fr:tex>, as desired.</fr:p>
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">universal property of the quotient</fr:link>), so it remains to show the
+  uniqueness property. But the functor must act appropriately on the inclusion
+  and preserve composites, so this is immediate.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

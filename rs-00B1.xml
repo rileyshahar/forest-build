@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>364</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1192</fr:anchor><fr:addr
 type="user">rs-00B1</fr:addr><fr:route>rs-00B1.xml</fr:route><fr:title
 text="Category of abelian groups">Category of abelian groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B1.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -53,6 +53,214 @@ show-metadata="false"
 expanded="true"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1194</fr:anchor><fr:addr
+type="user">rs-00BE</fr:addr><fr:route>rs-00BE.xml</fr:route><fr:title
+text="Abelian groups as {Z}-modules">Abelian groups as <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex>-modules</fr:title><fr:taxon>Connection</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BE.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Since <fr:link
+type="local"
+href="rs-00BC.xml"
+addr="rs-00BC"
+title="The ring of integers"><fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> is the initial ring</fr:link>, there is a unique ring
+homomorphism from <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> to <fr:link
+type="local"
+href="rs-00B7.xml"
+addr="rs-00B7"
+title="Endomorphisms of an abelian group form a ring"><fr:tex
+display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex></fr:link> for any <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian
+group</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. This defines an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> of
+<fr:link
+type="local"
+href="rs-002V.xml"
+addr="rs-002V"
+title="Category of categories">categories</fr:link> <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ab</html:span></fr:link> <fr:tex
+display="inline"><![CDATA[\cong ]]></fr:tex> <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Mod</html:span>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1196</fr:anchor><fr:addr
+type="user">rs-00B7</fr:addr><fr:route>rs-00B7.xml</fr:route><fr:title
+text="Endomorphisms of an abelian group form a ring">Endomorphisms of an abelian group form a ring</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B7.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section III.2.5</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>For any <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, the <fr:link
+type="local"
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism">endomorphisms</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex> of <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>
+form a <fr:link
+type="local"
+href="rs-00B6.xml"
+addr="rs-00B6"
+title="Ring">ring</fr:link>, with pointwise addition and composition as
+multiplication.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>765</fr:anchor><fr:addr
+type="machine">#252</fr:addr><fr:route>unstable-252.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B7.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  The distributive law expresses exactly the linearity of the endomorphisms.
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1198</fr:anchor><fr:addr
+type="user">rs-00B5</fr:addr><fr:route>rs-00B5.xml</fr:route><fr:title
+text="Free abelian group">Free abelian group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section II.5.4</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:link
+type="local"
+href="rs-001I.xml"
+addr="rs-001I"
+title="Forgetful functor">forgetful functor</fr:link> <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ab</html:span></fr:link> <fr:tex
+display="inline"><![CDATA[\xrightarrow {U}]]></fr:tex>
+<fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link> admits a <fr:link
+type="local"
+href="rs-0043.xml"
+addr="rs-0043"
+title="Adjunctions">left adjoint</fr:link>, called the <fr:em>free
+abelian group functor</fr:em>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>814</fr:anchor><fr:addr
+type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>An explicit construction is as follows: given a set <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, we let <fr:tex
+display="inline"><![CDATA[\mathcal {F} A]]></fr:tex>
+  be the set of <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">finitely supported</fr:link> formal <fr:link
+type="local"
+href="rs-00BA.xml"
+addr="rs-00BA"
+title="Integers"><fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex></fr:link>-<fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">linear
+  combinations</fr:link> <fr:tex
+display="inline"><![CDATA[\sum _{a\in  A} c_a a]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>, with pointwise addition.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
 text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
 toc="true"
 numbered="false"
@@ -60,7 +268,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>366</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1200</fr:anchor><fr:addr
 type="user">rs-009B</fr:addr><fr:route>rs-009B.xml</fr:route><fr:title
 text="Category of groups">Category of groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -100,7 +308,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>368</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1202</fr:anchor><fr:addr
 type="user">rs-007Y</fr:addr><fr:route>rs-007Y.xml</fr:route><fr:title
 text="Abelian group">Abelian group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Y.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -124,14 +332,16 @@ title="Commutative binary operation">commutative</fr:link> <fr:link
 type="local"
 href="rs-007X.xml"
 addr="rs-007X"
-title="Group">group</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Group">group</fr:link>. Its
+operation is generally written additively, <fr:tex
+display="inline"><![CDATA[a + b]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>370</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1204</fr:anchor><fr:addr
 type="user">rs-004X</fr:addr><fr:route>rs-004X.xml</fr:route><fr:title
 text="Subcategory">Subcategory</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-004X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -188,7 +398,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>372</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1206</fr:anchor><fr:addr
 type="user">rs-0017</fr:addr><fr:route>rs-0017.xml</fr:route><fr:title
 text="Full functor">Full functor</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0017.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

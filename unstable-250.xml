@@ -7,18 +7,20 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>611</fr:anchor><fr:addr
-type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>751</fr:anchor><fr:addr
+type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BH.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:link
-type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
-  </fr:mainmatter><fr:backmatter><fr:tree
+  <fr:p>Notice that this is exactly the universal property of the tensor
+  product: a homomorphism <fr:tex
+display="inline"><![CDATA[M\otimes  N\to  O]]></fr:tex> is the same as a bilinear map
+  <fr:tex
+display="inline"><![CDATA[M\times  N\to  O]]></fr:tex>, which by definition is the same as a module homomorphism
+  <fr:tex
+display="inline"><![CDATA[M\to  [N, O]]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -33,53 +35,32 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>613</fr:anchor><fr:addr
-type="user">rs-00AQ</fr:addr><fr:route>rs-00AQ.xml</fr:route><fr:title
-text="Filtered colimits commute with finite limits in Set">Filtered colimits commute with finite limits in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>753</fr:anchor><fr:addr
+type="user">rs-00BH</fr:addr><fr:route>rs-00BH.xml</fr:route><fr:title
+text="Closed symmetric monoidal structure on modules">Closed symmetric monoidal structure on modules</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BH.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Theorem 3.8.9</fr:meta><fr:meta
-name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
-	
-	
-	
-	<fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The <fr:link
 type="local"
-href="riehl-2017.xml"
-addr="riehl-2017"
-title="Category theory in context" />
-<fr:p><fr:link
+href="rs-00B8.xml"
+addr="rs-00B8"
+title="Module of a ring">category of <fr:tex
+display="inline"><![CDATA[R]]></fr:tex>-modules</fr:link> is <fr:link
 type="local"
-href="rs-004K.xml"
-addr="rs-004K"
-title="Filtered category">Filtered</fr:link> <fr:link
+href="rs-005J.xml"
+addr="rs-005J"
+title="Closed symmetric monoidal category">closed symmetric
+monoidal</fr:link>, with the <fr:link
 type="local"
-href="rs-001Z.xml"
-addr="rs-001Z"
-title="Colimit">colimits</fr:link> commute with <fr:link
+href="rs-00B4.xml"
+addr="rs-00B4"
+title="Tensor product of modules">tensor product</fr:link> and <fr:link
 type="local"
-href="rs-0058.xml"
-addr="rs-0058"
-title="Finite category">finite</fr:link> <fr:link
-type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limits</fr:link> in
-<fr:link
-type="local"
-href="rs-000C.xml"
-addr="rs-000C"
-title="Category of sets"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:link> (and the result extends to <fr:tex
-display="inline"><![CDATA[\kappa ]]></fr:tex>-filtered and
-<fr:tex
-display="inline"><![CDATA[\kappa ]]></fr:tex>-small limits).</fr:p>
+href="rs-00BG.xml"
+addr="rs-00BG"
+title="Internal hom of modules">internal
+hom</fr:link>.</fr:p>
   
     
     
@@ -90,17 +71,19 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>615</fr:anchor><fr:addr
-type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>755</fr:anchor><fr:addr
+type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BH.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:link
-type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
-  </fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:p>Notice that this is exactly the universal property of the tensor
+  product: a homomorphism <fr:tex
+display="inline"><![CDATA[M\otimes  N\to  O]]></fr:tex> is the same as a bilinear map
+  <fr:tex
+display="inline"><![CDATA[M\times  N\to  O]]></fr:tex>, which by definition is the same as a module homomorphism
+  <fr:tex
+display="inline"><![CDATA[M\to  [N, O]]]></fr:tex>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

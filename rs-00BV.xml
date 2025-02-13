@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>509</fr:anchor><fr:addr
+type="user">rs-00BV</fr:addr><fr:route>rs-00BV.xml</fr:route><fr:title
+text="Short exact sequence">Short exact sequence</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">p. 179</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A <fr:em>short exact sequence</fr:em> <fr:tex
+display="inline"><![CDATA[0\to  x\xhookrightarrow {f} y\xtwoheadrightarrow {g} z\to  0]]></fr:tex> is an <fr:link
+type="local"
+href="rs-00BU.xml"
+addr="rs-00BU"
+title="Exact sequence">exact
+sequence</fr:link> with all but three objects <fr:link
+type="local"
+href="rs-005D.xml"
+addr="rs-005D"
+title="Zero object">zero</fr:link>, i.e. so that
+<fr:tex
+display="inline"><![CDATA[\ker  g = \operatorname {im} f]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[\ker  f = 0]]></fr:tex>, and <fr:tex
+display="inline"><![CDATA[\operatorname {im} g = z]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>511</fr:anchor><fr:addr
+type="user">kashiwara-schapira-2005</fr:addr><fr:route>kashiwara-schapira-2005.xml</fr:route><fr:title
+text="Categories and sheaves">Categories and sheaves</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/kashiwara-schapira-2005.tree</fr:source-path><fr:date><fr:year>2005</fr:year></fr:date><fr:authors><fr:author>Masaki Kashiwara</fr:author><fr:author>Pierre Schapira</fr:author></fr:authors><fr:meta
+name="isbn">978-3-540-27950-1</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{riehl-2017,
+  title = {Categories and Sheaves},
+  author = {Kashiwara, Masaki and Schapira, Pierre},
+  isbn = {978-3-540-27950-1},
+  publisher = {Springer Berlin},
+  year = {2005},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Categories and sheaves, which emerged in the middle of the last century as an
+enrichment for the concepts of sets and functions, appear almost everywhere in
+mathematics nowadays.</fr:p><fr:p>This book covers categories, homological algebra and sheaves in a systematic
+and exhaustive manner starting from scratch, and continues with full proofs to
+an exposition of the most recent results in the literature, and sometimes
+beyond.</fr:p><fr:p>The authors present the general theory of categories and functors,
+emphasising inductive and projective limits, tensor categories, representable
+functors, ind-objects and localization. Then they study homological algebra
+including additive, abelian, triangulated categories and also unbounded derived
+categories using transfinite induction and accessible objects. Finally, sheaf
+theory as well as twisted sheaves and stacks appear in the framework of
+Grothendieck topologies.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>514</fr:anchor><fr:addr
+type="user">rs-00BU</fr:addr><fr:route>rs-00BU.xml</fr:route><fr:title
+text="Exact sequence">Exact sequence</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BU.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Definition 8.3.8(b)</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A sequence <fr:tex
+display="inline"><![CDATA[\dots \xrightarrow {\text {d}_{i + 1}} x_i\xrightarrow {\text {d}_{i}} x_{i - 1}\xrightarrow {\text {d}_{i - 1}} \dots ]]></fr:tex> in a <fr:link
+type="local"
+href="rs-00BR.xml"
+addr="rs-00BR"
+title="Preabelian category">preabelian category</fr:link> is <fr:em>exact</fr:em> if <fr:tex
+display="inline"><![CDATA[\ker  \text {d}_{i - 1} \cong  \operatorname {im} \text {d}_i]]></fr:tex> for each <fr:tex
+display="inline"><![CDATA[i]]></fr:tex>. In particular, the sequence is a <fr:link
+type="local"
+href="rs-00BO.xml"
+addr="rs-00BO"
+title="Chain complex">chain
+complex</fr:link>; if the category is <fr:link
+type="local"
+href="rs-00BS.xml"
+addr="rs-00BS"
+title="Abelian category">abelian</fr:link>, this
+equivalently means its <fr:link
+type="local"
+href="rs-00BT.xml"
+addr="rs-00BT"
+title="Chain homology">chain homology</fr:link> <fr:link
+type="local"
+href="rs-005D.xml"
+addr="rs-005D"
+title="Zero object">vanishes</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>516</fr:anchor><fr:addr
+type="user">rs-005D</fr:addr><fr:route>rs-005D.xml</fr:route><fr:title
+text="Zero object">Zero object</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane</fr:meta><fr:meta
+name="ref-at">p. 20</fr:meta><fr:meta
+name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="maclane-1978.xml"
+addr="maclane-1978"
+title="Categories for the working mathematician" />
+<fr:p>A <fr:em>zero object</fr:em> is both <fr:link
+type="local"
+href="rs-0021.xml"
+addr="rs-0021"
+title="Initial object">initial</fr:link> and <fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1178</fr:anchor><fr:addr
+type="user">glos-girards-paradox-2024</fr:addr><fr:route>glos-girards-paradox-2024.xml</fr:route><fr:title
+text="Girard's paradox for set theorists, via hurkens">Girard's paradox for set theorists, via hurkens</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-girards-paradox-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Girard's paradox is an analogue of Russell's paradox which demonstrates the
+inconsistency of a sufficiently rich type theory with a "type of all types." In
+this talk, I will present a simplified version of the paradox due to Hurkens
+(1995), which in particular has a nice analogue in naive set theory. After
+treating this classical intuition and the type-theoretic argument, if we have
+time we will implement the paradox in Lean.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

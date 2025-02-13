@@ -7,23 +7,17 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7824</fr:anchor><fr:addr
-type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7388</fr:anchor><fr:addr
+type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Let <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> be the inverse of <fr:tex
-display="inline"><![CDATA[Ff]]></fr:tex>. Since <fr:tex
-display="inline"><![CDATA[F]]></fr:tex> is full, there exists an
-  <fr:tex
-display="inline"><![CDATA[f^{-1}]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[Ff^{-1} = g]]></fr:tex>. Now, <fr:tex
-display="block"><![CDATA[F(f^{-1}f) = Ff^{-1}Ff =   1_{Fx} = F1_x,]]></fr:tex>and the same on the other side, which completes the proof by
-  faithfulness of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>.</fr:p>
+  <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -39,15 +33,15 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7826</fr:anchor><fr:addr
-type="user">rs-001M</fr:addr><fr:route>rs-001M.xml</fr:route><fr:title
-text="Fully faithful functors reflect isomorphisms">Fully faithful functors reflect isomorphisms</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7390</fr:anchor><fr:addr
+type="user">rs-002N</fr:addr><fr:route>rs-002N.xml</fr:route><fr:title
+text="Limits and colimits in functor categories are computed pointwise">Limits and colimits in functor categories are computed pointwise</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Exercise 1.5.iv(i)</fr:meta><fr:meta
+name="ref-at">Proposition 3.3.9</fr:meta><fr:meta
 name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -57,30 +51,53 @@ type="local"
 href="riehl-2017.xml"
 addr="riehl-2017"
 title="Category theory in context" />
-<fr:p><fr:link
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
 type="local"
-href="rs-0017.xml"
-addr="rs-0017"
-title="Full functor">Fully</fr:link> <fr:link
-type="local"
-href="rs-0018.xml"
-addr="rs-0018"
-title="Faithful functor">faithful functors</fr:link> <fr:link
-type="local"
-href="rs-001J.xml"
-addr="rs-001J"
-title="Reflection of a property">reflect</fr:link>
+href="rs-002B.xml"
+addr="rs-002B"
+title="Small category">small category</fr:link>. Then where <fr:tex
+display="inline"><![CDATA[\operatorname *{obj} C]]></fr:tex> is the
 <fr:link
 type="local"
-href="rs-0002.xml"
-addr="rs-0002"
-title="Isomorphism">isomorphisms</fr:link>.</fr:p><fr:p>Explicitly, let <fr:tex
-display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> be a full and faithful functor. Then if <fr:tex
-display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> in
+href="rs-001H.xml"
+addr="rs-001H"
+title="Discrete category">discrete category</fr:link> of objects, the <fr:link
+type="local"
+href="rs-001I.xml"
+addr="rs-001I"
+title="Forgetful functor">forgetful functor</fr:link>
 <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> is such that <fr:tex
-display="inline"><![CDATA[Ff]]></fr:tex> is an isomorphism, then <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> is an isomorphism.</fr:p>
+display="inline"><![CDATA[C^A\to  C^{\operatorname *{obj} A}]]></fr:tex>
+ strictly <fr:link
+type="local"
+href="rs-002J.xml"
+addr="rs-002J"
+title="Creation of limits">creates</fr:link> all <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> and
+<fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimits</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>. For each <fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>, the <fr:link
+type="local"
+href="rs-005J.xml"
+addr="rs-005J"
+title="Closed symmetric monoidal category">evaluation at <fr:tex
+display="inline"><![CDATA[a]]></fr:tex>
+functor</fr:link> <fr:tex
+display="inline"><![CDATA[C^A\to  C]]></fr:tex> <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> all limits and colimits which
+exist in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>.</fr:p>
   
     
     
@@ -91,23 +108,17 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7828</fr:anchor><fr:addr
-type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3983</fr:anchor><fr:addr
+type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Let <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> be the inverse of <fr:tex
-display="inline"><![CDATA[Ff]]></fr:tex>. Since <fr:tex
-display="inline"><![CDATA[F]]></fr:tex> is full, there exists an
-  <fr:tex
-display="inline"><![CDATA[f^{-1}]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[Ff^{-1} = g]]></fr:tex>. Now, <fr:tex
-display="block"><![CDATA[F(f^{-1}f) = Ff^{-1}Ff =   1_{Fx} = F1_x,]]></fr:tex>and the same on the other side, which completes the proof by
-  faithfulness of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>.</fr:p>
+  <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

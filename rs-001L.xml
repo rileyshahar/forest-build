@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7917</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8765</fr:anchor><fr:addr
 type="user">rs-001L</fr:addr><fr:route>rs-001L.xml</fr:route><fr:title
 text="Creation of a property">Creation of a property</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -42,7 +42,115 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7919</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8767</fr:anchor><fr:addr
+type="user">rs-00C3</fr:addr><fr:route>rs-00C3.xml</fr:route><fr:title
+text="Saturated class of morphisms">Saturated class of morphisms</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C3.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Remark 2.1.9</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A class of morphisms <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> is <fr:em>saturated</fr:em> if it <fr:link
+type="local"
+href="rs-001L.xml"
+addr="rs-001L"
+title="Creation of a property">creates</fr:link> <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> under
+<fr:link
+type="local"
+href="rs-00AZ.xml"
+addr="rs-00AZ"
+title="Localization of a category">localization</fr:link> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {Q} C[S^{-1}]]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8769</fr:anchor><fr:addr
+type="user">rs-00C4</fr:addr><fr:route>rs-00C4.xml</fr:route><fr:title
+text="Saturated morphisms satisfy two-of-six">Saturated morphisms satisfy two-of-six</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C4.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Lemma 2.1.10</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>Any <fr:link
+type="local"
+href="rs-00C3.xml"
+addr="rs-00C3"
+title="Saturated class of morphisms">saturated</fr:link> class of morphisms <fr:tex
+display="inline"><![CDATA[W]]></fr:tex> satisfies
+<fr:link
+type="local"
+href="rs-00BY.xml"
+addr="rs-00BY"
+title="Two-of-six property">two-of-six</fr:link>, hence forms a <fr:link
+type="local"
+href="rs-00BX.xml"
+addr="rs-00BX"
+title="Homotopical category">homotopical category</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>398</fr:anchor><fr:addr
+type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C4.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:link
+type="local"
+href="rs-00C2.xml"
+addr="rs-00C2"
+title="Isomorphisms satisfy two-of-six">The isomorphisms satisfy two-of-six</fr:link> and are <fr:link
+type="local"
+href="rs-001L.xml"
+addr="rs-001L"
+title="Creation of a property">created</fr:link> by <fr:tex
+display="inline"><![CDATA[W]]></fr:tex>.
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8771</fr:anchor><fr:addr
 type="user">rs-009E</fr:addr><fr:route>rs-009E.xml</fr:route><fr:title
 text="Grp is monadic over Set"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
@@ -92,8 +200,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>454</fr:anchor><fr:addr
-type="machine">#261</fr:addr><fr:route>unstable-261.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1290</fr:anchor><fr:addr
+type="machine">#270</fr:addr><fr:route>unstable-270.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>23</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -408,7 +516,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7921</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8773</fr:anchor><fr:addr
 type="user">rs-004R</fr:addr><fr:route>rs-004R.xml</fr:route><fr:title
 text="Monadicity theorem">Monadicity theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-004R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -630,7 +738,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7923</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8775</fr:anchor><fr:addr
 type="user">rs-002J</fr:addr><fr:route>rs-002J.xml</fr:route><fr:title
 text="Creation of limits">Creation of limits</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -683,7 +791,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7925</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8777</fr:anchor><fr:addr
 type="user">rs-001N</fr:addr><fr:route>rs-001N.xml</fr:route><fr:title
 text="Fully faithful functors create isomorphisms">Fully faithful functors create isomorphisms</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -735,8 +843,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7822</fr:anchor><fr:addr
-type="machine">#352</fr:addr><fr:route>unstable-352.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8670</fr:anchor><fr:addr
+type="machine">#363</fr:addr><fr:route>unstable-363.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -777,7 +885,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7927</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8779</fr:anchor><fr:addr
 type="user">rs-001K</fr:addr><fr:route>rs-001K.xml</fr:route><fr:title
 text="Preservation of a property">Preservation of a property</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -795,7 +903,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7929</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8781</fr:anchor><fr:addr
 type="user">rs-001J</fr:addr><fr:route>rs-001J.xml</fr:route><fr:title
 text="Reflection of a property">Reflection of a property</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -813,7 +921,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7931</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8783</fr:anchor><fr:addr
 type="user">rs-0001</fr:addr><fr:route>rs-0001.xml</fr:route><fr:title
 text="Category">Category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0001.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

@@ -7,49 +7,31 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1083</fr:anchor><fr:addr
-type="machine">#258</fr:addr><fr:route>unstable-258.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1439</fr:anchor><fr:addr
+type="machine">#258</fr:addr><fr:route>unstable-258.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We construct a <fr:link
+  <fr:p>The backwards direction is <fr:link
 type="local"
-href="rs-000E.xml"
-addr="rs-000E"
-title="Bijection">bijection</fr:link> <fr:tex
-display="inline"><![CDATA[Ga\cong  G/\operatorname {stab}_G(a)]]></fr:tex>, whence the
-  result follows from <fr:link
+href="rs-00AN.xml"
+addr="rs-00AN"
+title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
+  direction, <fr:link
 type="local"
-href="rs-00A0.xml"
-addr="rs-00A0"
-title="Lagrange's theorem">Lagrange's theorem</fr:link>. Given an element <fr:tex
-display="inline"><![CDATA[b = ga\in  Ga]]></fr:tex>,
-  identify it with the <fr:link
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
+display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> a regular epi,
+  but note that <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">coset</fr:link> <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>. This is well-defined: if
-  <fr:tex
-display="inline"><![CDATA[b = ga = ha]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[gh^{-1}\in \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>. Moreover, it is <fr:link
-type="local"
-href="rs-000H.xml"
-addr="rs-000H"
-title="Injection">injective</fr:link>: if <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[gh^{-1} \in  \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[ga = ha]]></fr:tex>. Finally, it
-  is <fr:link
-type="local"
-href="rs-000I.xml"
-addr="rs-000I"
-title="Surjection">surjective</fr:link>: given some <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>, it is the image of
-  <fr:tex
-display="inline"><![CDATA[ga\in  Ga]]></fr:tex>.</fr:p>
+href="rs-00AP.xml"
+addr="rs-00AP"
+title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -65,47 +47,38 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1085</fr:anchor><fr:addr
-type="user">rs-009X</fr:addr><fr:route>rs-009X.xml</fr:route><fr:title
-text="Orbit-stabilizer theorem">Orbit-stabilizer theorem</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1441</fr:anchor><fr:addr
+type="user">rs-00AV</fr:addr><fr:route>rs-00AV.xml</fr:route><fr:title
+text="Strong epis are regular in regular categories">Strong epis are regular in regular categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Aluffi</fr:meta><fr:meta
-name="ref-at">Corollary 9.10</fr:meta><fr:meta
-name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Borceux</fr:meta><fr:meta
+name="ref-at">Proposition II.2.1.4</fr:meta><fr:meta
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="aluffi-2009.xml"
-addr="aluffi-2009"
-title="Algebra: chapter 0" />
-<fr:p>Let <fr:tex
-display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
+<fr:p>In a <fr:link
 type="local"
-href="rs-009M.xml"
-addr="rs-009M"
-title="Group action"><fr:tex
-display="inline"><![CDATA[G]]></fr:tex>-set</fr:link> and <fr:tex
-display="inline"><![CDATA[a\in  A]]></fr:tex>. Then there is an equation of
-<fr:link
+href="rs-00AM.xml"
+addr="rs-00AM"
+title="Regular category">regular category</fr:link>, a map is a <fr:link
 type="local"
-href="rs-009Z.xml"
-addr="rs-009Z"
-title="Cardinality">cardinalities</fr:link> <fr:tex
-display="block"><![CDATA[|\operatorname {stab}_G(a)||Ga| = |G|,]]></fr:tex> where the former is the
-<fr:link
+href="rs-00AK.xml"
+addr="rs-00AK"
+title="Strong epimorphism">strong epis</fr:link> iff it is
+a <fr:link
 type="local"
-href="rs-009V.xml"
-addr="rs-009V"
-title="Stabilizer">stabilizer</fr:link> and the latter is the <fr:link
-type="local"
-href="rs-009U.xml"
-addr="rs-009U"
-title="Orbit">orbit</fr:link>.</fr:p>
+href="rs-00AL.xml"
+addr="rs-00AL"
+title="Regular epimorphism">regular epi</fr:link>.</fr:p>
   
     
     
@@ -116,49 +89,31 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>498</fr:anchor><fr:addr
-type="machine">#258</fr:addr><fr:route>unstable-258.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-009X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1443</fr:anchor><fr:addr
+type="machine">#258</fr:addr><fr:route>unstable-258.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We construct a <fr:link
+  <fr:p>The backwards direction is <fr:link
 type="local"
-href="rs-000E.xml"
-addr="rs-000E"
-title="Bijection">bijection</fr:link> <fr:tex
-display="inline"><![CDATA[Ga\cong  G/\operatorname {stab}_G(a)]]></fr:tex>, whence the
-  result follows from <fr:link
+href="rs-00AN.xml"
+addr="rs-00AN"
+title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
+  direction, <fr:link
 type="local"
-href="rs-00A0.xml"
-addr="rs-00A0"
-title="Lagrange's theorem">Lagrange's theorem</fr:link>. Given an element <fr:tex
-display="inline"><![CDATA[b = ga\in  Ga]]></fr:tex>,
-  identify it with the <fr:link
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
+display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> a regular epi,
+  but note that <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">coset</fr:link> <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>. This is well-defined: if
-  <fr:tex
-display="inline"><![CDATA[b = ga = ha]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[gh^{-1}\in \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>. Moreover, it is <fr:link
-type="local"
-href="rs-000H.xml"
-addr="rs-000H"
-title="Injection">injective</fr:link>: if <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a) =   h\operatorname {stab}_G(a)]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[gh^{-1} \in  \operatorname {stab}_G(a)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[ga = ha]]></fr:tex>. Finally, it
-  is <fr:link
-type="local"
-href="rs-000I.xml"
-addr="rs-000I"
-title="Surjection">surjective</fr:link>: given some <fr:tex
-display="inline"><![CDATA[g\operatorname {stab}_G(a)]]></fr:tex>, it is the image of
-  <fr:tex
-display="inline"><![CDATA[ga\in  Ga]]></fr:tex>.</fr:p>
+href="rs-00AP.xml"
+addr="rs-00AP"
+title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -7,31 +7,17 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>605</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>669</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>The backwards direction is <fr:link
+  <fr:p><fr:link
 type="local"
-href="rs-00AN.xml"
-addr="rs-00AN"
-title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
-  direction, <fr:link
-type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
-display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> a regular epi,
-  but note that <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
-type="local"
-href="rs-00AP.xml"
-addr="rs-00AP"
-title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -47,38 +33,48 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>607</fr:anchor><fr:addr
-type="user">rs-00AV</fr:addr><fr:route>rs-00AV.xml</fr:route><fr:title
-text="Strong epis are regular in regular categories">Strong epis are regular in regular categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>671</fr:anchor><fr:addr
+type="user">rs-00BN</fr:addr><fr:route>rs-00BN.xml</fr:route><fr:title
+text="Additive functors are those that commute with direct sums">Additive functors are those that commute with direct sums</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Borceux</fr:meta><fr:meta
-name="ref-at">Proposition II.2.1.4</fr:meta><fr:meta
-name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Proposition 8.2.15</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="borceux-1994.xml"
-addr="borceux-1994"
-title="Handbook of categorical algebra" />
-<fr:p>In a <fr:link
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A <fr:link
 type="local"
-href="rs-00AM.xml"
-addr="rs-00AM"
-title="Regular category">regular category</fr:link>, a map is a <fr:link
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> <fr:tex
+display="inline"><![CDATA[A\xrightarrow {F} B]]></fr:tex> of <fr:link
 type="local"
-href="rs-00AK.xml"
-addr="rs-00AK"
-title="Strong epimorphism">strong epis</fr:link> iff it is
-a <fr:link
+href="rs-00BM.xml"
+addr="rs-00BM"
+title="Additive category">additive categories</fr:link> is
+<fr:link
 type="local"
-href="rs-00AL.xml"
-addr="rs-00AL"
-title="Regular epimorphism">regular epi</fr:link>.</fr:p>
+href="rs-00BJ.xml"
+addr="rs-00BJ"
+title="Additive functor">additive</fr:link> if and only if it <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> <fr:link
+type="local"
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">direct
+sums</fr:link>.</fr:p>
   
     
     
@@ -89,31 +85,17 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>609</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>673</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>The backwards direction is <fr:link
+  <fr:p><fr:link
 type="local"
-href="rs-00AN.xml"
-addr="rs-00AN"
-title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
-  direction, <fr:link
-type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
-display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> a regular epi,
-  but note that <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
-type="local"
-href="rs-00AP.xml"
-addr="rs-00AP"
-title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

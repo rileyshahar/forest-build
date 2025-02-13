@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>377</fr:anchor><fr:addr
+type="user">pizza-sem-cat-sem</fr:addr><fr:route>pizza-sem-cat-sem.xml</fr:route><fr:title
+text="Categorical semantics, via vibes">Categorical semantics, via vibes</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/pizza-sem-cat-sem.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Pizza Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>You might have heard of "categorical semantics" or "internal logics," or of
+the relationship between topoi and intuitionistic logic, perhaps in Jin and
+Carmine's pizza seminar talks from last semester. You also might not have!
+Regardless, this talk aims to explain the big picture of what these terms mean,
+how they relate, and why non-logicians might care.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

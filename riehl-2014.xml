@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9991</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10905</fr:anchor><fr:addr
 type="user">riehl-2014</fr:addr><fr:route>riehl-2014.xml</fr:route><fr:title
 text="Categorical homotopy theory">Categorical homotopy theory</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/riehl-2014.tree</fr:source-path><fr:date><fr:year>2014</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
 name="isbn">9781107261457</fr:meta><fr:meta
@@ -49,7 +49,294 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9993</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10907</fr:anchor><fr:addr
+type="user">rs-00BX</fr:addr><fr:route>rs-00BX.xml</fr:route><fr:title
+text="Homotopical category">Homotopical category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 2.1.1</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A <fr:em>homotopical category</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> equipped with a
+collection of morphisms <fr:tex
+display="inline"><![CDATA[W]]></fr:tex>, called the <fr:em>weak equivalences</fr:em>, which contains
+the <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> and satisfies the <fr:link
+type="local"
+href="rs-00BY.xml"
+addr="rs-00BY"
+title="Two-of-six property">two-of-six property</fr:link>
+(<fr:link
+type="local"
+href="rs-00C0.xml"
+addr="rs-00C0"
+title="Two-of-six implies two-of-three">hence</fr:link> is closed under composition and so forms a <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">wide
+subcategory</fr:link>). A <fr:em>homotopical functor</fr:em> is a
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> which <fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> weak equivalences; the
+<fr:em>category of homotopical categories</fr:em> is so defined.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10909</fr:anchor><fr:addr
+type="user">rs-00C2</fr:addr><fr:route>rs-00C2.xml</fr:route><fr:title
+text="Isomorphisms satisfy two-of-six">Isomorphisms satisfy two-of-six</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 2.1.4</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>The <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> in any <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> satisfy the
+<fr:link
+type="local"
+href="rs-00BY.xml"
+addr="rs-00BY"
+title="Two-of-six property">two-of-six property</fr:link>, hence form the <fr:em>minimal <fr:link
+type="local"
+href="rs-00BX.xml"
+addr="rs-00BX"
+title="Homotopical category">homotopical
+structure</fr:link></fr:em> on that category.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10911</fr:anchor><fr:addr
+type="user">rs-00C3</fr:addr><fr:route>rs-00C3.xml</fr:route><fr:title
+text="Saturated class of morphisms">Saturated class of morphisms</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C3.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Remark 2.1.9</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A class of morphisms <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> is <fr:em>saturated</fr:em> if it <fr:link
+type="local"
+href="rs-001L.xml"
+addr="rs-001L"
+title="Creation of a property">creates</fr:link> <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> under
+<fr:link
+type="local"
+href="rs-00AZ.xml"
+addr="rs-00AZ"
+title="Localization of a category">localization</fr:link> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {Q} C[S^{-1}]]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10913</fr:anchor><fr:addr
+type="user">rs-00C4</fr:addr><fr:route>rs-00C4.xml</fr:route><fr:title
+text="Saturated morphisms satisfy two-of-six">Saturated morphisms satisfy two-of-six</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C4.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Lemma 2.1.10</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>Any <fr:link
+type="local"
+href="rs-00C3.xml"
+addr="rs-00C3"
+title="Saturated class of morphisms">saturated</fr:link> class of morphisms <fr:tex
+display="inline"><![CDATA[W]]></fr:tex> satisfies
+<fr:link
+type="local"
+href="rs-00BY.xml"
+addr="rs-00BY"
+title="Two-of-six property">two-of-six</fr:link>, hence forms a <fr:link
+type="local"
+href="rs-00BX.xml"
+addr="rs-00BX"
+title="Homotopical category">homotopical category</fr:link>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>398</fr:anchor><fr:addr
+type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C4.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:link
+type="local"
+href="rs-00C2.xml"
+addr="rs-00C2"
+title="Isomorphisms satisfy two-of-six">The isomorphisms satisfy two-of-six</fr:link> and are <fr:link
+type="local"
+href="rs-001L.xml"
+addr="rs-001L"
+title="Creation of a property">created</fr:link> by <fr:tex
+display="inline"><![CDATA[W]]></fr:tex>.
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10915</fr:anchor><fr:addr
+type="user">rs-00BY</fr:addr><fr:route>rs-00BY.xml</fr:route><fr:title
+text="Two-of-six property">Two-of-six property</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 2.1.1</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A collection of morphisms <fr:tex
+display="inline"><![CDATA[W]]></fr:tex> in a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> satisfy the
+<fr:em>two-of-six property</fr:em> if, for any composable triple <fr:tex
+display="inline"><![CDATA[\bullet \xrightarrow {f} \bullet \xrightarrow {g} \bullet \xrightarrow {h} \bullet ]]></fr:tex>, if <fr:tex
+display="inline"><![CDATA[gf\in  W]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[hg\inW ]]></fr:tex>, then so
+are <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[g]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[h]]></fr:tex>, and <fr:tex
+display="inline"><![CDATA[hgf]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10917</fr:anchor><fr:addr
+type="user">rs-00BZ</fr:addr><fr:route>rs-00BZ.xml</fr:route><fr:title
+text="Two-of-three property">Two-of-three property</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BZ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Remark 2.1.3</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A collection of morphisms <fr:tex
+display="inline"><![CDATA[W]]></fr:tex> in a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> satisfy the
+<fr:em>two-of-three property</fr:em> if, for any composable pair <fr:tex
+display="inline"><![CDATA[\bullet \xrightarrow {f} \bullet \xrightarrow {g} \bullet ]]></fr:tex>, then whenever two of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[g]]></fr:tex>, and <fr:tex
+display="inline"><![CDATA[gf]]></fr:tex> are in
+<fr:tex
+display="inline"><![CDATA[W]]></fr:tex>, so is the third.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10919</fr:anchor><fr:addr
 type="user">rs-00AH</fr:addr><fr:route>rs-00AH.xml</fr:route><fr:title
 text="Orthogonal class">Orthogonal class</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AH.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -91,7 +378,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9995</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10921</fr:anchor><fr:addr
 type="user">rs-00AD</fr:addr><fr:route>rs-00AD.xml</fr:route><fr:title
 text="Weak lifting property">Weak lifting property</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AD.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -212,7 +499,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9997</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10923</fr:anchor><fr:addr
 type="user">rs-00AI</fr:addr><fr:route>rs-00AI.xml</fr:route><fr:title
 text="Weak factorization system">Weak factorization system</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AI.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -261,7 +548,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9999</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10925</fr:anchor><fr:addr
 type="user">rs-00AE</fr:addr><fr:route>rs-00AE.xml</fr:route><fr:title
 text="Weakly orthogonal class">Weakly orthogonal class</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AE.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -303,7 +590,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10001</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10927</fr:anchor><fr:addr
 type="user">rs-00AC</fr:addr><fr:route>rs-00AC.xml</fr:route><fr:title
 text="Lifting problem">Lifting problem</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AC.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -415,7 +702,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10003</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10929</fr:anchor><fr:addr
 type="user">rs-00A7</fr:addr><fr:route>rs-00A7.xml</fr:route><fr:title
 text="Copower">Copower</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A7.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

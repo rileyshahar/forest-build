@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2672</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3462</fr:anchor><fr:addr
 type="user">rs-007Y</fr:addr><fr:route>rs-007Y.xml</fr:route><fr:title
 text="Abelian group">Abelian group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Y.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -31,7 +31,9 @@ title="Commutative binary operation">commutative</fr:link> <fr:link
 type="local"
 href="rs-007X.xml"
 addr="rs-007X"
-title="Group">group</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+title="Group">group</fr:link>. Its
+operation is generally written additively, <fr:tex
+display="inline"><![CDATA[a + b]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -46,7 +48,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2674</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3464</fr:anchor><fr:addr
 type="user">rs-007T</fr:addr><fr:route>rs-007T.xml</fr:route><fr:title
 text="Algebraic structures">Algebraic structures</fr:title><fr:taxon>List</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
@@ -59,8 +61,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2676</fr:anchor><fr:addr
-type="machine">#273</fr:addr><fr:route>unstable-273.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1108</fr:anchor><fr:addr
+type="machine">#283</fr:addr><fr:route>unstable-283.xml</fr:route><fr:title
 text="Binary operations">Binary operations</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -72,7 +74,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2678</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1110</fr:anchor><fr:addr
 type="user">rs-007N</fr:addr><fr:route>rs-007N.xml</fr:route><fr:title
 text="Operation">Operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -101,7 +103,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2680</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1112</fr:anchor><fr:addr
 type="user">rs-007P</fr:addr><fr:route>rs-007P.xml</fr:route><fr:title
 text="Associative binary operation">Associative binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -121,7 +123,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2682</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1114</fr:anchor><fr:addr
 type="user">rs-007O</fr:addr><fr:route>rs-007O.xml</fr:route><fr:title
 text="Commutative binary operation">Commutative binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -141,7 +143,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2684</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1116</fr:anchor><fr:addr
 type="user">rs-007R</fr:addr><fr:route>rs-007R.xml</fr:route><fr:title
 text="Cancellable binary operation">Cancellable binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -174,7 +176,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2686</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1118</fr:anchor><fr:addr
 type="user">rs-007Q</fr:addr><fr:route>rs-007Q.xml</fr:route><fr:title
 text="Identity for a binary operation">Identity for a binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -197,7 +199,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2688</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1120</fr:anchor><fr:addr
 type="user">rs-007S</fr:addr><fr:route>rs-007S.xml</fr:route><fr:title
 text="Distributive binary operation">Distributive binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -223,8 +225,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2690</fr:anchor><fr:addr
-type="machine">#274</fr:addr><fr:route>unstable-274.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1122</fr:anchor><fr:addr
+type="machine">#284</fr:addr><fr:route>unstable-284.xml</fr:route><fr:title
 text="Group-like structures">Group-like structures</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -255,7 +257,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2692</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1124</fr:anchor><fr:addr
 type="user">rs-007U</fr:addr><fr:route>rs-007U.xml</fr:route><fr:title
 text="Magma">Magma</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -277,7 +279,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2694</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1126</fr:anchor><fr:addr
 type="user">rs-007V</fr:addr><fr:route>rs-007V.xml</fr:route><fr:title
 text="Semigroup">Semigroup</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -298,7 +300,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2696</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1128</fr:anchor><fr:addr
 type="user">rs-007W</fr:addr><fr:route>rs-007W.xml</fr:route><fr:title
 text="Monoid">Monoid</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007W.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -337,7 +339,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2698</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1130</fr:anchor><fr:addr
 type="user">rs-007X</fr:addr><fr:route>rs-007X.xml</fr:route><fr:title
 text="Group">Group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -383,7 +385,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2700</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1132</fr:anchor><fr:addr
 type="user">rs-007Y</fr:addr><fr:route>rs-007Y.xml</fr:route><fr:title
 text="Abelian group">Abelian group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Y.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -407,7 +409,72 @@ title="Commutative binary operation">commutative</fr:link> <fr:link
 type="local"
 href="rs-007X.xml"
 addr="rs-007X"
-title="Group">group</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Group">group</fr:link>. Its
+operation is generally written additively, <fr:tex
+display="inline"><![CDATA[a + b]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1134</fr:anchor><fr:addr
+type="machine">#285</fr:addr><fr:route>unstable-285.xml</fr:route><fr:title
+text="Ring-like structures">Ring-like structures</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1136</fr:anchor><fr:addr
+type="user">rs-00B6</fr:addr><fr:route>rs-00B6.xml</fr:route><fr:title
+text="Ring">Ring</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B6.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definitoin III.1.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>ring</fr:em> is an <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[(R, +)]]></fr:tex> together with a
+<fr:link
+type="local"
+href="rs-007W.xml"
+addr="rs-007W"
+title="Monoid">monoid</fr:link> <fr:tex
+display="inline"><![CDATA[(R, \cdot )]]></fr:tex> satisfying the (two-sided) <fr:link
+type="local"
+href="rs-007S.xml"
+addr="rs-007S"
+title="Distributive binary operation">distributive law</fr:link>
+<fr:tex
+display="block"><![CDATA[r(s + t) = rs + rt\quad \text {and}\quad  (s + t)r = sr + tr.]]></fr:tex></fr:p><fr:p>A <fr:em>ring homomorphism</fr:em> is an <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">additive homomorphism</fr:link> that
+preserves multiplication and the unit; the <fr:em>category of rings</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ring</html:span> is
+the category of rings and ring homomorphisms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -422,7 +489,276 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2702</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3466</fr:anchor><fr:addr
+type="user">rs-00BE</fr:addr><fr:route>rs-00BE.xml</fr:route><fr:title
+text="Abelian groups as {Z}-modules">Abelian groups as <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex>-modules</fr:title><fr:taxon>Connection</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BE.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Since <fr:link
+type="local"
+href="rs-00BC.xml"
+addr="rs-00BC"
+title="The ring of integers"><fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> is the initial ring</fr:link>, there is a unique ring
+homomorphism from <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> to <fr:link
+type="local"
+href="rs-00B7.xml"
+addr="rs-00B7"
+title="Endomorphisms of an abelian group form a ring"><fr:tex
+display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex></fr:link> for any <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian
+group</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. This defines an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> of
+<fr:link
+type="local"
+href="rs-002V.xml"
+addr="rs-002V"
+title="Category of categories">categories</fr:link> <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ab</html:span></fr:link> <fr:tex
+display="inline"><![CDATA[\cong ]]></fr:tex> <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Mod</html:span>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3468</fr:anchor><fr:addr
+type="user">rs-00BI</fr:addr><fr:route>rs-00BI.xml</fr:route><fr:title
+text="Preadditive category">Preadditive category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BI.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Definition 8.2.1</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A <fr:em>preadditive category</fr:em> is a category <fr:link
+type="local"
+href="rs-00AR.xml"
+addr="rs-00AR"
+title="Enriched category">enriched</fr:link> in <fr:link
+type="local"
+href="rs-00BE.xml"
+addr="rs-00BE"
+title="Abelian groups as {Z}-modules">abelian
+groups</fr:link> with their <fr:link
+type="local"
+href="rs-00BH.xml"
+addr="rs-00BH"
+title="Closed symmetric monoidal structure on modules">tensor product</fr:link>. Explicitly, this means
+it is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> such that each hom-set is an <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian
+group</fr:link> and composition is <fr:link
+type="local"
+href="rs-00B3.xml"
+addr="rs-00B3"
+title="Bilinear map of modules">bilinear</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3470</fr:anchor><fr:addr
+type="user">rs-00BD</fr:addr><fr:route>rs-00BD.xml</fr:route><fr:title
+text="Direct sum of modules">Direct sum of modules</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BD.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Section III.6.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>The <fr:em>direct sum</fr:em> <fr:tex
+display="inline"><![CDATA[M\oplus  N]]></fr:tex> of two <fr:link
+type="local"
+href="rs-00B8.xml"
+addr="rs-00B8"
+title="Module of a ring"><fr:tex
+display="inline"><![CDATA[R]]></fr:tex>-modules</fr:link> <fr:tex
+display="inline"><![CDATA[M]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[N]]></fr:tex>
+is the <fr:link
+type="local"
+href="rs-00B2.xml"
+addr="rs-00B2"
+title="Biproduct">biproduct</fr:link> in <fr:tex
+display="inline"><![CDATA[R]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Mod</html:span>. Explicitly, the underlying
+<fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian group</fr:link> is the <fr:link
+type="local"
+href="rs-009H.xml"
+addr="rs-009H"
+title="Product group">product</fr:link>, with <fr:tex
+display="inline"><![CDATA[R]]></fr:tex>-action
+componentwise: <fr:tex
+display="block"><![CDATA[r(m, n) = (rm, rn).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3472</fr:anchor><fr:addr
+type="user">rs-00B8</fr:addr><fr:route>rs-00B8.xml</fr:route><fr:title
+text="Module of a ring">Module of a ring</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition III.5.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A (left-) <fr:em>module</fr:em> of a <fr:link
+type="local"
+href="rs-00B8.xml"
+addr="rs-00B8"
+title="Module of a ring">ring</fr:link> <fr:tex
+display="inline"><![CDATA[R]]></fr:tex> is an <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[M]]></fr:tex>
+together with a homomorphism from <fr:tex
+display="inline"><![CDATA[R]]></fr:tex> to the <fr:link
+type="local"
+href="rs-00B7.xml"
+addr="rs-00B7"
+title="Endomorphisms of an abelian group form a ring">endomorphism ring</fr:link> of
+<fr:tex
+display="inline"><![CDATA[M]]></fr:tex>. By <fr:link
+type="local"
+href="rs-009N.xml"
+addr="rs-009N"
+title="Set is cartesian closed">uncurrying</fr:link>, this is equivalently a map <fr:tex
+display="inline"><![CDATA[R\times  A\to  A]]></fr:tex> so
+that:
+
+<fr:tex
+display="block"><![CDATA[   r(a + b) = ra + rb,\quad    (r + s)a = ra + sa,\quad    (rs)a = r(sa),\quad \text {and}\quad    1a = a. ]]></fr:tex></fr:p><fr:p>A <fr:em>module homomorphism</fr:em> is a <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">group homomorphism</fr:link> that commutes
+with the action, in that <fr:tex
+display="block"><![CDATA[rf(a) = f(ra);]]></fr:tex> the <fr:em>category of (left-)
+<fr:tex
+display="inline"><![CDATA[R]]></fr:tex>-modules</fr:em> <fr:tex
+display="inline"><![CDATA[R]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Mod</html:span> is the category of modules and homomorphisms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3474</fr:anchor><fr:addr
+type="user">rs-00B6</fr:addr><fr:route>rs-00B6.xml</fr:route><fr:title
+text="Ring">Ring</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B6.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definitoin III.1.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>ring</fr:em> is an <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[(R, +)]]></fr:tex> together with a
+<fr:link
+type="local"
+href="rs-007W.xml"
+addr="rs-007W"
+title="Monoid">monoid</fr:link> <fr:tex
+display="inline"><![CDATA[(R, \cdot )]]></fr:tex> satisfying the (two-sided) <fr:link
+type="local"
+href="rs-007S.xml"
+addr="rs-007S"
+title="Distributive binary operation">distributive law</fr:link>
+<fr:tex
+display="block"><![CDATA[r(s + t) = rs + rt\quad \text {and}\quad  (s + t)r = sr + tr.]]></fr:tex></fr:p><fr:p>A <fr:em>ring homomorphism</fr:em> is an <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">additive homomorphism</fr:link> that
+preserves multiplication and the unit; the <fr:em>category of rings</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ring</html:span> is
+the category of rings and ring homomorphisms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3476</fr:anchor><fr:addr
 type="user">rs-00B1</fr:addr><fr:route>rs-00B1.xml</fr:route><fr:title
 text="Category of abelian groups">Category of abelian groups</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B1.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -475,7 +811,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2704</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3478</fr:anchor><fr:addr
 type="user">rs-007O</fr:addr><fr:route>rs-007O.xml</fr:route><fr:title
 text="Commutative binary operation">Commutative binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -495,7 +831,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2706</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3480</fr:anchor><fr:addr
 type="user">rs-007X</fr:addr><fr:route>rs-007X.xml</fr:route><fr:title
 text="Group">Group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"

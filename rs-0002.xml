@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9515</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10411</fr:anchor><fr:addr
 type="user">rs-0002</fr:addr><fr:route>rs-0002.xml</fr:route><fr:title
 text="Isomorphism">Isomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0002.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -207,7 +207,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9517</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10413</fr:anchor><fr:addr
 type="user">riehl-2017</fr:addr><fr:route>riehl-2017.xml</fr:route><fr:title
 text="Category theory in context">Category theory in context</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/riehl-2017.tree</fr:source-path><fr:date><fr:year>2017</fr:year></fr:date><fr:authors><fr:author>Emily Riehl</fr:author></fr:authors><fr:meta
 name="isbn">9780486820804</fr:meta><fr:meta
@@ -240,7 +240,423 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9519</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10415</fr:anchor><fr:addr
+type="user">rs-00BX</fr:addr><fr:route>rs-00BX.xml</fr:route><fr:title
+text="Homotopical category">Homotopical category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 2.1.1</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A <fr:em>homotopical category</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> equipped with a
+collection of morphisms <fr:tex
+display="inline"><![CDATA[W]]></fr:tex>, called the <fr:em>weak equivalences</fr:em>, which contains
+the <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> and satisfies the <fr:link
+type="local"
+href="rs-00BY.xml"
+addr="rs-00BY"
+title="Two-of-six property">two-of-six property</fr:link>
+(<fr:link
+type="local"
+href="rs-00C0.xml"
+addr="rs-00C0"
+title="Two-of-six implies two-of-three">hence</fr:link> is closed under composition and so forms a <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">wide
+subcategory</fr:link>). A <fr:em>homotopical functor</fr:em> is a
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> which <fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> weak equivalences; the
+<fr:em>category of homotopical categories</fr:em> is so defined.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10417</fr:anchor><fr:addr
+type="user">rs-00C2</fr:addr><fr:route>rs-00C2.xml</fr:route><fr:title
+text="Isomorphisms satisfy two-of-six">Isomorphisms satisfy two-of-six</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 2.1.4</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>The <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> in any <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> satisfy the
+<fr:link
+type="local"
+href="rs-00BY.xml"
+addr="rs-00BY"
+title="Two-of-six property">two-of-six property</fr:link>, hence form the <fr:em>minimal <fr:link
+type="local"
+href="rs-00BX.xml"
+addr="rs-00BX"
+title="Homotopical category">homotopical
+structure</fr:link></fr:em> on that category.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10419</fr:anchor><fr:addr
+type="user">rs-00C3</fr:addr><fr:route>rs-00C3.xml</fr:route><fr:title
+text="Saturated class of morphisms">Saturated class of morphisms</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C3.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Remark 2.1.9</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A class of morphisms <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> is <fr:em>saturated</fr:em> if it <fr:link
+type="local"
+href="rs-001L.xml"
+addr="rs-001L"
+title="Creation of a property">creates</fr:link> <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> under
+<fr:link
+type="local"
+href="rs-00AZ.xml"
+addr="rs-00AZ"
+title="Localization of a category">localization</fr:link> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {Q} C[S^{-1}]]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10421</fr:anchor><fr:addr
+type="user">rs-00BS</fr:addr><fr:route>rs-00BS.xml</fr:route><fr:title
+text="Abelian category">Abelian category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BS.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Definition 8.3.5</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A <fr:link
+type="local"
+href="rs-00BR.xml"
+addr="rs-00BR"
+title="Preabelian category">preabelian category</fr:link> is <fr:em>abelian</fr:em> if every morphism is
+<fr:link
+type="local"
+href="rs-00BQ.xml"
+addr="rs-00BQ"
+title="Strict morphism">strict</fr:link>, i.e. if the <fr:link
+type="local"
+href="rs-00BP.xml"
+addr="rs-00BP"
+title="Images and kernels">natural map from its coimage to its
+image</fr:link> is an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10423</fr:anchor><fr:addr
+type="user">rs-00BP</fr:addr><fr:route>rs-00BP.xml</fr:route><fr:title
+text="Images and kernels">Images and kernels</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BP.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Proposition 8.3.4</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> be a map in a category with <fr:link
+type="local"
+href="rs-005D.xml"
+addr="rs-005D"
+title="Zero object">zero</fr:link>. Then the
+<fr:link
+type="local"
+href="rs-00AT.xml"
+addr="rs-00AT"
+title="Regular image">image</fr:link> of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphic</fr:link> to the <fr:link
+type="local"
+href="rs-009G.xml"
+addr="rs-009G"
+title="Kernel">kernel</fr:link> of the
+cokernel of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>. Dually, the coimage of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is isomorphic to the cokernel of
+the kernel of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>.</fr:p><fr:p>In particular, there is a <fr:link
+type="local"
+href="rs-0034.xml"
+addr="rs-0034"
+title="Comparison of limits and colimits">natural map</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname {coim}{f}\to \operatorname {im}{f}]]></fr:tex> making
+the square
+
+ 
+  
+  <fr:figure><fr:resource
+hash="bf91e6945edf637b3e8a86afa51335a2"><fr:resource-content><fr:img
+src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuNC4yIC0tPgo8c3ZnIHZlcnNpb249JzEuMScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9JzEzMS43NTU5MDVwdCcgaGVpZ2h0PSc3OS4yNjMxMzhwdCcgdmlld0JveD0nLTcyIC03MiA4Ny44MzcyNyA1Mi44NDIwOTInPgo8c3R5bGUgdHlwZT0ndGV4dC9jc3MnPgo8IVtDREFUQVtAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtbWk3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFOOEFBb0FBQUFBQS9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVNQUFBQmdoWUYweTJOdFlYQUFBQUU0QUFBQUtRQUFBRFFBREFDNVoyeDVaZ0FBQVdRQUFBREVBQUFBekpocTk1MW9aV0ZrQUFBQ0tBQUFBQ2tBQUFBMllkMUMvV2hvWldFQUFBSlVBQUFBSUFBQUFDUUZ1QUdaYUcxMGVBQUFBblFBQUFBSUFBQUFDQVVBQUV0c2IyTmhBQUFDZkFBQUFBWUFBQUFHQUdZQUFHMWhlSEFBQUFLRUFBQUFGd0FBQUNBQUJBQkNibUZ0WlFBQUFwd0FBQURQQUFBQk9QTmpLcVZ3YjNOMEFBQURiQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm1hbUNjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0FFakF4SklLUzVMQjBxbU1hUXhNL3dIOHBraDBraHEvZ09GQWR3MERUd0FlTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHQlNBTkFzUWd2aHAvLzlEeVArendYd0dBRldnQnNJQUFBQjQya1hKc1U3Q1FCZ0g4UHZmTmRlQ1NiOEM5aG94dHRLcjMrbWdSR3BLUWt4QjNhd0xVK1BFenNNNE9iRHlMcjZBRDhNSzRzVDYrd21JNWpDV2Eva3JGa0pBRWJRZndzL1oxU2hOWXJSdk10U1lLNnU1U3NvYTA2TlBUQkxDc3VOcXltT0VrbEJXUmp0c1o1RVhEVHN2ajdjem9JaFpnVElpS2ticTZvRStVam1nSmNXaGViVjN6NEExeDQ5U29uNC83UWJEMVgvamUvL3ozbHM4bmI4cHR1bTFMTFE3NjBoNFRielp0U3IzMFg1ZU9yNHBUb1VMdnYveThnQkNpRDkwaXhxR2VOcGpZR1JnWUFEaUZYZHVpOGZ6MjN4bFlHWmh3QVQvOVptT01WMEVNamdZbUVCOEFOYllCdklBQUFCNDJtTmdaR0JnWnZqUHdNREFkSXpCKy84RnBpd0dvQWdLWUFJQVorTUVWUUxHQUFBQ09nQkxBQUFBQUFCbUFBQjQybU5nWkdCZ1lHSndaQURSREZBU0NRQUFCdllBUndCNDJrMk1PMi9DTUJSR1QwU0NSRHF3b0E0TXhRTnp4Q01TV3hjR0psWW1Gc0F1eW1BYk9TRVNVdFd4djdzWDQ2Rlg4dFg1SHRkQXlROFp6OGtZeC8yY25FTFVpd3ZlbUNRZWlwb2xMcGt5WjBDV2o4VDU0RE54THNreGNjRTdYNG1ING44bkxxbjUzWHA3dTNjbXFMM1hKcmlMdGMzbVlFTGJlS2VXMVNMcW5YRW1uRHFqMWZtaGROKzAvZFdxZFZWWEs3WjRMRGZ1ZEJnQ2lyMDRPckxqSXBtbFljTWhPcTJ3RjEreHBHTHhMOTlKN21MbkZIL1Mwam56a0szcHBkSEt2a3BYc1piTFd0N3FEODB6TC8wQWVOcGpZR1pBQm93TWFBQUFBSTRBQlE9PSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtcjEwO3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFTa0FBb0FBQUFBQlhRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVNQUFBQmdoWDUwZUdOdFlYQUFBQUU0QUFBQU93QUFBRXdBK2dFK1oyeDVaZ0FBQVhRQUFBSFBBQUFDS0tEbkNzMW9aV0ZrQUFBRFJBQUFBQ2tBQUFBMllsaERuMmhvWldFQUFBTndBQUFBSGdBQUFDUUdZQUp2YUcxMGVBQUFBNUFBQUFBVUFBQUFGQXE0QUlOc2IyTmhBQUFEcEFBQUFBd0FBQUFNQVI0QmhtMWhlSEFBQUFPd0FBQUFHQUFBQUNBQUNBQkdibUZ0WlFBQUE4Z0FBQURQQUFBQk9JTGxLcXR3YjNOMEFBQUVtQUFBQUF3QUFBQWdBQU1BQUhqYVkyQm1VbUdjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0FFakF4SklLUzVMQjBvbU0rUXpNL3dIOHBraDBraHEvZ09GQWJ0d0RPWUFlTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHQ3lBTkJjREIxQ09pU0daSVpNaGx5SC8vMytnR0p6OWY5Ny9tZituL1o4SzFnRUZBRjRMRGk4QWVOcDFrVTFyRTFFVWhzOTc3M1FtelJlZGhybHB0SE1ubVpDWm1Fd21NUjh6cURTYVdHcGJ3USswTzdXUzZrb1hTb3FJSUNYZCtMRVMvQmVDUzNmaVNuRWgvZ0lYU24rQU81ZFdiOVRpUXVUQTVkejN3am5QZTE4Q2xYOTh3d3Q4b0NwUkxCeUlXRVJ4MU1sTEdMcXFFSDRmY1Z2a2RjUHp2U2dPWVhpR2ZsOXJ6RFRyenZrRlpCSWF5eWRONzlLVmg1dzlHQzFkWXp4b2NPUWNlV1kyYUlTZjc0VXpOY2FxSzBrd3N6NC9WOVBZN28zUkUzNjgyNFJXVHhXMXcybXdJQ1JpNUJMUmQvYVM1cWhBbEROMUVWdSswUk9SYjBhZTBZdXpDTkh0UTd4aWhhTzM3clFkd0c0OWgyelpka3ZpM2Y1ajIwU1I4eUt5SmVRcUZwdzNCUnRPclFSSkJDb1I4UUhlMDdLYS9HdWFwVXhGSXE5T2lhbFZTK0pnWFMveWZGYzNyTDhBL3lwM21ldytFMnZIdkkxTWV2VlVFQ1ZGQ3ZDcjQrMHBsMngyTmhpYzluaTdJeFZscy92N05wNitYYThJT09uYnJSTmczcUE0NUZqSUhCb08zb3JaQS9pdmpkUHM4b1hYcGV4L2hlbGYyU3F6UFpWWmF1cXNrc1dmbUNSNHU4OThoZXVWRlhBV2VWMG9kOWpqazgycnU1enRqRFluWC95K2F3Q0pYTEJhUENuTWhHcm54ZEtuclFsak96ZTNubkwrYVAvamtaWDFSZWVjTzNUZDhsbG44V0s1N1A0RXd4NVpIUUI0Mm1OZ1pHQmdBT0wwT3d2UHgvUGJmR1ZnWm1IQUJQKy9NanN5clFVeU9CaVlRSHdBNDNVSFRRQUFBSGphWTJCa1lHQm0rTThBSkVNWlpCbEVtQjBaZ0NJb2dCVUFNSWdCMXdBQUFvQUFBQUhIQUNNQkhBQWlBMVVBSVFJQUFCMEFBQUFBQUVRQWNnRGFBUlI0Mm1OZ1pHQmdZR1Z3WldCaUFBRkdCalFBQUFmQ0FFOTQya1dNUFUvRE1CUkZUMFJTaVRDd0lBWUc4TUFjSlcxbmxnNmR1blppYVd1M3loQ25jdEpJbFJBanY1dGJZNGtuK2VuY2oyZWc1SnVNMjJROHhuMmJuRUxxandzZWVFbzhrM3BMWFBMQ08zZGsrYjJjVno0UzUwbytFeGM4YzB3OGsvK1Z1R1RKejZydnpwZlJCYlBwclF2KzBJV20zcm93dEwwM1RWVkh2WGJlaGQzb3JObGZqWjNhWVRwMVpsRXRxemtyZWpyT1hCaHhCQXdiT1RheTU2QXMwRkN6amM1QXE5U3IxVkRKL2MvWHluM3M3T0pQVnAwOVYyM0xwS3RCKzZTMllhSExwZDc4RjJUUEx4VUFlTnBqWUdiQUN3QUFmUUFFKSBmb3JtYXQoJ3dvZmYnKTt9CkBmb250LWZhY2V7Zm9udC1mYW1pbHk6Y21taTEwO3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFVWUFBb0FBQUFBQmdRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVNQUFBQmdoWUYwaUdOdFlYQUFBQUU0QUFBQU5RQUFBRHdBblFDeFoyeDVaZ0FBQVhBQUFBSkhBQUFDeFB3ZHFBUm9aV0ZrQUFBRHVBQUFBQ2tBQUFBMllZMUMvMmhvWldFQUFBUGtBQUFBSUFBQUFDUUZWZ0U3YUcxMGVBQUFCQVFBQUFBUUFBQUFFQWlxQUhKc2IyTmhBQUFFRkFBQUFBb0FBQUFLQWNnQTdtMWhlSEFBQUFRZ0FBQUFGd0FBQUNBQUJnQmFibUZ0WlFBQUJEZ0FBQURVQUFBQlBwa1RkY2x3YjNOMEFBQUZEQUFBQUF3QUFBQWdBQU1BQUhqYVkyQm0wbUtjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4d0FFakF4SklLUzVMQjBxbU1WUXlNL3dIOHBraDBraHEvZ09GQWI4ZERQa0FlTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHRFNBTkJ1UVpnVEtwakZVL3Y4UDVLY3hWUHovLzMvMi95NndLaUFBQUpyWkNVZ0FBQUI0MmlXUnpXN1RRQnpFUFd2SGJoTGI2emhlTzYyL2tqaTEwNVk2anBQWWFkV21WVnBBZkJSS0pSQ2NFUmRPU0FoRTc2Z25ybHg0RThRWm5vQW5RWUpqeXpyVnJyVGFuZFZmODVzUklCUTNLWm1SMzhLeElFQ2trQlVkU2o5T0Zwamt0bVBMU29CeWdiSWR5ZFBDbVJ4aEFZZS82NGo0bjdnb1V5aXlJbE15S1d3NXdhZUZYcU9PZnJEZExZQ0lVUWJpUklZdkpiRjZkdUliOUY2bnNmN0U3UlVFZlVadG9OT2xvZFNqdFRXVlBYZGhVSHk3L25IU1BoeUhTektJL0s1cGFyR2t5UkRmbmVHcjZNdTRIRDdNU0RSWUtadTFTZ20xZVA1QjlCUUkzTDRRM1B3bEhuNEpML21Gb3pBclFGRVdFOGRtVm1WVFNaRlV4d3F2ekcxTFZ1eVFFM0hBR1FlSnVUWkNuRXpMb2xxMnc1V2lZazB4bXhabFBJTE1oK0pGcEVrYmV4Y3VOS1VXTkkydFpWbzJpT3ZsZzMyQ3NLT3VlMjNEYVBjbnF1K1N6WmI3ekNkTnBZYWdhUTZYblNXckYzZjhZeEdEcE8zWkxXcmxkbzFoOW1YR0RIY283ajFWUWRhc3NkVWFTUmdGamJBbjlmb2JQUmpidnRRZ0JQdloyL2YyamdzeVAxY0JvbGg1dTVWSkNNWldLU0pJUWc5TXM3cFNuUkJwcTdGem0wZUtmL2dwUEtpNjViMm00Q1d1a0pMYld2bm0wQnk1SXI2TmdGZWJwRmhGRUlEeGlHUW1WMUVjaVlXVE93eC9YanRYRjluQnBsWG5UaEtINXRwZ2JnVmVmZWNnZTBTOFVCZlJVdHpTRm1WRmtXQTJ6ZTQ4MlYzVHBuRGp5YUdZTXQwMFhSRlgxNWV2UGhLTUg0ZUE3dmllNkZOZzRHNmREWGVCOHJULzVqd2NkaHJBM24xVkJqR3lqUTZQSkl1b0YzNis2MCtKZEVxL1g1UTIzQWF2L1Q5VExsYUdBSGphWTJCa1lHQUE0aDZiU3l2aitXMitNakN6TUdDQy8zcE1aVXhYZ0F3T0JpWVFId0RJckFaeEFBQUFlTnBqWUdSZ1lHYjR6OERBd0ZUR0lQZi9BSk1wQTFBRUJiQUFBRmJMQTVVQ2RnQUFBZlVBTmdKSkFCNEI5Z0FlQUFBQUFBQm1BTzRCWWdBQWVOcGpZR1JnWUdCaGlHUUEwUXhRRWdrQUFBbUVBR0VBZU5wTmpyRnV3akFVUlUvVUVLa0JpYWtkT2xTZU9rWUo1QU1xTVRDeE1pSUJ0bEFxMlVaT2lNU0MrZ0g5NkQ2TUI1N2xwK1B6cmkwREpUY3k3cFV4ai8xZU9ZV2NIanhoeWx2aVFwWktYUExCRnk5aythdVlUNzRUNTh6WUpaN3d6ay9pUXZ4djRwS1d2NVczNTh0Z2d0cDRiWUk3V3RzMTlkYUV2dk5PTlZYOUVHdmpUTmdQUnF2RFZlbXg2OGVUVmN1cXJSYXM4RmpPWEJnd0JQblpSb3lPN0RqS3pOTFJVTE9OcnBlVGw0a1NWNGw5VHF3bDRXSnFIMS9Ua2pwd2xhNFpKZE5MUDBsYXNaUzdyZXpGUCtHU01NRjQybU5nWnNBTEFBQjlBQVE9KSBmb3JtYXQoJ3dvZmYnKTt9CnRleHQuZjAge2ZvbnQtZmFtaWx5OmNtbWkxMDtmb250LXNpemU6OS45NjI2NHB4fQp0ZXh0LmYxIHtmb250LWZhbWlseTpjbW1pNztmb250LXNpemU6Ni45NzM4NDhweH0KdGV4dC5mMiB7Zm9udC1mYW1pbHk6Y21yMTA7Zm9udC1zaXplOjkuOTYyNjRweH0KXV0+Cjwvc3R5bGU+CjxnIGlkPSdwYWdlMSc+CjxnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTI4LjA4MTM3MSwtNDIuOTU3NTYxKXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyBmaWxsPScjMDAwJyBzdHJva2U9JyMwMDAnPgo8ZyBzdHJva2Utd2lkdGg9JzAuNCc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC00NC4wODMzMywtMTguMjg0NzQpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC0yOC4wODEzNzEsLTQyLjk1NzU2MSlzY2FsZSgtMSwtMSknPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTkuNzQ3MzM3LC03Ny4wMzgxMzMpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0yLjg1NzY0LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTkuNzQ3MzM3LC03Ny4wMzgxMzMpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nLTkuNzQ3MzM3JyB5PSctNzcuMDM4MTMzJz54PC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDQ2LjEyNjQ0OSwtNzcuMDM4MTMzKXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMi42MzA4LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoNDYuMTI2NDQ5LC03Ny4wMzgxMzMpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nNDYuMTI2NDQ5JyB5PSctNzcuMDM4MTMzJz55PC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC05Ljc0NzMzNywtNDIuOTU3NTYxKXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMTQuMDk3MjQsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtOS43NDczMzcsLTQyLjk1NzU2MSlzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YyJyB4PSctOS43NDczMzcnIHk9Jy00Mi45NTc1NjEnPmNvaW08L3RleHQ+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nMTIuMzkxODcnIHk9Jy00Mi45NTc1NjEnPmY8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoNDYuMTI2NDQ5LC00Mi45NTc1NjEpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC05LjM3NTAyLDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoNDYuMTI2NDQ5LC00Mi45NTc1NjEpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nNDYuMTI2NDQ5JyB5PSctNDIuOTU3NTYxJz5pbTwvdGV4dD4KPHRleHQgY2xhc3M9J2YwJyB4PSc1OC44NTY0ODInIHk9Jy00Mi45NTc1NjEnPmY8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTS0xOC4zMTczNyAxOC40MjM2M0gyMi44NjY0NycgZmlsbD0nbm9uZScvPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgyMy4wNjY0NSwxOC40MjM2MyknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgwLjEzMjQ5LDIyLjEzNzQ4KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMjguMDgxMzcxLC00Mi45NTc1NjEpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMScgeD0nLTI4LjA4MTM3MScgeT0nLTQyLjk1NzU2MSc+ZjwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00tMjUuNjgwNTQgMTIuMDYzOVYtNy4wODA2MScgZmlsbD0nbm9uZScvPgo8ZyB0cmFuc2Zvcm09J21hdHJpeCgwLjAsLTEuMCwxLjAsMC4wLC0yNS42ODA1NCwtNS44NDA2OCknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J21hdHJpeCgwLjAsLTEuMCwxLjAsMC4wLC0yNS42ODA1NCwtNy4yODA2KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPGcgc3Ryb2tlLWRhc2hhcnJheT0nMi43OTk4NSwxLjU5OTkxJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KPHBhdGggZD0nTS03LjA3Nzc2LTE1Ljc4NDc0SDE2LjEyMjI1JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDE2LjMyMjI0LC0xNS43ODQ3NCknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlLXdpZHRoPScwLjM5OTk4Jz4KPHBhdGggZD0nTTMwLjQwMjc3LTYuMDQwNjZWOS43MTk1MScgZmlsbD0nbm9uZScvPgo8ZyB0cmFuc2Zvcm09J21hdHJpeCgwLjAsLTEuMCwtMS4wLDAuMCwzMC40MDI3NywtNi4wNDA2NiknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lam9pbj0nbWl0ZXInPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxwYXRoIGQ9J00wIDEuOTU5ODdDLjY4NDggMS45NTk4NyAxLjIzOTkzIDEuNTIxMTMgMS4yMzk5MyAuOTc5OTNDMS4yMzk5MyAuNDM4NzQgLjY4NDggMCAwIDAnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J21hdHJpeCgwLjAsMS4wLC0xLjAsMC4wLDMwLjQwMjc3LDkuOTE5NSknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9zdmc+" /></fr:resource-content><fr:resource-source
+type="latex"
+part="preamble"><![CDATA[
+   
+    \usepackage{tikz, tikz-cd, mathtools, amssymb}
+  \usetikzlibrary{shapes.geometric}
+  \usetikzlibrary{calc}
+  \usetikzlibrary{matrix}
+  \usetikzlibrary{decorations.markings}
+
+  \tikzset{
+    % basics
+    square/.style={draw, regular polygon, regular polygon sides=4},
+    triangle/.style={draw, regular polygon, regular polygon sides=3},
+  }
+
+  \tikzset{
+    % string diagrams
+    state/.style={triangle, shape border rotate=180, anchor=north},
+    costate/.style={triangle, anchor=south},
+    morphism/.style={draw, rectangle},
+    over/.style={
+      draw=white,
+      double=black,
+      % default is .4pt
+      line width=1.2pt,
+      double distance=.4pt,
+      text=black
+    },
+  }
+
+  \tikzset{ 
+    % tables
+    % https://tikz.net/tikz-table/
+    table/.style={
+        matrix of nodes,
+        row sep=-\pgflinewidth,
+        column sep=-\pgflinewidth,
+        nodes={
+            rectangle,
+            draw=black,
+            align=center
+        },
+        minimum height=1.5em,
+        text depth=0.5ex,
+        text height=2ex,
+        nodes in empty cells,
+%%
+        every even row/.style={
+            nodes={fill=gray!20}
+        },
+        column 1/.style={
+            nodes={font=\bfseries}
+        },
+        row 1/.style={
+            nodes={
+                fill=black,
+                text=white,
+                font=\bfseries
+            }
+        }
+    }
+  }
+
+  ]]></fr:resource-source><fr:resource-source
+type="latex"
+part="body"><![CDATA[
+  \begin {tikzcd}
+  x\ar [r, "f"]\ar [d, two heads] & y \\
+  \operatorname {coim} f\ar [r, dashed] & \operatorname {im} f\ar [u, hookrightarrow]
+  \end {tikzcd}
+]]></fr:resource-source></fr:resource></fr:figure>
+ 
+
+commute.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10425</fr:anchor><fr:addr
+type="user">rs-00BQ</fr:addr><fr:route>rs-00BQ.xml</fr:route><fr:title
+text="Strict morphism">Strict morphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Definition 5.1.4</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A map <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex>, say in a <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link> and <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link>
+category, is <fr:em>strict</fr:em> if the <fr:link
+type="local"
+href="rs-00BP.xml"
+addr="rs-00BP"
+title="Images and kernels">comparison map from its coimage to its
+image</fr:link> is an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10427</fr:anchor><fr:addr
+type="user">rs-00BE</fr:addr><fr:route>rs-00BE.xml</fr:route><fr:title
+text="Abelian groups as {Z}-modules">Abelian groups as <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex>-modules</fr:title><fr:taxon>Connection</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BE.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Since <fr:link
+type="local"
+href="rs-00BC.xml"
+addr="rs-00BC"
+title="The ring of integers"><fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> is the initial ring</fr:link>, there is a unique ring
+homomorphism from <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex> to <fr:link
+type="local"
+href="rs-00B7.xml"
+addr="rs-00B7"
+title="Endomorphisms of an abelian group form a ring"><fr:tex
+display="inline"><![CDATA[\operatorname {End}(A)]]></fr:tex></fr:link> for any <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian
+group</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. This defines an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> of
+<fr:link
+type="local"
+href="rs-002V.xml"
+addr="rs-002V"
+title="Category of categories">categories</fr:link> <fr:link
+type="local"
+href="rs-00B1.xml"
+addr="rs-00B1"
+title="Category of abelian groups"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ab</html:span></fr:link> <fr:tex
+display="inline"><![CDATA[\cong ]]></fr:tex> <fr:tex
+display="inline"><![CDATA[\mathbb {Z}]]></fr:tex><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Mod</html:span>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10429</fr:anchor><fr:addr
 type="user">rs-00AZ</fr:addr><fr:route>rs-00AZ.xml</fr:route><fr:title
 text="Localization of a category">Localization of a category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AZ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -391,7 +807,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9521</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10431</fr:anchor><fr:addr
 type="user">rs-00AY</fr:addr><fr:route>rs-00AY.xml</fr:route><fr:title
 text="Correspondence theorem for groups">Correspondence theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -463,8 +879,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>524</fr:anchor><fr:addr
-type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1360</fr:anchor><fr:addr
+type="machine">#255</fr:addr><fr:route>unstable-255.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -483,7 +899,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9523</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10433</fr:anchor><fr:addr
 type="user">rs-00AX</fr:addr><fr:route>rs-00AX.xml</fr:route><fr:title
 text="First isomorphism theorem for groups">First isomorphism theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -525,8 +941,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>518</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1354</fr:anchor><fr:addr
+type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -552,13 +968,17 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9525</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10435</fr:anchor><fr:addr
 type="user">rs-00AJ</fr:addr><fr:route>rs-00AJ.xml</fr:route><fr:title
 text="Factorization system">Factorization system</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AJ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>factorization system</fr:em> in a <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A (strong, compare to <fr:link
+type="local"
+href="rs-00AI.xml"
+addr="rs-00AI"
+title="Weak factorization system">weak</fr:link>) <fr:em>factorization system</fr:em> in a <fr:link
 type="local"
 href="rs-0001.xml"
 addr="rs-0001"
@@ -587,7 +1007,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9527</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10437</fr:anchor><fr:addr
 type="user">rs-008Q</fr:addr><fr:route>rs-008Q.xml</fr:route><fr:title
 text="The counit of the nerve adjunction is an isomorphism">The counit of the nerve adjunction is an isomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -631,7 +1051,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9529</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10439</fr:anchor><fr:addr
 type="user">rs-007A</fr:addr><fr:route>rs-007A.xml</fr:route><fr:title
 text="Grothendieck pretopology">Grothendieck pretopology</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>26</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -703,7 +1123,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9531</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10441</fr:anchor><fr:addr
 type="user">rs-006U</fr:addr><fr:route>rs-006U.xml</fr:route><fr:title
 text="Distributive category">Distributive category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -732,7 +1152,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9533</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10443</fr:anchor><fr:addr
 type="user">rs-005Z</fr:addr><fr:route>rs-005Z.xml</fr:route><fr:title
 text="Subobject classifiers are unique up to isomorphism">Subobject classifiers are unique up to isomorphism</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -769,8 +1189,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4005</fr:anchor><fr:addr
-type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4781</fr:anchor><fr:addr
+type="machine">#302</fr:addr><fr:route>unstable-302.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -792,7 +1212,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9535</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10445</fr:anchor><fr:addr
 type="user">rs-001D</fr:addr><fr:route>rs-001D.xml</fr:route><fr:title
 text="Skeletal category">Skeletal category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -826,7 +1246,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9537</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10447</fr:anchor><fr:addr
 type="user">rs-004V</fr:addr><fr:route>rs-004V.xml</fr:route><fr:title
 text="Conservative functor">Conservative functor</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-004V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -868,7 +1288,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9539</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10449</fr:anchor><fr:addr
 type="user">rs-003R</fr:addr><fr:route>rs-003R.xml</fr:route><fr:title
 text="Properties of adjoint functors relate to those of their (co)units">Properties of adjoint functors relate to those of their (co)units</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1031,7 +1451,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9541</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10451</fr:anchor><fr:addr
 type="user">rs-003M</fr:addr><fr:route>rs-003M.xml</fr:route><fr:title
 text="Idempotent isomorphisms are identities">Idempotent isomorphisms are identities</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1071,8 +1491,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5707</fr:anchor><fr:addr
-type="machine">#320</fr:addr><fr:route>unstable-320.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6511</fr:anchor><fr:addr
+type="machine">#331</fr:addr><fr:route>unstable-331.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1088,7 +1508,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9543</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10453</fr:anchor><fr:addr
 type="user">rs-003F</fr:addr><fr:route>rs-003F.xml</fr:route><fr:title
 text="(Co)free assignments extend uniquely to adjunctions">(co)free assignments extend uniquely to adjunctions</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1156,8 +1576,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1722</fr:anchor><fr:addr
-type="machine">#325</fr:addr><fr:route>unstable-325.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>966</fr:anchor><fr:addr
+type="machine">#336</fr:addr><fr:route>unstable-336.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1267,7 +1687,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9545</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10455</fr:anchor><fr:addr
 type="user">rs-003E</fr:addr><fr:route>rs-003E.xml</fr:route><fr:title
 text="Equivalent definitions of an adjunction">Equivalent definitions of an adjunction</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1346,8 +1766,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1694</fr:anchor><fr:addr
-type="machine">#326</fr:addr><fr:route>unstable-326.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>938</fr:anchor><fr:addr
+type="machine">#337</fr:addr><fr:route>unstable-337.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-003E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1559,7 +1979,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9547</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10457</fr:anchor><fr:addr
 type="user">rs-0038</fr:addr><fr:route>rs-0038.xml</fr:route><fr:title
 text="A square commutes iff its adjoint does">A square commutes iff its adjoint does</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0038.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1694,8 +2114,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1704</fr:anchor><fr:addr
-type="machine">#330</fr:addr><fr:route>unstable-330.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0038.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>948</fr:anchor><fr:addr
+type="machine">#341</fr:addr><fr:route>unstable-341.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0038.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1896,7 +2316,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9549</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10459</fr:anchor><fr:addr
 type="user">rs-0031</fr:addr><fr:route>rs-0031.xml</fr:route><fr:title
 text="Isomorphic diagrams have isomorphic limits">Isomorphic diagrams have isomorphic limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0031.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1943,8 +2363,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3635</fr:anchor><fr:addr
-type="machine">#334</fr:addr><fr:route>unstable-334.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0031.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4411</fr:anchor><fr:addr
+type="machine">#345</fr:addr><fr:route>unstable-345.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0031.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -1968,7 +2388,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9551</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10461</fr:anchor><fr:addr
 type="user">rs-0032</fr:addr><fr:route>rs-0032.xml</fr:route><fr:title
 text="Limits commute">Limits commute</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0032.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2020,8 +2440,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3641</fr:anchor><fr:addr
-type="machine">#333</fr:addr><fr:route>unstable-333.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0032.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4417</fr:anchor><fr:addr
+type="machine">#344</fr:addr><fr:route>unstable-344.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0032.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2111,7 +2531,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9553</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10463</fr:anchor><fr:addr
 type="user">rs-002A</fr:addr><fr:route>rs-002A.xml</fr:route><fr:title
 text="Limits are unique up to unique isomorphism">Limits are unique up to unique isomorphism</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2175,8 +2595,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3631</fr:anchor><fr:addr
-type="machine">#346</fr:addr><fr:route>unstable-346.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4407</fr:anchor><fr:addr
+type="machine">#357</fr:addr><fr:route>unstable-357.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2211,7 +2631,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9555</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10465</fr:anchor><fr:addr
 type="user">rs-001M</fr:addr><fr:route>rs-001M.xml</fr:route><fr:title
 text="Fully faithful functors reflect isomorphisms">Fully faithful functors reflect isomorphisms</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2263,8 +2683,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7828</fr:anchor><fr:addr
-type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8676</fr:anchor><fr:addr
+type="machine">#364</fr:addr><fr:route>unstable-364.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2289,7 +2709,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9557</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10467</fr:anchor><fr:addr
 type="user">rs-001N</fr:addr><fr:route>rs-001N.xml</fr:route><fr:title
 text="Fully faithful functors create isomorphisms">Fully faithful functors create isomorphisms</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2341,8 +2761,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7822</fr:anchor><fr:addr
-type="machine">#352</fr:addr><fr:route>unstable-352.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8670</fr:anchor><fr:addr
+type="machine">#363</fr:addr><fr:route>unstable-363.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2375,7 +2795,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9559</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10469</fr:anchor><fr:addr
 type="user">rs-001O</fr:addr><fr:route>rs-001O.xml</fr:route><fr:title
 text="Representable isomorphism is isomorphism">Representable isomorphism is isomorphism</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2444,8 +2864,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3420</fr:anchor><fr:addr
-type="machine">#350</fr:addr><fr:route>unstable-350.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4196</fr:anchor><fr:addr
+type="machine">#361</fr:addr><fr:route>unstable-361.xml</fr:route><fr:title
 text="By the Yoneda lemma">By the Yoneda lemma</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -2474,8 +2894,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3422</fr:anchor><fr:addr
-type="machine">#351</fr:addr><fr:route>unstable-351.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4198</fr:anchor><fr:addr
+type="machine">#362</fr:addr><fr:route>unstable-362.xml</fr:route><fr:title
 text="Direct proof">Direct proof</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -2695,7 +3115,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9561</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10471</fr:anchor><fr:addr
 type="user">ntn-0001</fr:addr><fr:route>ntn-0001.xml</fr:route><fr:title
 text="The generalized &quot;the&quot;">The generalized "the"</fr:title><fr:taxon>Convention</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/ntn-0001.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2718,7 +3138,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9563</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10473</fr:anchor><fr:addr
 type="user">rs-001R</fr:addr><fr:route>rs-001R.xml</fr:route><fr:title
 text="Universal properties characterize objects">Universal properties characterize objects</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2780,8 +3200,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7816</fr:anchor><fr:addr
-type="machine">#349</fr:addr><fr:route>unstable-349.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8664</fr:anchor><fr:addr
+type="machine">#360</fr:addr><fr:route>unstable-360.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-001R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2811,7 +3231,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9565</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10475</fr:anchor><fr:addr
 type="user">rs-000E</fr:addr><fr:route>rs-000E.xml</fr:route><fr:title
 text="Bijection">Bijection</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000E.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2844,7 +3264,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9567</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10477</fr:anchor><fr:addr
 type="user">rs-000P</fr:addr><fr:route>rs-000P.xml</fr:route><fr:title
 text="Functors preserve isomorphisms">Functors preserve isomorphisms</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2891,8 +3311,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6276</fr:anchor><fr:addr
-type="machine">#359</fr:addr><fr:route>unstable-359.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7082</fr:anchor><fr:addr
+type="machine">#370</fr:addr><fr:route>unstable-370.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2909,7 +3329,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9569</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10479</fr:anchor><fr:addr
 type="user">rs-000G</fr:addr><fr:route>rs-000G.xml</fr:route><fr:title
 text="Groupoid">Groupoid</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2931,7 +3351,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9571</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10481</fr:anchor><fr:addr
 type="user">rs-000F</fr:addr><fr:route>rs-000F.xml</fr:route><fr:title
 text="Homeomorphism">Homeomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2964,7 +3384,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9573</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10483</fr:anchor><fr:addr
 type="user">rs-0010</fr:addr><fr:route>rs-0010.xml</fr:route><fr:title
 text="Natural isomorphism">Natural isomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0010.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3003,7 +3423,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9575</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10485</fr:anchor><fr:addr
 type="user">rs-0004</fr:addr><fr:route>rs-0004.xml</fr:route><fr:title
 text="Automorphism">Automorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0004.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3037,7 +3457,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9577</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10487</fr:anchor><fr:addr
 type="user">rs-0005</fr:addr><fr:route>rs-0005.xml</fr:route><fr:title
 text="Inverses are unique">Inverses are unique</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0005.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3074,8 +3494,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9245</fr:anchor><fr:addr
-type="machine">#360</fr:addr><fr:route>unstable-360.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0005.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10125</fr:anchor><fr:addr
+type="machine">#371</fr:addr><fr:route>unstable-371.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0005.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -3099,7 +3519,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9579</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10489</fr:anchor><fr:addr
 type="user">rs-0001</fr:addr><fr:route>rs-0001.xml</fr:route><fr:title
 text="Category">Category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0001.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
