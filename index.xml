@@ -104,24 +104,6 @@ show-metadata="true"
 expanded="false"
 root="false"
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>11266</fr:anchor><fr:addr
-type="user">pizza-sem-cat-sem</fr:addr><fr:route>pizza-sem-cat-sem.xml</fr:route><fr:title
-text="Categorical semantics, via vibes">Categorical semantics, via vibes</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/pizza-sem-cat-sem.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Pizza Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>You might have heard of "categorical semantics" or "internal logics," or of
-the relationship between topoi and intuitionistic logic, perhaps in Jin and
-Carmine's pizza seminar talks from last semester. You also might not have!
-Regardless, this talk aims to explain the big picture of what these terms mean,
-how they relate, and why non-logicians might care.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>11268</fr:anchor><fr:addr
 type="user">ggts-logical-interpretation-topology</fr:addr><fr:route>ggts-logical-interpretation-topology.xml</fr:route><fr:title
 text="The logical interpretation of topology">The logical interpretation of topology</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/ggts-logical-interpretation-topology.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -135,6 +117,24 @@ logical interpretation of topological spaces. In this interpretation, open sets
 behave like "propositions subject to finite proof." This talk---which assumes no
 knowledge of mathematical logic---will explore this perspective, in particular
 as it relates to point-free topology and sheaves.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>11268</fr:anchor><fr:addr
+type="user">pizza-sem-cat-sem</fr:addr><fr:route>pizza-sem-cat-sem.xml</fr:route><fr:title
+text="Categorical semantics, via vibes">Categorical semantics, via vibes</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/pizza-sem-cat-sem.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Pizza Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>You might have heard of "categorical semantics" or "internal logics," or of
+the relationship between topoi and intuitionistic logic, perhaps in Jin and
+Carmine's pizza seminar talks from last semester. You also might not have!
+Regardless, this talk aims to explain the big picture of what these terms mean,
+how they relate, and why non-logicians might care.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
