@@ -7,35 +7,52 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7380</fr:anchor><fr:addr
-type="machine">#351</fr:addr><fr:route>unstable-351.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7916</fr:anchor><fr:addr
+type="machine">#351</fr:addr><fr:route>unstable-351.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We show the result for covariant hom-functors. Let <fr:tex
-display="inline"><![CDATA[J\xrightarrow {F} C]]></fr:tex> be a
+  <fr:p>By the <fr:link
+type="local"
+href="rs-002F.xml"
+addr="rs-002F"
+title="Completeness criterion">cocompleteness criterion</fr:link>, it suffices to give
   <fr:link
 type="local"
-href="rs-001U.xml"
-addr="rs-001U"
-title="Diagram">diagram</fr:link> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> with <fr:link
+href="rs-0024.xml"
+addr="rs-0024"
+title="Coproduct">coproducts</fr:link> and <fr:link
 type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limit</fr:link> <fr:tex
-display="inline"><![CDATA[\operatorname *{lim} F\xrightarrow {\lambda _j} Fj]]></fr:tex>.
-  The image of this diagram under <fr:tex
-display="inline"><![CDATA[C(x, -)]]></fr:tex> is the diagram <fr:tex
-display="block"><![CDATA[J\xrightarrow {F}   C\xrightarrow {C(x, -)} Set,]]></fr:tex> which is a limit in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span> by the
+href="rs-0026.xml"
+addr="rs-0026"
+title="Coequalizer">coequalizers</fr:link>. Coproducts are given by the
   <fr:link
 type="local"
-href="rs-002O.xml"
-addr="rs-002O"
-title="Limits are representable">representability of limits</fr:link>.</fr:p>
+href="rs-002U.xml"
+addr="rs-002U"
+title="Disjoint union of sets">disjoint union</fr:link>. The coequalizer of functions <fr:tex
+display="inline"><![CDATA[A\overset {f,g}{\rightrightarrows } B]]></fr:tex> is
+  <fr:tex
+display="block"><![CDATA[B / \sim ,]]></fr:tex> where <fr:tex
+display="inline"><![CDATA[\sim ]]></fr:tex> is the <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">equivalence relation</fr:link>
+  <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">generated</fr:link> by <fr:tex
+display="inline"><![CDATA[f(a) \sim  g(a)]]></fr:tex> for all <fr:tex
+display="inline"><![CDATA[a \in  A]]></fr:tex>, and <fr:tex
+display="inline"><![CDATA[/]]></fr:tex> denotes the
+  <fr:link
+type="local"
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">quotient</fr:link> of sets.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -51,15 +68,17 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7382</fr:anchor><fr:addr
-type="user">rs-002P</fr:addr><fr:route>rs-002P.xml</fr:route><fr:title
-text="Representable functors preserve limits">Representable functors preserve limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7918</fr:anchor><fr:addr
+type="user">rs-002T</fr:addr><fr:route>rs-002T.xml</fr:route><fr:title
+text="Set is cocomplete"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> is cocomplete</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Proposition 3.4.5</fr:meta><fr:meta
+name="ref-name">RIehl</fr:meta><fr:meta
+name="ref-at">Proposition 3.5.1</fr:meta><fr:meta
 name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -69,35 +88,17 @@ type="local"
 href="riehl-2017.xml"
 addr="riehl-2017"
 title="Category theory in context" />
-<fr:p>Let <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> be <fr:link
+<fr:p><fr:link
 type="local"
-href="rs-002Q.xml"
-addr="rs-002Q"
-title="Locally small category">locally small</fr:link>. The <fr:link
+href="rs-0003.xml"
+addr="rs-0003"
+title="Endomorphism"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link> is <fr:link
 type="local"
-href="rs-000U.xml"
-addr="rs-000U"
-title="Hom bifunctor">hom bifunctor</fr:link> <fr:link
-type="local"
-href="rs-002H.xml"
-addr="rs-002H"
-title="Preservation of limits">preserves
-limits</fr:link> in both arguments. In particular, <fr:link
-type="local"
-href="rs-000Q.xml"
-addr="rs-000Q"
-title="Covariant hom-functor">covariant hom-functors</fr:link>
-preserve limits and <fr:link
-type="local"
-href="rs-000N.xml"
-addr="rs-000N"
-title="Contravariant functor">contravariant hom-functors</fr:link> preserve colimits, and
-so <fr:link
-type="local"
-href="rs-0013.xml"
-addr="rs-0013"
-title="Representable functor">representable functors</fr:link> preserve limits.</fr:p>
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link>.</fr:p>
   
     
     
@@ -108,35 +109,52 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4433</fr:anchor><fr:addr
-type="machine">#351</fr:addr><fr:route>unstable-351.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>628</fr:anchor><fr:addr
+type="machine">#351</fr:addr><fr:route>unstable-351.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We show the result for covariant hom-functors. Let <fr:tex
-display="inline"><![CDATA[J\xrightarrow {F} C]]></fr:tex> be a
+  <fr:p>By the <fr:link
+type="local"
+href="rs-002F.xml"
+addr="rs-002F"
+title="Completeness criterion">cocompleteness criterion</fr:link>, it suffices to give
   <fr:link
 type="local"
-href="rs-001U.xml"
-addr="rs-001U"
-title="Diagram">diagram</fr:link> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> with <fr:link
+href="rs-0024.xml"
+addr="rs-0024"
+title="Coproduct">coproducts</fr:link> and <fr:link
 type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limit</fr:link> <fr:tex
-display="inline"><![CDATA[\operatorname *{lim} F\xrightarrow {\lambda _j} Fj]]></fr:tex>.
-  The image of this diagram under <fr:tex
-display="inline"><![CDATA[C(x, -)]]></fr:tex> is the diagram <fr:tex
-display="block"><![CDATA[J\xrightarrow {F}   C\xrightarrow {C(x, -)} Set,]]></fr:tex> which is a limit in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span> by the
+href="rs-0026.xml"
+addr="rs-0026"
+title="Coequalizer">coequalizers</fr:link>. Coproducts are given by the
   <fr:link
 type="local"
-href="rs-002O.xml"
-addr="rs-002O"
-title="Limits are representable">representability of limits</fr:link>.</fr:p>
+href="rs-002U.xml"
+addr="rs-002U"
+title="Disjoint union of sets">disjoint union</fr:link>. The coequalizer of functions <fr:tex
+display="inline"><![CDATA[A\overset {f,g}{\rightrightarrows } B]]></fr:tex> is
+  <fr:tex
+display="block"><![CDATA[B / \sim ,]]></fr:tex> where <fr:tex
+display="inline"><![CDATA[\sim ]]></fr:tex> is the <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">equivalence relation</fr:link>
+  <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">generated</fr:link> by <fr:tex
+display="inline"><![CDATA[f(a) \sim  g(a)]]></fr:tex> for all <fr:tex
+display="inline"><![CDATA[a \in  A]]></fr:tex>, and <fr:tex
+display="inline"><![CDATA[/]]></fr:tex> denotes the
+  <fr:link
+type="local"
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">quotient</fr:link> of sets.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

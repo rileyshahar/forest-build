@@ -7,24 +7,17 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1386</fr:anchor><fr:addr
-type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2037</fr:anchor><fr:addr
+type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  <fr:link
 type="local"
-href="rs-00AW.xml"
-addr="rs-00AW"
-title="Grp is regular"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span> is regular</fr:link>; this is the statement of <fr:link
-type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">(regular epi,
-  mono) factorization</fr:link>.</fr:p>
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -40,38 +33,68 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1388</fr:anchor><fr:addr
-type="user">rs-00AX</fr:addr><fr:route>rs-00AX.xml</fr:route><fr:title
-text="First isomorphism theorem for groups">First isomorphism theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2039</fr:anchor><fr:addr
+type="user">rs-00AY</fr:addr><fr:route>rs-00AY.xml</fr:route><fr:title
+text="Correspondence theorem for groups">Correspondence theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {\varphi } H]]></fr:tex> be a <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Proposition II.8.10</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
 type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">group homomorphism</fr:link>. Then there is an
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> be a <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> and <fr:link
+type="local"
+href="rs-009L.xml"
+addr="rs-009L"
+title="Characterization of normal subgroups"><fr:tex
+display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then there is a <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>
 <fr:link
 type="local"
 href="rs-0002.xml"
 addr="rs-0002"
-title="Isomorphism">isomorphism</fr:link>
-<fr:tex
-display="block"><![CDATA[G/\ker (\varphi ) \cong  \operatorname {im}(\varphi ).]]></fr:tex> of the <fr:link
+title="Isomorphism">isomorphism</fr:link> between the lattice of <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroups</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>
+containing <fr:tex
+display="inline"><![CDATA[N]]></fr:tex> and the lattice of subgroups of the <fr:link
 type="local"
 href="rs-00A2.xml"
 addr="rs-00A2"
-title="Quotient group">quotient</fr:link> of the
+title="Quotient group">quotient</fr:link> <fr:tex
+display="inline"><![CDATA[G/N]]></fr:tex>,
+which sends <fr:tex
+display="inline"><![CDATA[N\leq  A\leq  G]]></fr:tex> to <fr:tex
+display="inline"><![CDATA[A/N]]></fr:tex>. Moreover, this assignment
 <fr:link
 type="local"
-href="rs-00A4.xml"
-addr="rs-00A4"
-title="Kernel of a group homomorphism">kernel</fr:link> and the <fr:link
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> and <fr:link
 type="local"
-href="rs-00A5.xml"
-addr="rs-00A5"
-title="Image of a group homomorphism">image</fr:link>.</fr:p>
+href="rs-001J.xml"
+addr="rs-001J"
+title="Reflection of a property">reflects</fr:link> normality.</fr:p>
   
     
     
@@ -82,24 +105,17 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1354</fr:anchor><fr:addr
-type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2015</fr:anchor><fr:addr
+type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  <fr:link
 type="local"
-href="rs-00AW.xml"
-addr="rs-00AW"
-title="Grp is regular"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span> is regular</fr:link>; this is the statement of <fr:link
-type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">(regular epi,
-  mono) factorization</fr:link>.</fr:p>
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

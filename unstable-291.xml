@@ -7,40 +7,28 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3899</fr:anchor><fr:addr
-type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0070.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4554</fr:anchor><fr:addr
+type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0074.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First, we show that the subobject poset of <fr:tex
-display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+  <fr:p><fr:link
 type="local"
-href="rs-006N.xml"
-addr="rs-006N"
-title="Lattice">lattice</fr:link>.
-  Let <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> be <fr:link
+href="rs-002N.xml"
+addr="rs-002N"
+title="Limits and colimits in functor categories are computed pointwise">Limits and colimits are computed pointwise</fr:link> and <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> is
+  <fr:link
 type="local"
-href="rs-0060.xml"
-addr="rs-0060"
-title="Subfunctor">subfunctors</fr:link> of <fr:tex
-display="inline"><![CDATA[P]]></fr:tex>. Then:
-  <fr:ul><fr:li>the <fr:link
+href="rs-002E.xml"
+addr="rs-002E"
+title="Set is complete">complete</fr:link> and <fr:link
 type="local"
-href="rs-006J.xml"
-addr="rs-006J"
-title="Meet">meet</fr:link> is given by <fr:tex
-display="block"><![CDATA[(P\wedge  Q)X = PX\cap  QX;]]></fr:tex></fr:li>
-    <fr:li>the <fr:link
-type="local"
-href="rs-006J.xml"
-addr="rs-006J"
-title="Meet">join</fr:link> is given by <fr:tex
-display="block"><![CDATA[(P\vee  Q)X = PX\cup  QX;]]></fr:tex></fr:li>
-    <fr:li>the implication is given by <fr:tex
-display="block"><![CDATA[(P\Rightarrow  Q)X = \{x\in  PX: \text { for all }     Y\xrightarrow {f} X\in  C, \text { if } Pf(x)\in  SY \text { then } Pf(x)\in  TY\}.]]></fr:tex></fr:li></fr:ul></fr:p>
+href="rs-002T.xml"
+addr="rs-002T"
+title="Set is cocomplete">cocomplete</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -56,15 +44,15 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3901</fr:anchor><fr:addr
-type="user">rs-0070</fr:addr><fr:route>rs-0070.xml</fr:route><fr:title
-text="The subobjects of a presheaf form a Heyting algebra">The subobjects of a presheaf form a Heyting algebra</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0070.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4556</fr:anchor><fr:addr
+type="user">rs-0074</fr:addr><fr:route>rs-0074.xml</fr:route><fr:title
+text="Presheaf categories are complete and cocomplete">Presheaf categories are complete and cocomplete</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0074.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
-name="ref-at">Proposition I.8.5</fr:meta><fr:meta
+name="ref-at">p. 39</fr:meta><fr:meta
 name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -74,24 +62,35 @@ type="local"
 href="maclane-moerdijk-1994.xml"
 addr="maclane-moerdijk-1994"
 title="Sheaves in geometry and logic" />
-<fr:p>Let <fr:tex
-display="inline"><![CDATA[C^\text {op}\xrightarrow {P}]]></fr:tex> <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span> be a <fr:link
+<fr:p>Every <fr:link
 type="local"
 href="rs-0015.xml"
 addr="rs-0015"
-title="Presheaf">presheaf</fr:link>. Then the <fr:link
+title="Presheaf">presheaf category</fr:link> is <fr:link
 type="local"
-href="rs-002Z.xml"
-addr="rs-002Z"
-title="Subobject">subobject
-poset</fr:link> of <fr:tex
-display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link> and
+<fr:link
 type="local"
-href="rs-006V.xml"
-addr="rs-006V"
-title="Heyting algebra">Heyting algebra</fr:link>.</fr:p>
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link>, with <fr:link
+type="local"
+href="rs-002E.xml"
+addr="rs-002E"
+title="Set is complete">limits</fr:link> and <fr:link
+type="local"
+href="rs-002T.xml"
+addr="rs-002T"
+title="Set is cocomplete">colimits</fr:link> computed as in
+<fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
   
     
     
@@ -102,40 +101,28 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3903</fr:anchor><fr:addr
-type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0070.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4558</fr:anchor><fr:addr
+type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0074.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First, we show that the subobject poset of <fr:tex
-display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+  <fr:p><fr:link
 type="local"
-href="rs-006N.xml"
-addr="rs-006N"
-title="Lattice">lattice</fr:link>.
-  Let <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> be <fr:link
+href="rs-002N.xml"
+addr="rs-002N"
+title="Limits and colimits in functor categories are computed pointwise">Limits and colimits are computed pointwise</fr:link> and <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> is
+  <fr:link
 type="local"
-href="rs-0060.xml"
-addr="rs-0060"
-title="Subfunctor">subfunctors</fr:link> of <fr:tex
-display="inline"><![CDATA[P]]></fr:tex>. Then:
-  <fr:ul><fr:li>the <fr:link
+href="rs-002E.xml"
+addr="rs-002E"
+title="Set is complete">complete</fr:link> and <fr:link
 type="local"
-href="rs-006J.xml"
-addr="rs-006J"
-title="Meet">meet</fr:link> is given by <fr:tex
-display="block"><![CDATA[(P\wedge  Q)X = PX\cap  QX;]]></fr:tex></fr:li>
-    <fr:li>the <fr:link
-type="local"
-href="rs-006J.xml"
-addr="rs-006J"
-title="Meet">join</fr:link> is given by <fr:tex
-display="block"><![CDATA[(P\vee  Q)X = PX\cup  QX;]]></fr:tex></fr:li>
-    <fr:li>the implication is given by <fr:tex
-display="block"><![CDATA[(P\Rightarrow  Q)X = \{x\in  PX: \text { for all }     Y\xrightarrow {f} X\in  C, \text { if } Pf(x)\in  SY \text { then } Pf(x)\in  TY\}.]]></fr:tex></fr:li></fr:ul></fr:p>
+href="rs-002T.xml"
+addr="rs-002T"
+title="Set is cocomplete">cocomplete</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -7,18 +7,32 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1445</fr:anchor><fr:addr
-type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2094</fr:anchor><fr:addr
+type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:link
+  <fr:p>The backwards direction is <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
-  </fr:mainmatter><fr:backmatter><fr:tree
+href="rs-00AN.xml"
+addr="rs-00AN"
+title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
+  direction, <fr:link
+type="local"
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
+display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> a regular epi,
+  but note that <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
+type="local"
+href="rs-00AP.xml"
+addr="rs-00AP"
+title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -33,53 +47,38 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1447</fr:anchor><fr:addr
-type="user">rs-00AQ</fr:addr><fr:route>rs-00AQ.xml</fr:route><fr:title
-text="Filtered colimits commute with finite limits in Set">Filtered colimits commute with finite limits in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2096</fr:anchor><fr:addr
+type="user">rs-00AV</fr:addr><fr:route>rs-00AV.xml</fr:route><fr:title
+text="Strong epis are regular in regular categories">Strong epis are regular in regular categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Theorem 3.8.9</fr:meta><fr:meta
-name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Borceux</fr:meta><fr:meta
+name="ref-at">Proposition II.2.1.4</fr:meta><fr:meta
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="riehl-2017.xml"
-addr="riehl-2017"
-title="Category theory in context" />
-<fr:p><fr:link
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
+<fr:p>In a <fr:link
 type="local"
-href="rs-004K.xml"
-addr="rs-004K"
-title="Filtered category">Filtered</fr:link> <fr:link
+href="rs-00AM.xml"
+addr="rs-00AM"
+title="Regular category">regular category</fr:link>, a map is a <fr:link
 type="local"
-href="rs-001Z.xml"
-addr="rs-001Z"
-title="Colimit">colimits</fr:link> commute with <fr:link
+href="rs-00AK.xml"
+addr="rs-00AK"
+title="Strong epimorphism">strong epis</fr:link> iff it is
+a <fr:link
 type="local"
-href="rs-0058.xml"
-addr="rs-0058"
-title="Finite category">finite</fr:link> <fr:link
-type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limits</fr:link> in
-<fr:link
-type="local"
-href="rs-000C.xml"
-addr="rs-000C"
-title="Category of sets"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:link> (and the result extends to <fr:tex
-display="inline"><![CDATA[\kappa ]]></fr:tex>-filtered and
-<fr:tex
-display="inline"><![CDATA[\kappa ]]></fr:tex>-small limits).</fr:p>
+href="rs-00AL.xml"
+addr="rs-00AL"
+title="Regular epimorphism">regular epi</fr:link>.</fr:p>
   
     
     
@@ -90,17 +89,31 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1449</fr:anchor><fr:addr
-type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2098</fr:anchor><fr:addr
+type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:link
+  <fr:p>The backwards direction is <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
-  </fr:mainmatter><fr:backmatter /></fr:tree>
+href="rs-00AN.xml"
+addr="rs-00AN"
+title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
+  direction, <fr:link
+type="local"
+href="rs-00AO.xml"
+addr="rs-00AO"
+title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
+display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
+display="inline"><![CDATA[e]]></fr:tex> a regular epi,
+  but note that <fr:tex
+display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
+type="local"
+href="rs-00AP.xml"
+addr="rs-00AP"
+title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>395</fr:anchor><fr:addr
+type="user">rs-00CZ</fr:addr><fr:route>rs-00CZ.xml</fr:route><fr:title
+text="Concatenation of paths">Concatenation of paths</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CZ.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">p. 6</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>Given <fr:link
+type="local"
+href="rs-00CX.xml"
+addr="rs-00CX"
+title="Path in a topological space">paths</fr:link> <fr:tex
+display="inline"><![CDATA[x\overset {p}{\rightsquigarrow }y\overset {q}{\rightsquigarrow } z]]></fr:tex>, their <fr:em>concatenation</fr:em>
+<fr:tex
+display="inline"><![CDATA[p\cdot  q]]></fr:tex> is the path which traverses <fr:tex
+display="inline"><![CDATA[p]]></fr:tex> and then <fr:tex
+display="inline"><![CDATA[q]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>397</fr:anchor><fr:addr
+type="user">may-concise-course</fr:addr><fr:route>may-concise-course.xml</fr:route><fr:title
+text="A concise course in algebraic topology">A concise course in algebraic topology</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/may-concise-course.tree</fr:source-path><fr:authors><fr:author>Peter May</fr:author></fr:authors></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>399</fr:anchor><fr:addr
+type="user">rs-00D0</fr:addr><fr:route>rs-00D0.xml</fr:route><fr:title
+text="Fundamental groupoid">Fundamental groupoid</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00D0.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">Section 1.5</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>The <fr:em>fundamental groupoid</fr:em> <fr:tex
+display="inline"><![CDATA[\Pi _1 X]]></fr:tex> of a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is the
+<fr:link
+type="local"
+href="rs-000G.xml"
+addr="rs-000G"
+title="Groupoid">groupoid</fr:link> whose objects are points in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> and whose morphisms are
+<fr:link
+type="local"
+href="rs-00CY.xml"
+addr="rs-00CY"
+title="Path homotopy">homotopy classes</fr:link> of <fr:link
+type="local"
+href="rs-00CX.xml"
+addr="rs-00CX"
+title="Path in a topological space">paths</fr:link>, with composition
+<fr:link
+type="local"
+href="rs-00CZ.xml"
+addr="rs-00CZ"
+title="Concatenation of paths">concatenation</fr:link>. This extends to a <fr:link
+type="local"
+href="rs-00D1.xml"
+addr="rs-00D1"
+title="Naive homotopy category of spaces">homotopy invariant</fr:link>
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> from <fr:link
+type="local"
+href="rs-000D.xml"
+addr="rs-000D"
+title="Category of spaces">spaces</fr:link> to groupoids.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>401</fr:anchor><fr:addr
+type="user">rs-00CX</fr:addr><fr:route>rs-00CX.xml</fr:route><fr:title
+text="Path in a topological space">Path in a topological space</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CX.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">p. 6</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>A <fr:em>path</fr:em> in a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is a <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous map</fr:link>
+<fr:tex
+display="inline"><![CDATA[I\xrightarrow {p} X]]></fr:tex> from the <fr:link
+type="local"
+href="rs-00CT.xml"
+addr="rs-00CT"
+title="Topological interval">interval</fr:link>. Its <fr:em>startpoint</fr:em> is <fr:tex
+display="inline"><![CDATA[p(0)]]></fr:tex> and
+its <fr:em>endpoint</fr:em> is <fr:tex
+display="inline"><![CDATA[p(1)]]></fr:tex>; we write <fr:tex
+display="inline"><![CDATA[p(0)\overset {p}{\rightsquigarrow } p(1).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

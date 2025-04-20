@@ -7,17 +7,35 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7388</fr:anchor><fr:addr
-type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8064</fr:anchor><fr:addr
+type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We show the result for covariant hom-functors. Let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {F} C]]></fr:tex> be a
   <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> with <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname *{lim} F\xrightarrow {\lambda _j} Fj]]></fr:tex>.
+  The image of this diagram under <fr:tex
+display="inline"><![CDATA[C(x, -)]]></fr:tex> is the diagram <fr:tex
+display="block"><![CDATA[J\xrightarrow {F}   C\xrightarrow {C(x, -)} Set,]]></fr:tex> which is a limit in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> by the
+  <fr:link
+type="local"
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability of limits</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -33,15 +51,15 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7390</fr:anchor><fr:addr
-type="user">rs-002N</fr:addr><fr:route>rs-002N.xml</fr:route><fr:title
-text="Limits and colimits in functor categories are computed pointwise">Limits and colimits in functor categories are computed pointwise</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8066</fr:anchor><fr:addr
+type="user">rs-002P</fr:addr><fr:route>rs-002P.xml</fr:route><fr:title
+text="Representable functors preserve limits">Representable functors preserve limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Proposition 3.3.9</fr:meta><fr:meta
+name="ref-at">Proposition 3.4.5</fr:meta><fr:meta
 name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -52,52 +70,34 @@ href="riehl-2017.xml"
 addr="riehl-2017"
 title="Category theory in context" />
 <fr:p>Let <fr:tex
-display="inline"><![CDATA[A]]></fr:tex> be a <fr:link
+display="inline"><![CDATA[C]]></fr:tex> be <fr:link
 type="local"
-href="rs-002B.xml"
-addr="rs-002B"
-title="Small category">small category</fr:link>. Then where <fr:tex
-display="inline"><![CDATA[\operatorname *{obj} C]]></fr:tex> is the
-<fr:link
+href="rs-002Q.xml"
+addr="rs-002Q"
+title="Locally small category">locally small</fr:link>. The <fr:link
 type="local"
-href="rs-001H.xml"
-addr="rs-001H"
-title="Discrete category">discrete category</fr:link> of objects, the <fr:link
-type="local"
-href="rs-001I.xml"
-addr="rs-001I"
-title="Forgetful functor">forgetful functor</fr:link>
-<fr:tex
-display="inline"><![CDATA[C^A\to  C^{\operatorname *{obj} A}]]></fr:tex>
- strictly <fr:link
-type="local"
-href="rs-002J.xml"
-addr="rs-002J"
-title="Creation of limits">creates</fr:link> all <fr:link
-type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limits</fr:link> and
-<fr:link
-type="local"
-href="rs-001Z.xml"
-addr="rs-001Z"
-title="Colimit">colimits</fr:link> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex>. For each <fr:tex
-display="inline"><![CDATA[a\in  A]]></fr:tex>, the <fr:link
-type="local"
-href="rs-005J.xml"
-addr="rs-005J"
-title="Closed symmetric monoidal category">evaluation at <fr:tex
-display="inline"><![CDATA[a]]></fr:tex>
-functor</fr:link> <fr:tex
-display="inline"><![CDATA[C^A\to  C]]></fr:tex> <fr:link
+href="rs-000U.xml"
+addr="rs-000U"
+title="Hom bifunctor">hom bifunctor</fr:link> <fr:link
 type="local"
 href="rs-002H.xml"
 addr="rs-002H"
-title="Preservation of limits">preserves</fr:link> all limits and colimits which
-exist in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex>.</fr:p>
+title="Preservation of limits">preserves
+limits</fr:link> in both arguments. In particular, <fr:link
+type="local"
+href="rs-000Q.xml"
+addr="rs-000Q"
+title="Covariant hom-functor">covariant hom-functors</fr:link>
+preserve limits and <fr:link
+type="local"
+href="rs-000N.xml"
+addr="rs-000N"
+title="Contravariant functor">contravariant hom-functors</fr:link> preserve colimits, and
+so <fr:link
+type="local"
+href="rs-0013.xml"
+addr="rs-0013"
+title="Representable functor">representable functors</fr:link> preserve limits.</fr:p>
   
     
     
@@ -108,17 +108,35 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3983</fr:anchor><fr:addr
-type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5072</fr:anchor><fr:addr
+type="machine">#353</fr:addr><fr:route>unstable-353.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We show the result for covariant hom-functors. Let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {F} C]]></fr:tex> be a
   <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> with <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link> <fr:tex
+display="inline"><![CDATA[\operatorname *{lim} F\xrightarrow {\lambda _j} Fj]]></fr:tex>.
+  The image of this diagram under <fr:tex
+display="inline"><![CDATA[C(x, -)]]></fr:tex> is the diagram <fr:tex
+display="block"><![CDATA[J\xrightarrow {F}   C\xrightarrow {C(x, -)} Set,]]></fr:tex> which is a limit in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span> by the
+  <fr:link
+type="local"
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability of limits</fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

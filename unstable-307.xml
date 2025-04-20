@@ -7,49 +7,34 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5321</fr:anchor><fr:addr
-type="machine">#307</fr:addr><fr:route>unstable-307.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5623</fr:anchor><fr:addr
+type="machine">#307</fr:addr><fr:route>unstable-307.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We show the result for limits. Let <fr:tex
-display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> be fully faithful and let
+  <fr:p>Suppose <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is monic; then for any pair of maps <fr:tex
+display="inline"><![CDATA[z\overset {g, h}{\rightrightarrows } x]]></fr:tex> such that
   <fr:tex
-display="inline"><![CDATA[J\xrightarrow {K} C]]></fr:tex> be a <fr:link
+display="inline"><![CDATA[fg = fh]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> satisfies the <fr:link
 type="local"
-href="rs-001U.xml"
-addr="rs-001U"
-title="Diagram">diagram</fr:link> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex>. Further let <fr:tex
-display="inline"><![CDATA[z\xrightarrow {\lambda _j}   Kj]]></fr:tex> be a <fr:link
-type="local"
-href="rs-001W.xml"
-addr="rs-001W"
-title="Cone">cone</fr:link> over <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> whose image <fr:tex
-display="inline"><![CDATA[Fz\xrightarrow {F\lambda _j}   FK]]></fr:tex> is <fr:link
-type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limiting</fr:link> in <fr:tex
-display="inline"><![CDATA[D]]></fr:tex>. Let <fr:tex
-display="inline"><![CDATA[z'\xrightarrow {\mu _j} Kj]]></fr:tex> be another cone.
-  Then by the <fr:link
-type="local"
-href="rs-001Y-up.xml"
-addr="rs-001Y-up"
-title="Limit › universal property of limits">universal property of limits</fr:link> in <fr:tex
-display="inline"><![CDATA[D]]></fr:tex>, there exists a
-  unique map <fr:tex
-display="inline"><![CDATA[Fz'\xrightarrow {f} Fz]]></fr:tex> commuting with the respective cones. Now by fully
-  faithfulness of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>, this map lifts to a unique map <fr:tex
-display="inline"><![CDATA[z'\to  z]]></fr:tex> commuting with
-  the cones, witnessing the universal property of <fr:tex
-display="inline"><![CDATA[z]]></fr:tex> as a limit of <fr:tex
-display="inline"><![CDATA[K]]></fr:tex>.</fr:p>
+href="rs-0027-up.xml"
+addr="rs-0027-up"
+title="Pullback › universal property of the pullback">universal property of the
+  pullback</fr:link>; it is the only map which does so, again since <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is
+  monic.</fr:p>
+
+  <fr:p>Conversely, suppose the square is a pullback; then given maps <fr:tex
+display="inline"><![CDATA[z\xrightarrow {g, h}   x]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[fg = fh]]></fr:tex>, both <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[h]]></fr:tex> witness the universal property, so
+  uniqueness implies <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -65,38 +50,53 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5323</fr:anchor><fr:addr
-type="user">rs-005A</fr:addr><fr:route>rs-005A.xml</fr:route><fr:title
-text="Fully faithful functors reflect limits">Fully faithful functors reflect limits</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5625</fr:anchor><fr:addr
+type="user">rs-005F</fr:addr><fr:route>rs-005F.xml</fr:route><fr:title
+text="Monos are characterized by pullbacks">Monos are characterized by pullbacks</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Lemma 3.3.5</fr:meta><fr:meta
-name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Borceux</fr:meta><fr:meta
+name="ref-at">Proposition I.2.5.6</fr:meta><fr:meta
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="riehl-2017.xml"
-addr="riehl-2017"
-title="Category theory in context" />
-<fr:p><fr:link
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f}y]]></fr:tex> be a <fr:link
 type="local"
-href="rs-0017.xml"
-addr="rs-0017"
-title="Full functor">Fully</fr:link> <fr:link
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">map</fr:link>. Then the following are equivalent:
+  <fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
 type="local"
-href="rs-0018.xml"
-addr="rs-0018"
-title="Faithful functor">faithful functors</fr:link> <fr:link
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monic</fr:link>;</fr:li>
+    <fr:li>the <fr:link
 type="local"
-href="rs-002I.xml"
-addr="rs-002I"
-title="Reflection of limits">reflect extant
-limits and colimits</fr:link>.</fr:p>
+href="rs-002Y.xml"
+addr="rs-002Y"
+title="Kernel pair">kernel pair</fr:link> of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:tex
+display="inline"><![CDATA[(1_x, 1_x)]]></fr:tex>;</fr:li>
+    <fr:li>the kernel pair <fr:tex
+display="inline"><![CDATA[(P, \alpha , \beta )]]></fr:tex> of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is such that <fr:tex
+display="inline"><![CDATA[\alpha  =     \beta ]]></fr:tex>.</fr:li></fr:ul></fr:p><fr:p>Dually, <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
+type="local"
+href="rs-000B.xml"
+addr="rs-000B"
+title="Epimorphism">epic</fr:link> if and only if its cokernel pair is <fr:tex
+display="inline"><![CDATA[1_y]]></fr:tex>.</fr:p>
   
     
     
@@ -107,49 +107,34 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5325</fr:anchor><fr:addr
-type="machine">#307</fr:addr><fr:route>unstable-307.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2229</fr:anchor><fr:addr
+type="machine">#307</fr:addr><fr:route>unstable-307.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We show the result for limits. Let <fr:tex
-display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> be fully faithful and let
+  <fr:p>Suppose <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is monic; then for any pair of maps <fr:tex
+display="inline"><![CDATA[z\overset {g, h}{\rightrightarrows } x]]></fr:tex> such that
   <fr:tex
-display="inline"><![CDATA[J\xrightarrow {K} C]]></fr:tex> be a <fr:link
+display="inline"><![CDATA[fg = fh]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> satisfies the <fr:link
 type="local"
-href="rs-001U.xml"
-addr="rs-001U"
-title="Diagram">diagram</fr:link> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex>. Further let <fr:tex
-display="inline"><![CDATA[z\xrightarrow {\lambda _j}   Kj]]></fr:tex> be a <fr:link
-type="local"
-href="rs-001W.xml"
-addr="rs-001W"
-title="Cone">cone</fr:link> over <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> whose image <fr:tex
-display="inline"><![CDATA[Fz\xrightarrow {F\lambda _j}   FK]]></fr:tex> is <fr:link
-type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limiting</fr:link> in <fr:tex
-display="inline"><![CDATA[D]]></fr:tex>. Let <fr:tex
-display="inline"><![CDATA[z'\xrightarrow {\mu _j} Kj]]></fr:tex> be another cone.
-  Then by the <fr:link
-type="local"
-href="rs-001Y-up.xml"
-addr="rs-001Y-up"
-title="Limit › universal property of limits">universal property of limits</fr:link> in <fr:tex
-display="inline"><![CDATA[D]]></fr:tex>, there exists a
-  unique map <fr:tex
-display="inline"><![CDATA[Fz'\xrightarrow {f} Fz]]></fr:tex> commuting with the respective cones. Now by fully
-  faithfulness of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>, this map lifts to a unique map <fr:tex
-display="inline"><![CDATA[z'\to  z]]></fr:tex> commuting with
-  the cones, witnessing the universal property of <fr:tex
-display="inline"><![CDATA[z]]></fr:tex> as a limit of <fr:tex
-display="inline"><![CDATA[K]]></fr:tex>.</fr:p>
+href="rs-0027-up.xml"
+addr="rs-0027-up"
+title="Pullback › universal property of the pullback">universal property of the
+  pullback</fr:link>; it is the only map which does so, again since <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is
+  monic.</fr:p>
+
+  <fr:p>Conversely, suppose the square is a pullback; then given maps <fr:tex
+display="inline"><![CDATA[z\xrightarrow {g, h}   x]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[fg = fh]]></fr:tex>, both <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[h]]></fr:tex> witness the universal property, so
+  uniqueness implies <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

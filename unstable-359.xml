@@ -7,62 +7,33 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7652</fr:anchor><fr:addr
-type="machine">#359</fr:addr><fr:route>unstable-359.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0022.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8326</fr:anchor><fr:addr
+type="machine">#359</fr:addr><fr:route>unstable-359.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First let <fr:tex
-display="inline"><![CDATA[c\in  C]]></fr:tex> represent <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>, so that there is a <fr:link
+  <fr:p>This follows from the <fr:link
 type="local"
-href="rs-0010.xml"
-addr="rs-0010"
-title="Natural isomorphism">natural
-  isomorphism</fr:link> <fr:tex
-display="inline"><![CDATA[C(c, -)\overset {\alpha }{\cong } F]]></fr:tex>. Then the pair <fr:tex
-display="inline"><![CDATA[(c,   \alpha _c(1_c))]]></fr:tex> is initial in <fr:tex
-display="inline"><![CDATA[\text {el}(F)]]></fr:tex>. Indeed, for any <fr:tex
-display="inline"><![CDATA[(d, y)\in \text {el}(F)]]></fr:tex>,
-  the <fr:link
+href="rs-001O.xml"
+addr="rs-001O"
+title="Representable isomorphism is isomorphism">characterization of representable
+  isomorphism</fr:link>, but we give a direct proof. To show isomorphism, note
+  that the <fr:link
 type="local"
-href="rs-000E.xml"
-addr="rs-000E"
-title="Bijection">bijection</fr:link> <fr:tex
-display="inline"><![CDATA[\alpha _d]]></fr:tex> determines a unique element <fr:tex
-display="inline"><![CDATA[f\in  C(c, d)]]></fr:tex>
-  so that <fr:tex
-display="inline"><![CDATA[Ff(\alpha _c(1_c)) = y]]></fr:tex>; this exactly expresses initiality.</fr:p>
-
-  <fr:p>Conversely, let <fr:tex
-display="inline"><![CDATA[(c, x)]]></fr:tex> be initial in <fr:tex
-display="inline"><![CDATA[\text {el}(F)]]></fr:tex>. By the <fr:link
-type="local"
-href="rs-0014.xml"
-addr="rs-0014"
-title="Yoneda lemma">Yoneda
-  lemma</fr:link>, the element <fr:tex
-display="inline"><![CDATA[x\in  Fc]]></fr:tex> determines a <fr:link
-type="local"
-href="rs-000V.xml"
-addr="rs-000V"
-title="Natural transformation">natural
-  transformation</fr:link> <fr:tex
-display="inline"><![CDATA[C(c, -)\xrightarrow {\Phi (x)} F]]></fr:tex>; we need to show this is an
-  isomorphism. Initiality of <fr:tex
-display="inline"><![CDATA[(c, x)]]></fr:tex> asserts that, for any <fr:tex
-display="inline"><![CDATA[(d, y)\in \text {el}(F)]]></fr:tex>,
-  there is a unique map <fr:tex
-display="inline"><![CDATA[c\xrightarrow {f_y} d]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[Ff_y(x) = y]]></fr:tex>. Now in the
-  proof of the Yoneda lemma, <fr:tex
-display="inline"><![CDATA[\Phi (x)]]></fr:tex> was constructed so that
+href="rs-001Y-up.xml"
+addr="rs-001Y-up"
+title="Limit › universal property of limits">universal property of limits</fr:link> induces a pair of unique
+  maps <fr:tex
+display="inline"><![CDATA[x\xtofrom [g]{f} y]]></fr:tex> commuting with the cones; it remains to show these are
+  isomorphisms. The composite <fr:tex
+display="inline"><![CDATA[gf]]></fr:tex> is a map <fr:tex
+display="inline"><![CDATA[x\to  x]]></fr:tex> commuting with the cone
   <fr:tex
-display="inline"><![CDATA[F(\Phi (x)_d)(f) = Ff(x)]]></fr:tex>, so the assignment <fr:tex
-display="inline"><![CDATA[(d, y)\mapsto  f_y]]></fr:tex> inverts
+display="inline"><![CDATA[\lambda ]]></fr:tex>, but <fr:tex
+display="inline"><![CDATA[1_x]]></fr:tex> is another such map, so by uniqueness of suchs maps
   <fr:tex
-display="inline"><![CDATA[\Phi (x)_d]]></fr:tex>.</fr:p>
+display="inline"><![CDATA[gf = 1_x]]></fr:tex>. The same works on the other side.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -78,15 +49,15 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7654</fr:anchor><fr:addr
-type="user">rs-0022</fr:addr><fr:route>rs-0022.xml</fr:route><fr:title
-text="Universal elements are initial or terminal">Universal elements are initial or terminal</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0022.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>8328</fr:anchor><fr:addr
+type="user">rs-002A</fr:addr><fr:route>rs-002A.xml</fr:route><fr:title
+text="Limits are unique up to unique isomorphism">Limits are unique up to unique isomorphism</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Proposition 2.4.8</fr:meta><fr:meta
+name="ref-at">Exercise 3.1.iv</fr:meta><fr:meta
 name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -96,46 +67,42 @@ type="local"
 href="riehl-2017.xml"
 addr="riehl-2017"
 title="Category theory in context" />
-<fr:p>A (covariant) <fr:link
+<fr:p><fr:link
 type="local"
-href="rs-000L.xml"
-addr="rs-000L"
-title="Functor">functor</fr:link> <fr:tex
-display="inline"><![CDATA[C\xrightarrow {F}]]></fr:tex> <fr:link
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">Limits</fr:link> are unique up to unique <fr:link
 type="local"
-href="rs-000C.xml"
-addr="rs-000C"
-title="Category of sets"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:link> is <fr:link
-type="local"
-href="rs-0013.xml"
-addr="rs-0013"
-title="Representable functor">representable</fr:link>
-if and only if its <fr:link
-type="local"
-href="rs-001S.xml"
-addr="rs-001S"
-title="Category of elements">category of elements</fr:link> <fr:tex
-display="inline"><![CDATA[\text {el}(F)]]></fr:tex> has a <fr:link
-type="local"
-href="rs-0021.xml"
-addr="rs-0021"
-title="Initial object">initial
-object</fr:link>. Dually, a <fr:link
-type="local"
-href="rs-0015.xml"
-addr="rs-0015"
-title="Presheaf">presheaf</fr:link> <fr:tex
-display="inline"><![CDATA[C^\text {op}\xrightarrow {F}]]></fr:tex> <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span> is
-representable if and only if its category of elements has a
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> of
 <fr:link
 type="local"
-href="rs-0020.xml"
-addr="rs-0020"
-title="Terminal object">terminal object</fr:link>.</fr:p>
+href="rs-001W.xml"
+addr="rs-001W"
+title="Cone">cones</fr:link>. Explicitly, let <fr:tex
+display="inline"><![CDATA[J\xrightarrow {d} C]]></fr:tex> be a <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> and
+suppose <fr:tex
+display="inline"><![CDATA[x\xrightarrow {\lambda } D]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[y\xrightarrow {\mu } D]]></fr:tex> are both limiting cones. Then
+there is a unique isomorphism <fr:tex
+display="inline"><![CDATA[x\to  y]]></fr:tex> commuting with the <fr:tex
+display="inline"><![CDATA[\lambda ]]></fr:tex> and
+<fr:tex
+display="inline"><![CDATA[\mu ]]></fr:tex>.</fr:p><fr:p>Dually, <fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimits</fr:link> are unique up to unique isomorphism of
+<fr:link
+type="local"
+href="rs-001X.xml"
+addr="rs-001X"
+title="Cocone">cocones</fr:link>.</fr:p>
   
     
     
@@ -146,62 +113,33 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6483</fr:anchor><fr:addr
-type="machine">#359</fr:addr><fr:route>unstable-359.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0022.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5046</fr:anchor><fr:addr
+type="machine">#359</fr:addr><fr:route>unstable-359.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First let <fr:tex
-display="inline"><![CDATA[c\in  C]]></fr:tex> represent <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>, so that there is a <fr:link
+  <fr:p>This follows from the <fr:link
 type="local"
-href="rs-0010.xml"
-addr="rs-0010"
-title="Natural isomorphism">natural
-  isomorphism</fr:link> <fr:tex
-display="inline"><![CDATA[C(c, -)\overset {\alpha }{\cong } F]]></fr:tex>. Then the pair <fr:tex
-display="inline"><![CDATA[(c,   \alpha _c(1_c))]]></fr:tex> is initial in <fr:tex
-display="inline"><![CDATA[\text {el}(F)]]></fr:tex>. Indeed, for any <fr:tex
-display="inline"><![CDATA[(d, y)\in \text {el}(F)]]></fr:tex>,
-  the <fr:link
+href="rs-001O.xml"
+addr="rs-001O"
+title="Representable isomorphism is isomorphism">characterization of representable
+  isomorphism</fr:link>, but we give a direct proof. To show isomorphism, note
+  that the <fr:link
 type="local"
-href="rs-000E.xml"
-addr="rs-000E"
-title="Bijection">bijection</fr:link> <fr:tex
-display="inline"><![CDATA[\alpha _d]]></fr:tex> determines a unique element <fr:tex
-display="inline"><![CDATA[f\in  C(c, d)]]></fr:tex>
-  so that <fr:tex
-display="inline"><![CDATA[Ff(\alpha _c(1_c)) = y]]></fr:tex>; this exactly expresses initiality.</fr:p>
-
-  <fr:p>Conversely, let <fr:tex
-display="inline"><![CDATA[(c, x)]]></fr:tex> be initial in <fr:tex
-display="inline"><![CDATA[\text {el}(F)]]></fr:tex>. By the <fr:link
-type="local"
-href="rs-0014.xml"
-addr="rs-0014"
-title="Yoneda lemma">Yoneda
-  lemma</fr:link>, the element <fr:tex
-display="inline"><![CDATA[x\in  Fc]]></fr:tex> determines a <fr:link
-type="local"
-href="rs-000V.xml"
-addr="rs-000V"
-title="Natural transformation">natural
-  transformation</fr:link> <fr:tex
-display="inline"><![CDATA[C(c, -)\xrightarrow {\Phi (x)} F]]></fr:tex>; we need to show this is an
-  isomorphism. Initiality of <fr:tex
-display="inline"><![CDATA[(c, x)]]></fr:tex> asserts that, for any <fr:tex
-display="inline"><![CDATA[(d, y)\in \text {el}(F)]]></fr:tex>,
-  there is a unique map <fr:tex
-display="inline"><![CDATA[c\xrightarrow {f_y} d]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[Ff_y(x) = y]]></fr:tex>. Now in the
-  proof of the Yoneda lemma, <fr:tex
-display="inline"><![CDATA[\Phi (x)]]></fr:tex> was constructed so that
+href="rs-001Y-up.xml"
+addr="rs-001Y-up"
+title="Limit › universal property of limits">universal property of limits</fr:link> induces a pair of unique
+  maps <fr:tex
+display="inline"><![CDATA[x\xtofrom [g]{f} y]]></fr:tex> commuting with the cones; it remains to show these are
+  isomorphisms. The composite <fr:tex
+display="inline"><![CDATA[gf]]></fr:tex> is a map <fr:tex
+display="inline"><![CDATA[x\to  x]]></fr:tex> commuting with the cone
   <fr:tex
-display="inline"><![CDATA[F(\Phi (x)_d)(f) = Ff(x)]]></fr:tex>, so the assignment <fr:tex
-display="inline"><![CDATA[(d, y)\mapsto  f_y]]></fr:tex> inverts
+display="inline"><![CDATA[\lambda ]]></fr:tex>, but <fr:tex
+display="inline"><![CDATA[1_x]]></fr:tex> is another such map, so by uniqueness of suchs maps
   <fr:tex
-display="inline"><![CDATA[\Phi (x)_d]]></fr:tex>.</fr:p>
+display="inline"><![CDATA[gf = 1_x]]></fr:tex>. The same works on the other side.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

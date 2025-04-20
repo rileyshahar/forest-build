@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>992</fr:anchor><fr:addr
+type="user">rs-00CE</fr:addr><fr:route>rs-00CE.xml</fr:route><fr:title
+text="Open and closed sets">Open and closed sets</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CE.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">p. 2</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>A subset <fr:tex
+display="inline"><![CDATA[A\subseteq  X]]></fr:tex> of a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is:
+<fr:ul><fr:li><fr:em>open</fr:em> if it is in the topology;</fr:li>
+  <fr:li><fr:em>closed</fr:em> if its <fr:link
+type="local"
+href="rs-00CF.xml"
+addr="rs-00CF"
+title="Complement of a subset">complement</fr:link> in the topology;</fr:li>
+  <fr:li><fr:em>clopen</fr:em> if it is open and closed.</fr:li></fr:ul></fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>994</fr:anchor><fr:addr
+type="user">bradley-et-al-2020</fr:addr><fr:route>bradley-et-al-2020.xml</fr:route><fr:title
+text="Topology: a categorical approach">Topology: a categorical approach</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/bradley-et-al-2020.tree</fr:source-path><fr:date><fr:year>2020</fr:year></fr:date><fr:authors><fr:author>John Terilla</fr:author><fr:author>Tai-Danae Bradley</fr:author><fr:author>Tyler Bryson</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A graduate-level textbook that presents basic topology from the perspective of category theory.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>998</fr:anchor><fr:addr
+type="user">rs-00CS</fr:addr><fr:route>rs-00CS.xml</fr:route><fr:title
+text="Coproduct topology">Coproduct topology</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CS.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Section 1.5</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[\coprod  X_\alpha ]]></fr:tex> be a <fr:link
+type="local"
+href="rs-002S.xml"
+addr="rs-002S"
+title="Cartesian product of sets">coproduct</fr:link> of a family of
+<fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">spaces</fr:link> <fr:tex
+display="inline"><![CDATA[X_\alpha ]]></fr:tex>. Then the
+<fr:em>coproduct topology</fr:em> on <fr:tex
+display="inline"><![CDATA[\coprod  X_\alpha ]]></fr:tex> is the <fr:link
+type="local"
+href="rs-00CN.xml"
+addr="rs-00CN"
+title="Characterization of (co)limits in Top">final topology</fr:link> with
+respect to the inclusions <fr:tex
+display="inline"><![CDATA[X_\beta \xrightarrow {\iota _\beta }\coprod  X_\alpha ]]></fr:tex>. It thus
+has the following universal property: a <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">set-function</fr:link>
+<fr:tex
+display="inline"><![CDATA[\coprod  X_\alpha \xrightarrow {f} Z]]></fr:tex> is <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous</fr:link> if and only if each of
+the composites <fr:tex
+display="inline"><![CDATA[X_\beta \xrightarrow {\iota _\beta } \coprod  X_\alpha  \xrightarrow {f} Z]]></fr:tex> are.</fr:p><fr:p>Explicitly, the <fr:link
+type="local"
+href="rs-00CE.xml"
+addr="rs-00CE"
+title="Open and closed sets">open subsets</fr:link> of <fr:tex
+display="inline"><![CDATA[\coprod  X_\alpha ]]></fr:tex> are exactly the subsets
+<fr:tex
+display="inline"><![CDATA[\prod  U_\alpha ]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[U_\alpha \subseteq  X_\alpha ]]></fr:tex> open.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1000</fr:anchor><fr:addr
+type="user">rs-00CQ</fr:addr><fr:route>rs-00CQ.xml</fr:route><fr:title
+text="Quotient topology">Quotient topology</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CQ.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Section 1.3</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[X/\sim ]]></fr:tex> be a <fr:link
+type="local"
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">quotient</fr:link> of a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>. Then the
+<fr:em>quotient topology</fr:em> on <fr:tex
+display="inline"><![CDATA[X/\sim ]]></fr:tex> is the <fr:link
+type="local"
+href="rs-00CN.xml"
+addr="rs-00CN"
+title="Characterization of (co)limits in Top">final topology</fr:link> with
+respect to the projection <fr:tex
+display="inline"><![CDATA[X\xtwoheadrightarrow {\pi } X/\sim ]]></fr:tex>. It thus has the following
+universal property: a <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">set-function</fr:link> <fr:tex
+display="inline"><![CDATA[X/\sim \,\xrightarrow {f} Z]]></fr:tex> is
+<fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous</fr:link> if and only if the composite <fr:tex
+display="inline"><![CDATA[X\xrightarrow {\pi }X/\sim \,\xrightarrow {f}Z]]></fr:tex>
+is.</fr:p><fr:p>Explicitly, the <fr:link
+type="local"
+href="rs-00CE.xml"
+addr="rs-00CE"
+title="Open and closed sets">open subsets</fr:link> of <fr:tex
+display="inline"><![CDATA[X/\sim ]]></fr:tex> are exactly the subsets
+<fr:tex
+display="inline"><![CDATA[U\subseteq  X/\sim ]]></fr:tex> so that <fr:tex
+display="inline"><![CDATA[\pi ^{-1}(U)]]></fr:tex> is open in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1002</fr:anchor><fr:addr
+type="user">rs-00CP</fr:addr><fr:route>rs-00CP.xml</fr:route><fr:title
+text="Subspace topology">Subspace topology</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CP.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Section 1.2</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[Y\subseteq  X]]></fr:tex> be a <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> of a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>. Then
+the <fr:em>subspace topology</fr:em> on <fr:tex
+display="inline"><![CDATA[Y]]></fr:tex> is the <fr:link
+type="local"
+href="rs-00CN.xml"
+addr="rs-00CN"
+title="Characterization of (co)limits in Top">initial topology</fr:link> with respect
+to the inclusion <fr:tex
+display="inline"><![CDATA[Y\xhookrightarrow {\iota } X]]></fr:tex>. It thus has the following universal
+property: a <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">set-function</fr:link> <fr:tex
+display="inline"><![CDATA[Z\xrightarrow {f} Y]]></fr:tex> is <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous</fr:link> if and
+only if the composite <fr:tex
+display="inline"><![CDATA[Z\xrightarrow {f}Y\xrightarrow {\iota }X]]></fr:tex> is.</fr:p><fr:p>Explicitly, the <fr:link
+type="local"
+href="rs-00CE.xml"
+addr="rs-00CE"
+title="Open and closed sets">open subsets</fr:link> of <fr:tex
+display="inline"><![CDATA[Y]]></fr:tex> are exactly the
+<fr:link
+type="local"
+href="rs-00C7.xml"
+addr="rs-00C7"
+title="Intersection of subsets">intersections</fr:link> <fr:tex
+display="inline"><![CDATA[U\cap  Y]]></fr:tex>, where <fr:tex
+display="inline"><![CDATA[U\subseteq  X]]></fr:tex> is open.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1004</fr:anchor><fr:addr
+type="user">rs-00CD</fr:addr><fr:route>rs-00CD.xml</fr:route><fr:title
+text="Continuous map">Continuous map</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CD.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Definition 0.3</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>A <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">function</fr:link> <fr:tex
+display="inline"><![CDATA[f: X\to  Y]]></fr:tex> between <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">spaces</fr:link> is
+<fr:em>continuous</fr:em> if it induces a <fr:link
+type="local"
+href="rs-00CB.xml"
+addr="rs-00CB"
+title="Frame">frame homormorphism</fr:link> via the <fr:link
+type="local"
+href="rs-000O.xml"
+addr="rs-000O"
+title="Inverse image functor">inverse
+image</fr:link>: if <fr:tex
+display="inline"><![CDATA[U\subseteq  Y]]></fr:tex> is <fr:link
+type="local"
+href="rs-00CE.xml"
+addr="rs-00CE"
+title="Open and closed sets">open</fr:link>, then so is <fr:tex
+display="inline"><![CDATA[f^{-1}(U)]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1006</fr:anchor><fr:addr
+type="user">rs-00CF</fr:addr><fr:route>rs-00CF.xml</fr:route><fr:title
+text="Complement of a subset">Complement of a subset</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CF.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The <fr:em>complement</fr:em> <fr:tex
+display="inline"><![CDATA[A^c]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[A\subseteq  X]]></fr:tex> is the
+subset <fr:tex
+display="block"><![CDATA[\{x\in  X: x\notin  A\}.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1008</fr:anchor><fr:addr
+type="user">rs-00CA</fr:addr><fr:route>rs-00CA.xml</fr:route><fr:title
+text="Topological space">Topological space</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CA.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Definition 0.1</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>A <fr:em>topological space</fr:em> is a set <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> together with a <fr:em>topology</fr:em>, i.e. a
+<fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">sub</fr:link><fr:link
+type="local"
+href="rs-00CB.xml"
+addr="rs-00CB"
+title="Frame">frame</fr:link> <fr:tex
+display="inline"><![CDATA[\mathcal {T}\subseteq  2^X]]></fr:tex> of its <fr:link
+type="local"
+href="rs-00CG.xml"
+addr="rs-00CG"
+title="Complete Boolean algebra structure on power sets">power set</fr:link>:
+it contains <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> and the <fr:link
+type="local"
+href="rs-00AA.xml"
+addr="rs-00AA"
+title="Empty set">empty set</fr:link> and is closed under arbitrary
+<fr:link
+type="local"
+href="rs-00C6.xml"
+addr="rs-00C6"
+title="Union of subsets">unions</fr:link> and <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link> <fr:link
+type="local"
+href="rs-00C7.xml"
+addr="rs-00C7"
+title="Intersection of subsets">intersections</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

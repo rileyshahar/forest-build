@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>461</fr:anchor><fr:addr
+type="user">rs-00D1</fr:addr><fr:route>rs-00D1.xml</fr:route><fr:title
+text="Naive homotopy category of spaces">Naive homotopy category of spaces</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00D1.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous map</fr:link> <fr:tex
+display="inline"><![CDATA[f: X\to  Y]]></fr:tex> is a <fr:em>homotopy equivalence</fr:em> if
+there is a <fr:em>weak inverse</fr:em> <fr:tex
+display="inline"><![CDATA[g: Y\to  X]]></fr:tex> and <fr:link
+type="local"
+href="rs-00CW.xml"
+addr="rs-00CW"
+title="Homotopy of continuous maps">homotopies</fr:link> <fr:tex
+display="inline"><![CDATA[1_X\simeq  g\circ  f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[1_Y\simeq  f\circ  g]]></fr:tex>. This gives <fr:link
+type="local"
+href="rs-000D.xml"
+addr="rs-000D"
+title="Category of spaces"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span></fr:link> the
+structure of a <fr:link
+type="local"
+href="rs-00BX.xml"
+addr="rs-00BX"
+title="Homotopical category">homotopical category</fr:link>; its associated <fr:link
+type="local"
+href="rs-00C1.xml"
+addr="rs-00C1"
+title="Homotopy category of a homotopical category">homotopy
+category</fr:link> is the <fr:em>naive homotopy category of spaces</fr:em>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>463</fr:anchor><fr:addr
+type="user">rs-00D0</fr:addr><fr:route>rs-00D0.xml</fr:route><fr:title
+text="Fundamental groupoid">Fundamental groupoid</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00D0.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">Section 1.5</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>The <fr:em>fundamental groupoid</fr:em> <fr:tex
+display="inline"><![CDATA[\Pi _1 X]]></fr:tex> of a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is the
+<fr:link
+type="local"
+href="rs-000G.xml"
+addr="rs-000G"
+title="Groupoid">groupoid</fr:link> whose objects are points in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> and whose morphisms are
+<fr:link
+type="local"
+href="rs-00CY.xml"
+addr="rs-00CY"
+title="Path homotopy">homotopy classes</fr:link> of <fr:link
+type="local"
+href="rs-00CX.xml"
+addr="rs-00CX"
+title="Path in a topological space">paths</fr:link>, with composition
+<fr:link
+type="local"
+href="rs-00CZ.xml"
+addr="rs-00CZ"
+title="Concatenation of paths">concatenation</fr:link>. This extends to a <fr:link
+type="local"
+href="rs-00D1.xml"
+addr="rs-00D1"
+title="Naive homotopy category of spaces">homotopy invariant</fr:link>
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> from <fr:link
+type="local"
+href="rs-000D.xml"
+addr="rs-000D"
+title="Category of spaces">spaces</fr:link> to groupoids.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>465</fr:anchor><fr:addr
+type="user">rs-00CW</fr:addr><fr:route>rs-00CW.xml</fr:route><fr:title
+text="Homotopy of continuous maps">Homotopy of continuous maps</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CW.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Section 1.6</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>A <fr:em>homotopy</fr:em> of <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous maps</fr:link> <fr:tex
+display="inline"><![CDATA[X\overset {f, g}{\rightrightarrows } Y]]></fr:tex> is a function
+<fr:tex
+display="inline"><![CDATA[H: X\times  I\to  Y]]></fr:tex> from the <fr:link
+type="local"
+href="rs-00CR.xml"
+addr="rs-00CR"
+title="Product topology">product</fr:link> with the <fr:link
+type="local"
+href="rs-00CT.xml"
+addr="rs-00CT"
+title="Topological interval">interval</fr:link> so
+that <fr:tex
+display="inline"><![CDATA[H(-, 0) = f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[H(-, 1) = g]]></fr:tex>. Two maps are <fr:em>homotopic</fr:em> if there is
+a homotopy between them; we write <fr:tex
+display="inline"><![CDATA[f\simeq  g]]></fr:tex> and observe that this is an
+<fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">equivalence relation</fr:link> on hom-sets between spaces.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>467</fr:anchor><fr:addr
+type="user">rs-00CD</fr:addr><fr:route>rs-00CD.xml</fr:route><fr:title
+text="Continuous map">Continuous map</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CD.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Definition 0.3</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>A <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">function</fr:link> <fr:tex
+display="inline"><![CDATA[f: X\to  Y]]></fr:tex> between <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">spaces</fr:link> is
+<fr:em>continuous</fr:em> if it induces a <fr:link
+type="local"
+href="rs-00CB.xml"
+addr="rs-00CB"
+title="Frame">frame homormorphism</fr:link> via the <fr:link
+type="local"
+href="rs-000O.xml"
+addr="rs-000O"
+title="Inverse image functor">inverse
+image</fr:link>: if <fr:tex
+display="inline"><![CDATA[U\subseteq  Y]]></fr:tex> is <fr:link
+type="local"
+href="rs-00CE.xml"
+addr="rs-00CE"
+title="Open and closed sets">open</fr:link>, then so is <fr:tex
+display="inline"><![CDATA[f^{-1}(U)]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>469</fr:anchor><fr:addr
+type="user">rs-00BX</fr:addr><fr:route>rs-00BX.xml</fr:route><fr:title
+text="Homotopical category">Homotopical category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BX.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 2.1.1</fr:meta><fr:meta
+name="ref-note">riehl-2014</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2014.xml"
+addr="riehl-2014"
+title="Categorical homotopy theory" />
+<fr:p>A <fr:em>homotopical category</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> equipped with a
+collection of morphisms <fr:tex
+display="inline"><![CDATA[W]]></fr:tex>, called the <fr:em>weak equivalences</fr:em>, which contains
+the <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link> and satisfies the <fr:link
+type="local"
+href="rs-00BY.xml"
+addr="rs-00BY"
+title="Two-of-six property">two-of-six property</fr:link>
+(<fr:link
+type="local"
+href="rs-00C0.xml"
+addr="rs-00C0"
+title="Two-of-six implies two-of-three">hence</fr:link> is closed under composition and so forms a <fr:link
+type="local"
+href="TODO.xml"
+addr="TODO"
+title="TODO">wide
+subcategory</fr:link>). A <fr:em>homotopical functor</fr:em> is a
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> which <fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> weak equivalences; the
+<fr:em>category of homotopical categories</fr:em> is so defined.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>471</fr:anchor><fr:addr
+type="user">rs-00C1</fr:addr><fr:route>rs-00C1.xml</fr:route><fr:title
+text="Homotopy category of a homotopical category">Homotopy category of a homotopical category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00C1.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 2.1.6</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>The <fr:em>homotopy category</fr:em> <fr:tex
+display="inline"><![CDATA[\operatorname {Ho} M]]></fr:tex> of a <fr:link
+type="local"
+href="rs-00BX.xml"
+addr="rs-00BX"
+title="Homotopical category">homotopical category</fr:link> <fr:tex
+display="inline"><![CDATA[M]]></fr:tex> with weak
+equivalences <fr:tex
+display="inline"><![CDATA[W]]></fr:tex> is the <fr:link
+type="local"
+href="rs-00AZ.xml"
+addr="rs-00AZ"
+title="Localization of a category">localization</fr:link> of <fr:tex
+display="inline"><![CDATA[M]]></fr:tex> at <fr:tex
+display="inline"><![CDATA[W]]></fr:tex>. By the
+universal property of localization, this extends to a <fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link>
+<fr:tex
+display="inline"><![CDATA[\operatorname {Ho}]]></fr:tex> from homotopical categories to <fr:link
+type="local"
+href="rs-002V.xml"
+addr="rs-002V"
+title="Category of categories">categories</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>473</fr:anchor><fr:addr
+type="user">rs-000D</fr:addr><fr:route>rs-000D.xml</fr:route><fr:title
+text="Category of spaces">Category of spaces</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.3(ii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>The <fr:em>category of topological spaces</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span> is the <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>
+whose objects are <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">topological spaces</fr:link> and whose morphisms are <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous
+functions</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

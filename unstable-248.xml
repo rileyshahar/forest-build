@@ -7,27 +7,40 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>628</fr:anchor><fr:addr
-type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
-text="Preabelian category › of (co)completeness"><fr:link
-type="local"
-href="rs-00BR.xml"
-addr="rs-00BR"
-title="Preabelian category">Preabelian category</fr:link> › of (co)completeness</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1153</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  Since additive categories have biproducts, it <fr:link
+  <fr:p>Given that <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a mono, and noting that the <fr:link
 type="local"
-href="rs-0057.xml"
-addr="rs-0057"
-title="Finite compleness criterion">suffices to show</fr:link> that
-  kernels and cokernels give equalizers and coequalizers; the equalizer of <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>
-  and <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> is the same as the kernel of <fr:tex
-display="inline"><![CDATA[f - g]]></fr:tex>, and dually for coequalizers.
+href="rs-005E.xml"
+addr="rs-005E"
+title="Zero morphism">zero map</fr:link>
+  <fr:tex
+display="inline"><![CDATA[z\xrightarrow {0} x]]></fr:tex> equalizes <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[x\xrightarrow {0} y]]></fr:tex>, any other map <fr:tex
+display="inline"><![CDATA[x\to  z]]></fr:tex> which
+  equalizes these maps must also be <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>. The zero map factors uniquely through
+  the object <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[0]]></fr:tex> satisfies the universal property of the kernel.</fr:p>
+
+  <fr:p>The coimage is now the <fr:link
+type="local"
+href="rs-00BP.xml"
+addr="rs-00BP"
+title="Images and kernels">cokernel of the kernel</fr:link>, hence the cokernel of
+  the zero map <fr:tex
+display="inline"><![CDATA[0\to  x]]></fr:tex>, hence the coequalizer of the zero map with itself,
+  hence just the identity at <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>.</fr:p>
+
+  <fr:p>Exactness follows from the definition of an exact sequence.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -43,35 +56,61 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>630</fr:anchor><fr:addr
-type="user">rs-00BR</fr:addr><fr:route>rs-00BR.xml</fr:route><fr:title
-text="Preabelian category">Preabelian category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1155</fr:anchor><fr:addr
+type="user">rs-00BW</fr:addr><fr:route>rs-00BW.xml</fr:route><fr:title
+text="Monos and epis in preabelian categories">Monos and epis in preabelian categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>preabelian category</fr:em> is an <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> be a map in a <fr:link
 type="local"
-href="rs-00BM.xml"
-addr="rs-00BM"
-title="Additive category">additive category</fr:link> which has all
-<fr:link
+href="rs-00BR.xml"
+addr="rs-00BR"
+title="Preabelian category">preabelian category</fr:link>. Then the
+following are equivalent:
+<fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a <fr:link
+type="local"
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monomorphism</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has <fr:link
+type="local"
+href="rs-005D.xml"
+addr="rs-005D"
+title="Zero object">trivial</fr:link> <fr:link
 type="local"
 href="rs-009G.xml"
 addr="rs-009G"
-title="Kernel">kernels</fr:link> and cokernels; hence is <fr:link
+title="Kernel">kernel</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has <fr:link
 type="local"
-href="rs-0058.xml"
-addr="rs-0058"
-title="Finite category">finitely</fr:link>
-<fr:link
+href="rs-00AT.xml"
+addr="rs-00AT"
+title="Regular image">coimage</fr:link> <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[0\to  x\xrightarrow {f} y]]></fr:tex> is <fr:link
 type="local"
-href="rs-002C.xml"
-addr="rs-002C"
-title="Complete category">complete</fr:link> and <fr:link
+href="rs-00BU.xml"
+addr="rs-00BU"
+title="Exact sequence">exact</fr:link>.</fr:li></fr:ul></fr:p><fr:p>Dually, the following are equivalent:
+<fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is an <fr:link
 type="local"
-href="rs-002D.xml"
-addr="rs-002D"
-title="Cocomplete category">cocomplete</fr:link>.</fr:p>
+href="rs-000B.xml"
+addr="rs-000B"
+title="Epimorphism">epimorphism</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has image <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has trivial cokernel;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y\to  0]]></fr:tex> is exact.</fr:li></fr:ul></fr:p>
   
     
     
@@ -82,23 +121,40 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>469</fr:anchor><fr:addr
-type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
-text="Of (co)completeness">Of (co)completeness</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1157</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BW.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>16</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  Since additive categories have biproducts, it <fr:link
+  <fr:p>Given that <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a mono, and noting that the <fr:link
 type="local"
-href="rs-0057.xml"
-addr="rs-0057"
-title="Finite compleness criterion">suffices to show</fr:link> that
-  kernels and cokernels give equalizers and coequalizers; the equalizer of <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>
-  and <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> is the same as the kernel of <fr:tex
-display="inline"><![CDATA[f - g]]></fr:tex>, and dually for coequalizers.
+href="rs-005E.xml"
+addr="rs-005E"
+title="Zero morphism">zero map</fr:link>
+  <fr:tex
+display="inline"><![CDATA[z\xrightarrow {0} x]]></fr:tex> equalizes <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[x\xrightarrow {0} y]]></fr:tex>, any other map <fr:tex
+display="inline"><![CDATA[x\to  z]]></fr:tex> which
+  equalizes these maps must also be <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>. The zero map factors uniquely through
+  the object <fr:tex
+display="inline"><![CDATA[0]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[0]]></fr:tex> satisfies the universal property of the kernel.</fr:p>
+
+  <fr:p>The coimage is now the <fr:link
+type="local"
+href="rs-00BP.xml"
+addr="rs-00BP"
+title="Images and kernels">cokernel of the kernel</fr:link>, hence the cokernel of
+  the zero map <fr:tex
+display="inline"><![CDATA[0\to  x]]></fr:tex>, hence the coequalizer of the zero map with itself,
+  hence just the identity at <fr:tex
+display="inline"><![CDATA[x]]></fr:tex>.</fr:p>
+
+  <fr:p>Exactness follows from the definition of an exact sequence.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

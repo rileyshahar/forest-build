@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>377</fr:anchor><fr:addr
+type="user">k-theory-sem-deloopings</fr:addr><fr:route>k-theory-sem-deloopings.xml</fr:route><fr:title
+text="Deloopings of categories">Deloopings of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-deloopings.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We give a high-level intuition for why spaces with highly-coherent homotopy-commutative
+and associative multiplications should model infinite loop spaces. We discuss
+two machines for identifying such space spaces: May's operads and Segal's
+gamma spaces. We conclude with a discussion of categories of operators and the
+May-Thomason uniqueness theorem for infinite loop space machines.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

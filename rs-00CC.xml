@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>986</fr:anchor><fr:addr
+type="user">rs-00CC</fr:addr><fr:route>rs-00CC.xml</fr:route><fr:title
+text="Locale">Locale</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CC.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The category <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Loc</html:span> of <fr:em>locales</fr:em> is <fr:link
+type="local"
+href="rs-0008.xml"
+addr="rs-0008"
+title="Opposite category">formally dual</fr:link> to the
+category <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Frm</html:span> of <fr:link
+type="local"
+href="rs-00CB.xml"
+addr="rs-00CB"
+title="Frame">frames</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>988</fr:anchor><fr:addr
+type="user">rs-00CB</fr:addr><fr:route>rs-00CB.xml</fr:route><fr:title
+text="Frame">Frame</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CB.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>frame</fr:em> is a <fr:link
+type="local"
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> with arbitrary
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">joins</fr:link> and the infinitary distributive law <fr:tex
+display="block"><![CDATA[x\wedge  \bigvee  y_i = \bigvee  (x\wedge  y_i).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>990</fr:anchor><fr:addr
+type="user">rs-0008</fr:addr><fr:route>rs-0008.xml</fr:route><fr:title
+text="Opposite category">Opposite category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0008.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.2.1</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> be a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>. The <fr:em>opposite category</fr:em> <fr:tex
+display="inline"><![CDATA[C^{\text {op}}]]></fr:tex>
+has:</fr:p><fr:ul><fr:li>the same objects as in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>;</fr:li>
+  <fr:li>for each morphism <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, a morphism
+      <fr:tex
+display="inline"><![CDATA[y\xrightarrow {f^{\text {op}}} x]]></fr:tex>;</fr:li>
+	<fr:li>composition and identities as in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>.</fr:li></fr:ul></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

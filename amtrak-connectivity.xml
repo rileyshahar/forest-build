@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>379</fr:anchor><fr:addr
+type="user">amtrak-connectivity</fr:addr><fr:route>amtrak-connectivity.xml</fr:route><fr:title
+text="A connectivity toolbox">A connectivity toolbox</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/amtrak-connectivity.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Atlantic Meeting on Topology, Representation theory, and K-theory
+(AMTRaK): Homological Stability</fr:meta><fr:meta
+name="external">https://web.sas.upenn.edu/callem/amtrak/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>This talk will elaborate on the connectivity arguments that were swept under
+the rug during pre-talk 1. In particular, we will focus on tools and techniques
+coming from discrete Morse theory. After introducing the basics of discrete
+Morse theory, we will use it to prove the Solomon-Tits Theorem.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

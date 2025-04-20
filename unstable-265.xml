@@ -7,35 +7,37 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1875</fr:anchor><fr:addr
-type="machine">#265</fr:addr><fr:route>unstable-265.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2428</fr:anchor><fr:addr
+type="machine">#265</fr:addr><fr:route>unstable-265.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show that this defines a group, note that the induced equivalence
-  relation is a congruence, hence compatible with the group multiplication, so
-  that the multiplication is well-defined. The group axioms are direct from
-  those of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
+  <fr:p>To show the first two, note that <fr:link
+type="local"
+href="rs-005F.xml"
+addr="rs-005F"
+title="Monos are characterized by pullbacks">monos are limits</fr:link> and <fr:link
+type="local"
+href="rs-009F.xml"
+addr="rs-009F"
+title="Grp is complete">limits
+  are created in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
 
-  <fr:p>To exhibit the universal property, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> be any
-  <fr:link
-type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link> which is constant on equivalence classes. Since <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex>
-  is also the <fr:link
-type="local"
-href="rs-0099.xml"
-addr="rs-0099"
-title="Quotient of sets">quotient set</fr:link>, It suffices
-  to show that the induced set-function <fr:tex
-display="inline"><![CDATA[\tilde {f}]]></fr:tex> is a homomorphism:
+  <fr:p>To show the kernel result, note that if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is injective, then the kernel
+  is automatically trivial, whereas if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has trivial kernel, then for any
   <fr:tex
-display="block"><![CDATA[\tilde {f}(ghN) = f(gh) = f(g)f(h) = \tilde {f}(g)\tilde {f}(h).]]></fr:tex></fr:p>
+display="inline"><![CDATA[x, y\in  G]]></fr:tex> with <fr:tex
+display="inline"><![CDATA[f(x) = f(y)]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[f(xy^{-1}) = e]]></fr:tex>, so <fr:tex
+display="inline"><![CDATA[xy^{-1}\in \ker (f)]]></fr:tex>,
+  meaning <fr:tex
+display="inline"><![CDATA[xy^{-1} = e]]></fr:tex>, and now <fr:tex
+display="inline"><![CDATA[x = y]]></fr:tex>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -51,48 +53,46 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1877</fr:anchor><fr:addr
-type="user">rs-00A2</fr:addr><fr:route>rs-00A2.xml</fr:route><fr:title
-text="Quotient group">Quotient group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2430</fr:anchor><fr:addr
+type="user">rs-00A8</fr:addr><fr:route>rs-00A8.xml</fr:route><fr:title
+text="Monomorphism of groups">Monomorphism of groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Aluffi</fr:meta><fr:meta
-name="ref-at">Definition II.7.11</fr:meta><fr:meta
-name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
-	
-	
-	
-	<fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The following are equivalent for a <fr:link
 type="local"
-href="aluffi-2009.xml"
-addr="aluffi-2009"
-title="Algebra: chapter 0" />
-<fr:p>Let <fr:link
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">homomorphism</fr:link> <fr:tex
+display="inline"><![CDATA[G\xrightarrow {f}H]]></fr:tex> of
+<fr:link
 type="local"
-href="rs-009L.xml"
-addr="rs-009L"
-title="Characterization of normal subgroups"><fr:tex
-display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then the <fr:em>quotient group</fr:em> <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex> is
-the <fr:link
+href="rs-009B.xml"
+addr="rs-009B"
+title="Category of groups">groups</fr:link>:
+
+<fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is a <fr:link
 type="local"
-href="rs-0098.xml"
-addr="rs-0098"
-title="Quotient object">quotient object</fr:link> of the <fr:link
+href="rs-000A.xml"
+addr="rs-000A"
+title="Monomorphism">monomorphism</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
 type="local"
-href="rs-009I.xml"
-addr="rs-009I"
-title="Congruences of groups are equivalently normal subgroups">induced congruence</fr:link>; explicitly,
-it is the set of <fr:link
+href="rs-000H.xml"
+addr="rs-000H"
+title="Injection">injective</fr:link>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">cosets</fr:link> of <fr:tex
-display="inline"><![CDATA[N]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[G]]></fr:tex> with the operation <fr:tex
-display="block"><![CDATA[(gN)(hN) = (gh)N.]]></fr:tex></fr:p>
+href="rs-008U.xml"
+addr="rs-008U"
+title="Trivial group">trivial</fr:link> <fr:link
+type="local"
+href="rs-00A4.xml"
+addr="rs-00A4"
+title="Kernel of a group homomorphism">kernel</fr:link>.</fr:li></fr:ul></fr:p>
   
     
     
@@ -103,35 +103,37 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1348</fr:anchor><fr:addr
-type="machine">#265</fr:addr><fr:route>unstable-265.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A2.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1959</fr:anchor><fr:addr
+type="machine">#265</fr:addr><fr:route>unstable-265.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A8.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show that this defines a group, note that the induced equivalence
-  relation is a congruence, hence compatible with the group multiplication, so
-  that the multiplication is well-defined. The group axioms are direct from
-  those of <fr:tex
-display="inline"><![CDATA[G]]></fr:tex>.</fr:p>
+  <fr:p>To show the first two, note that <fr:link
+type="local"
+href="rs-005F.xml"
+addr="rs-005F"
+title="Monos are characterized by pullbacks">monos are limits</fr:link> and <fr:link
+type="local"
+href="rs-009F.xml"
+addr="rs-009F"
+title="Grp is complete">limits
+  are created in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
 
-  <fr:p>To exhibit the universal property, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {f} H]]></fr:tex> be any
-  <fr:link
-type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link> which is constant on equivalence classes. Since <fr:tex
-display="inline"><![CDATA[G/N]]></fr:tex>
-  is also the <fr:link
-type="local"
-href="rs-0099.xml"
-addr="rs-0099"
-title="Quotient of sets">quotient set</fr:link>, It suffices
-  to show that the induced set-function <fr:tex
-display="inline"><![CDATA[\tilde {f}]]></fr:tex> is a homomorphism:
+  <fr:p>To show the kernel result, note that if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is injective, then the kernel
+  is automatically trivial, whereas if <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> has trivial kernel, then for any
   <fr:tex
-display="block"><![CDATA[\tilde {f}(ghN) = f(gh) = f(g)f(h) = \tilde {f}(g)\tilde {f}(h).]]></fr:tex></fr:p>
+display="inline"><![CDATA[x, y\in  G]]></fr:tex> with <fr:tex
+display="inline"><![CDATA[f(x) = f(y)]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[f(xy^{-1}) = e]]></fr:tex>, so <fr:tex
+display="inline"><![CDATA[xy^{-1}\in \ker (f)]]></fr:tex>,
+  meaning <fr:tex
+display="inline"><![CDATA[xy^{-1} = e]]></fr:tex>, and now <fr:tex
+display="inline"><![CDATA[x = y]]></fr:tex>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

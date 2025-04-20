@@ -7,22 +7,24 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7030</fr:anchor><fr:addr
-type="machine">#345</fr:addr><fr:route>unstable-345.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0031.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7593</fr:anchor><fr:addr
+type="machine">#345</fr:addr><fr:route>unstable-345.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0033.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  <fr:p>By the <fr:link
 type="local"
-href="rs-0030.xml"
-addr="rs-0030"
-title="Functoriality of limits">Taking limits is functorial</fr:link> and <fr:link
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability of limits</fr:link>, each of these follows from
+  the corresponding result in <fr:link
 type="local"
-href="rs-000P.xml"
-addr="rs-000P"
-title="Functors preserve isomorphisms">functors preserve
-  isomorphism</fr:link>.</fr:p>
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -38,43 +40,28 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7032</fr:anchor><fr:addr
-type="user">rs-0031</fr:addr><fr:route>rs-0031.xml</fr:route><fr:title
-text="Isomorphic diagrams have isomorphic limits">Isomorphic diagrams have isomorphic limits</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0031.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7595</fr:anchor><fr:addr
+type="user">rs-0033</fr:addr><fr:route>rs-0033.xml</fr:route><fr:title
+text="Equational theory of cartesian categories">Equational theory of cartesian categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0033.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Corollary 3.6.3</fr:meta><fr:meta
-name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
-	
-	
-	
-	<fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
 type="local"
-href="riehl-2017.xml"
-addr="riehl-2017"
-title="Category theory in context" />
-<fr:p>Let <fr:tex
-display="inline"><![CDATA[J\xrightarrow {F,G} C]]></fr:tex> be <fr:link
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">cartesian category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> satisfies the following equations up to
+<fr:link
 type="local"
 href="rs-0010.xml"
 addr="rs-0010"
-title="Natural isomorphism">naturally isomorphic</fr:link> <fr:link
-type="local"
-href="rs-001U.xml"
-addr="rs-001U"
-title="Diagram">diagrams</fr:link>.
-Then if their <fr:link
-type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limits</fr:link> exist, they are <fr:link
-type="local"
-href="rs-0002.xml"
-addr="rs-0002"
-title="Isomorphism">isomorphic</fr:link>.</fr:p>
+title="Natural isomorphism">natural isomorphism</fr:link>:</fr:p><fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[x\times  y\cong  y\times  x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\times (y\times  z)\cong (x\times  y)\times  z]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\times  1\cong  x]]></fr:tex>.</fr:li></fr:ul>
   
     
     
@@ -85,22 +72,24 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4411</fr:anchor><fr:addr
-type="machine">#345</fr:addr><fr:route>unstable-345.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0031.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4827</fr:anchor><fr:addr
+type="machine">#345</fr:addr><fr:route>unstable-345.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0033.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  <fr:p>By the <fr:link
 type="local"
-href="rs-0030.xml"
-addr="rs-0030"
-title="Functoriality of limits">Taking limits is functorial</fr:link> and <fr:link
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability of limits</fr:link>, each of these follows from
+  the corresponding result in <fr:link
 type="local"
-href="rs-000P.xml"
-addr="rs-000P"
-title="Functors preserve isomorphisms">functors preserve
-  isomorphism</fr:link>.</fr:p>
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

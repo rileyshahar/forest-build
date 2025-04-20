@@ -7,19 +7,17 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>751</fr:anchor><fr:addr
-type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BH.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1420</fr:anchor><fr:addr
+type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Notice that this is exactly the universal property of the tensor
-  product: a homomorphism <fr:tex
-display="inline"><![CDATA[M\otimes  N\to  O]]></fr:tex> is the same as a bilinear map
-  <fr:tex
-display="inline"><![CDATA[M\times  N\to  O]]></fr:tex>, which by definition is the same as a module homomorphism
-  <fr:tex
-display="inline"><![CDATA[M\to  [N, O]]]></fr:tex>.</fr:p>
+  <fr:p><fr:link
+type="local"
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -35,32 +33,48 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>753</fr:anchor><fr:addr
-type="user">rs-00BH</fr:addr><fr:route>rs-00BH.xml</fr:route><fr:title
-text="Closed symmetric monoidal structure on modules">Closed symmetric monoidal structure on modules</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BH.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1422</fr:anchor><fr:addr
+type="user">rs-00BN</fr:addr><fr:route>rs-00BN.xml</fr:route><fr:title
+text="Additive functors are those that commute with direct sums">Additive functors are those that commute with direct sums</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Proposition 8.2.15</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
 type="local"
-href="rs-00B8.xml"
-addr="rs-00B8"
-title="Module of a ring">category of <fr:tex
-display="inline"><![CDATA[R]]></fr:tex>-modules</fr:link> is <fr:link
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A <fr:link
 type="local"
-href="rs-005J.xml"
-addr="rs-005J"
-title="Closed symmetric monoidal category">closed symmetric
-monoidal</fr:link>, with the <fr:link
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> <fr:tex
+display="inline"><![CDATA[A\xrightarrow {F} B]]></fr:tex> of <fr:link
 type="local"
-href="rs-00B4.xml"
-addr="rs-00B4"
-title="Tensor product of modules">tensor product</fr:link> and <fr:link
+href="rs-00BM.xml"
+addr="rs-00BM"
+title="Additive category">additive categories</fr:link> is
+<fr:link
 type="local"
-href="rs-00BG.xml"
-addr="rs-00BG"
-title="Internal hom of modules">internal
-hom</fr:link>.</fr:p>
+href="rs-00BJ.xml"
+addr="rs-00BJ"
+title="Additive functor">additive</fr:link> if and only if it <fr:link
+type="local"
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> <fr:link
+type="local"
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">direct
+sums</fr:link>.</fr:p>
   
     
     
@@ -71,19 +85,17 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>755</fr:anchor><fr:addr
-type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BH.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1424</fr:anchor><fr:addr
+type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Notice that this is exactly the universal property of the tensor
-  product: a homomorphism <fr:tex
-display="inline"><![CDATA[M\otimes  N\to  O]]></fr:tex> is the same as a bilinear map
-  <fr:tex
-display="inline"><![CDATA[M\times  N\to  O]]></fr:tex>, which by definition is the same as a module homomorphism
-  <fr:tex
-display="inline"><![CDATA[M\to  [N, O]]]></fr:tex>.</fr:p>
+  <fr:p><fr:link
+type="local"
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

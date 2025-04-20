@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>423</fr:anchor><fr:addr
+type="user">rs-00D0</fr:addr><fr:route>rs-00D0.xml</fr:route><fr:title
+text="Fundamental groupoid">Fundamental groupoid</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00D0.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">Section 1.5</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>The <fr:em>fundamental groupoid</fr:em> <fr:tex
+display="inline"><![CDATA[\Pi _1 X]]></fr:tex> of a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is the
+<fr:link
+type="local"
+href="rs-000G.xml"
+addr="rs-000G"
+title="Groupoid">groupoid</fr:link> whose objects are points in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> and whose morphisms are
+<fr:link
+type="local"
+href="rs-00CY.xml"
+addr="rs-00CY"
+title="Path homotopy">homotopy classes</fr:link> of <fr:link
+type="local"
+href="rs-00CX.xml"
+addr="rs-00CX"
+title="Path in a topological space">paths</fr:link>, with composition
+<fr:link
+type="local"
+href="rs-00CZ.xml"
+addr="rs-00CZ"
+title="Concatenation of paths">concatenation</fr:link>. This extends to a <fr:link
+type="local"
+href="rs-00D1.xml"
+addr="rs-00D1"
+title="Naive homotopy category of spaces">homotopy invariant</fr:link>
+<fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> from <fr:link
+type="local"
+href="rs-000D.xml"
+addr="rs-000D"
+title="Category of spaces">spaces</fr:link> to groupoids.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>425</fr:anchor><fr:addr
+type="user">may-concise-course</fr:addr><fr:route>may-concise-course.xml</fr:route><fr:title
+text="A concise course in algebraic topology">A concise course in algebraic topology</fr:title><fr:taxon>Reference</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/bib/may-concise-course.tree</fr:source-path><fr:authors><fr:author>Peter May</fr:author></fr:authors></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>427</fr:anchor><fr:addr
+type="user">rs-00CZ</fr:addr><fr:route>rs-00CZ.xml</fr:route><fr:title
+text="Concatenation of paths">Concatenation of paths</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CZ.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">p. 6</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>Given <fr:link
+type="local"
+href="rs-00CX.xml"
+addr="rs-00CX"
+title="Path in a topological space">paths</fr:link> <fr:tex
+display="inline"><![CDATA[x\overset {p}{\rightsquigarrow }y\overset {q}{\rightsquigarrow } z]]></fr:tex>, their <fr:em>concatenation</fr:em>
+<fr:tex
+display="inline"><![CDATA[p\cdot  q]]></fr:tex> is the path which traverses <fr:tex
+display="inline"><![CDATA[p]]></fr:tex> and then <fr:tex
+display="inline"><![CDATA[q]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>429</fr:anchor><fr:addr
+type="user">rs-00D1</fr:addr><fr:route>rs-00D1.xml</fr:route><fr:title
+text="Naive homotopy category of spaces">Naive homotopy category of spaces</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00D1.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous map</fr:link> <fr:tex
+display="inline"><![CDATA[f: X\to  Y]]></fr:tex> is a <fr:em>homotopy equivalence</fr:em> if
+there is a <fr:em>weak inverse</fr:em> <fr:tex
+display="inline"><![CDATA[g: Y\to  X]]></fr:tex> and <fr:link
+type="local"
+href="rs-00CW.xml"
+addr="rs-00CW"
+title="Homotopy of continuous maps">homotopies</fr:link> <fr:tex
+display="inline"><![CDATA[1_X\simeq  g\circ  f]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[1_Y\simeq  f\circ  g]]></fr:tex>. This gives <fr:link
+type="local"
+href="rs-000D.xml"
+addr="rs-000D"
+title="Category of spaces"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span></fr:link> the
+structure of a <fr:link
+type="local"
+href="rs-00BX.xml"
+addr="rs-00BX"
+title="Homotopical category">homotopical category</fr:link>; its associated <fr:link
+type="local"
+href="rs-00C1.xml"
+addr="rs-00C1"
+title="Homotopy category of a homotopical category">homotopy
+category</fr:link> is the <fr:em>naive homotopy category of spaces</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>431</fr:anchor><fr:addr
+type="user">rs-00CX</fr:addr><fr:route>rs-00CX.xml</fr:route><fr:title
+text="Path in a topological space">Path in a topological space</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CX.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">p. 6</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>A <fr:em>path</fr:em> in a <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">space</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is a <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous map</fr:link>
+<fr:tex
+display="inline"><![CDATA[I\xrightarrow {p} X]]></fr:tex> from the <fr:link
+type="local"
+href="rs-00CT.xml"
+addr="rs-00CT"
+title="Topological interval">interval</fr:link>. Its <fr:em>startpoint</fr:em> is <fr:tex
+display="inline"><![CDATA[p(0)]]></fr:tex> and
+its <fr:em>endpoint</fr:em> is <fr:tex
+display="inline"><![CDATA[p(1)]]></fr:tex>; we write <fr:tex
+display="inline"><![CDATA[p(0)\overset {p}{\rightsquigarrow } p(1).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>433</fr:anchor><fr:addr
+type="user">rs-00CY</fr:addr><fr:route>rs-00CY.xml</fr:route><fr:title
+text="Path homotopy">Path homotopy</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CY.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">May</fr:meta><fr:meta
+name="ref-at">p. 6</fr:meta><fr:meta
+name="ref-note">may-concise-course</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="may-concise-course.xml"
+addr="may-concise-course"
+title="A concise course in algebraic topology" />
+<fr:p>A <fr:em>path homotopy</fr:em> is a <fr:link
+type="local"
+href="rs-00CW.xml"
+addr="rs-00CW"
+title="Homotopy of continuous maps">homotopy</fr:link> between <fr:link
+type="local"
+href="rs-00CX.xml"
+addr="rs-00CX"
+title="Path in a topological space">paths</fr:link> which
+fixes start and endpoints. Explicitly, given paths <fr:tex
+display="inline"><![CDATA[x\overset {p, q}{\rightsquigarrow } y]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[X]]></fr:tex>, a
+path homotopy is a continuous map <fr:tex
+display="inline"><![CDATA[I\times  I\xrightarrow {H} X]]></fr:tex> so that <fr:tex
+display="block"><![CDATA[H(-, 0) = p,\quad  H(-, 1) = q,\quad  H(0, -) = x,\quad  H(1, -) = y.]]></fr:tex> In pictures, we draw
+the square as
+
+ 
+  
+  <fr:figure><fr:resource
+hash="652cc4db864808eb4a7fd9b2a753a2e5"><fr:resource-content><fr:img
+src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuNC4zIC0tPgo8c3ZnIHZlcnNpb249JzEuMScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9JzgzLjU5NTQ2N3B0JyBoZWlnaHQ9JzgxLjcyMDQzM3B0JyB2aWV3Qm94PSctNzIgLTcyIDU1LjczMDMxMSA1NC40ODAyODknPgo8c3R5bGUgdHlwZT0ndGV4dC9jc3MnPgo8IVtDREFUQVtAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtcjEwO3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFMY0FBb0FBQUFBQTB3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVRQUFBQmdoVWx6NFdOdFlYQUFBQUU0QUFBQUtRQUFBRFFBREFDQloyeDVaZ0FBQVdRQUFBQW9BQUFBS0kxTTRLOW9aV0ZrQUFBQmpBQUFBQ2NBQUFBMllaWkJhV2hvWldFQUFBRzBBQUFBSHdBQUFDUUVJQUhhYUcxMGVBQUFBZFFBQUFBSUFBQUFDQU9jQUZsc2IyTmhBQUFCM0FBQUFBWUFBQUFHQUJRQUFHMWhlSEFBQUFIa0FBQUFGd0FBQUNBQUJBQUtibUZ0WlFBQUFmd0FBQURQQUFBQk9JTGxLcTF3YjNOMEFBQUN6QUFBQUJBQUFBQWdBQU1BQVhqYVkyQm1QTWM0Z1lHVmdZRnBGdFBaZnlJTS9TQ2E4UTNqR3daalJrNEdJR0JqZ0FOR0JpU1FVbHlXRHBUVVk5QmpadmdQNURORHBKSFUvQWNLQXdEckRBMFplTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHQlNBTkFzUWd2aDYvLzlEeVArWHdYd0dBRkVJQm9vQUFBQUFBUUJaQUFFQXhRQnNBQWdBQURjT0FTSW1ORFl5RnNVQkh5MGZIeTBmTmhZZkh5MGZId0FBZU5wallHUmdZQURpNWV1RkhlUDViYjR5TUxNd1lBTk1EUXc1UUlxRGdRbkVBd0NZd1FSTEFIamFZMkJrWUdCbStNL0F3TURVd0JESkVNNXdsQUVvZ2dLWUFFa1JBdjRBQW9BQUFBRWNBRmtBQUFBQUFCUUFBSGphWTJCa1lHQmdZdUJrQU5FTVVCSUpBQUFCZmdBUEFIamFSWXc5YThNd0ZFV1BxUk9vTzNRcEhUcTBHam9iRzN2dWtpRlQxa3hka2tnSkhpd0gyVEVFU3NmKzd0Nm9najdRNDl5UEo2RGdtNHpiWkR6R2ZadWNoZFFmTDNqZ0tmRlM2aTF4d1F2djNKSGw5M0plK1VpY0svbE12T0NaWStLbC9LL0VCUzAvcTZFL1h5WVh6R2F3THZoREgrcHE2OExZRGQ3VVpSWDEybmtYZHBPelpuODFkdTdHK2RTYnBtekxoaFVEUFdjdVREZ0NobzBjRzlselVCYW9xZGhHWjZSVDZ0V3FLZVgrNTJ2bFBuWjI4U2VyenA2cnRtWFcxYWg5VXR2UTZMTFZhMzRCWlUwdkZ3QjQybU5nWmtBR2pBeG9BQUFBamdBRikgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtbWkxMDtzcmM6dXJsKGRhdGE6YXBwbGljYXRpb24veC1mb250LXdvZmY7YmFzZTY0LGQwOUdSZ0FCQUFBQUFBWFVBQW9BQUFBQUJ3QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCUFV5OHlBQUFBOUFBQUFFTUFBQUJnaFl0MGQyTnRZWEFBQUFFNEFBQUFOUUFBQUR3QWt3REhaMng1WmdBQUFYQUFBQUwrQUFBRHZEaXBSV3RvWldGa0FBQUVjQUFBQUNzQUFBQTJZV3hCOFdob1pXRUFBQVNjQUFBQUlBQUFBQ1FFL2dGMmFHMTBlQUFBQkx3QUFBQVVBQUFBRkFxQ0FFUnNiMk5oQUFBRTBBQUFBQXdBQUFBTUFlZ0N3RzFoZUhBQUFBVGNBQUFBR0FBQUFDQUFDQUJhYm1GdFpRQUFCUFFBQUFEVUFBQUJQcGtWZGNsd2IzTjBBQUFGeUFBQUFBd0FBQUFnQUFNQUFIamFZMkJta21TY3dNREt3TUEwaStuc1B4R0dmaEROK0lieERZTXhJeWNERUxBeHdBRWpBeEpJS1M1TEIwb1dNRlF5TS93SDhwa2gwa2hxL2dPRkFib21EUElBZU5wallHQmdZbUJnWUFaaUVTREpDS1paR0RTQU5CdVFaZ1RLRmpKVS92OFA1QmN3VlB6Ly8zL2kvMjZ3S2lBQUFKd3hDVlFBQUFCNDJrMlR5MjdiUmdCRmVXY28wcVQ0RmgreStMSkVtWlRzbUpKbGlaUlV4M1pVeFlGUkI0bmRJbjBBV2VVRlpCdWdRQmZaQmRtMHEvNUhnUzZiRDBpUVhYYlpadE12S05EdVltY29JMFV3Z3hrTUNBem0zSFBKa2NzUGwxUDhoOWZjakx2RGNWNmpMQ2JqVk5UQTVnQTVpdklBNWNqMTJCckJFOFJxNU1pcTNkMHJiR0VBc1RNdVBMZG82QkJpdU42b0tLdVJacW5BcnNpZjFZaWwrWW5LQzZMSXc5VEVUaEpOcE5aeDl0VXA2TDV1TDgreUhibXJnaGlibnNvL3VxZnBVdHY2YTBTaDFxdzh1dUhyRFJQa1NOMXU2ZTNuZU9zcFp0Z0Fia3lOTllBb2k4RG9rMjQvM2dGK09ubnlyV01mVS9TOVh3dEZsR2dvZ2xKZkFFeThmMnV1SlZMQ2o0djJjam04VDJFMGxaVGpPTUwxR2ZzN3ZPRXlicC9qUVA5SFNnZGdVS1Bpa0t4b3I1Q0tWUW91RG5CSWlnSFNySE1WaCtDNWVQYzdqR1JkNVo4K2xnaFI1YTJBWDNmS3hldzI2TnkwYnA2dlQweHRweTVmL0gzdFJMVzJvUE5tM2o1dTZyb0IxQlc4K3ZqbjV3ZURGelVScXZQNGJFN3gvZW5ENzF6N0ZzVkczOHNKdVRpaFh6Y1AvcEFTTWVHdno3dUhSejB6clRBNGNOSGx2eVJnSEQrd0EvUGcyQkVUVit4NXJtTi9ObFp0blRSYjJiUUYwWTBaQjNNN3lSa3QrMWJ4akwvQVpDdXpoOG1ZcVJ4QVlKZmlIclBZbXAzN1VNVmFWRGY2aTd5VWlSK011bk9DdUttc0J3M0RhSFQybE5Bbm02Wi9GcEs2V0VOVXQzcUw1c0tSaW12aEVVVTNhd1N1cWRzanQrWmc4dHZFTWZ3ZW5kMVJRTmJzWGRzYzhCaEVjdHptMjUxV0c4Wld5TXVFWUQ1OCtzemQ5a0dtZHhXbVhiUkhEWFBJSTlxMVM0b29pd000cXIzQnMrVDV2cng5bFVlKzZ2UkpaWlYxT2E5MHJwQ3lxS0t1Sm9ObXlCWHhWUVFha2l6SEtvSUlEb3RJY0lRcWlrUEttdUE1K09lQjkvSjh1TDlwUyt3bG1hZVAxTzdVamdKcGUzLzREUWxpamNJVS9kS2xxNkpiZFd0am11MnNxV1A0NmQ1MW1qdWFaZmtVTHk5KytmRm5ndDNUR05DOE1LQ2hEblQ5L3UwZTYzQzU3RHk2Ry9lYU1qQzdwUWpzbnhpMm1peVNZYUlIOFl1YjRaandTLzNWT2F1Z0x6UHRud0N1TFgwMEFBQjQybU5nWkdCZ0FHSUIrYjdJZUg2YnJ3ek1MQXpvNFAvOS8zcE1aWXpIZ0V3T0JpYVFDQUMwUWdjVEFIamFZMkJrWUdCbStNL0F3TUJVOXYvKy8xOU1NZ3hBRVJUQUNnQ0M4Z1YzQW5ZQUFBSUQvOThCeVFBcEFra0FIZ0gyQUI0QUFBQUFBSDRBNGdGcUFkNTQybU5nWkdCZ1lHV0laR0JpQUFGR0JqUUFBQW0yQUdONDJrMk9zV3JETUJSRmo2bGppQlBvMUE0ZGdxYU94c2IrZ0VLR1RGa3pGcEpJQkJja0Jka3haQ245Z0h4MFhoUU5mVUtQby9PdWhJQ1NYekllbGZFYSs2TnlDams5ZWNhQ3Q4U0ZMSlc0NUlOUFhzanl1WmdWWDRsemxud25udkhPVCtKQy9GL2lrbzdiMnR2elpUUkJiYjAyd1IydDdadDZaOExRZTZlYXFuNktqWEVtN0VlajFlR3E5TlFQMDhtcXR1cXFsalVleTVrTEk0WWdQOXVLMFpFZFI1bFplaHBxZHRFTmN2SXlVZUlxc2Y4VEcwbTRtTnJIMTdTa0RseWxheWJKRE5KUGtsYTBjcmVUM2Q0QjRoUXd3M2phWTJCbXdBc0FBSDBBQkE9PSkgZm9ybWF0KCd3b2ZmJyk7fQp0ZXh0LmYwIHtmb250LWZhbWlseTpjbW1pMTA7Zm9udC1zaXplOjkuOTYyNjRweH0KdGV4dC5mMSB7Zm9udC1mYW1pbHk6Y21yMTA7Zm9udC1zaXplOjkuOTYyNjRweH0KXV0+Cjwvc3R5bGU+CjxnIGlkPSdwYWdlMSc+CjxnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTU5LjQ2NTc4NSwtMzAuNTg2NjQpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIGZpbGw9JyMwMDAnIHN0cm9rZT0nIzAwMCc+CjxnIHN0cm9rZS13aWR0aD0nMC40Jz4KPHBhdGggZD0nTTAgMEgyOC40NTI3NFYyOC40NTI3NEgwVjAnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMTEuNzEwNzQsLTcuODM4NTIpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC01OS40NjU3ODUsLTMwLjU4NjY0KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjAnIHg9Jy01OS40NjU3ODUnIHk9Jy0zMC41ODY2NCc+cDwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgzMS45ODU3MiwxMy4wNDU4KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNTkuNDY1Nzg1LC0zMC41ODY2NClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YwJyB4PSctNTkuNDY1Nzg1JyB5PSctMzAuNTg2NjQnPnk8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMTEuODE0OTMsMzMuOTMwMTUpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC01OS40NjU3ODUsLTMwLjU4NjY0KXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjAnIHg9Jy01OS40NjU3ODUnIHk9Jy0zMC41ODY2NCc+cTwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtOS4yNDgyNSwxMi4wNzM2MSknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTU5LjQ2NTc4NSwtMzAuNTg2NjQpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nLTU5LjQ2NTc4NScgeT0nLTMwLjU4NjY0Jz54PC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+Cjx0ZXh0IGNsYXNzPSdmMScgeD0nLTE5LjAzNzEwMScgeT0nLTE3LjUxOTcyJz4uPC90ZXh0Pgo8L2c+Cjwvc3ZnPg==" /></fr:resource-content><fr:resource-source
+type="latex"
+part="preamble"><![CDATA[
+   
+    \usepackage{tikz, tikz-cd, mathtools, amssymb}
+  \usetikzlibrary{shapes.geometric}
+  \usetikzlibrary{calc}
+  \usetikzlibrary{matrix}
+  \usetikzlibrary{decorations.markings}
+
+  \tikzset{
+    % basics
+    square/.style={draw, regular polygon, regular polygon sides=4},
+    triangle/.style={draw, regular polygon, regular polygon sides=3},
+  }
+
+  \tikzset{
+    % string diagrams
+    state/.style={triangle, shape border rotate=180, anchor=north},
+    costate/.style={triangle, anchor=south},
+    morphism/.style={draw, rectangle},
+    over/.style={
+      draw=white,
+      double=black,
+      % default is .4pt
+      line width=1.2pt,
+      double distance=.4pt,
+      text=black
+    },
+  }
+
+  \tikzset{ 
+    % tables
+    % https://tikz.net/tikz-table/
+    table/.style={
+        matrix of nodes,
+        row sep=-\pgflinewidth,
+        column sep=-\pgflinewidth,
+        nodes={
+            rectangle,
+            draw=black,
+            align=center
+        },
+        minimum height=1.5em,
+        text depth=0.5ex,
+        text height=2ex,
+        nodes in empty cells,
+%%
+        every even row/.style={
+            nodes={fill=gray!20}
+        },
+        column 1/.style={
+            nodes={font=\bfseries}
+        },
+        row 1/.style={
+            nodes={
+                fill=black,
+                text=white,
+                font=\bfseries
+            }
+        }
+    }
+  }
+
+  ]]></fr:resource-source><fr:resource-source
+type="latex"
+part="body"><![CDATA[
+  \begin {tikzpicture}
+    \draw  (0,0) -- (1,0) node[midway, below] {$p$} -- (1,1) node[midway, right] {$y$}
+    -- (0,1) node[midway, above] {$q$} -- (0,0) node[midway, left] {$x$};
+  \end {tikzpicture}.
+]]></fr:resource-source></fr:resource></fr:figure>
+ 
+
+We say <fr:tex
+display="inline"><![CDATA[p]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[q]]></fr:tex> are <fr:em>path homotopic</fr:em>, written <fr:tex
+display="inline"><![CDATA[p\simeq _p q]]></fr:tex>; this is an
+<fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">equivalence relation</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>435</fr:anchor><fr:addr
+type="user">rs-00CA</fr:addr><fr:route>rs-00CA.xml</fr:route><fr:title
+text="Topological space">Topological space</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CA.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Definition 0.1</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>A <fr:em>topological space</fr:em> is a set <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> together with a <fr:em>topology</fr:em>, i.e. a
+<fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">sub</fr:link><fr:link
+type="local"
+href="rs-00CB.xml"
+addr="rs-00CB"
+title="Frame">frame</fr:link> <fr:tex
+display="inline"><![CDATA[\mathcal {T}\subseteq  2^X]]></fr:tex> of its <fr:link
+type="local"
+href="rs-00CG.xml"
+addr="rs-00CG"
+title="Complete Boolean algebra structure on power sets">power set</fr:link>:
+it contains <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> and the <fr:link
+type="local"
+href="rs-00AA.xml"
+addr="rs-00AA"
+title="Empty set">empty set</fr:link> and is closed under arbitrary
+<fr:link
+type="local"
+href="rs-00C6.xml"
+addr="rs-00C6"
+title="Union of subsets">unions</fr:link> and <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link> <fr:link
+type="local"
+href="rs-00C7.xml"
+addr="rs-00C7"
+title="Intersection of subsets">intersections</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>437</fr:anchor><fr:addr
+type="user">rs-000D</fr:addr><fr:route>rs-000D.xml</fr:route><fr:title
+text="Category of spaces">Category of spaces</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.3(ii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>The <fr:em>category of topological spaces</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span> is the <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>
+whose objects are <fr:link
+type="local"
+href="rs-00CA.xml"
+addr="rs-00CA"
+title="Topological space">topological spaces</fr:link> and whose morphisms are <fr:link
+type="local"
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous
+functions</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>439</fr:anchor><fr:addr
+type="user">rs-000L</fr:addr><fr:route>rs-000L.xml</fr:route><fr:title
+text="Functor">Functor</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Definition 1.3.1</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>functor</fr:em> <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> between <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">categories</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>
+consists of the following data:</fr:p><fr:ul><fr:li>for each object <fr:tex
+display="inline"><![CDATA[x\in  C]]></fr:tex>, an object <fr:tex
+display="inline"><![CDATA[Fx\in  D]]></fr:tex>;</fr:li>
+  <fr:li>for each morphism <fr:tex
+display="inline"><![CDATA[f\in  C(x, y)]]></fr:tex>, a morphism <fr:tex
+display="inline"><![CDATA[Ff\in  D(Fx, Fy)]]></fr:tex>.</fr:li></fr:ul><fr:p>This data must preserve the structure of the category, namely identities
+and composites, meaning:</fr:p><fr:ul><fr:li>for each object <fr:tex
+display="inline"><![CDATA[x\in  C]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[F1_x = 1_{Fx};]]></fr:tex></fr:li>
+  <fr:li>for each pair <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f}y\xrightarrow {g}z]]></fr:tex> in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[F(gf) = (Fg)(Fg)]]></fr:tex>.</fr:li></fr:ul></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>441</fr:anchor><fr:addr
+type="user">rs-000G</fr:addr><fr:route>rs-000G.xml</fr:route><fr:title
+text="Groupoid">Groupoid</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>groupoid</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> whose morphisms are each
+<fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -7,46 +7,17 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4012</fr:anchor><fr:addr
-type="machine">#292</fr:addr><fr:route>unstable-292.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4560</fr:anchor><fr:addr
+type="machine">#292</fr:addr><fr:route>unstable-292.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0071.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show the first, note that <fr:tex
-display="inline"><![CDATA[\times ]]></fr:tex> is a left adjoint and <fr:link
+  This comes from the <fr:link
 type="local"
-href="rs-003P.xml"
-addr="rs-003P"
-title="Right adjoints preserve limits; left adjoints preserve colimits">left adjoints
-  preserve colimits</fr:link>.</fr:p>
-
-  <fr:p>To show the second, note that <fr:tex
-display="block"><![CDATA[\begin {aligned}   C(-, x^{y+z}) &\cong  C(-\times (y+z), x) \\   &\cong  C(y+z, x^-) \\   &\cong  C(y, x^-)\times  C(z, x^-) \\   &\cong  C(-\times  y, x)\times  C(-\times  z, x) \\   &\cong  C(-, x^{y})\times  C(-, x^{z}) \\   &\cong  C(-, x^y\times  x^z).   \end {aligned}]]></fr:tex> In particular, the third line uses the <fr:link
-type="local"
-href="rs-002O.xml"
-addr="rs-002O"
-title="Limits are representable">representability of
-  colimits</fr:link>, while the last uses that of limits. Now the result follows
-  by the <fr:link
-type="local"
-href="rs-001O.xml"
-addr="rs-001O"
-title="Representable isomorphism is isomorphism">Yoneda lemma</fr:link>.</fr:p>
-
-  <fr:p>To see the third, we can again argue by left adjoint preserve colimits.
-  More directly, we argue from initiality of <fr:tex
-display="inline"><![CDATA[0]]></fr:tex> that <fr:tex
-display="block"><![CDATA[     C(x\times  0, -) \cong  C(0, -^x) \cong  *.   ]]></fr:tex> Now we obtain the result by applying the fact that the <fr:link
-type="local"
-href="rs-0016.xml"
-addr="rs-0016"
-title="Yoneda embedding">the Yoneda reflects
-  limits</fr:link> in <fr:tex
-display="inline"><![CDATA[C^\text {op}]]></fr:tex>.</fr:p>
-
-  <fr:p>To see the fourth, note that <fr:tex
-display="block"><![CDATA[C(-,   x^0) \cong  C(-\times  0, x) \cong  C(0, x)\cong  *.]]></fr:tex></fr:p>
+href="rs-003W.xml"
+addr="rs-003W"
+title="General adjoint functor theorem">general adjoint functor theorem</fr:link>.
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -62,50 +33,39 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4014</fr:anchor><fr:addr
-type="user">rs-006S</fr:addr><fr:route>rs-006S.xml</fr:route><fr:title
-text="Equational theory of bicartesian closed categories">Equational theory of bicartesian closed categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4562</fr:anchor><fr:addr
+type="user">rs-0071</fr:addr><fr:route>rs-0071.xml</fr:route><fr:title
+text="Every complete lattice is a Heyting algebra">Every complete lattice is a Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0071.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>In addition to <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 51</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
 type="local"
-href="rs-006D.xml"
-addr="rs-006D"
-title="Equational theory of cartesian closed categories">those of a cartesian closed category</fr:link> and the
-<fr:link
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>Every <fr:link
 type="local"
-href="rs-0009.xml"
-addr="rs-0009"
-title="Categorical duality">duals</fr:link> to those of a <fr:link
+href="rs-006O.xml"
+addr="rs-006O"
+title="Complete lattice">complete</fr:link> <fr:link
 type="local"
-href="rs-0033.xml"
-addr="rs-0033"
-title="Equational theory of cartesian categories">cartesian category</fr:link>, a <fr:link
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> is a <fr:link
 type="local"
-href="rs-006R.xml"
-addr="rs-006R"
-title="Bicartesian closed category">bicartesian
-closed category</fr:link> <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> saitsfies the following equations up to <fr:link
-type="local"
-href="rs-0010.xml"
-addr="rs-0010"
-title="Natural isomorphism">natural
-isomorphism</fr:link>:</fr:p><fr:ul><fr:li><fr:tex
-display="inline"><![CDATA[x\times  (y+z)\cong  x\times  y + x\times  z]]></fr:tex> (and in particular, <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> is a
-  <fr:link
-type="local"
-href="rs-006U.xml"
-addr="rs-006U"
-title="Distributive category">distributive category</fr:link>);</fr:li>
-  <fr:li><fr:tex
-display="inline"><![CDATA[x^{y+z}\cong  x^y\times  x^z]]></fr:tex>;</fr:li>
-  <fr:li><fr:tex
-display="inline"><![CDATA[x\times  0 \cong  0]]></fr:tex>;</fr:li>
-  <fr:li><fr:tex
-display="inline"><![CDATA[x^0 \cong  1]]></fr:tex>.</fr:li></fr:ul>
+href="rs-006V.xml"
+addr="rs-006V"
+title="Heyting algebra">Heyting
+algebra</fr:link> with the implication <fr:tex
+display="block"><![CDATA[x\Rightarrow  y := \bigvee \{z : z\wedge  x\leq  y\}.]]></fr:tex></fr:p>
   
     
     
@@ -116,46 +76,17 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4016</fr:anchor><fr:addr
-type="machine">#292</fr:addr><fr:route>unstable-292.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4564</fr:anchor><fr:addr
+type="machine">#292</fr:addr><fr:route>unstable-292.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0071.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>To show the first, note that <fr:tex
-display="inline"><![CDATA[\times ]]></fr:tex> is a left adjoint and <fr:link
+  This comes from the <fr:link
 type="local"
-href="rs-003P.xml"
-addr="rs-003P"
-title="Right adjoints preserve limits; left adjoints preserve colimits">left adjoints
-  preserve colimits</fr:link>.</fr:p>
-
-  <fr:p>To show the second, note that <fr:tex
-display="block"><![CDATA[\begin {aligned}   C(-, x^{y+z}) &\cong  C(-\times (y+z), x) \\   &\cong  C(y+z, x^-) \\   &\cong  C(y, x^-)\times  C(z, x^-) \\   &\cong  C(-\times  y, x)\times  C(-\times  z, x) \\   &\cong  C(-, x^{y})\times  C(-, x^{z}) \\   &\cong  C(-, x^y\times  x^z).   \end {aligned}]]></fr:tex> In particular, the third line uses the <fr:link
-type="local"
-href="rs-002O.xml"
-addr="rs-002O"
-title="Limits are representable">representability of
-  colimits</fr:link>, while the last uses that of limits. Now the result follows
-  by the <fr:link
-type="local"
-href="rs-001O.xml"
-addr="rs-001O"
-title="Representable isomorphism is isomorphism">Yoneda lemma</fr:link>.</fr:p>
-
-  <fr:p>To see the third, we can again argue by left adjoint preserve colimits.
-  More directly, we argue from initiality of <fr:tex
-display="inline"><![CDATA[0]]></fr:tex> that <fr:tex
-display="block"><![CDATA[     C(x\times  0, -) \cong  C(0, -^x) \cong  *.   ]]></fr:tex> Now we obtain the result by applying the fact that the <fr:link
-type="local"
-href="rs-0016.xml"
-addr="rs-0016"
-title="Yoneda embedding">the Yoneda reflects
-  limits</fr:link> in <fr:tex
-display="inline"><![CDATA[C^\text {op}]]></fr:tex>.</fr:p>
-
-  <fr:p>To see the fourth, note that <fr:tex
-display="block"><![CDATA[C(-,   x^0) \cong  C(-\times  0, x) \cong  C(0, x)\cong  *.]]></fr:tex></fr:p>
+href="rs-003W.xml"
+addr="rs-003W"
+title="General adjoint functor theorem">general adjoint functor theorem</fr:link>.
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

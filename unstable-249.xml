@@ -7,17 +7,27 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>669</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1379</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
+text="Preabelian category › of (co)completeness"><fr:link
+type="local"
+href="rs-00BR.xml"
+addr="rs-00BR"
+title="Preabelian category">Preabelian category</fr:link> › of (co)completeness</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  Since additive categories have biproducts, it <fr:link
 type="local"
-href="rs-00BL.xml"
-addr="rs-00BL"
-title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
+href="rs-0057.xml"
+addr="rs-0057"
+title="Finite compleness criterion">suffices to show</fr:link> that
+  kernels and cokernels give equalizers and coequalizers; the equalizer of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>
+  and <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> is the same as the kernel of <fr:tex
+display="inline"><![CDATA[f - g]]></fr:tex>, and dually for coequalizers.
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -33,48 +43,35 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>671</fr:anchor><fr:addr
-type="user">rs-00BN</fr:addr><fr:route>rs-00BN.xml</fr:route><fr:title
-text="Additive functors are those that commute with direct sums">Additive functors are those that commute with direct sums</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1381</fr:anchor><fr:addr
+type="user">rs-00BR</fr:addr><fr:route>rs-00BR.xml</fr:route><fr:title
+text="Preabelian category">Preabelian category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
-name="ref-at">Proposition 8.2.15</fr:meta><fr:meta
-name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
-	
-	
-	
-	<fr:link
-type="local"
-href="kashiwara-schapira-2005.xml"
-addr="kashiwara-schapira-2005"
-title="Categories and sheaves" />
-<fr:p>A <fr:link
-type="local"
-href="rs-000L.xml"
-addr="rs-000L"
-title="Functor">functor</fr:link> <fr:tex
-display="inline"><![CDATA[A\xrightarrow {F} B]]></fr:tex> of <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>preabelian category</fr:em> is an <fr:link
 type="local"
 href="rs-00BM.xml"
 addr="rs-00BM"
-title="Additive category">additive categories</fr:link> is
+title="Additive category">additive category</fr:link> which has all
 <fr:link
 type="local"
-href="rs-00BJ.xml"
-addr="rs-00BJ"
-title="Additive functor">additive</fr:link> if and only if it <fr:link
+href="rs-009G.xml"
+addr="rs-009G"
+title="Kernel">kernels</fr:link> and cokernels; hence is <fr:link
 type="local"
-href="rs-002H.xml"
-addr="rs-002H"
-title="Preservation of limits">preserves</fr:link> <fr:link
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finitely</fr:link>
+<fr:link
 type="local"
-href="rs-00BL.xml"
-addr="rs-00BL"
-title="Direct sums in preadditive categories">direct
-sums</fr:link>.</fr:p>
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link> and <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link>.</fr:p>
   
     
     
@@ -85,17 +82,23 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>673</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1220</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
+text="Of (co)completeness">Of (co)completeness</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p><fr:link
+  Since additive categories have biproducts, it <fr:link
 type="local"
-href="rs-00BL.xml"
-addr="rs-00BL"
-title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
+href="rs-0057.xml"
+addr="rs-0057"
+title="Finite compleness criterion">suffices to show</fr:link> that
+  kernels and cokernels give equalizers and coequalizers; the equalizer of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex>
+  and <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> is the same as the kernel of <fr:tex
+display="inline"><![CDATA[f - g]]></fr:tex>, and dually for coequalizers.
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
