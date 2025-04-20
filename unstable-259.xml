@@ -7,31 +7,35 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2094</fr:anchor><fr:addr
-type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1868</fr:anchor><fr:addr
+type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>The backwards direction is <fr:link
+  <fr:p>The embedding <fr:tex
+display="inline"><![CDATA[Q]]></fr:tex> sends <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> to the "singleton" zig-zag
+  <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex>, and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> by construction. To exhibit the universal
+  property, suppose <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> is given and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>. Then define <fr:tex
+display="inline"><![CDATA[F_S]]></fr:tex>
+  on a zig-zag by mapping it over the zig-zag and composing in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. The diagram
+  commutes on the nose (note in particular that the relations on <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> don't
+  break this, because they hold in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> as well; this is essentially the
+  <fr:link
 type="local"
-href="rs-00AN.xml"
-addr="rs-00AN"
-title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
-  direction, <fr:link
-type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
-display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> a regular epi,
-  but note that <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
-type="local"
-href="rs-00AP.xml"
-addr="rs-00AP"
-title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">universal property of the quotient</fr:link>), so it remains to show the
+  uniqueness property. But the functor must act appropriately on the inclusion
+  and preserve composites, so this is immediate.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -47,38 +51,64 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2096</fr:anchor><fr:addr
-type="user">rs-00AV</fr:addr><fr:route>rs-00AV.xml</fr:route><fr:title
-text="Strong epis are regular in regular categories">Strong epis are regular in regular categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1870</fr:anchor><fr:addr
+type="user">rs-00B0</fr:addr><fr:route>rs-00B0.xml</fr:route><fr:title
+text="Construction of the localization of a category">Construction of the localization of a category</fr:title><fr:taxon>Construction</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Borceux</fr:meta><fr:meta
-name="ref-at">Proposition II.2.1.4</fr:meta><fr:meta
-name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">borceux-1994</fr:meta><fr:meta
+name="ref-at">Proposition I.5.2.2</fr:meta><fr:meta
+name="ref-note">Borceux</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
+type="external"
+href="Borceux" />
+<fr:p>The <fr:link
 type="local"
-href="borceux-1994.xml"
-addr="borceux-1994"
-title="Handbook of categorical algebra" />
-<fr:p>In a <fr:link
+href="rs-00AZ.xml"
+addr="rs-00AZ"
+title="Localization of a category">localization</fr:link> <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> of a <fr:link
 type="local"
-href="rs-00AM.xml"
-addr="rs-00AM"
-title="Regular category">regular category</fr:link>, a map is a <fr:link
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> at <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> is
+exhibited by the following (not necessarily <fr:link
 type="local"
-href="rs-00AK.xml"
-addr="rs-00AK"
-title="Strong epimorphism">strong epis</fr:link> iff it is
-a <fr:link
+href="rs-002B.xml"
+addr="rs-002B"
+title="Small category">small</fr:link>) construction:</fr:p><fr:ul><fr:li>the objects of <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> are those of <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>;</fr:li>
+  <fr:li>a morphism in <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> is a <fr:link
 type="local"
-href="rs-00AL.xml"
-addr="rs-00AL"
-title="Regular epimorphism">regular epi</fr:link>.</fr:p>
+href="rs-002L.xml"
+addr="rs-002L"
+title="Zig-zag">zig-zag</fr:link> of morphisms in
+  <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, where the "rightward" maps consist only of those in <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>,
+  <fr:link
+type="local"
+href="rs-0099.xml"
+addr="rs-0099"
+title="Quotient of sets">modulo</fr:link> the <fr:link
+type="local"
+href="rs-0096.xml"
+addr="rs-0096"
+title="Equivalence relation">relations</fr:link> generated by composition, the
+  identities, and the equations <fr:tex
+display="inline"><![CDATA[x\xrightarrow {s}y\xleftarrow {s}x \sim  1_x]]></fr:tex> and
+  <fr:tex
+display="inline"><![CDATA[y\xleftarrow {s}x\xrightarrow {s} y \sim  1_y]]></fr:tex> whenever <fr:tex
+display="inline"><![CDATA[s\in  S]]></fr:tex>.</fr:li></fr:ul>
   
     
     
@@ -89,31 +119,35 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2098</fr:anchor><fr:addr
-type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AV.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1872</fr:anchor><fr:addr
+type="machine">#259</fr:addr><fr:route>unstable-259.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B0.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>The backwards direction is <fr:link
+  <fr:p>The embedding <fr:tex
+display="inline"><![CDATA[Q]]></fr:tex> sends <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> to the "singleton" zig-zag
+  <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex>, and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex> by construction. To exhibit the universal
+  property, suppose <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> is given and inverts <fr:tex
+display="inline"><![CDATA[S]]></fr:tex>. Then define <fr:tex
+display="inline"><![CDATA[F_S]]></fr:tex>
+  on a zig-zag by mapping it over the zig-zag and composing in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. The diagram
+  commutes on the nose (note in particular that the relations on <fr:tex
+display="inline"><![CDATA[C_S]]></fr:tex> don't
+  break this, because they hold in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> as well; this is essentially the
+  <fr:link
 type="local"
-href="rs-00AN.xml"
-addr="rs-00AN"
-title="Regular epimorphisms are strong">always true</fr:link>. To show the forwards
-  direction, <fr:link
-type="local"
-href="rs-00AO.xml"
-addr="rs-00AO"
-title="(Regular epi, mono)-factorization in regular categories">factor</fr:link> <fr:tex
-display="inline"><![CDATA[f = mr]]></fr:tex> for <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> a mono and <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> a regular epi,
-  but note that <fr:tex
-display="inline"><![CDATA[m]]></fr:tex> remains a strong epi, so <fr:link
-type="local"
-href="rs-00AP.xml"
-addr="rs-00AP"
-title="Factorization systems are orthgonal iff strong">is an isomorphism</fr:link>.</fr:p>
+href="rs-0098.xml"
+addr="rs-0098"
+title="Quotient object">universal property of the quotient</fr:link>), so it remains to show the
+  uniqueness property. But the functor must act appropriately on the inclusion
+  and preserve composites, so this is immediate.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

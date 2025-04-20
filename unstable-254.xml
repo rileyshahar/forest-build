@@ -7,32 +7,17 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1624</fr:anchor><fr:addr
-type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1425</fr:anchor><fr:addr
+type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>An explicit construction is as follows: given a set <fr:tex
-display="inline"><![CDATA[A]]></fr:tex>, we let <fr:tex
-display="inline"><![CDATA[\mathcal {F} A]]></fr:tex>
-  be the set of <fr:link
+  <fr:p><fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">finitely supported</fr:link> formal <fr:link
-type="local"
-href="rs-00BA.xml"
-addr="rs-00BA"
-title="Integers"><fr:tex
-display="inline"><![CDATA[\mathbb {Z}]]></fr:tex></fr:link>-<fr:link
-type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">linear
-  combinations</fr:link> <fr:tex
-display="inline"><![CDATA[\sum _{a\in  A} c_a a]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[A]]></fr:tex>, with pointwise addition.</fr:p>
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -48,48 +33,48 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1626</fr:anchor><fr:addr
-type="user">rs-00B5</fr:addr><fr:route>rs-00B5.xml</fr:route><fr:title
-text="Free abelian group">Free abelian group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1427</fr:anchor><fr:addr
+type="user">rs-00BN</fr:addr><fr:route>rs-00BN.xml</fr:route><fr:title
+text="Additive functors are those that commute with direct sums">Additive functors are those that commute with direct sums</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Aluffi</fr:meta><fr:meta
-name="ref-at">Section II.5.4</fr:meta><fr:meta
-name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Kashiwara &amp; Schapira</fr:meta><fr:meta
+name="ref-at">Proposition 8.2.15</fr:meta><fr:meta
+name="ref-note">kashiwara-schapira-2005</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="aluffi-2009.xml"
-addr="aluffi-2009"
-title="Algebra: chapter 0" />
-<fr:p>The <fr:link
+href="kashiwara-schapira-2005.xml"
+addr="kashiwara-schapira-2005"
+title="Categories and sheaves" />
+<fr:p>A <fr:link
 type="local"
-href="rs-001I.xml"
-addr="rs-001I"
-title="Forgetful functor">forgetful functor</fr:link> <fr:link
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">functor</fr:link> <fr:tex
+display="inline"><![CDATA[A\xrightarrow {F} B]]></fr:tex> of <fr:link
 type="local"
-href="rs-00B1.xml"
-addr="rs-00B1"
-title="Category of abelian groups"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Ab</html:span></fr:link> <fr:tex
-display="inline"><![CDATA[\xrightarrow {U}]]></fr:tex>
+href="rs-00BM.xml"
+addr="rs-00BM"
+title="Additive category">additive categories</fr:link> is
 <fr:link
 type="local"
-href="rs-000C.xml"
-addr="rs-000C"
-title="Category of sets"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:link> admits a <fr:link
+href="rs-00BJ.xml"
+addr="rs-00BJ"
+title="Additive functor">additive</fr:link> if and only if it <fr:link
 type="local"
-href="rs-0043.xml"
-addr="rs-0043"
-title="Adjunctions">left adjoint</fr:link>, called the <fr:em>free
-abelian group functor</fr:em>.</fr:p>
+href="rs-002H.xml"
+addr="rs-002H"
+title="Preservation of limits">preserves</fr:link> <fr:link
+type="local"
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">direct
+sums</fr:link>.</fr:p>
   
     
     
@@ -100,32 +85,17 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1563</fr:anchor><fr:addr
-type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B5.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1429</fr:anchor><fr:addr
+type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BN.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>An explicit construction is as follows: given a set <fr:tex
-display="inline"><![CDATA[A]]></fr:tex>, we let <fr:tex
-display="inline"><![CDATA[\mathcal {F} A]]></fr:tex>
-  be the set of <fr:link
+  <fr:p><fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">finitely supported</fr:link> formal <fr:link
-type="local"
-href="rs-00BA.xml"
-addr="rs-00BA"
-title="Integers"><fr:tex
-display="inline"><![CDATA[\mathbb {Z}]]></fr:tex></fr:link>-<fr:link
-type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">linear
-  combinations</fr:link> <fr:tex
-display="inline"><![CDATA[\sum _{a\in  A} c_a a]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[A]]></fr:tex>, with pointwise addition.</fr:p>
+href="rs-00BL.xml"
+addr="rs-00BL"
+title="Direct sums in preadditive categories">Hom-set addition can equivalently be defined by taking direct sums.</fr:link></fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

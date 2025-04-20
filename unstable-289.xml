@@ -7,58 +7,168 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4519</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12028</fr:anchor><fr:addr
 type="machine">#289</fr:addr><fr:route>unstable-289.xml</fr:route><fr:title
-text="Grothendieck topology › of the equivalence"><fr:link
+text="Algebraic structures › Binary operations"><fr:link
 type="local"
-href="rs-0079.xml"
-addr="rs-0079"
-title="Grothendieck topology">Grothendieck topology</fr:link> › of the equivalence</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0079.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="rs-007T.xml"
+addr="rs-007T"
+title="Algebraic structures">Algebraic structures</fr:link> › Binary operations</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>In the backwards direction, if <fr:tex
-display="inline"><![CDATA[J]]></fr:tex> satisfies the map axioms, then letting
-  <fr:tex
-display="inline"><![CDATA[f = 1_x]]></fr:tex> shows that it satisfies the object axioms.</fr:p>
-
-  <fr:p>In the forwards direction, let <fr:tex
-display="inline"><![CDATA[J]]></fr:tex> satisfy the object axioms. Then:</fr:p> <fr:ul><fr:li>For any sieve <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> on <fr:tex
-display="inline"><![CDATA[x]]></fr:tex> and any <fr:tex
-display="inline"><![CDATA[f\in  S]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers the domain of
-    <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> by the stability axiom, so <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>.</fr:li>
-    <fr:li>If <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers the domain of <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>, so that by
-    stability <fr:tex
-display="inline"><![CDATA[g^*f^*S]]></fr:tex> covers the domain of <fr:tex
-display="inline"><![CDATA[g]]></fr:tex>.</fr:li>
-    <fr:li>If <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[y\xrightarrow {f} x]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> covers each <fr:tex
-display="inline"><![CDATA[g\in  S]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers
-    the <fr:tex
-display="inline"><![CDATA[y]]></fr:tex>, while for each <fr:tex
-display="inline"><![CDATA[g\in  S]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[g^*T]]></fr:tex> covers the domain of
-    <fr:tex
-display="inline"><![CDATA[g]]></fr:tex>. Now by transitivity, <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[x]]></fr:tex>, so that by stability, <fr:tex
-display="inline"><![CDATA[T]]></fr:tex>
-    covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>.</fr:li></fr:ul>
-</fr:mainmatter><fr:backmatter><fr:tree
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1770</fr:anchor><fr:addr
+type="user">rs-007N</fr:addr><fr:route>rs-007N.xml</fr:route><fr:title
+text="Operation">Operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em><fr:tex
+display="inline"><![CDATA[k]]></fr:tex>-ary operaton</fr:em> on a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is a <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">function</fr:link>
+<fr:tex
+display="inline"><![CDATA[X^k\to  X]]></fr:tex>. We call <fr:tex
+display="inline"><![CDATA[k]]></fr:tex> the <fr:em>arity</fr:em> of the operation.</fr:p><fr:p>A <fr:em>constant</fr:em> is a <fr:em><fr:tex
+display="inline"><![CDATA[0]]></fr:tex>-ary operation</fr:em>, while a <fr:em>binary operation</fr:em>
+is a <fr:tex
+display="inline"><![CDATA[2]]></fr:tex>-ary operation.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1772</fr:anchor><fr:addr
+type="user">rs-007P</fr:addr><fr:route>rs-007P.xml</fr:route><fr:title
+text="Associative binary operation">Associative binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is <fr:em>associative</fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a, b, c\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[(ab)c = a(bc).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1774</fr:anchor><fr:addr
+type="user">rs-007O</fr:addr><fr:route>rs-007O.xml</fr:route><fr:title
+text="Commutative binary operation">Commutative binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is <fr:em>commutative</fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a, b\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[ab = ba.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1776</fr:anchor><fr:addr
+type="user">rs-007R</fr:addr><fr:route>rs-007R.xml</fr:route><fr:title
+text="Cancellable binary operation">Cancellable binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is <fr:em>(two-sidedly) cancellative</fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a, b, c\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[ab = ac \text { implies } b = c \quad \text { and }\quad  ba = ca \text { implies } b = c.]]></fr:tex> If
+only one implication holds, this is called left- or right-cancellative, as
+appropriate.</fr:p><fr:p>If the operation additionally has an <fr:link
+type="local"
+href="rs-007Q.xml"
+addr="rs-007Q"
+title="Identity for a binary operation">identity</fr:link> <fr:tex
+display="inline"><![CDATA[e]]></fr:tex>, then
+cancellability is equivalent to the statement that, for any <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> has
+a <fr:em>(two-sided) inverse</fr:em>, i.e. an element <fr:tex
+display="inline"><![CDATA[y\in  X]]></fr:tex> such that <fr:tex
+display="block"><![CDATA[xy=yx=e.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1778</fr:anchor><fr:addr
+type="user">rs-007Q</fr:addr><fr:route>rs-007Q.xml</fr:route><fr:title
+text="Identity for a binary operation">Identity for a binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>(two-sided) identity</fr:em> for a <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is an element
+<fr:tex
+display="inline"><![CDATA[e\in  X]]></fr:tex> such that for all <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[ex = xe = x.]]></fr:tex> If only one identity
+holds, this is a left- or right-identity, as appropriate.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1780</fr:anchor><fr:addr
+type="user">rs-007S</fr:addr><fr:route>rs-007S.xml</fr:route><fr:title
+text="Distributive binary operation">Distributive binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> be equipped with two <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operations</fr:link> <fr:tex
+display="inline"><![CDATA[+]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[\cdot ]]></fr:tex>.
+Then <fr:em><fr:tex
+display="inline"><![CDATA[\cdot ]]></fr:tex> (two-sidedly) distributes over <fr:tex
+display="inline"><![CDATA[+]]></fr:tex></fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a,b,c \in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[a\cdot (b + c) = a\cdot  b + a\cdot  c\quad \text { and }\quad  (b + c)\cdot  a = b\cdot  a + c\cdot  a.]]></fr:tex> If this identity holds only on one side, it is
+called left- or right-distributivity, as appropriate.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -73,148 +183,430 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4521</fr:anchor><fr:addr
-type="user">rs-0079</fr:addr><fr:route>rs-0079.xml</fr:route><fr:title
-text="Grothendieck topology">Grothendieck topology</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0079.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12030</fr:anchor><fr:addr
+type="user">rs-007T</fr:addr><fr:route>rs-007T.xml</fr:route><fr:title
+text="Algebraic structures">Algebraic structures</fr:title><fr:taxon>List</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
-name="ref-at">Definition III.2.1</fr:meta><fr:meta
-name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
-	
-	
-	
-	<fr:link
-type="local"
-href="maclane-moerdijk-1994.xml"
-addr="maclane-moerdijk-1994"
-title="Sheaves in geometry and logic" />
-<fr:p>A <fr:em>Grothendieck topology</fr:em> <fr:tex
-display="inline"><![CDATA[J]]></fr:tex> on a <fr:link
-type="local"
-href="rs-0001.xml"
-addr="rs-0001"
-title="Category">category</fr:link> <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> consists of,
-for each object <fr:tex
-display="inline"><![CDATA[x\in  C]]></fr:tex>, a collection of <fr:link
-type="local"
-href="rs-0061.xml"
-addr="rs-0061"
-title="Sieve">sieves on
-<fr:tex
-display="inline"><![CDATA[x]]></fr:tex></fr:link> <fr:tex
-display="inline"><![CDATA[J(x)]]></fr:tex>, called <fr:em>covering sieves</fr:em>, so that:
-<fr:ul><fr:li><fr:em>identity</fr:em>: the <fr:link
-type="local"
-href="rs-007D.xml"
-addr="rs-007D"
-title="Maximal sieve">maximal sieve</fr:link> at <fr:tex
-display="inline"><![CDATA[x]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[x]]></fr:tex>;</fr:li>
-  <fr:li><fr:em>stability</fr:em>: if <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[y\xrightarrow {f} x]]></fr:tex> is any map, then the <fr:link
-type="local"
-href="rs-0078.xml"
-addr="rs-0078"
-title="Pullback of a sieve">pullback
-  sieve</fr:link> <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[y]]></fr:tex>;</fr:li>
-  <fr:li><fr:em>transitivity</fr:em>: if <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> is a sieve on <fr:tex
-display="inline"><![CDATA[x]]></fr:tex> so that, for each map
-  <fr:tex
-display="inline"><![CDATA[y\xrightarrow {f} x \in  S]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[f^* T]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[y]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[x]]></fr:tex>.</fr:li></fr:ul></fr:p><fr:p>Equivalently, say that a sieve <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers a map <fr:tex
-display="inline"><![CDATA[y\xrightarrow {f} x]]></fr:tex> if the
-pullback <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[y]]></fr:tex>. Then the axioms state: <fr:ul><fr:li>if <fr:tex
-display="inline"><![CDATA[f\in  S]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>;</fr:li>
-  <fr:li>if <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>, then it covers <fr:tex
-display="inline"><![CDATA[fg]]></fr:tex> for any <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> where the
-  composition makes sense;</fr:li>
-  <fr:li>if <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> covers each <fr:tex
-display="inline"><![CDATA[g\in  S]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> covers
-  <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>.</fr:li></fr:ul></fr:p><fr:p>A category equipped with a Grothendieck topology is called a <fr:em>site</fr:em>.</fr:p>
-  
-    
-    
-    <fr:tree
-toc="false"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4336</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1768</fr:anchor><fr:addr
 type="machine">#289</fr:addr><fr:route>unstable-289.xml</fr:route><fr:title
-text="Of the equivalence">Of the equivalence</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0079.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Binary operations">Binary operations</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>In the backwards direction, if <fr:tex
-display="inline"><![CDATA[J]]></fr:tex> satisfies the map axioms, then letting
-  <fr:tex
-display="inline"><![CDATA[f = 1_x]]></fr:tex> shows that it satisfies the object axioms.</fr:p>
-
-  <fr:p>In the forwards direction, let <fr:tex
-display="inline"><![CDATA[J]]></fr:tex> satisfy the object axioms. Then:</fr:p> <fr:ul><fr:li>For any sieve <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> on <fr:tex
-display="inline"><![CDATA[x]]></fr:tex> and any <fr:tex
-display="inline"><![CDATA[f\in  S]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers the domain of
-    <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> by the stability axiom, so <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>.</fr:li>
-    <fr:li>If <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers the domain of <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>, so that by
-    stability <fr:tex
-display="inline"><![CDATA[g^*f^*S]]></fr:tex> covers the domain of <fr:tex
-display="inline"><![CDATA[g]]></fr:tex>.</fr:li>
-    <fr:li>If <fr:tex
-display="inline"><![CDATA[S]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[y\xrightarrow {f} x]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> covers each <fr:tex
-display="inline"><![CDATA[g\in  S]]></fr:tex>, then <fr:tex
-display="inline"><![CDATA[f^*S]]></fr:tex> covers
-    the <fr:tex
-display="inline"><![CDATA[y]]></fr:tex>, while for each <fr:tex
-display="inline"><![CDATA[g\in  S]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[g^*T]]></fr:tex> covers the domain of
-    <fr:tex
-display="inline"><![CDATA[g]]></fr:tex>. Now by transitivity, <fr:tex
-display="inline"><![CDATA[T]]></fr:tex> covers <fr:tex
-display="inline"><![CDATA[x]]></fr:tex>, so that by stability, <fr:tex
-display="inline"><![CDATA[T]]></fr:tex>
-    covers <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>.</fr:li></fr:ul>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-  
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1770</fr:anchor><fr:addr
+type="user">rs-007N</fr:addr><fr:route>rs-007N.xml</fr:route><fr:title
+text="Operation">Operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em><fr:tex
+display="inline"><![CDATA[k]]></fr:tex>-ary operaton</fr:em> on a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is a <fr:link
+type="local"
+href="rs-005M.xml"
+addr="rs-005M"
+title="Set-function">function</fr:link>
+<fr:tex
+display="inline"><![CDATA[X^k\to  X]]></fr:tex>. We call <fr:tex
+display="inline"><![CDATA[k]]></fr:tex> the <fr:em>arity</fr:em> of the operation.</fr:p><fr:p>A <fr:em>constant</fr:em> is a <fr:em><fr:tex
+display="inline"><![CDATA[0]]></fr:tex>-ary operation</fr:em>, while a <fr:em>binary operation</fr:em>
+is a <fr:tex
+display="inline"><![CDATA[2]]></fr:tex>-ary operation.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1772</fr:anchor><fr:addr
+type="user">rs-007P</fr:addr><fr:route>rs-007P.xml</fr:route><fr:title
+text="Associative binary operation">Associative binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is <fr:em>associative</fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a, b, c\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[(ab)c = a(bc).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1774</fr:anchor><fr:addr
+type="user">rs-007O</fr:addr><fr:route>rs-007O.xml</fr:route><fr:title
+text="Commutative binary operation">Commutative binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is <fr:em>commutative</fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a, b\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[ab = ba.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1776</fr:anchor><fr:addr
+type="user">rs-007R</fr:addr><fr:route>rs-007R.xml</fr:route><fr:title
+text="Cancellable binary operation">Cancellable binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is <fr:em>(two-sidedly) cancellative</fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a, b, c\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[ab = ac \text { implies } b = c \quad \text { and }\quad  ba = ca \text { implies } b = c.]]></fr:tex> If
+only one implication holds, this is called left- or right-cancellative, as
+appropriate.</fr:p><fr:p>If the operation additionally has an <fr:link
+type="local"
+href="rs-007Q.xml"
+addr="rs-007Q"
+title="Identity for a binary operation">identity</fr:link> <fr:tex
+display="inline"><![CDATA[e]]></fr:tex>, then
+cancellability is equivalent to the statement that, for any <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> has
+a <fr:em>(two-sided) inverse</fr:em>, i.e. an element <fr:tex
+display="inline"><![CDATA[y\in  X]]></fr:tex> such that <fr:tex
+display="block"><![CDATA[xy=yx=e.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1778</fr:anchor><fr:addr
+type="user">rs-007Q</fr:addr><fr:route>rs-007Q.xml</fr:route><fr:title
+text="Identity for a binary operation">Identity for a binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>(two-sided) identity</fr:em> for a <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> on <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> is an element
+<fr:tex
+display="inline"><![CDATA[e\in  X]]></fr:tex> such that for all <fr:tex
+display="inline"><![CDATA[x\in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[ex = xe = x.]]></fr:tex> If only one identity
+holds, this is a left- or right-identity, as appropriate.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1780</fr:anchor><fr:addr
+type="user">rs-007S</fr:addr><fr:route>rs-007S.xml</fr:route><fr:title
+text="Distributive binary operation">Distributive binary operation</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Let <fr:tex
+display="inline"><![CDATA[X]]></fr:tex> be equipped with two <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operations</fr:link> <fr:tex
+display="inline"><![CDATA[+]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[\cdot ]]></fr:tex>.
+Then <fr:em><fr:tex
+display="inline"><![CDATA[\cdot ]]></fr:tex> (two-sidedly) distributes over <fr:tex
+display="inline"><![CDATA[+]]></fr:tex></fr:em> if, for all <fr:tex
+display="inline"><![CDATA[a,b,c \in  X]]></fr:tex>, <fr:tex
+display="block"><![CDATA[a\cdot (b + c) = a\cdot  b + a\cdot  c\quad \text { and }\quad  (b + c)\cdot  a = b\cdot  a + c\cdot  a.]]></fr:tex> If this identity holds only on one side, it is
+called left- or right-distributivity, as appropriate.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1782</fr:anchor><fr:addr
+type="machine">#290</fr:addr><fr:route>unstable-290.xml</fr:route><fr:title
+text="Group-like structures">Group-like structures</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We say a <fr:em>group-like structure</fr:em> is a structure with a single binary
+  operation that satisfies some subset of <fr:link
+type="local"
+href="rs-007P.xml"
+addr="rs-007P"
+title="Associative binary operation">associativity</fr:link>,
+  <fr:link
+type="local"
+href="rs-007O.xml"
+addr="rs-007O"
+title="Commutative binary operation">commutativity</fr:link>, <fr:link
+type="local"
+href="rs-007R.xml"
+addr="rs-007R"
+title="Cancellable binary operation">cancellability</fr:link>, and the existence
+  of an <fr:link
+type="local"
+href="rs-007Q.xml"
+addr="rs-007Q"
+title="Identity for a binary operation">identity</fr:link>.</fr:p><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1784</fr:anchor><fr:addr
+type="user">rs-007U</fr:addr><fr:route>rs-007U.xml</fr:route><fr:title
+text="Magma">Magma</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007U.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>magma</fr:em> is a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> together with a <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary
+operation</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1786</fr:anchor><fr:addr
+type="user">rs-007V</fr:addr><fr:route>rs-007V.xml</fr:route><fr:title
+text="Semigroup">Semigroup</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>semigroup</fr:em> is an <fr:link
+type="local"
+href="rs-007P.xml"
+addr="rs-007P"
+title="Associative binary operation">associative</fr:link> <fr:link
+type="local"
+href="rs-007U.xml"
+addr="rs-007U"
+title="Magma">magma</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1788</fr:anchor><fr:addr
+type="user">rs-007W</fr:addr><fr:route>rs-007W.xml</fr:route><fr:title
+text="Monoid">Monoid</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007W.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>monoid</fr:em> is a <fr:link
+type="local"
+href="rs-007V.xml"
+addr="rs-007V"
+title="Semigroup">semigroup</fr:link> with <fr:link
+type="local"
+href="rs-007Q.xml"
+addr="rs-007Q"
+title="Identity for a binary operation">unit</fr:link>, that is, a
+<fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> equipped with an <fr:link
+type="local"
+href="rs-007P.xml"
+addr="rs-007P"
+title="Associative binary operation">associative</fr:link>, <fr:link
+type="local"
+href="rs-007Q.xml"
+addr="rs-007Q"
+title="Identity for a binary operation">unital</fr:link>
+<fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1790</fr:anchor><fr:addr
+type="user">rs-007X</fr:addr><fr:route>rs-007X.xml</fr:route><fr:title
+text="Group">Group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definition 1.2</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>group</fr:em> is a <fr:link
+type="local"
+href="rs-005L.xml"
+addr="rs-005L"
+title="Set">set</fr:link> equipped with an <fr:link
+type="local"
+href="rs-007P.xml"
+addr="rs-007P"
+title="Associative binary operation">associative</fr:link>,
+<fr:link
+type="local"
+href="rs-007Q.xml"
+addr="rs-007Q"
+title="Identity for a binary operation">unital</fr:link> <fr:link
+type="local"
+href="rs-007N.xml"
+addr="rs-007N"
+title="Operation">binary operation</fr:link> and <fr:link
+type="local"
+href="rs-007R.xml"
+addr="rs-007R"
+title="Cancellable binary operation">inverses</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1792</fr:anchor><fr:addr
+type="user">rs-007Y</fr:addr><fr:route>rs-007Y.xml</fr:route><fr:title
+text="Abelian group">Abelian group</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Y.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">aluffi-2009</fr:meta><fr:meta
+name="ref-at">Section II.3.5</fr:meta><fr:meta
+name="ref-note">Aluffi</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="external"
+href="Aluffi" />
+<fr:p>An <fr:em>abelian group</fr:em> is a <fr:link
+type="local"
+href="rs-007O.xml"
+addr="rs-007O"
+title="Commutative binary operation">commutative</fr:link> <fr:link
+type="local"
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link>. Its
+operation is generally written additively, <fr:tex
+display="inline"><![CDATA[a + b]]></fr:tex>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1794</fr:anchor><fr:addr
+type="machine">#291</fr:addr><fr:route>unstable-291.xml</fr:route><fr:title
+text="Ring-like structures">Ring-like structures</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007T.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1796</fr:anchor><fr:addr
+type="user">rs-00B6</fr:addr><fr:route>rs-00B6.xml</fr:route><fr:title
+text="Ring">Ring</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00B6.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Definitoin III.1.1</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>A <fr:em>ring</fr:em> is an <fr:link
+type="local"
+href="rs-007Y.xml"
+addr="rs-007Y"
+title="Abelian group">abelian group</fr:link> <fr:tex
+display="inline"><![CDATA[(R, +)]]></fr:tex> together with a
+<fr:link
+type="local"
+href="rs-007W.xml"
+addr="rs-007W"
+title="Monoid">monoid</fr:link> <fr:tex
+display="inline"><![CDATA[(R, \cdot )]]></fr:tex> satisfying the (two-sided) <fr:link
+type="local"
+href="rs-007S.xml"
+addr="rs-007S"
+title="Distributive binary operation">distributive law</fr:link>
+<fr:tex
+display="block"><![CDATA[r(s + t) = rs + rt\quad \text {and}\quad  (s + t)r = sr + tr.]]></fr:tex></fr:p><fr:p>A <fr:em>ring homomorphism</fr:em> is an <fr:link
+type="local"
+href="rs-009A.xml"
+addr="rs-009A"
+title="Group homomorphism">additive homomorphism</fr:link> that
+preserves multiplication and the unit; the <fr:em>category of rings</fr:em> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Ring</html:span> is
+the category of rings and ring homomorphisms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

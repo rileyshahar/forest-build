@@ -7,104 +7,18 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2424</fr:anchor><fr:addr
-type="machine">#264</fr:addr><fr:route>unstable-264.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2105</fr:anchor><fr:addr
+type="machine">#264</fr:addr><fr:route>unstable-264.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First, if <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> is a surjective homomorphism, then given
-  homomorphisms <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex>, we have that <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex> because <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi
-  in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span>, so <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi.</fr:p>
-
-  <fr:p>Second, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> be an epi in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span>. We wish to find a group
-  <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> and two maps <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex> which agree on the <fr:link
-type="local"
-href="rs-00A5.xml"
-addr="rs-00A5"
-title="Image of a group homomorphism">image</fr:link> of
-  <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>, hence are equal, in such a way that their equality allows us to conclude
-  surjectivity of <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>. Let <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> be the <fr:link
-type="local"
-href="rs-008V.xml"
-addr="rs-008V"
-title="Symmetric group">symmetric group</fr:link> of the set of
   <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">cosets</fr:link> <fr:tex
-display="inline"><![CDATA[H/e(G)]]></fr:tex> with an <fr:link
-type="local"
-href="rs-002U.xml"
-addr="rs-002U"
-title="Disjoint union of sets">adjoined</fr:link> <fr:link
-type="local"
-href="rs-00AB.xml"
-addr="rs-00AB"
-title="Singleton set">point</fr:link>
-  <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.</fr:p>
-
-  <fr:p>Let <fr:tex
-display="inline"><![CDATA[H\xrightarrow {f} K]]></fr:tex> be the map which sends <fr:tex
-display="inline"><![CDATA[h\in  H]]></fr:tex> to the associated
-  permutation acting on <fr:tex
-display="inline"><![CDATA[kH]]></fr:tex> by <fr:link
-type="local"
-href="rs-009O.xml"
-addr="rs-009O"
-title="Translation action">left translation</fr:link> and fixing <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.
-  Let <fr:tex
-display="inline"><![CDATA[\sigma \in  K]]></fr:tex> be the permutation which exchanges <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>; let
-  <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> be <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> composed with the <fr:link
-type="local"
-href="rs-009P.xml"
-addr="rs-009P"
-title="Conjugation action">inner automorphism</fr:link> associated to
-  <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>.</fr:p>
-
-  <fr:p>We finally claim that <fr:tex
-display="inline"><![CDATA[f(e(a)) = g(e(a))]]></fr:tex> for each <fr:tex
-display="inline"><![CDATA[a\in  G]]></fr:tex>. Indeed, since
-  <fr:tex
-display="inline"><![CDATA[e(a)\in  e(G)]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[e(a)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>, so is fixed under conjugation
-  by <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>. Now since <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi, <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex>. Thus for each <fr:tex
-display="inline"><![CDATA[b\in  H]]></fr:tex>,
-  <fr:tex
-display="inline"><![CDATA[f(b) = g(b)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[g(b)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[f(H)]]></fr:tex>, i.e. <fr:tex
-display="inline"><![CDATA[bf(H) = f(H)]]></fr:tex>, so <fr:tex
-display="inline"><![CDATA[b\in    f(H)]]></fr:tex>, as desired.</fr:p>
-</fr:mainmatter><fr:backmatter><fr:tree
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
+  </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -119,42 +33,53 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2426</fr:anchor><fr:addr
-type="user">rs-00A9</fr:addr><fr:route>rs-00A9.xml</fr:route><fr:title
-text="Epimorphism of groups">Epimorphism of groups</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2107</fr:anchor><fr:addr
+type="user">rs-00AQ</fr:addr><fr:route>rs-00AQ.xml</fr:route><fr:title
+text="Filtered colimits commute with finite limits in Set">Filtered colimits commute with finite limits in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Mac Lane</fr:meta><fr:meta
-name="ref-at">Exercise I.5.5</fr:meta><fr:meta
-name="ref-note">maclane-1978</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Theorem 3.8.9</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="maclane-1978.xml"
-addr="maclane-1978"
-title="Categories for the working mathematician" />
-<fr:p>An <fr:link
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p><fr:link
 type="local"
-href="rs-000B.xml"
-addr="rs-000B"
-title="Epimorphism">epimorphism</fr:link> of <fr:link
+href="rs-004K.xml"
+addr="rs-004K"
+title="Filtered category">Filtered</fr:link> <fr:link
 type="local"
-href="rs-009B.xml"
-addr="rs-009B"
-title="Category of groups">groups</fr:link> is just a
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimits</fr:link> commute with <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link> <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limits</fr:link> in
 <fr:link
 type="local"
-href="rs-000I.xml"
-addr="rs-000I"
-title="Surjection">surjective</fr:link> <fr:link
-type="local"
-href="rs-009A.xml"
-addr="rs-009A"
-title="Group homomorphism">homomorphism</fr:link>.</fr:p>
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link> (and the result extends to <fr:tex
+display="inline"><![CDATA[\kappa ]]></fr:tex>-filtered and
+<fr:tex
+display="inline"><![CDATA[\kappa ]]></fr:tex>-small limits).</fr:p>
   
     
     
@@ -165,103 +90,17 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1963</fr:anchor><fr:addr
-type="machine">#264</fr:addr><fr:route>unstable-264.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00A9.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2109</fr:anchor><fr:addr
+type="machine">#264</fr:addr><fr:route>unstable-264.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>First, if <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> is a surjective homomorphism, then given
-  homomorphisms <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex>, we have that <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex> because <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi
-  in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span>, so <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi.</fr:p>
-
-  <fr:p>Second, let <fr:tex
-display="inline"><![CDATA[G\xrightarrow {e} H]]></fr:tex> be an epi in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Grp</html:span>. We wish to find a group
-  <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> and two maps <fr:tex
-display="inline"><![CDATA[H\overset {f, g}{\rightrightarrows } K]]></fr:tex> which agree on the <fr:link
-type="local"
-href="rs-00A5.xml"
-addr="rs-00A5"
-title="Image of a group homomorphism">image</fr:link> of
-  <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>, hence are equal, in such a way that their equality allows us to conclude
-  surjectivity of <fr:tex
-display="inline"><![CDATA[e]]></fr:tex>. Let <fr:tex
-display="inline"><![CDATA[K]]></fr:tex> be the <fr:link
-type="local"
-href="rs-008V.xml"
-addr="rs-008V"
-title="Symmetric group">symmetric group</fr:link> of the set of
   <fr:link
 type="local"
-href="rs-009W.xml"
-addr="rs-009W"
-title="Coset">cosets</fr:link> <fr:tex
-display="inline"><![CDATA[H/e(G)]]></fr:tex> with an <fr:link
-type="local"
-href="rs-002U.xml"
-addr="rs-002U"
-title="Disjoint union of sets">adjoined</fr:link> <fr:link
-type="local"
-href="rs-00AB.xml"
-addr="rs-00AB"
-title="Singleton set">point</fr:link>
-  <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.</fr:p>
-
-  <fr:p>Let <fr:tex
-display="inline"><![CDATA[H\xrightarrow {f} K]]></fr:tex> be the map which sends <fr:tex
-display="inline"><![CDATA[h\in  H]]></fr:tex> to the associated
-  permutation acting on <fr:tex
-display="inline"><![CDATA[kH]]></fr:tex> by <fr:link
-type="local"
-href="rs-009O.xml"
-addr="rs-009O"
-title="Translation action">left translation</fr:link> and fixing <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>.
-  Let <fr:tex
-display="inline"><![CDATA[\sigma \in  K]]></fr:tex> be the permutation which exchanges <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>; let
-  <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> be <fr:tex
-display="inline"><![CDATA[f]]></fr:tex> composed with the <fr:link
-type="local"
-href="rs-009P.xml"
-addr="rs-009P"
-title="Conjugation action">inner automorphism</fr:link> associated to
-  <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>.</fr:p>
-
-  <fr:p>We finally claim that <fr:tex
-display="inline"><![CDATA[f(e(a)) = g(e(a))]]></fr:tex> for each <fr:tex
-display="inline"><![CDATA[a\in  G]]></fr:tex>. Indeed, since
-  <fr:tex
-display="inline"><![CDATA[e(a)\in  e(G)]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[e(a)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[e(G)]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[*]]></fr:tex>, so is fixed under conjugation
-  by <fr:tex
-display="inline"><![CDATA[\sigma ]]></fr:tex>. Now since <fr:tex
-display="inline"><![CDATA[e]]></fr:tex> is an epi, <fr:tex
-display="inline"><![CDATA[f = g]]></fr:tex>. Thus for each <fr:tex
-display="inline"><![CDATA[b\in  H]]></fr:tex>,
-  <fr:tex
-display="inline"><![CDATA[f(b) = g(b)]]></fr:tex>, so that <fr:tex
-display="inline"><![CDATA[g(b)]]></fr:tex> fixes <fr:tex
-display="inline"><![CDATA[f(H)]]></fr:tex>, i.e. <fr:tex
-display="inline"><![CDATA[bf(H) = f(H)]]></fr:tex>, so <fr:tex
-display="inline"><![CDATA[b\in    f(H)]]></fr:tex>, as desired.</fr:p>
-</fr:mainmatter><fr:backmatter /></fr:tree>
+href="TODO.xml"
+addr="TODO"
+title="TODO">TODO</fr:link>
+  </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

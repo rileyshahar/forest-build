@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9951</fr:anchor><fr:addr
+type="machine">#376</fr:addr><fr:route>unstable-376.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+	<fr:p>The inverse is <fr:tex
+display="inline"><![CDATA[Ff^{-1}]]></fr:tex>. We have <fr:tex
+display="block"><![CDATA[ 	  (Ff^{-1})(Ff) = F(f^{-1}f) = F(1_x) = 1_{F(x)}, 	]]></fr:tex> and the same works on the other side.</fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>9953</fr:anchor><fr:addr
+type="user">rs-000P</fr:addr><fr:route>rs-000P.xml</fr:route><fr:title
+text="Functors preserve isomorphisms">Functors preserve isomorphisms</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Lemma 1.3.8</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p><fr:link
+type="local"
+href="rs-000L.xml"
+addr="rs-000L"
+title="Functor">Functors</fr:link> <fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserve</fr:link> <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphisms</fr:link>.</fr:p><fr:p>Explicitly, let <fr:tex
+display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> be a functor. If <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f} y]]></fr:tex> is an
+isomorphism in <fr:tex
+display="inline"><![CDATA[C]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[Ff]]></fr:tex> is an isomorphism in <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7768</fr:anchor><fr:addr
+type="machine">#376</fr:addr><fr:route>unstable-376.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-000P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+	<fr:p>The inverse is <fr:tex
+display="inline"><![CDATA[Ff^{-1}]]></fr:tex>. We have <fr:tex
+display="block"><![CDATA[ 	  (Ff^{-1})(Ff) = F(f^{-1}f) = F(1_x) = 1_{F(x)}, 	]]></fr:tex> and the same works on the other side.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12013</fr:anchor><fr:addr
+type="user">awards</fr:addr><fr:route>awards.xml</fr:route><fr:title
+text="Awards &amp; Honors">Awards &amp; Honors</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/awards.tree</fr:source-path><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12014</fr:anchor><fr:addr
+type="user">nsf-grfp</fr:addr><fr:route>nsf-grfp.xml</fr:route><fr:title
+text="2025 NSF Graudate Research Fellow">2025 NSF Graudate Research Fellow</fr:title><fr:source-path>/home/riley/notes/forest/trees/awards/nsf-grfp.tree</fr:source-path><fr:date><fr:year>2025</fr:year></fr:date><fr:authors /><fr:meta
+name="institution">National Research Foundation</fr:meta><fr:meta
+name="external">https://www.nsfgrfp.org/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help
+ensure the quality, vitality, and strength of the scientific and engineering
+workforce of the United States. NSF actively encourages the submission of
+applications from the full spectrum of talent that the US has to offer. The
+five-year Fellowship provides three years of financial support, including an
+annual stipend of $37,000.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12015</fr:anchor><fr:addr
+type="user">class-of-1921</fr:addr><fr:route>class-of-1921.xml</fr:route><fr:title
+text="2024 Class of 1921 Award">2024 Class of 1921 Award</fr:title><fr:source-path>/home/riley/notes/forest/trees/awards/class-of-1921.tree</fr:source-path><fr:date><fr:year>2024</fr:year></fr:date><fr:authors /><fr:meta
+name="institution">Reed College</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>The Class of '21 Award was created by members of the Reed Class of 1921 and
+is given every year to one or two students to honor "creative work of notable
+character, involving an unusual degree of initiative and spontaneity."</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree>

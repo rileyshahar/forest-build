@@ -7,8 +7,8 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2100</fr:anchor><fr:addr
-type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2042</fr:anchor><fr:addr
+type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -18,7 +18,7 @@ type="local"
 href="TODO.xml"
 addr="TODO"
 title="TODO">TODO</fr:link>
-  </fr:mainmatter><fr:backmatter><fr:tree
+</fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -33,53 +33,68 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2102</fr:anchor><fr:addr
-type="user">rs-00AQ</fr:addr><fr:route>rs-00AQ.xml</fr:route><fr:title
-text="Filtered colimits commute with finite limits in Set">Filtered colimits commute with finite limits in <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2044</fr:anchor><fr:addr
+type="user">rs-00AY</fr:addr><fr:route>rs-00AY.xml</fr:route><fr:title
+text="Correspondence theorem for groups">Correspondence theorem for groups</fr:title><fr:taxon>Theorem</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Theorem 3.8.9</fr:meta><fr:meta
-name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Aluffi</fr:meta><fr:meta
+name="ref-at">Proposition II.8.10</fr:meta><fr:meta
+name="ref-note">aluffi-2009</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="riehl-2017.xml"
-addr="riehl-2017"
-title="Category theory in context" />
-<fr:p><fr:link
+href="aluffi-2009.xml"
+addr="aluffi-2009"
+title="Algebra: chapter 0" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[G]]></fr:tex> be a <fr:link
 type="local"
-href="rs-004K.xml"
-addr="rs-004K"
-title="Filtered category">Filtered</fr:link> <fr:link
+href="rs-007X.xml"
+addr="rs-007X"
+title="Group">group</fr:link> and <fr:link
 type="local"
-href="rs-001Z.xml"
-addr="rs-001Z"
-title="Colimit">colimits</fr:link> commute with <fr:link
+href="rs-009L.xml"
+addr="rs-009L"
+title="Characterization of normal subgroups"><fr:tex
+display="inline"><![CDATA[N\unlhd  G]]></fr:tex></fr:link>. Then there is a <fr:link
 type="local"
-href="rs-0058.xml"
-addr="rs-0058"
-title="Finite category">finite</fr:link> <fr:link
-type="local"
-href="rs-001Y.xml"
-addr="rs-001Y"
-title="Limit">limits</fr:link> in
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>
 <fr:link
 type="local"
-href="rs-000C.xml"
-addr="rs-000C"
-title="Category of sets"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Set</html:span></fr:link> (and the result extends to <fr:tex
-display="inline"><![CDATA[\kappa ]]></fr:tex>-filtered and
-<fr:tex
-display="inline"><![CDATA[\kappa ]]></fr:tex>-small limits).</fr:p>
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> between the lattice of <fr:link
+type="local"
+href="rs-009J.xml"
+addr="rs-009J"
+title="Subgroup">subgroups</fr:link> of <fr:tex
+display="inline"><![CDATA[G]]></fr:tex>
+containing <fr:tex
+display="inline"><![CDATA[N]]></fr:tex> and the lattice of subgroups of the <fr:link
+type="local"
+href="rs-00A2.xml"
+addr="rs-00A2"
+title="Quotient group">quotient</fr:link> <fr:tex
+display="inline"><![CDATA[G/N]]></fr:tex>,
+which sends <fr:tex
+display="inline"><![CDATA[N\leq  A\leq  G]]></fr:tex> to <fr:tex
+display="inline"><![CDATA[A/N]]></fr:tex>. Moreover, this assignment
+<fr:link
+type="local"
+href="rs-001K.xml"
+addr="rs-001K"
+title="Preservation of a property">preserves</fr:link> and <fr:link
+type="local"
+href="rs-001J.xml"
+addr="rs-001J"
+title="Reflection of a property">reflects</fr:link> normality.</fr:p>
   
     
     
@@ -90,8 +105,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2104</fr:anchor><fr:addr
-type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AQ.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2020</fr:anchor><fr:addr
+type="machine">#260</fr:addr><fr:route>unstable-260.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00AY.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -101,6 +116,6 @@ type="local"
 href="TODO.xml"
 addr="TODO"
 title="TODO">TODO</fr:link>
-  </fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -7,35 +7,34 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6008</fr:anchor><fr:addr
-type="machine">#311</fr:addr><fr:route>unstable-311.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0056.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5628</fr:anchor><fr:addr
+type="machine">#311</fr:addr><fr:route>unstable-311.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We show the result for monos: let <fr:tex
-display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> be faithful and <fr:tex
-display="inline"><![CDATA[Fx\xrightarrow {Ff}   Fy]]></fr:tex> a mono in <fr:tex
-display="inline"><![CDATA[D]]></fr:tex>. Then given <fr:tex
-display="inline"><![CDATA[z\overset {g,h}{\rightrightarrows } x]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[fg = fh]]></fr:tex>,
-  we have by functoriality that <fr:tex
-display="inline"><![CDATA[FfFg = FfFh]]></fr:tex>, so since <fr:tex
-display="inline"><![CDATA[Ff]]></fr:tex> is a mono, we
-  have <fr:tex
-display="inline"><![CDATA[Fg = Fh]]></fr:tex>. Now by faithfulness of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[g = h]]></fr:tex>, as desired.</fr:p>
-
-  <fr:p>To conclude for epis, note that the opposite functor
+  <fr:p>Suppose <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is monic; then for any pair of maps <fr:tex
+display="inline"><![CDATA[z\overset {g, h}{\rightrightarrows } x]]></fr:tex> such that
   <fr:tex
-display="inline"><![CDATA[C^\text {op}\xrightarrow {F^\text {op}}D^\text {op}]]></fr:tex> remains faithful, so the result for monos
-  <fr:link
+display="inline"><![CDATA[fg = fh]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> satisfies the <fr:link
 type="local"
-href="rs-0009.xml"
-addr="rs-0009"
-title="Categorical duality">dualizes</fr:link>.</fr:p>
+href="rs-0027-up.xml"
+addr="rs-0027-up"
+title="Pullback › universal property of the pullback">universal property of the
+  pullback</fr:link>; it is the only map which does so, again since <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is
+  monic.</fr:p>
+
+  <fr:p>Conversely, suppose the square is a pullback; then given maps <fr:tex
+display="inline"><![CDATA[z\xrightarrow {g, h}   x]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[fg = fh]]></fr:tex>, both <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[h]]></fr:tex> witness the universal property, so
+  uniqueness implies <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -51,42 +50,53 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6010</fr:anchor><fr:addr
-type="user">rs-0056</fr:addr><fr:route>rs-0056.xml</fr:route><fr:title
-text="Faithful functors reflect monos and epis">Faithful functors reflect monos and epis</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0056.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5630</fr:anchor><fr:addr
+type="user">rs-005F</fr:addr><fr:route>rs-005F.xml</fr:route><fr:title
+text="Monos are characterized by pullbacks">Monos are characterized by pullbacks</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">Riehl</fr:meta><fr:meta
-name="ref-at">Exercise 1.6.iii</fr:meta><fr:meta
-name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+name="ref-name">Borceux</fr:meta><fr:meta
+name="ref-at">Proposition I.2.5.6</fr:meta><fr:meta
+name="ref-note">borceux-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
 	
 	<fr:link
 type="local"
-href="riehl-2017.xml"
-addr="riehl-2017"
-title="Category theory in context" />
-<fr:p><fr:link
+href="borceux-1994.xml"
+addr="borceux-1994"
+title="Handbook of categorical algebra" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f}y]]></fr:tex> be a <fr:link
 type="local"
-href="rs-0018.xml"
-addr="rs-0018"
-title="Faithful functor">Faithful functors</fr:link> <fr:link
-type="local"
-href="rs-001J.xml"
-addr="rs-001J"
-title="Reflection of a property">reflect</fr:link> <fr:link
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">map</fr:link>. Then the following are equivalent:
+  <fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
 type="local"
 href="rs-000A.xml"
 addr="rs-000A"
-title="Monomorphism">monomorphisms</fr:link> and
-<fr:link
+title="Monomorphism">monic</fr:link>;</fr:li>
+    <fr:li>the <fr:link
+type="local"
+href="rs-002Y.xml"
+addr="rs-002Y"
+title="Kernel pair">kernel pair</fr:link> of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:tex
+display="inline"><![CDATA[(1_x, 1_x)]]></fr:tex>;</fr:li>
+    <fr:li>the kernel pair <fr:tex
+display="inline"><![CDATA[(P, \alpha , \beta )]]></fr:tex> of <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is such that <fr:tex
+display="inline"><![CDATA[\alpha  =     \beta ]]></fr:tex>.</fr:li></fr:ul></fr:p><fr:p>Dually, <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is <fr:link
 type="local"
 href="rs-000B.xml"
 addr="rs-000B"
-title="Epimorphism">epimorphisms</fr:link>.</fr:p>
+title="Epimorphism">epic</fr:link> if and only if its cokernel pair is <fr:tex
+display="inline"><![CDATA[1_y]]></fr:tex>.</fr:p>
   
     
     
@@ -97,35 +107,34 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>6012</fr:anchor><fr:addr
-type="machine">#311</fr:addr><fr:route>unstable-311.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0056.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>13</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2234</fr:anchor><fr:addr
+type="machine">#311</fr:addr><fr:route>unstable-311.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005F.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>We show the result for monos: let <fr:tex
-display="inline"><![CDATA[C\xrightarrow {F} D]]></fr:tex> be faithful and <fr:tex
-display="inline"><![CDATA[Fx\xrightarrow {Ff}   Fy]]></fr:tex> a mono in <fr:tex
-display="inline"><![CDATA[D]]></fr:tex>. Then given <fr:tex
-display="inline"><![CDATA[z\overset {g,h}{\rightrightarrows } x]]></fr:tex> in <fr:tex
-display="inline"><![CDATA[C]]></fr:tex> such that <fr:tex
-display="inline"><![CDATA[fg = fh]]></fr:tex>,
-  we have by functoriality that <fr:tex
-display="inline"><![CDATA[FfFg = FfFh]]></fr:tex>, so since <fr:tex
-display="inline"><![CDATA[Ff]]></fr:tex> is a mono, we
-  have <fr:tex
-display="inline"><![CDATA[Fg = Fh]]></fr:tex>. Now by faithfulness of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>, <fr:tex
-display="inline"><![CDATA[g = h]]></fr:tex>, as desired.</fr:p>
-
-  <fr:p>To conclude for epis, note that the opposite functor
+  <fr:p>Suppose <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is monic; then for any pair of maps <fr:tex
+display="inline"><![CDATA[z\overset {g, h}{\rightrightarrows } x]]></fr:tex> such that
   <fr:tex
-display="inline"><![CDATA[C^\text {op}\xrightarrow {F^\text {op}}D^\text {op}]]></fr:tex> remains faithful, so the result for monos
-  <fr:link
+display="inline"><![CDATA[fg = fh]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>, so that <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> satisfies the <fr:link
 type="local"
-href="rs-0009.xml"
-addr="rs-0009"
-title="Categorical duality">dualizes</fr:link>.</fr:p>
+href="rs-0027-up.xml"
+addr="rs-0027-up"
+title="Pullback › universal property of the pullback">universal property of the
+  pullback</fr:link>; it is the only map which does so, again since <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is
+  monic.</fr:p>
+
+  <fr:p>Conversely, suppose the square is a pullback; then given maps <fr:tex
+display="inline"><![CDATA[z\xrightarrow {g, h}   x]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[fg = fh]]></fr:tex>, both <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[h]]></fr:tex> witness the universal property, so
+  uniqueness implies <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

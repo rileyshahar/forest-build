@@ -7,152 +7,83 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12036</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12094</fr:anchor><fr:addr
 type="user">work</fr:addr><fr:route>work.xml</fr:route><fr:title
 text="My Work">My Work</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:tree
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12065</fr:anchor><fr:addr
+type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
+text="Mathematical Work">Mathematical Work</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12038</fr:anchor><fr:addr
-type="user">k-theory-sem-deloopings</fr:addr><fr:route>k-theory-sem-deloopings.xml</fr:route><fr:title
-text="Deloopings of categories">Deloopings of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-deloopings.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12067</fr:anchor><fr:addr
+type="user">undergraduate-thesis</fr:addr><fr:route>undergraduate-thesis.xml</fr:route><fr:title
+text="Categories for cryptographic composability">Categories for cryptographic composability</fr:title><fr:taxon>Undergraduate thesis</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/undergraduate-thesis.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We give a high-level intuition for why spaces with highly-coherent homotopy-commutative
-and associative multiplications should model infinite loop spaces. We discuss
-two machines for identifying such space spaces: May's operads and Segal's
-gamma spaces. We conclude with a discussion of categories of operators and the
-May-Thomason uniqueness theorem for infinite loop space machines.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+name="institution">Reed College</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We present introductory material on cryptography and category theory, focused on
+the prerequisites to cryptographic composability. We then present the approach
+to cryptographic composability of Broadbent &amp; Karvonen. We give
+several novel contributions, including a new model for cryptographic protocols
+which use both single- and multi-use resources, and a 2-categorical
+generalization of their model which incorporates data about computational
+reductions.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12040</fr:anchor><fr:addr
-type="user">amtrak-connectivity</fr:addr><fr:route>amtrak-connectivity.xml</fr:route><fr:title
-text="A connectivity toolbox">A connectivity toolbox</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/amtrak-connectivity.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12069</fr:anchor><fr:addr
+type="user">categorical-phase-semantics-2024</fr:addr><fr:route>categorical-phase-semantics-2024.xml</fr:route><fr:title
+text="Categorical phase semantics for linear logic">Categorical phase semantics for linear logic</fr:title><fr:taxon>Draft paper</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/categorical-phase-semantics-2024.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Atlantic Meeting on Topology, Representation theory, and K-theory
-(AMTRaK): Homological Stability</fr:meta><fr:meta
-name="external">https://web.sas.upenn.edu/callem/amtrak/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>This talk will elaborate on the connectivity arguments that were swept under
-the rug during pre-talk 1. In particular, we will focus on tools and techniques
-coming from discrete Morse theory. After introducing the basics of discrete
-Morse theory, we will use it to prove the Solomon-Tits Theorem.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author><fr:author>Steve Zdancewic</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We introduce the generalized phase semantics of linear logic, a categorical
+framework for constructing provability-sound models of linear logic from the
+subobject posets of monoids. We prove soundness and completeness results in
+categories with well-behaved factorization systems, and prove soundness for
+fragments of the logic in categories with less structure present.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
 show-heading="true"
-show-metadata="true"
-expanded="false"
+show-metadata="false"
+expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12042</fr:anchor><fr:addr
-type="user">k-theory-sem-classifying-spaces</fr:addr><fr:route>k-theory-sem-classifying-spaces.xml</fr:route><fr:title
-text="Classifying spaces of categories">Classifying spaces of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-classifying-spaces.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>3</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12072</fr:anchor><fr:addr
+type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:title
+text="Research Talks">Research Talks</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We motivate and define the classifying space of a category and discuss
-Quillen's Theorems A and B, which give powerful tools for computing homotopical
-information about a functor.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12044</fr:anchor><fr:addr
-type="user">glos-artin-gluing</fr:addr><fr:route>glos-artin-gluing.xml</fr:route><fr:title
-text="Artin gluing in logic">Artin gluing in logic</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-artin-gluing.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A standard approach to proving meta-theoretic properties of a proof system or
-type theory is to first define a stronger dependent predicate R---often called a
-logical relation---by induction on syntax, and prove the desired property by
-showing that every well-formed term satisfies this stronger property. In
-categorical semantics, this technique looks like an Artin gluing of the
-syntactic category along a hom-functor. This talk will introduce this technique,
-at least in the special case of so-called "sconing," and utilize it for a
-categorical proof of the existence property of intuitionistic logic.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12046</fr:anchor><fr:addr
-type="user">ggts-logical-interpretation-topology</fr:addr><fr:route>ggts-logical-interpretation-topology.xml</fr:route><fr:title
-text="The logical interpretation of topology">The logical interpretation of topology</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/ggts-logical-interpretation-topology.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Graduate Geometry-Topology Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Our standard intuition for abstract topology is geometric: the notion of open
-set axiomatized the properties of open balls in metric spaces. Maybe
-surprisingly, there is an equally applicable, and in some sense formally dual,
-logical interpretation of topological spaces. In this interpretation, open sets
-behave like "propositions subject to finite proof." This talk---which assumes no
-knowledge of mathematical logic---will explore this perspective, in particular
-as it relates to point-free topology and sheaves.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12048</fr:anchor><fr:addr
-type="user">pizza-sem-cat-sem</fr:addr><fr:route>pizza-sem-cat-sem.xml</fr:route><fr:title
-text="Categorical semantics, via vibes">Categorical semantics, via vibes</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/pizza-sem-cat-sem.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Pizza Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>You might have heard of "categorical semantics" or "internal logics," or of
-the relationship between topoi and intuitionistic logic, perhaps in Jin and
-Carmine's pizza seminar talks from last semester. You also might not have!
-Regardless, this talk aims to explain the big picture of what these terms mean,
-how they relate, and why non-logicians might care.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12050</fr:anchor><fr:addr
-type="user">glos-girards-paradox-2024</fr:addr><fr:route>glos-girards-paradox-2024.xml</fr:route><fr:title
-text="Girard's paradox for set theorists, via Hurkens">Girard's paradox for set theorists, via Hurkens</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-girards-paradox-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Girard's paradox is an analogue of Russell's paradox which demonstrates the
-inconsistency of a sufficiently rich type theory with a "type of all types." In
-this talk, I will present a simplified version of the paradox due to Hurkens
-(1995), which in particular has a nice analogue in naive set theory. After
-treating this classical intuition and the type-theoretic argument, if we have
-time we will implement the paradox in Lean.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12052</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12074</fr:anchor><fr:addr
 type="user">ggts-transfer-systems-2024</fr:addr><fr:route>ggts-transfer-systems-2024.xml</fr:route><fr:title
 text="Saturated transfer systems on cylinders">Saturated transfer systems on cylinders</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/ggts-transfer-systems-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -175,7 +106,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12054</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12076</fr:anchor><fr:addr
 type="user">glos-linear-topoi-2024</fr:addr><fr:route>glos-linear-topoi-2024.xml</fr:route><fr:title
 text="Towards linear topoi">Towards linear topoi</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-linear-topoi-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>27</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -190,14 +121,158 @@ be refined along intuitionistic predicates. In this talk, I will attempt to give
 an accessible outline of this classical story and motivate the study of "linear
 topoi", categories which exhibit topos-like behavior with respect to a linear
 internal logic. I will conclude with a discussion of some progress towards an
-axiomatic presentation of these categories.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+axiomatic presentation of these categories.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12078</fr:anchor><fr:addr
+type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:title
+text="Expository Talks">Expository Talks</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12056</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12047</fr:anchor><fr:addr
+type="user">k-theory-sem-deloopings</fr:addr><fr:route>k-theory-sem-deloopings.xml</fr:route><fr:title
+text="Deloopings of categories">Deloopings of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-deloopings.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We give a high-level intuition for why spaces with highly-coherent homotopy-commutative
+and associative multiplications should model infinite loop spaces. We discuss
+two machines for identifying such space spaces: May's operads and Segal's
+gamma spaces. We conclude with a discussion of categories of operators and the
+May-Thomason uniqueness theorem for infinite loop space machines.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12049</fr:anchor><fr:addr
+type="user">amtrak-connectivity</fr:addr><fr:route>amtrak-connectivity.xml</fr:route><fr:title
+text="A connectivity toolbox">A connectivity toolbox</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/amtrak-connectivity.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Atlantic Meeting on Topology, Representation theory, and K-theory
+(AMTRaK): Homological Stability</fr:meta><fr:meta
+name="external">https://web.sas.upenn.edu/callem/amtrak/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>This talk will elaborate on the connectivity arguments that were swept under
+the rug during pre-talk 1. In particular, we will focus on tools and techniques
+coming from discrete Morse theory. After introducing the basics of discrete
+Morse theory, we will use it to prove the Solomon-Tits Theorem.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12051</fr:anchor><fr:addr
+type="user">k-theory-sem-classifying-spaces</fr:addr><fr:route>k-theory-sem-classifying-spaces.xml</fr:route><fr:title
+text="Classifying spaces of categories">Classifying spaces of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-classifying-spaces.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>3</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We motivate and define the classifying space of a category and discuss
+Quillen's Theorems A and B, which give powerful tools for computing homotopical
+information about a functor.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12053</fr:anchor><fr:addr
+type="user">glos-artin-gluing</fr:addr><fr:route>glos-artin-gluing.xml</fr:route><fr:title
+text="Artin gluing in logic">Artin gluing in logic</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-artin-gluing.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A standard approach to proving meta-theoretic properties of a proof system or
+type theory is to first define a stronger dependent predicate R---often called a
+logical relation---by induction on syntax, and prove the desired property by
+showing that every well-formed term satisfies this stronger property. In
+categorical semantics, this technique looks like an Artin gluing of the
+syntactic category along a hom-functor. This talk will introduce this technique,
+at least in the special case of so-called "sconing," and utilize it for a
+categorical proof of the existence property of intuitionistic logic.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12055</fr:anchor><fr:addr
+type="user">ggts-logical-interpretation-topology</fr:addr><fr:route>ggts-logical-interpretation-topology.xml</fr:route><fr:title
+text="The logical interpretation of topology">The logical interpretation of topology</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/ggts-logical-interpretation-topology.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Geometry-Topology Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Our standard intuition for abstract topology is geometric: the notion of open
+set axiomatized the properties of open balls in metric spaces. Maybe
+surprisingly, there is an equally applicable, and in some sense formally dual,
+logical interpretation of topological spaces. In this interpretation, open sets
+behave like "propositions subject to finite proof." This talk---which assumes no
+knowledge of mathematical logic---will explore this perspective, in particular
+as it relates to point-free topology and sheaves.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12057</fr:anchor><fr:addr
+type="user">pizza-sem-cat-sem</fr:addr><fr:route>pizza-sem-cat-sem.xml</fr:route><fr:title
+text="Categorical semantics, via vibes">Categorical semantics, via vibes</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/pizza-sem-cat-sem.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Pizza Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>You might have heard of "categorical semantics" or "internal logics," or of
+the relationship between topoi and intuitionistic logic, perhaps in Jin and
+Carmine's pizza seminar talks from last semester. You also might not have!
+Regardless, this talk aims to explain the big picture of what these terms mean,
+how they relate, and why non-logicians might care.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12059</fr:anchor><fr:addr
+type="user">glos-girards-paradox-2024</fr:addr><fr:route>glos-girards-paradox-2024.xml</fr:route><fr:title
+text="Girard's paradox for set theorists, via Hurkens">Girard's paradox for set theorists, via Hurkens</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-girards-paradox-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Girard's paradox is an analogue of Russell's paradox which demonstrates the
+inconsistency of a sufficiently rich type theory with a "type of all types." In
+this talk, I will present a simplified version of the paradox due to Hurkens
+(1995), which in particular has a nice analogue in naive set theory. After
+treating this classical intuition and the type-theoretic argument, if we have
+time we will implement the paradox in Lean.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12061</fr:anchor><fr:addr
 type="user">quasicategories-seminar-2024</fr:addr><fr:route>quasicategories-seminar-2024.xml</fr:route><fr:title
 text="The definition of a quasicategory">The definition of a quasicategory</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/quasicategories-seminar-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -214,7 +289,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3565</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3570</fr:anchor><fr:addr
 type="user">rs-0083</fr:addr><fr:route>rs-0083.xml</fr:route><fr:title
 text="Simplicial sets">Simplicial sets</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0083.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
@@ -227,7 +302,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2594</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2599</fr:anchor><fr:addr
 type="user">rs-007Z</fr:addr><fr:route>rs-007Z.xml</fr:route><fr:title
 text="Simplex category">Simplex category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -268,7 +343,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2596</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2601</fr:anchor><fr:addr
 type="user">rs-0082</fr:addr><fr:route>rs-0082.xml</fr:route><fr:title
 text="Presentation of the simplex category">Presentation of the simplex category</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0082.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -315,7 +390,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2598</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2603</fr:anchor><fr:addr
 type="user">rs-0080</fr:addr><fr:route>rs-0080.xml</fr:route><fr:title
 text="Simplicial set">Simplicial set</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0080.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -352,7 +427,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2600</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2605</fr:anchor><fr:addr
 type="user">rs-0081</fr:addr><fr:route>rs-0081.xml</fr:route><fr:title
 text="Interpretation of simplicial sets">Interpretation of simplicial sets</fr:title><fr:taxon>Explanation</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0081.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -586,7 +661,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2602</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2607</fr:anchor><fr:addr
 type="user">rs-0086</fr:addr><fr:route>rs-0086.xml</fr:route><fr:title
 text="Degenerate simplex">Degenerate simplex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0086.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -611,7 +686,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2604</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2609</fr:anchor><fr:addr
 type="user">rs-0084</fr:addr><fr:route>rs-0084.xml</fr:route><fr:title
 text="Standard simplex">Standard simplex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0084.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -741,7 +816,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2606</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2611</fr:anchor><fr:addr
 type="user">rs-0085</fr:addr><fr:route>rs-0085.xml</fr:route><fr:title
 text="The universal property of the standard simplex">The universal property of the standard simplex</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0085.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -798,7 +873,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2608</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2613</fr:anchor><fr:addr
 type="user">rs-0087</fr:addr><fr:route>rs-0087.xml</fr:route><fr:title
 text="Colimit presentation of simplicial sets">Colimit presentation of simplicial sets</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0087.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -842,7 +917,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2610</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2615</fr:anchor><fr:addr
 type="user">rs-0089</fr:addr><fr:route>rs-0089.xml</fr:route><fr:title
 text="Constructing adjunctions to simplicial sets">Constructing adjunctions to simplicial sets</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0089.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1002,8 +1077,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2612</fr:anchor><fr:addr
-type="machine">#284</fr:addr><fr:route>unstable-284.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2617</fr:anchor><fr:addr
+type="machine">#288</fr:addr><fr:route>unstable-288.xml</fr:route><fr:title
 text="Geometric realization of a simplicial set">Geometric realization of a simplicial set</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0083.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -1015,7 +1090,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2614</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2619</fr:anchor><fr:addr
 type="user">rs-008A</fr:addr><fr:route>rs-008A.xml</fr:route><fr:title
 text="Geometric realization of a simplicial set">Geometric realization of a simplicial set</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1055,7 +1130,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2616</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2621</fr:anchor><fr:addr
 type="user">rs-008P</fr:addr><fr:route>rs-008P.xml</fr:route><fr:title
 text="Singular simplicial complex">Singular simplicial complex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1104,7 +1179,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2618</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2623</fr:anchor><fr:addr
 type="user">rs-0088</fr:addr><fr:route>rs-0088.xml</fr:route><fr:title
 text="Nerve of a category">Nerve of a category</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0088.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1205,7 +1280,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2620</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2625</fr:anchor><fr:addr
 type="user">rs-008B</fr:addr><fr:route>rs-008B.xml</fr:route><fr:title
 text="Simplicial sphere">Simplicial sphere</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1247,7 +1322,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2622</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2627</fr:anchor><fr:addr
 type="user">rs-008C</fr:addr><fr:route>rs-008C.xml</fr:route><fr:title
 text="Simplicial horn">Simplicial horn</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1284,7 +1359,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2624</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2629</fr:anchor><fr:addr
 type="user">rs-008G</fr:addr><fr:route>rs-008G.xml</fr:route><fr:title
 text="Inner horn">Inner horn</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1316,7 +1391,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2626</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2631</fr:anchor><fr:addr
 type="user">rs-008D</fr:addr><fr:route>rs-008D.xml</fr:route><fr:title
 text="Filler of a horn">Filler of a horn</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1435,7 +1510,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3567</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3572</fr:anchor><fr:addr
 type="user">rs-008F</fr:addr><fr:route>rs-008F.xml</fr:route><fr:title
 text="The definition">The definition</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008F.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
@@ -1452,7 +1527,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2630</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2635</fr:anchor><fr:addr
 type="user">rs-008I</fr:addr><fr:route>rs-008I.xml</fr:route><fr:title
 text="Categorical language for simplicial sets">Categorical language for simplicial sets</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1674,7 +1749,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2632</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2637</fr:anchor><fr:addr
 type="user">rs-008H</fr:addr><fr:route>rs-008H.xml</fr:route><fr:title
 text="Quasicategory">Quasicategory</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1730,7 +1805,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2634</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2639</fr:anchor><fr:addr
 type="user">rs-008K</fr:addr><fr:route>rs-008K.xml</fr:route><fr:title
 text="Equivalent morphisms">Equivalent morphisms</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1925,7 +2000,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2636</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2641</fr:anchor><fr:addr
 type="user">rs-008L</fr:addr><fr:route>rs-008L.xml</fr:route><fr:title
 text="Equivalence of morphisms is an equivalence relation">Equivalence of morphisms is an equivalence relation</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -1963,7 +2038,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2638</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2643</fr:anchor><fr:addr
 type="user">rs-008M</fr:addr><fr:route>rs-008M.xml</fr:route><fr:title
 text="Composites in a quasicategory are unique up to equivalence">Composites in a quasicategory are unique up to equivalence</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2012,8 +2087,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2640</fr:anchor><fr:addr
-type="machine">#282</fr:addr><fr:route>unstable-282.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2645</fr:anchor><fr:addr
+type="machine">#286</fr:addr><fr:route>unstable-286.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2111,8 +2186,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2642</fr:anchor><fr:addr
-type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2647</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
 text="Homotopy categories">Homotopy categories</fr:title><fr:taxon>Construction</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008F.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -2124,7 +2199,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2644</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2649</fr:anchor><fr:addr
 type="user">rs-008N</fr:addr><fr:route>rs-008N.xml</fr:route><fr:title
 text="The nerve functor is fully faithful">The nerve functor is fully faithful</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2175,7 +2250,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2646</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2651</fr:anchor><fr:addr
 type="user">rs-008O</fr:addr><fr:route>rs-008O.xml</fr:route><fr:title
 text="Homotopy category of an infinity category">Homotopy category of an infinity category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2232,7 +2307,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2648</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2653</fr:anchor><fr:addr
 type="user">rs-008Q</fr:addr><fr:route>rs-008Q.xml</fr:route><fr:title
 text="The counit of the nerve adjunction is an isomorphism">The counit of the nerve adjunction is an isomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2276,7 +2351,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2650</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2655</fr:anchor><fr:addr
 type="user">rs-008J</fr:addr><fr:route>rs-008J.xml</fr:route><fr:title
 text="Isomorphism in a quasicategory">Isomorphism in a quasicategory</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2319,7 +2394,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2652</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2657</fr:anchor><fr:addr
 type="user">rs-008R</fr:addr><fr:route>rs-008R.xml</fr:route><fr:title
 text="Kan complex">Kan complex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2372,7 +2447,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2654</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2659</fr:anchor><fr:addr
 type="user">rs-008S</fr:addr><fr:route>rs-008S.xml</fr:route><fr:title
 text="Singular simplicial complex is Kan">Singular simplicial complex is Kan</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2415,8 +2490,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2656</fr:anchor><fr:addr
-type="machine">#281</fr:addr><fr:route>unstable-281.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2661</fr:anchor><fr:addr
+type="machine">#285</fr:addr><fr:route>unstable-285.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -2602,45 +2677,226 @@ title="Retraction">retract</fr:link>
   with the horn does the trick.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12080</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
+text="Published Nonmathematical Writing">Published Nonmathematical Writing</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12058</fr:anchor><fr:addr
-type="user">undergraduate-thesis</fr:addr><fr:route>undergraduate-thesis.xml</fr:route><fr:title
-text="Categories for cryptographic composability">Categories for cryptographic composability</fr:title><fr:taxon>Thesis</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/undergraduate-thesis.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12082</fr:anchor><fr:addr
+type="user">quest-cs-liberal-art-2024</fr:addr><fr:route>quest-cs-liberal-art-2024.xml</fr:route><fr:title
+text="Computer science as a liberal art">Computer science as a liberal art</fr:title><fr:taxon>Opinion</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/quest-cs-liberal-art-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="institution">Reed College</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We present introductory material on cryptography and category theory, focused on
-the prerequisites to cryptographic composability. We then present the approach
-to cryptographic composability of Broadbent &amp; Karvonen. We give
-several novel contributions, including a new model for cryptographic protocols
-which use both single- and multi-use resources, and a 2-categorical
-generalization of their model which incorporates data about computational
-reductions.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+name="venue">Reed College Quest</fr:meta><fr:meta
+name="external">https://www.reedquest.org/articles/2024/04/06/computer-science-as-a-liberal-art</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>What place does computer science have at a liberal arts college? This question
+seems urgent to me, a senior math-CS major at Reed, as our young department
+seeks to establish its place in the college at large and as it struggles within
+itself over the nature of its subject. I think that many of the concerns about
+the role of computer science stem from misunderstandings over its nature, both
+as a subject and as taught at Reed. Computer science, as practiced at Reed and
+throughout the academy, is not solely vocational training but is additionally an
+essential intellectual pursuit with broad applications to humanistic inquiry.</fr:p><fr:p>A rough definition: computer science is something like <fr:em>the study of
+computation</fr:em>. Computations—algorithmic processes for solving problems—are likely
+as old as thought; their structure has been studied at least since the invention
+of the abacus in Sumer in the third millennium BCE. Computer science, in this
+sense, cannot be understood merely as the study of computers, as in the literal
+physical devices we all use every day. Instead, it is the study of the very idea
+of mechanistic problem-solving. Modern computers are an important example of
+such tools, so inevitably feature centrally in the discipline as both method and
+object, but the stakes of the discipline must be understood as far older. Of
+course, as with all academic disciplines, its modern borders are historically
+contingent—computer science is entangled with mathematics and philosophy, with
+physics and linguistics, with sociology and political science. Any field with
+something to say about computers, the artifacts; or computation, the process; or
+which uses computers or computations as tools for studying its own objects,
+ought to be a natural ally.</fr:p><fr:p>Indeed, the study of computation addresses numerous fundamental, humanistic
+inquiries. In CS 382 (Algorithms and Data Structures) and 387 (Computability and
+Complexity), we discuss which questions can possibly be answered by rote
+computation—and by contrast, which questions require genuine creative thought.
+In CS 315 (Ethics and Public Policy) and 386 (Private and Fair Data Analysis),
+we question the role of computer technology and algorithmic decision-making in
+society, asking when the state ought to act with discretion and when it ought to
+act by mere procedure. In CS 378 (Deep Learning), 384 (Programming Language
+Design and Implementation), and 394 (Principles of Compiler Design), we study
+different means of representing processes of computation, and hence processes of
+thought—and the limits that any such translation must inevitably have. I think
+no one would doubt that these questions and many more like them have a place in
+the liberal arts.</fr:p><fr:p>In the <fr:em>Republic</fr:em>, Plato says that education should be "the art of
+orientation"—aimed not to impart knowledge onto students, but to orient them so
+that they can seek knowledge for themselves. By this standard, too, computer
+science has a clear place in the liberal arts. At its best, it teaches us to
+precisely communicate our thoughts and arguments, to reason rigorously and
+creatively about deep questions, and to critically evaluate tradeoffs between
+conflicting arguments or design choices. At times we are able to work with
+mathematical precision, and at times we have to make subjective or even
+philosophical judgments. That the methods of the field are so varied is evidence
+of the naturality of its object: questions about computation reward you for
+studying them from different perspectives, with as many tools as you can muster.</fr:p><fr:p>In this light, we must understand that computer science is not just coding or
+software engineering. Certainly, coding is one of the central tools of the
+discipline—analogous to the role of ethnography in anthropology, or primary
+source analysis in history. It is a tool we use to express computational
+patterns, either to specify how a computer should behave or to communicate our
+ideas precisely to other computer scientists. Many computer scientists spend
+much of their time coding, but so too do many anthropologists spend much of
+their time performing fieldwork. I do not mean to denigrate the importance of
+coding to the discipline—computer science is enormously valuable for software
+engineers, in the same way that anthropology is valuable for journalists—but
+software engineering is not its <fr:em>raison d'etre</fr:em>.</fr:p><fr:p>Computation is as natural an object of study as matter, or life, or politics,
+or literature; the methods of computer science are as valuable as those of
+chemistry, or biology, or political science, or English. Ada Lovelace, the
+author of the first modern computer program and hence one of the originators of
+the modern discipline of computer science, wrote that "the Analytical Engine
+weaves algebraical patterns just as the Jacquard loom weaves flowers and
+leaves". Computer science is nothing more or less than the study of the weaving
+of such patterns.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12060</fr:anchor><fr:addr
-type="user">categorical-phase-semantics-2024</fr:addr><fr:route>categorical-phase-semantics-2024.xml</fr:route><fr:title
-text="Categorical phase semantics for linear logic">Categorical phase semantics for linear logic</fr:title><fr:taxon>Paper</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/categorical-phase-semantics-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12084</fr:anchor><fr:addr
+type="user">quest-internet-2022</fr:addr><fr:route>quest-internet-2022.xml</fr:route><fr:title
+text="&quot;Protocols, not platforms&quot;: a mantra for the (we can only hope)
+post-Twitter internet">"Protocols, not platforms": a mantra for the (we can only hope)
+post-Twitter internet</fr:title><fr:taxon>Opinion</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/quest-internet-2022.tree</fr:source-path><fr:date><fr:year>2022</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author><fr:author>Steve Zdancewic</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We introduce the generalized phase semantics of linear logic, a categorical
-framework for constructing provability-sound models of linear logic from the
-subobject posets of monoids. We prove soundness and completeness results in
-categories with well-behaved factorization systems, and prove soundness for
-fragments of the logic in categories with less structure present.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter><fr:tree
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Reed College Quest</fr:meta><fr:meta
+name="external">https://www.reedquest.org/articles/2022/11/11/rkjjsnoikkjvwf597qvlvkidmn2yi7</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Content warning - briefly mentions misgendering &amp; deadnaming</fr:em></fr:p><fr:p><fr:em>Disclaimer - the author does not use social media and may just be spewing
+nonsense</fr:em></fr:p><fr:p>Sooo, Twitter's a hot mess. I think we all kinda know the modern internet sucks
+in a lot of ways; privacy is dead, objectivity is dead, customizability and
+user-friendly design are dead, competition is dead, democracy is dead (not that
+it was ever really alive). If you're a Twitter user fed up with Twitter and with
+Elon Musk doing asshole billionaire things, you might be thinking about
+switching social networks. You might also be finding it hard to leave your
+friends on the site. It probably feels like there's nowhere to go. What if I
+told you the internet didn't have to be like this? There is a better way, a
+better ethos for a more open, collaborative, secure, and user-focused internet:
+<fr:em>protocols, not platforms</fr:em>.</fr:p><fr:p>Let's start at the beginning. In 1990, Tim Berners-Lee invented three new
+technologies which would become the basis of the World Wide Web. First was
+Hypertext Markup Language (HTML), an easy-to-use language for representing
+textual content with hyperlinks and formatting (markup). Next was the Hypertext
+Transfer Protocol (HTTP), which described how to transfer HTML documents from a
+server which stored them to a client who wanted to view them. Finally, there
+were Uniform Resource Locators (URLs), which described how to find the right
+server storing the specific HTML page the client wanted.</fr:p><fr:p>Here's the key: these technologies were open protocols. Berners-Lee could have
+created a program which read opaque files that only he and his program
+understood and communicated with servers that he controlled. Instead, he
+carefully described what HTML files were and how to host them, send and receive
+them, and author them. This meant that anyone who wanted to create and publish
+content for this new thing called the internet could do so, easily. It also
+meant that anyone who wanted to read content could do so in any manner they
+chose. Think about Firefox, Chrome, and Safari. You can choose which browser to
+use precisely because HTML and HTTP are open standards, so multiple interfaces
+know how to read them; a browser is just a fancy name for an interface to these
+protocols. Their openness means you can consume web content in a huge variety of
+ways. For example, you can choose not to load content from advertiser or
+content-tracking URLs, you can override websites’ color-schemes, and you can
+choose to load no images from any page ever. All of this is only possible
+because Berners-Lee wrote open protocols.</fr:p><fr:p>That's all a protocol is: a standard that describes how to do something, so that
+it can be implemented by multiple different interfaces, each with different
+features, business models, etc. We're used to that with browsers, but think
+about how different it is from modern social media. Imagine if there was a
+standard Social Media Protocol which described how to represent data like posts,
+likes, and friends. Then, different companies (or open-source developers) could
+implement various user interfaces for interacting with that protocol. So if I
+want to just see a simple list of my friends' posts, but you want to see an
+algorithmically curated set of posts based on your interaction history, we could
+both do so, by selecting different interfaces for the same protocol. If I wanted
+a lot of fancy features, I could pay for an interface with a professional
+development team, modern look, integration with a hypothetical open calendar
+protocol, whatever; whereas you might pay less or even nothing for a basic
+implementation with none of those bells and whistles.</fr:p><fr:p>You might have heard of people leaving Twitter to something called Mastodon.
+Mastodon is exactly what I just described: an interface which implements an open
+social networking protocol called ActivityPub. If someone doesn't want to use
+Mastodon, they can use other implementers of this protocol, and still
+communicate with their friends' posts from Mastodon. Compare that to Twitter,
+where you <fr:em>have</fr:em> to be on Twitter to talk to others on Twitter, and therefore you
+are always subject to their algorithm, spam, questionable moderation, data
+collection, targeted advertising, terrible UI choices, etc. etc. etc. If
+Mastodon makes a change to their UI — or their privacy policy — which you
+dislike, you can leave it for another interface. If Twitter makes such a change,
+you're kind of stuck, unless you want to lose touch with a bunch of friends.</fr:p><fr:p>Email is built on a number of open protocols, including the Simple Mail Transfer
+Protocol (SMTP). I use a text-based email client from 1995 called Mutt. That's
+weird, but I love its customizability, its keyboard shortcuts, its 90s feel, the
+fact that I can read its source code, the fact that it doesn't steal all my
+data. And even though I make this weird choice, I can still email people who are
+using modern gmail.com, because email is built on open protocols. I have a
+filter that runs some code to scan emails for my deadname and send them to a
+separate folder, where I don’t look at them until I know I have the energy. The
+emails still get sent along the protocol — SMTP knows nothing at all about
+filtering — I just change how the interface interprets them. I can do that
+because the interface I use happens to support custom filtering. You can imagine
+the applications to social media, for example. Content filters could be
+implemented without needing to wait for a monolith like Twitter to add the
+feature, and if a smaller interface added the feature before larger ones, it
+would be much easier to pull users from the larger interface. Users could also
+add filters for triggers in private, without even the company making the
+interface knowing. This is not a silver bullet, but it would certainly help with
+the content moderation issue on social media today — trans people could much
+more easily filter out misgendering and deadnaming, for instance.</fr:p><fr:p>You know how texting between Androids and iPhones is horrible? Group chats
+randomly get created and recreated, people sometimes just don't get messages,
+etc? Texting was originally based on a protocol called the Short Messaging
+Service (SMS), which is very outdated and not up to modern standards for group
+chats, security, reliability, embedded content, and more. Modern Android texts
+use a newer open protocol called Rich Communication Services (RCS). Modern
+iPhone texts use a closed platform called iMessage. Because Apple refuses to use
+the modern open protocol, instead preferring a walled-off platform for only
+iPhone users, the old SMS protocol becomes the fallback when messaging between
+platforms. And SMS is terrible, so messaging between iPhones and Androids is
+terrible. If Apple implemented the modern, open protocol, or if they made their
+proprietary platform open, the mess would go away.</fr:p><fr:p>So maybe you're convinced this model is at least interesting. But who would take
+on the expensive task of data storage, without the financial benefits of a
+closed shop? Since data would also be stored in open formats like HTML, there'd
+be no need for it to be stored on servers owned by the platform you happen to
+use. Instead, there would be dedicated data store companies, who could
+(presumably for a cost) store your data completely encrypted, so even they
+cannot access it, but you still can. (I currently use such a service, called
+Tarsnap, for backups of my computer, my non-Gmail email data, etc.) Privacy and
+encryption could be segmented and sandboxed; these cryptographic problems are
+pretty well-studied. For example, your social network data could be open to
+anyone who's online identity (based on something called a private key) is on
+your friends list, so they can see your posts, but completely private to anyone
+else. Those who want cheaper services and algorithmically selected content could
+opt in to data collection by the interfaces they use, while still communicating
+with their more privacy-focused friends. Again, the cryptography here is pretty
+solid, unless you think the NSA has broken the RSA encryption protocol; the
+problem is finding user-friendly ways to implement it.</fr:p><fr:p>The examples I’ve discussed here are mostly related to communication and social
+media, but I hope you can see a little bit about how they generalize. There are
+also a lot more details to work out that I didn't have space (or expertise) for
+here. If you want more, check out a 2019 article by Mike Masnick called
+"Protocols, Not Platforms: A Technological Approach to Free Speech." I don't
+agree with everything he says (especially the cryptocurrency nonsense), but it's
+mostly very well explained, and covers issues like competition, free speech,
+moderation, harassment, partisan bubbles, and processes for updating these
+protocols.</fr:p><fr:p>The key point, though, is that closed-shop platforms prevent user choice by
+forcing users who want the benefits of collaboration and communication to
+participate in whichever platform happens to be dominant, regardless of its
+subjective features like web design and of its more serious issues like privacy.
+And yeah, I don't really have a great plan to get from here to there. But we
+should remember that there is a better way, the philosophy that made the
+internet the open sandbox that let Twitter and Gmail overtake MySpace and AOL in
+the first place: open protocols, not platforms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -2655,7 +2911,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12063</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12096</fr:anchor><fr:addr
 type="user">index</fr:addr><fr:route>index.xml</fr:route><fr:title
 text="Riley Shahar">Riley Shahar</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/index.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
@@ -2675,14 +2931,16 @@ show-heading="false"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12065</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12098</fr:anchor><fr:addr
 type="user">rileyshahar</fr:addr><fr:route>rileyshahar.xml</fr:route><fr:title
 text="Riley Shahar">Riley Shahar</fr:title><fr:taxon>Person</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/meta/rileyshahar.tree</fr:source-path><fr:authors /><fr:meta
 name="external">https://rileyshahar.com</fr:meta><fr:meta
 name="institution">University of Pennsylvania</fr:meta><fr:meta
 name="orcid">0009-0003-9485-4399</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>I am a first year PhD student in mathematics at the University of
-Pennsylvania. Before that, I was a math-cs major at Reed College.
-My pronouns are she/they.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+Pennsylvania, interested in homotopy theory and related areas. Before Penn,
+I was a math-cs major at Reed College. My pronouns are she/they.</fr:p><fr:p>I am honored to be supported by the National Science Foundation's Graduate
+Research Fellowship and by the University of Pennsylvania's Benjamin Franklin
+Fellowship.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
   
 
   <fr:tree
@@ -2692,17 +2950,13 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12066</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12099</fr:anchor><fr:addr
 type="user">site</fr:addr><fr:route>site.xml</fr:route><fr:title
 text="This Site">This Site</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/site.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>This site hosts my public
-<fr:link
-type="external"
-href="https://en.wikipedia.org/wiki/Zettelkasten">Zettlekasten</fr:link>-style notes. To
-search these, try <fr:code>Ctrl-K</fr:code>. It relies on the fantastic
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>This site relies on the fantastic
 <fr:link
 type="external"
 href="https://git.sr.ht/~jonsterling/ocaml-forester">Forester</fr:link>, by <fr:link
@@ -2716,152 +2970,83 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12068</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12101</fr:anchor><fr:addr
 type="user">work</fr:addr><fr:route>work.xml</fr:route><fr:title
 text="My Work">My Work</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:tree
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12065</fr:anchor><fr:addr
+type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
+text="Mathematical Work">Mathematical Work</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12038</fr:anchor><fr:addr
-type="user">k-theory-sem-deloopings</fr:addr><fr:route>k-theory-sem-deloopings.xml</fr:route><fr:title
-text="Deloopings of categories">Deloopings of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-deloopings.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12067</fr:anchor><fr:addr
+type="user">undergraduate-thesis</fr:addr><fr:route>undergraduate-thesis.xml</fr:route><fr:title
+text="Categories for cryptographic composability">Categories for cryptographic composability</fr:title><fr:taxon>Undergraduate thesis</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/undergraduate-thesis.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We give a high-level intuition for why spaces with highly-coherent homotopy-commutative
-and associative multiplications should model infinite loop spaces. We discuss
-two machines for identifying such space spaces: May's operads and Segal's
-gamma spaces. We conclude with a discussion of categories of operators and the
-May-Thomason uniqueness theorem for infinite loop space machines.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+name="institution">Reed College</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We present introductory material on cryptography and category theory, focused on
+the prerequisites to cryptographic composability. We then present the approach
+to cryptographic composability of Broadbent &amp; Karvonen. We give
+several novel contributions, including a new model for cryptographic protocols
+which use both single- and multi-use resources, and a 2-categorical
+generalization of their model which incorporates data about computational
+reductions.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12040</fr:anchor><fr:addr
-type="user">amtrak-connectivity</fr:addr><fr:route>amtrak-connectivity.xml</fr:route><fr:title
-text="A connectivity toolbox">A connectivity toolbox</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/amtrak-connectivity.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12069</fr:anchor><fr:addr
+type="user">categorical-phase-semantics-2024</fr:addr><fr:route>categorical-phase-semantics-2024.xml</fr:route><fr:title
+text="Categorical phase semantics for linear logic">Categorical phase semantics for linear logic</fr:title><fr:taxon>Draft paper</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/categorical-phase-semantics-2024.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Atlantic Meeting on Topology, Representation theory, and K-theory
-(AMTRaK): Homological Stability</fr:meta><fr:meta
-name="external">https://web.sas.upenn.edu/callem/amtrak/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>This talk will elaborate on the connectivity arguments that were swept under
-the rug during pre-talk 1. In particular, we will focus on tools and techniques
-coming from discrete Morse theory. After introducing the basics of discrete
-Morse theory, we will use it to prove the Solomon-Tits Theorem.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author><fr:author>Steve Zdancewic</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We introduce the generalized phase semantics of linear logic, a categorical
+framework for constructing provability-sound models of linear logic from the
+subobject posets of monoids. We prove soundness and completeness results in
+categories with well-behaved factorization systems, and prove soundness for
+fragments of the logic in categories with less structure present.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
 show-heading="true"
-show-metadata="true"
-expanded="false"
+show-metadata="false"
+expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12042</fr:anchor><fr:addr
-type="user">k-theory-sem-classifying-spaces</fr:addr><fr:route>k-theory-sem-classifying-spaces.xml</fr:route><fr:title
-text="Classifying spaces of categories">Classifying spaces of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-classifying-spaces.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>3</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12072</fr:anchor><fr:addr
+type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:title
+text="Research Talks">Research Talks</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We motivate and define the classifying space of a category and discuss
-Quillen's Theorems A and B, which give powerful tools for computing homotopical
-information about a functor.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12044</fr:anchor><fr:addr
-type="user">glos-artin-gluing</fr:addr><fr:route>glos-artin-gluing.xml</fr:route><fr:title
-text="Artin gluing in logic">Artin gluing in logic</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-artin-gluing.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A standard approach to proving meta-theoretic properties of a proof system or
-type theory is to first define a stronger dependent predicate R---often called a
-logical relation---by induction on syntax, and prove the desired property by
-showing that every well-formed term satisfies this stronger property. In
-categorical semantics, this technique looks like an Artin gluing of the
-syntactic category along a hom-functor. This talk will introduce this technique,
-at least in the special case of so-called "sconing," and utilize it for a
-categorical proof of the existence property of intuitionistic logic.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12046</fr:anchor><fr:addr
-type="user">ggts-logical-interpretation-topology</fr:addr><fr:route>ggts-logical-interpretation-topology.xml</fr:route><fr:title
-text="The logical interpretation of topology">The logical interpretation of topology</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/ggts-logical-interpretation-topology.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Graduate Geometry-Topology Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Our standard intuition for abstract topology is geometric: the notion of open
-set axiomatized the properties of open balls in metric spaces. Maybe
-surprisingly, there is an equally applicable, and in some sense formally dual,
-logical interpretation of topological spaces. In this interpretation, open sets
-behave like "propositions subject to finite proof." This talk---which assumes no
-knowledge of mathematical logic---will explore this perspective, in particular
-as it relates to point-free topology and sheaves.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12048</fr:anchor><fr:addr
-type="user">pizza-sem-cat-sem</fr:addr><fr:route>pizza-sem-cat-sem.xml</fr:route><fr:title
-text="Categorical semantics, via vibes">Categorical semantics, via vibes</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/pizza-sem-cat-sem.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Pizza Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>You might have heard of "categorical semantics" or "internal logics," or of
-the relationship between topoi and intuitionistic logic, perhaps in Jin and
-Carmine's pizza seminar talks from last semester. You also might not have!
-Regardless, this talk aims to explain the big picture of what these terms mean,
-how they relate, and why non-logicians might care.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12050</fr:anchor><fr:addr
-type="user">glos-girards-paradox-2024</fr:addr><fr:route>glos-girards-paradox-2024.xml</fr:route><fr:title
-text="Girard's paradox for set theorists, via Hurkens">Girard's paradox for set theorists, via Hurkens</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-girards-paradox-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="rileyshahar.xml"
-addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Girard's paradox is an analogue of Russell's paradox which demonstrates the
-inconsistency of a sufficiently rich type theory with a "type of all types." In
-this talk, I will present a simplified version of the paradox due to Hurkens
-(1995), which in particular has a nice analogue in naive set theory. After
-treating this classical intuition and the type-theoretic argument, if we have
-time we will implement the paradox in Lean.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12052</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12074</fr:anchor><fr:addr
 type="user">ggts-transfer-systems-2024</fr:addr><fr:route>ggts-transfer-systems-2024.xml</fr:route><fr:title
 text="Saturated transfer systems on cylinders">Saturated transfer systems on cylinders</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/ggts-transfer-systems-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>25</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2884,7 +3069,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12054</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12076</fr:anchor><fr:addr
 type="user">glos-linear-topoi-2024</fr:addr><fr:route>glos-linear-topoi-2024.xml</fr:route><fr:title
 text="Towards linear topoi">Towards linear topoi</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-linear-topoi-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>27</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2899,14 +3084,158 @@ be refined along intuitionistic predicates. In this talk, I will attempt to give
 an accessible outline of this classical story and motivate the study of "linear
 topoi", categories which exhibit topos-like behavior with respect to a linear
 internal logic. I will conclude with a discussion of some progress towards an
-axiomatic presentation of these categories.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+axiomatic presentation of these categories.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12078</fr:anchor><fr:addr
+type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:title
+text="Expository Talks">Expository Talks</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12056</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12047</fr:anchor><fr:addr
+type="user">k-theory-sem-deloopings</fr:addr><fr:route>k-theory-sem-deloopings.xml</fr:route><fr:title
+text="Deloopings of categories">Deloopings of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-deloopings.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We give a high-level intuition for why spaces with highly-coherent homotopy-commutative
+and associative multiplications should model infinite loop spaces. We discuss
+two machines for identifying such space spaces: May's operads and Segal's
+gamma spaces. We conclude with a discussion of categories of operators and the
+May-Thomason uniqueness theorem for infinite loop space machines.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12049</fr:anchor><fr:addr
+type="user">amtrak-connectivity</fr:addr><fr:route>amtrak-connectivity.xml</fr:route><fr:title
+text="A connectivity toolbox">A connectivity toolbox</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/amtrak-connectivity.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>4</fr:month><fr:day>4</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Atlantic Meeting on Topology, Representation theory, and K-theory
+(AMTRaK): Homological Stability</fr:meta><fr:meta
+name="external">https://web.sas.upenn.edu/callem/amtrak/</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>This talk will elaborate on the connectivity arguments that were swept under
+the rug during pre-talk 1. In particular, we will focus on tools and techniques
+coming from discrete Morse theory. After introducing the basics of discrete
+Morse theory, we will use it to prove the Solomon-Tits Theorem.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12051</fr:anchor><fr:addr
+type="user">k-theory-sem-classifying-spaces</fr:addr><fr:route>k-theory-sem-classifying-spaces.xml</fr:route><fr:title
+text="Classifying spaces of categories">Classifying spaces of categories</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/k-theory-sem-classifying-spaces.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>3</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Kan Seminar on Algebraic K-Theory</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We motivate and define the classifying space of a category and discuss
+Quillen's Theorems A and B, which give powerful tools for computing homotopical
+information about a functor.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12053</fr:anchor><fr:addr
+type="user">glos-artin-gluing</fr:addr><fr:route>glos-artin-gluing.xml</fr:route><fr:title
+text="Artin gluing in logic">Artin gluing in logic</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-artin-gluing.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>10</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A standard approach to proving meta-theoretic properties of a proof system or
+type theory is to first define a stronger dependent predicate R---often called a
+logical relation---by induction on syntax, and prove the desired property by
+showing that every well-formed term satisfies this stronger property. In
+categorical semantics, this technique looks like an Artin gluing of the
+syntactic category along a hom-functor. This talk will introduce this technique,
+at least in the special case of so-called "sconing," and utilize it for a
+categorical proof of the existence property of intuitionistic logic.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12055</fr:anchor><fr:addr
+type="user">ggts-logical-interpretation-topology</fr:addr><fr:route>ggts-logical-interpretation-topology.xml</fr:route><fr:title
+text="The logical interpretation of topology">The logical interpretation of topology</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/ggts-logical-interpretation-topology.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Geometry-Topology Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Our standard intuition for abstract topology is geometric: the notion of open
+set axiomatized the properties of open balls in metric spaces. Maybe
+surprisingly, there is an equally applicable, and in some sense formally dual,
+logical interpretation of topological spaces. In this interpretation, open sets
+behave like "propositions subject to finite proof." This talk---which assumes no
+knowledge of mathematical logic---will explore this perspective, in particular
+as it relates to point-free topology and sheaves.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12057</fr:anchor><fr:addr
+type="user">pizza-sem-cat-sem</fr:addr><fr:route>pizza-sem-cat-sem.xml</fr:route><fr:title
+text="Categorical semantics, via vibes">Categorical semantics, via vibes</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/pizza-sem-cat-sem.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Pizza Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>You might have heard of "categorical semantics" or "internal logics," or of
+the relationship between topoi and intuitionistic logic, perhaps in Jin and
+Carmine's pizza seminar talks from last semester. You also might not have!
+Regardless, this talk aims to explain the big picture of what these terms mean,
+how they relate, and why non-logicians might care.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12059</fr:anchor><fr:addr
+type="user">glos-girards-paradox-2024</fr:addr><fr:route>glos-girards-paradox-2024.xml</fr:route><fr:title
+text="Girard's paradox for set theorists, via Hurkens">Girard's paradox for set theorists, via Hurkens</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/glos-girards-paradox-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>11</fr:month><fr:day>22</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Penn Graduate Logic Seminar</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Girard's paradox is an analogue of Russell's paradox which demonstrates the
+inconsistency of a sufficiently rich type theory with a "type of all types." In
+this talk, I will present a simplified version of the paradox due to Hurkens
+(1995), which in particular has a nice analogue in naive set theory. After
+treating this classical intuition and the type-theoretic argument, if we have
+time we will implement the paradox in Lean.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12061</fr:anchor><fr:addr
 type="user">quasicategories-seminar-2024</fr:addr><fr:route>quasicategories-seminar-2024.xml</fr:route><fr:title
 text="The definition of a quasicategory">The definition of a quasicategory</fr:title><fr:taxon>Talk</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/quasicategories-seminar-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2923,7 +3252,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3565</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3570</fr:anchor><fr:addr
 type="user">rs-0083</fr:addr><fr:route>rs-0083.xml</fr:route><fr:title
 text="Simplicial sets">Simplicial sets</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0083.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
@@ -2936,7 +3265,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2594</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2599</fr:anchor><fr:addr
 type="user">rs-007Z</fr:addr><fr:route>rs-007Z.xml</fr:route><fr:title
 text="Simplex category">Simplex category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-007Z.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -2977,7 +3306,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2596</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2601</fr:anchor><fr:addr
 type="user">rs-0082</fr:addr><fr:route>rs-0082.xml</fr:route><fr:title
 text="Presentation of the simplex category">Presentation of the simplex category</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0082.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3024,7 +3353,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2598</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2603</fr:anchor><fr:addr
 type="user">rs-0080</fr:addr><fr:route>rs-0080.xml</fr:route><fr:title
 text="Simplicial set">Simplicial set</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0080.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3061,7 +3390,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2600</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2605</fr:anchor><fr:addr
 type="user">rs-0081</fr:addr><fr:route>rs-0081.xml</fr:route><fr:title
 text="Interpretation of simplicial sets">Interpretation of simplicial sets</fr:title><fr:taxon>Explanation</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0081.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3295,7 +3624,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2602</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2607</fr:anchor><fr:addr
 type="user">rs-0086</fr:addr><fr:route>rs-0086.xml</fr:route><fr:title
 text="Degenerate simplex">Degenerate simplex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0086.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3320,7 +3649,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2604</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2609</fr:anchor><fr:addr
 type="user">rs-0084</fr:addr><fr:route>rs-0084.xml</fr:route><fr:title
 text="Standard simplex">Standard simplex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0084.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3450,7 +3779,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2606</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2611</fr:anchor><fr:addr
 type="user">rs-0085</fr:addr><fr:route>rs-0085.xml</fr:route><fr:title
 text="The universal property of the standard simplex">The universal property of the standard simplex</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0085.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3507,7 +3836,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2608</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2613</fr:anchor><fr:addr
 type="user">rs-0087</fr:addr><fr:route>rs-0087.xml</fr:route><fr:title
 text="Colimit presentation of simplicial sets">Colimit presentation of simplicial sets</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0087.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3551,7 +3880,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2610</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2615</fr:anchor><fr:addr
 type="user">rs-0089</fr:addr><fr:route>rs-0089.xml</fr:route><fr:title
 text="Constructing adjunctions to simplicial sets">Constructing adjunctions to simplicial sets</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0089.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3711,8 +4040,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2612</fr:anchor><fr:addr
-type="machine">#284</fr:addr><fr:route>unstable-284.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2617</fr:anchor><fr:addr
+type="machine">#288</fr:addr><fr:route>unstable-288.xml</fr:route><fr:title
 text="Geometric realization of a simplicial set">Geometric realization of a simplicial set</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0083.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -3724,7 +4053,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2614</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2619</fr:anchor><fr:addr
 type="user">rs-008A</fr:addr><fr:route>rs-008A.xml</fr:route><fr:title
 text="Geometric realization of a simplicial set">Geometric realization of a simplicial set</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008A.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3764,7 +4093,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2616</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2621</fr:anchor><fr:addr
 type="user">rs-008P</fr:addr><fr:route>rs-008P.xml</fr:route><fr:title
 text="Singular simplicial complex">Singular simplicial complex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3813,7 +4142,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2618</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2623</fr:anchor><fr:addr
 type="user">rs-0088</fr:addr><fr:route>rs-0088.xml</fr:route><fr:title
 text="Nerve of a category">Nerve of a category</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0088.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3914,7 +4243,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2620</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2625</fr:anchor><fr:addr
 type="user">rs-008B</fr:addr><fr:route>rs-008B.xml</fr:route><fr:title
 text="Simplicial sphere">Simplicial sphere</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008B.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3956,7 +4285,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2622</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2627</fr:anchor><fr:addr
 type="user">rs-008C</fr:addr><fr:route>rs-008C.xml</fr:route><fr:title
 text="Simplicial horn">Simplicial horn</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -3993,7 +4322,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2624</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2629</fr:anchor><fr:addr
 type="user">rs-008G</fr:addr><fr:route>rs-008G.xml</fr:route><fr:title
 text="Inner horn">Inner horn</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4025,7 +4354,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2626</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2631</fr:anchor><fr:addr
 type="user">rs-008D</fr:addr><fr:route>rs-008D.xml</fr:route><fr:title
 text="Filler of a horn">Filler of a horn</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008D.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4144,7 +4473,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3567</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>3572</fr:anchor><fr:addr
 type="user">rs-008F</fr:addr><fr:route>rs-008F.xml</fr:route><fr:title
 text="The definition">The definition</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008F.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
@@ -4161,7 +4490,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2630</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2635</fr:anchor><fr:addr
 type="user">rs-008I</fr:addr><fr:route>rs-008I.xml</fr:route><fr:title
 text="Categorical language for simplicial sets">Categorical language for simplicial sets</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4383,7 +4712,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2632</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2637</fr:anchor><fr:addr
 type="user">rs-008H</fr:addr><fr:route>rs-008H.xml</fr:route><fr:title
 text="Quasicategory">Quasicategory</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4439,7 +4768,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2634</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2639</fr:anchor><fr:addr
 type="user">rs-008K</fr:addr><fr:route>rs-008K.xml</fr:route><fr:title
 text="Equivalent morphisms">Equivalent morphisms</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4634,7 +4963,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2636</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2641</fr:anchor><fr:addr
 type="user">rs-008L</fr:addr><fr:route>rs-008L.xml</fr:route><fr:title
 text="Equivalence of morphisms is an equivalence relation">Equivalence of morphisms is an equivalence relation</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4672,7 +5001,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2638</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2643</fr:anchor><fr:addr
 type="user">rs-008M</fr:addr><fr:route>rs-008M.xml</fr:route><fr:title
 text="Composites in a quasicategory are unique up to equivalence">Composites in a quasicategory are unique up to equivalence</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4721,8 +5050,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2640</fr:anchor><fr:addr
-type="machine">#282</fr:addr><fr:route>unstable-282.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2645</fr:anchor><fr:addr
+type="machine">#286</fr:addr><fr:route>unstable-286.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -4820,8 +5149,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2642</fr:anchor><fr:addr
-type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2647</fr:anchor><fr:addr
+type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
 text="Homotopy categories">Homotopy categories</fr:title><fr:taxon>Construction</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008F.tree</fr:source-path><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
@@ -4833,7 +5162,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2644</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2649</fr:anchor><fr:addr
 type="user">rs-008N</fr:addr><fr:route>rs-008N.xml</fr:route><fr:title
 text="The nerve functor is fully faithful">The nerve functor is fully faithful</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4884,7 +5213,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2646</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2651</fr:anchor><fr:addr
 type="user">rs-008O</fr:addr><fr:route>rs-008O.xml</fr:route><fr:title
 text="Homotopy category of an infinity category">Homotopy category of an infinity category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4941,7 +5270,7 @@ show-heading="false"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2648</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2653</fr:anchor><fr:addr
 type="user">rs-008Q</fr:addr><fr:route>rs-008Q.xml</fr:route><fr:title
 text="The counit of the nerve adjunction is an isomorphism">The counit of the nerve adjunction is an isomorphism</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -4985,7 +5314,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2650</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2655</fr:anchor><fr:addr
 type="user">rs-008J</fr:addr><fr:route>rs-008J.xml</fr:route><fr:title
 text="Isomorphism in a quasicategory">Isomorphism in a quasicategory</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -5028,7 +5357,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2652</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2657</fr:anchor><fr:addr
 type="user">rs-008R</fr:addr><fr:route>rs-008R.xml</fr:route><fr:title
 text="Kan complex">Kan complex</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008R.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -5081,7 +5410,7 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2654</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2659</fr:anchor><fr:addr
 type="user">rs-008S</fr:addr><fr:route>rs-008S.xml</fr:route><fr:title
 text="Singular simplicial complex is Kan">Singular simplicial complex is Kan</fr:title><fr:taxon>Example</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -5124,8 +5453,8 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2656</fr:anchor><fr:addr
-type="machine">#281</fr:addr><fr:route>unstable-281.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2661</fr:anchor><fr:addr
+type="machine">#285</fr:addr><fr:route>unstable-285.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-008S.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
@@ -5311,42 +5640,223 @@ title="Retraction">retract</fr:link>
   with the horn does the trick.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12080</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
+text="Published Nonmathematical Writing">Published Nonmathematical Writing</fr:title><fr:source-path>/home/riley/notes/forest/trees/meta/work.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12058</fr:anchor><fr:addr
-type="user">undergraduate-thesis</fr:addr><fr:route>undergraduate-thesis.xml</fr:route><fr:title
-text="Categories for cryptographic composability">Categories for cryptographic composability</fr:title><fr:taxon>Thesis</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/undergraduate-thesis.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12082</fr:anchor><fr:addr
+type="user">quest-cs-liberal-art-2024</fr:addr><fr:route>quest-cs-liberal-art-2024.xml</fr:route><fr:title
+text="Computer science as a liberal art">Computer science as a liberal art</fr:title><fr:taxon>Opinion</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/quest-cs-liberal-art-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>6</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="institution">Reed College</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>We present introductory material on cryptography and category theory, focused on
-the prerequisites to cryptographic composability. We then present the approach
-to cryptographic composability of Broadbent &amp; Karvonen. We give
-several novel contributions, including a new model for cryptographic protocols
-which use both single- and multi-use resources, and a 2-categorical
-generalization of their model which incorporates data about computational
-reductions.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+name="venue">Reed College Quest</fr:meta><fr:meta
+name="external">https://www.reedquest.org/articles/2024/04/06/computer-science-as-a-liberal-art</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>What place does computer science have at a liberal arts college? This question
+seems urgent to me, a senior math-CS major at Reed, as our young department
+seeks to establish its place in the college at large and as it struggles within
+itself over the nature of its subject. I think that many of the concerns about
+the role of computer science stem from misunderstandings over its nature, both
+as a subject and as taught at Reed. Computer science, as practiced at Reed and
+throughout the academy, is not solely vocational training but is additionally an
+essential intellectual pursuit with broad applications to humanistic inquiry.</fr:p><fr:p>A rough definition: computer science is something like <fr:em>the study of
+computation</fr:em>. Computations—algorithmic processes for solving problems—are likely
+as old as thought; their structure has been studied at least since the invention
+of the abacus in Sumer in the third millennium BCE. Computer science, in this
+sense, cannot be understood merely as the study of computers, as in the literal
+physical devices we all use every day. Instead, it is the study of the very idea
+of mechanistic problem-solving. Modern computers are an important example of
+such tools, so inevitably feature centrally in the discipline as both method and
+object, but the stakes of the discipline must be understood as far older. Of
+course, as with all academic disciplines, its modern borders are historically
+contingent—computer science is entangled with mathematics and philosophy, with
+physics and linguistics, with sociology and political science. Any field with
+something to say about computers, the artifacts; or computation, the process; or
+which uses computers or computations as tools for studying its own objects,
+ought to be a natural ally.</fr:p><fr:p>Indeed, the study of computation addresses numerous fundamental, humanistic
+inquiries. In CS 382 (Algorithms and Data Structures) and 387 (Computability and
+Complexity), we discuss which questions can possibly be answered by rote
+computation—and by contrast, which questions require genuine creative thought.
+In CS 315 (Ethics and Public Policy) and 386 (Private and Fair Data Analysis),
+we question the role of computer technology and algorithmic decision-making in
+society, asking when the state ought to act with discretion and when it ought to
+act by mere procedure. In CS 378 (Deep Learning), 384 (Programming Language
+Design and Implementation), and 394 (Principles of Compiler Design), we study
+different means of representing processes of computation, and hence processes of
+thought—and the limits that any such translation must inevitably have. I think
+no one would doubt that these questions and many more like them have a place in
+the liberal arts.</fr:p><fr:p>In the <fr:em>Republic</fr:em>, Plato says that education should be "the art of
+orientation"—aimed not to impart knowledge onto students, but to orient them so
+that they can seek knowledge for themselves. By this standard, too, computer
+science has a clear place in the liberal arts. At its best, it teaches us to
+precisely communicate our thoughts and arguments, to reason rigorously and
+creatively about deep questions, and to critically evaluate tradeoffs between
+conflicting arguments or design choices. At times we are able to work with
+mathematical precision, and at times we have to make subjective or even
+philosophical judgments. That the methods of the field are so varied is evidence
+of the naturality of its object: questions about computation reward you for
+studying them from different perspectives, with as many tools as you can muster.</fr:p><fr:p>In this light, we must understand that computer science is not just coding or
+software engineering. Certainly, coding is one of the central tools of the
+discipline—analogous to the role of ethnography in anthropology, or primary
+source analysis in history. It is a tool we use to express computational
+patterns, either to specify how a computer should behave or to communicate our
+ideas precisely to other computer scientists. Many computer scientists spend
+much of their time coding, but so too do many anthropologists spend much of
+their time performing fieldwork. I do not mean to denigrate the importance of
+coding to the discipline—computer science is enormously valuable for software
+engineers, in the same way that anthropology is valuable for journalists—but
+software engineering is not its <fr:em>raison d'etre</fr:em>.</fr:p><fr:p>Computation is as natural an object of study as matter, or life, or politics,
+or literature; the methods of computer science are as valuable as those of
+chemistry, or biology, or political science, or English. Ada Lovelace, the
+author of the first modern computer program and hence one of the originators of
+the modern discipline of computer science, wrote that "the Analytical Engine
+weaves algebraical patterns just as the Jacquard loom weaves flowers and
+leaves". Computer science is nothing more or less than the study of the weaving
+of such patterns.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12060</fr:anchor><fr:addr
-type="user">categorical-phase-semantics-2024</fr:addr><fr:route>categorical-phase-semantics-2024.xml</fr:route><fr:title
-text="Categorical phase semantics for linear logic">Categorical phase semantics for linear logic</fr:title><fr:taxon>Paper</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/categorical-phase-semantics-2024.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>12084</fr:anchor><fr:addr
+type="user">quest-internet-2022</fr:addr><fr:route>quest-internet-2022.xml</fr:route><fr:title
+text="&quot;Protocols, not platforms&quot;: a mantra for the (we can only hope)
+post-Twitter internet">"Protocols, not platforms": a mantra for the (we can only hope)
+post-Twitter internet</fr:title><fr:taxon>Opinion</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/work/quest-internet-2022.tree</fr:source-path><fr:date><fr:year>2022</fr:year><fr:month>11</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author><fr:author>Steve Zdancewic</fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>We introduce the generalized phase semantics of linear logic, a categorical
-framework for constructing provability-sound models of linear logic from the
-subobject posets of monoids. We prove soundness and completeness results in
-categories with well-behaved factorization systems, and prove soundness for
-fragments of the logic in categories with less structure present.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="venue">Reed College Quest</fr:meta><fr:meta
+name="external">https://www.reedquest.org/articles/2022/11/11/rkjjsnoikkjvwf597qvlvkidmn2yi7</fr:meta></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Content warning - briefly mentions misgendering &amp; deadnaming</fr:em></fr:p><fr:p><fr:em>Disclaimer - the author does not use social media and may just be spewing
+nonsense</fr:em></fr:p><fr:p>Sooo, Twitter's a hot mess. I think we all kinda know the modern internet sucks
+in a lot of ways; privacy is dead, objectivity is dead, customizability and
+user-friendly design are dead, competition is dead, democracy is dead (not that
+it was ever really alive). If you're a Twitter user fed up with Twitter and with
+Elon Musk doing asshole billionaire things, you might be thinking about
+switching social networks. You might also be finding it hard to leave your
+friends on the site. It probably feels like there's nowhere to go. What if I
+told you the internet didn't have to be like this? There is a better way, a
+better ethos for a more open, collaborative, secure, and user-focused internet:
+<fr:em>protocols, not platforms</fr:em>.</fr:p><fr:p>Let's start at the beginning. In 1990, Tim Berners-Lee invented three new
+technologies which would become the basis of the World Wide Web. First was
+Hypertext Markup Language (HTML), an easy-to-use language for representing
+textual content with hyperlinks and formatting (markup). Next was the Hypertext
+Transfer Protocol (HTTP), which described how to transfer HTML documents from a
+server which stored them to a client who wanted to view them. Finally, there
+were Uniform Resource Locators (URLs), which described how to find the right
+server storing the specific HTML page the client wanted.</fr:p><fr:p>Here's the key: these technologies were open protocols. Berners-Lee could have
+created a program which read opaque files that only he and his program
+understood and communicated with servers that he controlled. Instead, he
+carefully described what HTML files were and how to host them, send and receive
+them, and author them. This meant that anyone who wanted to create and publish
+content for this new thing called the internet could do so, easily. It also
+meant that anyone who wanted to read content could do so in any manner they
+chose. Think about Firefox, Chrome, and Safari. You can choose which browser to
+use precisely because HTML and HTTP are open standards, so multiple interfaces
+know how to read them; a browser is just a fancy name for an interface to these
+protocols. Their openness means you can consume web content in a huge variety of
+ways. For example, you can choose not to load content from advertiser or
+content-tracking URLs, you can override websites’ color-schemes, and you can
+choose to load no images from any page ever. All of this is only possible
+because Berners-Lee wrote open protocols.</fr:p><fr:p>That's all a protocol is: a standard that describes how to do something, so that
+it can be implemented by multiple different interfaces, each with different
+features, business models, etc. We're used to that with browsers, but think
+about how different it is from modern social media. Imagine if there was a
+standard Social Media Protocol which described how to represent data like posts,
+likes, and friends. Then, different companies (or open-source developers) could
+implement various user interfaces for interacting with that protocol. So if I
+want to just see a simple list of my friends' posts, but you want to see an
+algorithmically curated set of posts based on your interaction history, we could
+both do so, by selecting different interfaces for the same protocol. If I wanted
+a lot of fancy features, I could pay for an interface with a professional
+development team, modern look, integration with a hypothetical open calendar
+protocol, whatever; whereas you might pay less or even nothing for a basic
+implementation with none of those bells and whistles.</fr:p><fr:p>You might have heard of people leaving Twitter to something called Mastodon.
+Mastodon is exactly what I just described: an interface which implements an open
+social networking protocol called ActivityPub. If someone doesn't want to use
+Mastodon, they can use other implementers of this protocol, and still
+communicate with their friends' posts from Mastodon. Compare that to Twitter,
+where you <fr:em>have</fr:em> to be on Twitter to talk to others on Twitter, and therefore you
+are always subject to their algorithm, spam, questionable moderation, data
+collection, targeted advertising, terrible UI choices, etc. etc. etc. If
+Mastodon makes a change to their UI — or their privacy policy — which you
+dislike, you can leave it for another interface. If Twitter makes such a change,
+you're kind of stuck, unless you want to lose touch with a bunch of friends.</fr:p><fr:p>Email is built on a number of open protocols, including the Simple Mail Transfer
+Protocol (SMTP). I use a text-based email client from 1995 called Mutt. That's
+weird, but I love its customizability, its keyboard shortcuts, its 90s feel, the
+fact that I can read its source code, the fact that it doesn't steal all my
+data. And even though I make this weird choice, I can still email people who are
+using modern gmail.com, because email is built on open protocols. I have a
+filter that runs some code to scan emails for my deadname and send them to a
+separate folder, where I don’t look at them until I know I have the energy. The
+emails still get sent along the protocol — SMTP knows nothing at all about
+filtering — I just change how the interface interprets them. I can do that
+because the interface I use happens to support custom filtering. You can imagine
+the applications to social media, for example. Content filters could be
+implemented without needing to wait for a monolith like Twitter to add the
+feature, and if a smaller interface added the feature before larger ones, it
+would be much easier to pull users from the larger interface. Users could also
+add filters for triggers in private, without even the company making the
+interface knowing. This is not a silver bullet, but it would certainly help with
+the content moderation issue on social media today — trans people could much
+more easily filter out misgendering and deadnaming, for instance.</fr:p><fr:p>You know how texting between Androids and iPhones is horrible? Group chats
+randomly get created and recreated, people sometimes just don't get messages,
+etc? Texting was originally based on a protocol called the Short Messaging
+Service (SMS), which is very outdated and not up to modern standards for group
+chats, security, reliability, embedded content, and more. Modern Android texts
+use a newer open protocol called Rich Communication Services (RCS). Modern
+iPhone texts use a closed platform called iMessage. Because Apple refuses to use
+the modern open protocol, instead preferring a walled-off platform for only
+iPhone users, the old SMS protocol becomes the fallback when messaging between
+platforms. And SMS is terrible, so messaging between iPhones and Androids is
+terrible. If Apple implemented the modern, open protocol, or if they made their
+proprietary platform open, the mess would go away.</fr:p><fr:p>So maybe you're convinced this model is at least interesting. But who would take
+on the expensive task of data storage, without the financial benefits of a
+closed shop? Since data would also be stored in open formats like HTML, there'd
+be no need for it to be stored on servers owned by the platform you happen to
+use. Instead, there would be dedicated data store companies, who could
+(presumably for a cost) store your data completely encrypted, so even they
+cannot access it, but you still can. (I currently use such a service, called
+Tarsnap, for backups of my computer, my non-Gmail email data, etc.) Privacy and
+encryption could be segmented and sandboxed; these cryptographic problems are
+pretty well-studied. For example, your social network data could be open to
+anyone who's online identity (based on something called a private key) is on
+your friends list, so they can see your posts, but completely private to anyone
+else. Those who want cheaper services and algorithmically selected content could
+opt in to data collection by the interfaces they use, while still communicating
+with their more privacy-focused friends. Again, the cryptography here is pretty
+solid, unless you think the NSA has broken the RSA encryption protocol; the
+problem is finding user-friendly ways to implement it.</fr:p><fr:p>The examples I’ve discussed here are mostly related to communication and social
+media, but I hope you can see a little bit about how they generalize. There are
+also a lot more details to work out that I didn't have space (or expertise) for
+here. If you want more, check out a 2019 article by Mike Masnick called
+"Protocols, Not Platforms: A Technological Approach to Free Speech." I don't
+agree with everything he says (especially the cryptocurrency nonsense), but it's
+mostly very well explained, and covers issues like competition, free speech,
+moderation, harassment, partisan bubbles, and processes for updating these
+protocols.</fr:p><fr:p>The key point, though, is that closed-shop platforms prevent user choice by
+forcing users who want the benefits of collaboration and communication to
+participate in whichever platform happens to be dominant, regardless of its
+subjective features like web design and of its more serious issues like privacy.
+And yeah, I don't really have a great plan to get from here to there. But we
+should remember that there is a better way, the philosophy that made the
+internet the open sandbox that let Twitter and Gmail overtake MySpace and AOL in
+the first place: open protocols, not platforms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

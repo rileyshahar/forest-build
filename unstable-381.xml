@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10859</fr:anchor><fr:addr
+type="machine">#381</fr:addr><fr:route>unstable-381.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0005.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We have <fr:tex
+display="block"><![CDATA[g = g1_y = gfh = 1_xh = h.]]></fr:tex></fr:p>
+</fr:mainmatter><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10861</fr:anchor><fr:addr
+type="user">rs-0005</fr:addr><fr:route>rs-0005.xml</fr:route><fr:title
+text="Inverses are unique">Inverses are unique</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0005.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Exercise 1.1.i.ii</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[x\xrightarrow {f}y]]></fr:tex> be an <fr:link
+type="local"
+href="rs-0002.xml"
+addr="rs-0002"
+title="Isomorphism">isomorphism</fr:link> with inverses <fr:tex
+display="inline"><![CDATA[g]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[h]]></fr:tex>. Then <fr:tex
+display="inline"><![CDATA[g = h]]></fr:tex>.</fr:p>
+  
+    
+    
+    <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>10863</fr:anchor><fr:addr
+type="machine">#381</fr:addr><fr:route>unstable-381.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0005.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p>We have <fr:tex
+display="block"><![CDATA[g = g1_y = gfh = 1_xh = h.]]></fr:tex></fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

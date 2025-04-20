@@ -7,27 +7,31 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1379</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
-text="Preabelian category › of (co)completeness"><fr:link
-type="local"
-href="rs-00BR.xml"
-addr="rs-00BR"
-title="Preabelian category">Preabelian category</fr:link> › of (co)completeness</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>570</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CN.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  Since additive categories have biproducts, it <fr:link
-type="local"
-href="rs-0057.xml"
-addr="rs-0057"
-title="Finite compleness criterion">suffices to show</fr:link> that
-  kernels and cokernels give equalizers and coequalizers; the equalizer of <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>
-  and <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> is the same as the kernel of <fr:tex
-display="inline"><![CDATA[f - g]]></fr:tex>, and dually for coequalizers.
+  <fr:p>We give the proof for limits; the proof for colimits is identical.
+  That <fr:tex
+display="inline"><![CDATA[(X, \pi _\alpha )]]></fr:tex> is a cone over <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> is immediate because the initial
+  topology makes the <fr:tex
+display="inline"><![CDATA[\pi _\alpha ]]></fr:tex> continuous.</fr:p>
+
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[(Z, \tau _\alpha )]]></fr:tex> be a cone in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span> over <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Let <fr:tex
+display="inline"><![CDATA[f: Z\to  X]]></fr:tex> be
+  the canonical map induced by the universal property of the limit in
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span>. It now remains to show that <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is continuous, but this comes precisely
+  from the construction of the initial topology.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -43,35 +47,86 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1381</fr:anchor><fr:addr
-type="user">rs-00BR</fr:addr><fr:route>rs-00BR.xml</fr:route><fr:title
-text="Preabelian category">Preabelian category</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>572</fr:anchor><fr:addr
+type="user">rs-00CN</fr:addr><fr:route>rs-00CN.xml</fr:route><fr:title
+text="Characterization of (co)limits in Top">Characterization of (co)limits in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span></fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CN.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>preabelian category</fr:em> is an <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Bradley et al</fr:meta><fr:meta
+name="ref-at">Chapter 1</fr:meta><fr:meta
+name="ref-note">bradley-et-al-2020</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
 type="local"
-href="rs-00BM.xml"
-addr="rs-00BM"
-title="Additive category">additive category</fr:link> which has all
+href="bradley-et-al-2020.xml"
+addr="bradley-et-al-2020"
+title="Topology: a categorical approach" />
+<fr:p>Let <fr:tex
+display="inline"><![CDATA[I\xrightarrow {F}]]></fr:tex> <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span> be a <fr:link
+type="local"
+href="rs-001U.xml"
+addr="rs-001U"
+title="Diagram">diagram</fr:link> in <fr:link
+type="local"
+href="rs-000D.xml"
+addr="rs-000D"
+title="Category of spaces">spaces</fr:link>. Then
+the <fr:link
+type="local"
+href="rs-001Y.xml"
+addr="rs-001Y"
+title="Limit">limit</fr:link> of <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> has underlying set the <fr:link
+type="local"
+href="rs-002E-construction.xml"
+addr="rs-002E-construction"
+title="Set is complete › construction of limits in Set">limit in
+<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>, topologized by the <fr:em>initial topology</fr:em>: the
 <fr:link
 type="local"
-href="rs-009G.xml"
-addr="rs-009G"
-title="Kernel">kernels</fr:link> and cokernels; hence is <fr:link
-type="local"
-href="rs-0058.xml"
-addr="rs-0058"
-title="Finite category">finitely</fr:link>
+href="rs-00CH.xml"
+addr="rs-00CH"
+title="Comparison of topologies">coarsest</fr:link> topology making the legs <fr:tex
+display="inline"><![CDATA[\pi _\alpha ]]></fr:tex> of the limiting cone
 <fr:link
 type="local"
-href="rs-002C.xml"
-addr="rs-002C"
-title="Complete category">complete</fr:link> and <fr:link
+href="rs-00CD.xml"
+addr="rs-00CD"
+title="Continuous map">continuous</fr:link>.</fr:p><fr:p>Explicitly, the initial topology is <fr:link
 type="local"
-href="rs-002D.xml"
-addr="rs-002D"
-title="Cocomplete category">cocomplete</fr:link>.</fr:p>
+href="rs-00CO.xml"
+addr="rs-00CO"
+title="Subbase for a topology">generated by the subbase</fr:link>
+<fr:tex
+display="block"><![CDATA[\bigcup _{\alpha } \{\pi _\alpha ^{-1}(U): U\subseteq  F\alpha  \text { open}\}.]]></fr:tex></fr:p><fr:p>Furthermore, the <fr:link
+type="local"
+href="rs-001Z.xml"
+addr="rs-001Z"
+title="Colimit">colimit</fr:link> of <fr:tex
+display="inline"><![CDATA[F]]></fr:tex> has underlying set the <fr:link
+type="local"
+href="rs-002T.xml"
+addr="rs-002T"
+title="Set is cocomplete">colimit in
+<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>, topologized by the <fr:em>final topology</fr:em>: the finest
+topology making the colegs <fr:tex
+display="inline"><![CDATA[\iota _\alpha ]]></fr:tex> of the colimiting cocone continuous.</fr:p><fr:p>Explicitly, a subset <fr:tex
+display="inline"><![CDATA[U]]></fr:tex> of the colimit is open in the final topology if and
+only if <fr:tex
+display="inline"><![CDATA[\iota _\alpha ^{-1}(U)]]></fr:tex> is open for each <fr:tex
+display="inline"><![CDATA[\alpha ]]></fr:tex>.</fr:p>
   
     
     
@@ -82,23 +137,31 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1220</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
-text="Of (co)completeness">Of (co)completeness</fr:title><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00BR.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>415</fr:anchor><fr:addr
+type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CN.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  Since additive categories have biproducts, it <fr:link
-type="local"
-href="rs-0057.xml"
-addr="rs-0057"
-title="Finite compleness criterion">suffices to show</fr:link> that
-  kernels and cokernels give equalizers and coequalizers; the equalizer of <fr:tex
-display="inline"><![CDATA[f]]></fr:tex>
-  and <fr:tex
-display="inline"><![CDATA[g]]></fr:tex> is the same as the kernel of <fr:tex
-display="inline"><![CDATA[f - g]]></fr:tex>, and dually for coequalizers.
+  <fr:p>We give the proof for limits; the proof for colimits is identical.
+  That <fr:tex
+display="inline"><![CDATA[(X, \pi _\alpha )]]></fr:tex> is a cone over <fr:tex
+display="inline"><![CDATA[D]]></fr:tex> is immediate because the initial
+  topology makes the <fr:tex
+display="inline"><![CDATA[\pi _\alpha ]]></fr:tex> continuous.</fr:p>
+
+  <fr:p>Let <fr:tex
+display="inline"><![CDATA[(Z, \tau _\alpha )]]></fr:tex> be a cone in <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Top</html:span> over <fr:tex
+display="inline"><![CDATA[D]]></fr:tex>. Let <fr:tex
+display="inline"><![CDATA[f: Z\to  X]]></fr:tex> be
+  the canonical map induced by the universal property of the limit in
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span>. It now remains to show that <fr:tex
+display="inline"><![CDATA[f]]></fr:tex> is continuous, but this comes precisely
+  from the construction of the initial topology.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

@@ -7,67 +7,310 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5362</fr:anchor><fr:addr
-type="machine">#299</fr:addr><fr:route>unstable-299.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4690</fr:anchor><fr:addr
+type="machine">#299</fr:addr><fr:route>unstable-299.xml</fr:route><fr:title
+text="Order theory › Basic Notions"><fr:link
+type="local"
+href="rs-006Q.xml"
+addr="rs-006Q"
+title="Order theory">Order theory</fr:link> › Basic Notions</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Since <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>926</fr:anchor><fr:addr
+type="user">rs-005T</fr:addr><fr:route>rs-005T.xml</fr:route><fr:title
+text="Preorder">Preorder</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
-href="rs-006B.xml"
-addr="rs-006B"
-title="Density formula">every presheaf is a colimit of representables</fr:link>, hence a
-  colimit of objects in the image of the Yoneda embedding, and the functor
-  <fr:tex
-display="inline"><![CDATA[\hat {F}]]></fr:tex> must preserve colimits, there is (up to isomorphism) only one
-  candidate fomula: given a presheaf <fr:tex
-display="inline"><![CDATA[P]]></fr:tex>, we must have
-  <fr:tex
-display="block"><![CDATA[\begin {aligned}   \hat {F}P &= \hat {F}(\operatorname *{colim}(\text {el}(P)\xrightarrow {\Pi } C\xhookrightarrow {y} \hat {C})) \\\\   &= \operatorname *{colim} (\text {el}(P)\xrightarrow {\Pi } C\xhookrightarrow {y} \hat {C}\xrightarrow {\hat {F}} E) \\\\   &= \operatorname *{colim} (\text {el}(P) \xrightarrow {\Pi } C\xrightarrow {F} E).   \end {aligned}   ]]></fr:tex> By <fr:link
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
 type="local"
-href="rs-0030.xml"
-addr="rs-0030"
-title="Functoriality of limits">functoriality of colimits</fr:link>, this is well-defined.</fr:p>
-
-  <fr:p>By the <fr:link
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>preorder</fr:em> is a <fr:link
 type="local"
-href="rs-006B.xml"
-addr="rs-006B"
-title="Density formula">proof of the density formula</fr:link>, we recognize this as the
-  <fr:link
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> in which, for each pair of objects
+<fr:tex
+display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[P(x, y)]]></fr:tex> is either empty or a singleton. Explicitly, this means
+that it has a collection of elements (its objects) and a <fr:link
 type="local"
-href="rs-0065.xml"
-addr="rs-0065"
-title="(Co)limit formula for Kan extensions">colimit formula for the Kan extension of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex> along <fr:tex
-display="inline"><![CDATA[y]]></fr:tex></fr:link>. (Indeed,
-  since <fr:link
+href="rs-005Q.xml"
+addr="rs-005Q"
+title="Reflexive relation">reflexive</fr:link>,
+<fr:link
 type="local"
-href="rs-0019.xml"
-addr="rs-0019"
-title="Full and faithfullness of the Yoneda embedding">the Yoneda embedding is fully faithful</fr:link>, <fr:link
+href="rs-005R.xml"
+addr="rs-005R"
+title="Transitive relation">transitive</fr:link> <fr:link
 type="local"
-href="rs-0069.xml"
-addr="rs-0069"
-title="Pointwise Kan extensions along fully faithful functors are isomorphisms">this Kan extension
-  is necessarily an isomorphism</fr:link>, so that this extension necessarily
-  makes the triangle commute.)</fr:p>
-  
-  <fr:p>It remains to show that <fr:tex
-display="inline"><![CDATA[\hat {F}]]></fr:tex> is cocontinuous. To do so, <fr:link
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> (inhabitance of hom-sets).</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>928</fr:anchor><fr:addr
+type="user">rs-006G</fr:addr><fr:route>rs-006G.xml</fr:route><fr:title
+text="Lower set">Lower set</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
-href="rs-003P.xml"
-addr="rs-003P"
-title="Right adjoints preserve limits; left adjoints preserve colimits">it suffices
-  to show it is a left adjoint</fr:link>. We define the functor <fr:tex
-display="inline"><![CDATA[E\xrightarrow {R}   \hat {C}]]></fr:tex> by <fr:tex
-display="inline"><![CDATA[Re = E(F-, e).]]></fr:tex> To exhibit the adjunction, compute for
-  <fr:tex
-display="inline"><![CDATA[P\in \hat {C}]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[e\in  E]]></fr:tex>, <fr:tex
-display="block"><![CDATA[     \begin {aligned}       \hat {C}(P, Re) &\cong  \hat {C}(\operatorname *{colim}_{(c,x)\in \text {el}(P)}C(-, c), Re) &&\text {by the density formula} \\       &\cong  \operatorname *{lim}_{(c, x)\in \text {el}(P)^\text {op}} \hat {C}(C(-, c), Re) &&\text {by the       representability of colimits} \\       &\cong  \operatorname *{lim}_{(c, x)\in \text {el}(P)^\text {op}} (Re)c &&\text {by the Yoneda lemma} \\       &\cong  \operatorname *{lim}_{(c, x)\in \text {el}(P)^\text {op}} E(Fc, e) &&\text {by definition of } R \\       &\cong  E(\operatorname *{colim}_{(c, x)\in \text {el}(P)} Fc, e) &&\text {by the representability of colimits} \\       &\cong  E(\hat {F}P, e) &&\text {by definition of } \hat {F}.     \end {aligned}   ]]></fr:tex></fr:p>
-</fr:mainmatter><fr:backmatter><fr:tree
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(1)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[(P, \leq )]]></fr:tex> is a <fr:em>lower
+set</fr:em> if it is <fr:em>downward closed</fr:em>, i.e., if for all <fr:tex
+display="inline"><![CDATA[a \in  A]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[x \in  P]]></fr:tex>,
+if <fr:tex
+display="inline"><![CDATA[x\leq  a]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[x\in  A]]></fr:tex>. <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">Dually</fr:link>, an <fr:em>upper set</fr:em> is
+<fr:em>upward closed</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>930</fr:anchor><fr:addr
+type="user">rs-006H</fr:addr><fr:route>rs-006H.xml</fr:route><fr:title
+text="Lower bound">Lower bound</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(2)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>lower bound</fr:em> of a <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[A\subseteq  P]]></fr:tex> of a
+<fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is an element <fr:tex
+display="inline"><![CDATA[x\in  P]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[x\leq  a]]></fr:tex> for all
+<fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>. The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion is <fr:em>upper bound</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>932</fr:anchor><fr:addr
+type="user">rs-006I</fr:addr><fr:route>rs-006I.xml</fr:route><fr:title
+text="Minimal element">Minimal element</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(3)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>An element <fr:tex
+display="inline"><![CDATA[x\in  P]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is <fr:em>minimal</fr:em> if, whenever
+<fr:tex
+display="inline"><![CDATA[y\leq  x]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[x\leq  y]]></fr:tex>. The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion is <fr:em>maximal</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>934</fr:anchor><fr:addr
+type="user">rs-006K</fr:addr><fr:route>rs-006K.xml</fr:route><fr:title
+text="Least element">Least element</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(4)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>least element</fr:em> or <fr:em>bottom</fr:em> <fr:tex
+display="inline"><![CDATA[\bot ]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is
+an element such that <fr:tex
+display="inline"><![CDATA[\bot \leq  x]]></fr:tex> for all <fr:tex
+display="inline"><![CDATA[x\in  P.]]></fr:tex> The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion
+is <fr:em>greatest element</fr:em> or <fr:em>top</fr:em> <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex>.</fr:p><fr:p>Equivalently, considering <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> as a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, <fr:tex
+display="inline"><![CDATA[\bot ]]></fr:tex> is a
+<fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal object</fr:link> and <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex> is a <fr:link
+type="local"
+href="rs-0021.xml"
+addr="rs-0021"
+title="Initial object">initial object</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>936</fr:anchor><fr:addr
+type="user">rs-006J</fr:addr><fr:route>rs-006J.xml</fr:route><fr:title
+text="Meet">Meet</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(4)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet</fr:em>, <fr:em>infimum</fr:em>, or <fr:em>greatest lower bound</fr:em> of a subset
+<fr:tex
+display="inline"><![CDATA[A\subseteq  P]]></fr:tex> in a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006K.xml"
+addr="rs-006K"
+title="Least element">greatest</fr:link> <fr:link
+type="local"
+href="rs-006H.xml"
+addr="rs-006H"
+title="Lower bound">lower
+bound</fr:link> of <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. We write <fr:tex
+display="inline"><![CDATA[\bigwedge {A}]]></fr:tex>, or <fr:tex
+display="inline"><![CDATA[x\wedge  y]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[\bigwedge \{x, y\}]]></fr:tex>. The dual notion is <fr:em>join</fr:em>, <fr:em>supremum</fr:em>, or <fr:em>least upper bound</fr:em>,
+written <fr:tex
+display="inline"><![CDATA[\vee ]]></fr:tex>.</fr:p><fr:p>When <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is considered as a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, a meet is a
+<fr:link
+type="local"
+href="rs-0023.xml"
+addr="rs-0023"
+title="Product">product</fr:link> and a join is a <fr:link
+type="local"
+href="rs-0024.xml"
+addr="rs-0024"
+title="Coproduct">coproduct</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -82,15 +325,678 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5364</fr:anchor><fr:addr
-type="user">rs-006C</fr:addr><fr:route>rs-006C.xml</fr:route><fr:title
-text="The category of presheaves is the free cocompletion">The category of presheaves is the free cocompletion</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4692</fr:anchor><fr:addr
+type="user">rs-006Q</fr:addr><fr:route>rs-006Q.xml</fr:route><fr:title
+text="Order theory">Order theory</fr:title><fr:taxon>Collection</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>924</fr:anchor><fr:addr
+type="machine">#299</fr:addr><fr:route>unstable-299.xml</fr:route><fr:title
+text="Basic Notions">Basic Notions</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>926</fr:anchor><fr:addr
+type="user">rs-005T</fr:addr><fr:route>rs-005T.xml</fr:route><fr:title
+text="Preorder">Preorder</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month><fr:day>3</fr:day></fr:date><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>preorder</fr:em> is a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> in which, for each pair of objects
+<fr:tex
+display="inline"><![CDATA[x]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[y]]></fr:tex>, <fr:tex
+display="inline"><![CDATA[P(x, y)]]></fr:tex> is either empty or a singleton. Explicitly, this means
+that it has a collection of elements (its objects) and a <fr:link
+type="local"
+href="rs-005Q.xml"
+addr="rs-005Q"
+title="Reflexive relation">reflexive</fr:link>,
+<fr:link
+type="local"
+href="rs-005R.xml"
+addr="rs-005R"
+title="Transitive relation">transitive</fr:link> <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> (inhabitance of hom-sets).</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>928</fr:anchor><fr:addr
+type="user">rs-006G</fr:addr><fr:route>rs-006G.xml</fr:route><fr:title
+text="Lower set">Lower set</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006G.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(1)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[A]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[(P, \leq )]]></fr:tex> is a <fr:em>lower
+set</fr:em> if it is <fr:em>downward closed</fr:em>, i.e., if for all <fr:tex
+display="inline"><![CDATA[a \in  A]]></fr:tex> and <fr:tex
+display="inline"><![CDATA[x \in  P]]></fr:tex>,
+if <fr:tex
+display="inline"><![CDATA[x\leq  a]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[x\in  A]]></fr:tex>. <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">Dually</fr:link>, an <fr:em>upper set</fr:em> is
+<fr:em>upward closed</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>930</fr:anchor><fr:addr
+type="user">rs-006H</fr:addr><fr:route>rs-006H.xml</fr:route><fr:title
+text="Lower bound">Lower bound</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006H.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(2)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>lower bound</fr:em> of a <fr:link
+type="local"
+href="rs-005N.xml"
+addr="rs-005N"
+title="Subset">subset</fr:link> <fr:tex
+display="inline"><![CDATA[A\subseteq  P]]></fr:tex> of a
+<fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is an element <fr:tex
+display="inline"><![CDATA[x\in  P]]></fr:tex> such that <fr:tex
+display="inline"><![CDATA[x\leq  a]]></fr:tex> for all
+<fr:tex
+display="inline"><![CDATA[a\in  A]]></fr:tex>. The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion is <fr:em>upper bound</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>932</fr:anchor><fr:addr
+type="user">rs-006I</fr:addr><fr:route>rs-006I.xml</fr:route><fr:title
+text="Minimal element">Minimal element</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006I.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(3)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>An element <fr:tex
+display="inline"><![CDATA[x\in  P]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is <fr:em>minimal</fr:em> if, whenever
+<fr:tex
+display="inline"><![CDATA[y\leq  x]]></fr:tex>, then <fr:tex
+display="inline"><![CDATA[x\leq  y]]></fr:tex>. The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion is <fr:em>maximal</fr:em>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>934</fr:anchor><fr:addr
+type="user">rs-006K</fr:addr><fr:route>rs-006K.xml</fr:route><fr:title
+text="Least element">Least element</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006K.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(4)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>least element</fr:em> or <fr:em>bottom</fr:em> <fr:tex
+display="inline"><![CDATA[\bot ]]></fr:tex> of a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is
+an element such that <fr:tex
+display="inline"><![CDATA[\bot \leq  x]]></fr:tex> for all <fr:tex
+display="inline"><![CDATA[x\in  P.]]></fr:tex> The <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">dual</fr:link> notion
+is <fr:em>greatest element</fr:em> or <fr:em>top</fr:em> <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex>.</fr:p><fr:p>Equivalently, considering <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> as a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, <fr:tex
+display="inline"><![CDATA[\bot ]]></fr:tex> is a
+<fr:link
+type="local"
+href="rs-0020.xml"
+addr="rs-0020"
+title="Terminal object">terminal object</fr:link> and <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex> is a <fr:link
+type="local"
+href="rs-0021.xml"
+addr="rs-0021"
+title="Initial object">initial object</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>936</fr:anchor><fr:addr
+type="user">rs-006J</fr:addr><fr:route>rs-006J.xml</fr:route><fr:title
+text="Meet">Meet</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006J.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>18</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(4)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet</fr:em>, <fr:em>infimum</fr:em>, or <fr:em>greatest lower bound</fr:em> of a subset
+<fr:tex
+display="inline"><![CDATA[A\subseteq  P]]></fr:tex> in a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is a <fr:link
+type="local"
+href="rs-006K.xml"
+addr="rs-006K"
+title="Least element">greatest</fr:link> <fr:link
+type="local"
+href="rs-006H.xml"
+addr="rs-006H"
+title="Lower bound">lower
+bound</fr:link> of <fr:tex
+display="inline"><![CDATA[A]]></fr:tex>. We write <fr:tex
+display="inline"><![CDATA[\bigwedge {A}]]></fr:tex>, or <fr:tex
+display="inline"><![CDATA[x\wedge  y]]></fr:tex> for <fr:tex
+display="inline"><![CDATA[\bigwedge \{x, y\}]]></fr:tex>. The dual notion is <fr:em>join</fr:em>, <fr:em>supremum</fr:em>, or <fr:em>least upper bound</fr:em>,
+written <fr:tex
+display="inline"><![CDATA[\vee ]]></fr:tex>.</fr:p><fr:p>When <fr:tex
+display="inline"><![CDATA[P]]></fr:tex> is considered as a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, a meet is a
+<fr:link
+type="local"
+href="rs-0023.xml"
+addr="rs-0023"
+title="Product">product</fr:link> and a join is a <fr:link
+type="local"
+href="rs-0024.xml"
+addr="rs-0024"
+title="Coproduct">coproduct</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>938</fr:anchor><fr:addr
+type="machine">#300</fr:addr><fr:route>unstable-300.xml</fr:route><fr:title
+text="Special Preorders">Special Preorders</fr:title><fr:taxon>Section</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006Q.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>940</fr:anchor><fr:addr
+type="user">rs-005U</fr:addr><fr:route>rs-005U.xml</fr:route><fr:title
+text="Poset">Poset</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-005U.tree</fr:source-path><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Riehl</fr:meta><fr:meta
+name="ref-at">Example 1.1.4(iii)</fr:meta><fr:meta
+name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="riehl-2017.xml"
+addr="riehl-2017"
+title="Category theory in context" />
+<fr:p>A <fr:em>poset</fr:em> is a <fr:link
+type="local"
+href="rs-005T.xml"
+addr="rs-005T"
+title="Preorder">preorder</fr:link> which is <fr:link
+type="local"
+href="rs-001D.xml"
+addr="rs-001D"
+title="Skeletal category">skeletal</fr:link> as a
+<fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>; equivalently, this means its <fr:link
+type="local"
+href="rs-005O.xml"
+addr="rs-005O"
+title="Relation">relation</fr:link> is
+additionally <fr:link
+type="local"
+href="rs-005S.xml"
+addr="rs-005S"
+title="Antisymmetric relation">antisymmetric</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>942</fr:anchor><fr:addr
+type="user">rs-006L</fr:addr><fr:route>rs-006L.xml</fr:route><fr:title
+text="Pseudosemilattice">Pseudosemilattice</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006L.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet-pseudosemilattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all binary
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link>. <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">Dually</fr:link>, a <fr:em>join-pseudosemilattice</fr:em> is a poset with all
+binary joins.</fr:p><fr:p>Some authors use <fr:em>semilattice</fr:em> to refer to this notion, using (e.g.)
+<fr:em>bounded semilattice</fr:em> or <fr:em>semilattice with <fr:tex
+display="inline"><![CDATA[\top ]]></fr:tex></fr:em> for what we call
+merely <fr:link
+type="local"
+href="rs-006M.xml"
+addr="rs-006M"
+title="Semilattice">semilattice</fr:link>.</fr:p><fr:p>As a <fr:link
+type="local"
+href="rs-0001.xml"
+addr="rs-0001"
+title="Category">category</fr:link>, a meet-pseudosemilattice is a <fr:link
+type="local"
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">cartesian</fr:link>
+poset.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>944</fr:anchor><fr:addr
+type="user">rs-006P</fr:addr><fr:route>rs-006P.xml</fr:route><fr:title
+text="Pseudolattice">Pseudolattice</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006P.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>pseudolattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all binary <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link>
+and joins; in particular, it is both a meet- and
+join-<fr:link
+type="local"
+href="rs-006L.xml"
+addr="rs-006L"
+title="Pseudosemilattice">pseudosemilattice</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>946</fr:anchor><fr:addr
+type="user">rs-006M</fr:addr><fr:route>rs-006M.xml</fr:route><fr:title
+text="Semilattice">Semilattice</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006M.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>meet-semilattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link>; in particular, it is a <fr:link
+type="local"
+href="rs-006L.xml"
+addr="rs-006L"
+title="Pseudosemilattice">meet-pseudosemilattice</fr:link> with
+<fr:link
+type="local"
+href="rs-006K.xml"
+addr="rs-006K"
+title="Least element">bottom</fr:link>. <fr:link
+type="local"
+href="rs-0009.xml"
+addr="rs-0009"
+title="Categorical duality">Dually</fr:link>, a <fr:em>join-semilattice</fr:em> is a poset with
+all finite joins.</fr:p><fr:p>Equivalently, a meet-semilattice is a posetal finitely <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete category</fr:link>, while a
+join-semilattice is a posetal finitely <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>948</fr:anchor><fr:addr
+type="user">rs-006N</fr:addr><fr:route>rs-006N.xml</fr:route><fr:title
+text="Lattice">Lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006N.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>lattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
+<fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link> and joins; in particular, it is both a meet- and
+join-<fr:link
+type="local"
+href="rs-006M.xml"
+addr="rs-006M"
+title="Semilattice">semilattice</fr:link>.</fr:p><fr:p>Equivalently, it is a posetal <fr:link
+type="local"
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">bicartesian category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>950</fr:anchor><fr:addr
+type="user">rs-006T</fr:addr><fr:route>rs-006T.xml</fr:route><fr:title
+text="Distributive lattice">Distributive lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006T.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">p. 107</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:link
+type="local"
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link> (or, more generally, a <fr:link
+type="local"
+href="rs-006P.xml"
+addr="rs-006P"
+title="Pseudolattice">pseudolattice</fr:link>) is
+<fr:em>distributive</fr:em> if <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">joins</fr:link> distribute over meets or, equivalently,
+meets distribute over joins, i.e. if it satisfies either of the
+equivalent conditions
+<fr:tex
+display="block"><![CDATA[   x\wedge  (y\vee  z) = (x\wedge  y)\vee  (x\wedge  z)\quad \text { and }\quad    x\vee  (y\wedge  z) = (x\vee  y)\wedge  (x\vee  z). ]]></fr:tex></fr:p><fr:p>Equivalently, a distributive lattice is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">posetal</fr:link> <fr:link
+type="local"
+href="rs-006U.xml"
+addr="rs-006U"
+title="Distributive category">distributive
+category</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>952</fr:anchor><fr:addr
+type="user">rs-006O</fr:addr><fr:route>rs-006O.xml</fr:route><fr:title
+text="Complete lattice">Complete lattice</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006O.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Abramsky &amp; Jung</fr:meta><fr:meta
+name="ref-at">Definition 2.1.3(6)</fr:meta><fr:meta
+name="ref-note">abramsky-jung-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
+type="local"
+href="abramsky-jung-1994.xml"
+addr="abramsky-jung-1994"
+title="Domain theory" />
+<fr:p>A <fr:em>complete lattice</fr:em> is a <fr:link
+type="local"
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">poset</fr:link> with all <fr:link
+type="local"
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets</fr:link> and
+joins; equivalently, it is <fr:link
+type="local"
+href="rs-002C.xml"
+addr="rs-002C"
+title="Complete category">complete</fr:link> and <fr:link
+type="local"
+href="rs-002D.xml"
+addr="rs-002D"
+title="Cocomplete category">cocomplete</fr:link> as a
+category.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>954</fr:anchor><fr:addr
+type="user">rs-006V</fr:addr><fr:route>rs-006V.xml</fr:route><fr:title
+text="Heyting algebra">Heyting algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006V.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
 name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
-name="ref-at">Corollary I.5.4</fr:meta><fr:meta
+name="ref-at">Section I.8</fr:meta><fr:meta
 name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
 	
 	
@@ -100,190 +1006,86 @@ type="local"
 href="maclane-moerdijk-1994.xml"
 addr="maclane-moerdijk-1994"
 title="Sheaves in geometry and logic" />
-<fr:p>The <fr:link
+<fr:p>A <fr:em>Heyting algebra</fr:em> is a <fr:link
 type="local"
-href="rs-0015.xml"
-addr="rs-0015"
-title="Presheaf">category of presheaves</fr:link> <fr:tex
-display="inline"><![CDATA[\hat {C}]]></fr:tex> is the <fr:link
+href="rs-005U.xml"
+addr="rs-005U"
+title="Poset">posetal</fr:link> <fr:link
 type="local"
-href="rs-0052.xml"
-addr="rs-0052"
-title="Free objects and universal arrows">free</fr:link>
+href="rs-006R.xml"
+addr="rs-006R"
+title="Bicartesian closed category">bicartesian closed
+category</fr:link>. In particular, this means it has all <fr:link
+type="local"
+href="rs-0058.xml"
+addr="rs-0058"
+title="Finite category">finite</fr:link>
 <fr:link
 type="local"
-href="rs-002D.xml"
-addr="rs-002D"
-title="Cocomplete category">cocompletion</fr:link> of <fr:tex
-display="inline"><![CDATA[C]]></fr:tex>, in an appropriately weak 2-categorical sense. In
-particular, for every functor <fr:tex
-display="inline"><![CDATA[C\xrightarrow {F} E]]></fr:tex> with <fr:tex
-display="inline"><![CDATA[E]]></fr:tex> cocomplete, there exists,
-uniquely up to unique <fr:link
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">meets and joins</fr:link> (is a <fr:link
 type="local"
-href="rs-0010.xml"
-addr="rs-0010"
-title="Natural isomorphism">isomorphism</fr:link>, a <fr:link
-type="local"
-href="rs-003V.xml"
-addr="rs-003V"
-title="Cocontinuous functor">cocontinuous functor</fr:link>
+href="rs-006N.xml"
+addr="rs-006N"
+title="Lattice">lattice</fr:link>), along with an operation
 <fr:tex
-display="inline"><![CDATA[\hat {C}\to  E]]></fr:tex> that extends the <fr:link
-type="local"
-href="rs-0016.xml"
-addr="rs-0016"
-title="Yoneda embedding">Yoneda embedding</fr:link> of <fr:tex
-display="inline"><![CDATA[C]]></fr:tex>: 
- 
-  
-  <fr:figure><fr:resource
-hash="7d79794ff18afcb438ef40f814fa86a2"><fr:resource-content><fr:img
-src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuMyAtLT4KPHN2ZyB2ZXJzaW9uPScxLjEnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZycgeG1sbnM6eGxpbms9J2h0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsnIHdpZHRoPSc4Ni4xMDQ3MjJwdCcgaGVpZ2h0PSc3My44OTU4MjFwdCcgdmlld0JveD0nLTcyIC03MiA1Ny40MDMxNDggNDkuMjYzODgnPgo8c3R5bGUgdHlwZT0ndGV4dC9jc3MnPgo8IVtDREFUQVtAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtbWk3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFSVUFBb0FBQUFBQlFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVRQUFBQmdoV0YxQjJOdFlYQUFBQUU0QUFBQU1RQUFBRHdBdmdCd1oyeDVaZ0FBQVd3QUFBR1lBQUFCMUkya3phRm9aV0ZrQUFBREJBQUFBQzhBQUFBMktHbUlUbWhvWldFQUFBTTBBQUFBSUFBQUFDUUdnd0YrYUcxMGVBQUFBMVFBQUFBTUFBQUFEQWY4QUhkc2IyTmhBQUFEWUFBQUFBZ0FBQUFJQUc0QTZtMWhlSEFBQUFOb0FBQUFGd0FBQUNBQUJRQlJibUZ0WlFBQUE0QUFBQURJQUFBQk12TTgvQ2R3YjNOMEFBQUVTQUFBQUF3QUFBQWdBQU1BQUhqYVkyQm1Xc2s0Z1lHVmdZRnBGdFBaZnlJTS9TQ2E4UTNqR3daalJrNEdJR0JqZ0FOR0JpU1FVbHlXRHBSMFk2aGtadmdQNURORHBKSFUvQWNLQXdEcFlBMVllTnBqWUdCZ1ltQmdZQVppRVNESkNLWlpHRFNBTkJ1UVpnVEt1akZVL3Y4UDVJUHAvN3YvZDRKVkFRRUFsdjhKS0FBQUFIamFGWS9OYnROQUZJVjlac1l6c3QzeFQrMk9uZWJIcllmWWFTVVNrbFRqMHFheDZJSkszUUFiTmtpZ3FndDJ2QUViRnZBS0NBbUpkMkREQS9BVWZaaTZFK2x1dm52dmtjN253TG5wZS9xVy9ITmVPdzRFejdOMWJrSXNJS3JhNU1xMHFXbE52UUMzZEd4VUJLWHIzVWJvbWd1NnRnOWJyRmQ1UkxpdW1vNllXdU5qeDFBYWpZai8rUkVoa1Jjai9wMENYdHlVMkErSnppUk5rV1l1b2RmM3Y4dllmZlc1MjRSVUJERllLNWdYZzNLUTZUbHUrNGdsaEdrQnhrb0JwR05TK0h2Q0htbGwwVk4vRCtuaFdkY0NVajMybUY3S0lNb2U5dDFJRHROQ09WYkhlZEV2eUJiL25UY1dhQWd4UjJQckdwVXJMaWF3MVhmRE5hK2JPZHA2NXlJcUxyaHU2dWFzdFpydEJIa1d3U2E1eWswSDAxR2J0M0h5OG03MDgxMTdEZFNaUHdaSlp1bGFuRndkbEVOdmRhWE9CeU1KREo0RmRIQzBTWkVFSEVXUTZPN1VnTWxpQXFKVzdWRXdSTjRrWHU2UEdmRHQ4ZXZkRjJBNTA4ZEljdlpjREh4Z1Z0UTNwM1BJYkhBUmxlOC9xRnRzdTVnUUwxeXFnN21MNVZUSzZlWDlTZEs1YnJWWHVaOStiVUlmSlg4Q1kxRTdkbmphWTJCa1lHQUFZbzBiMys3Rzg5dDhaV0JtWVFDQng0eEtXeEgwZjMzbUFLWWRRQzRIQXhOSUZBQXpTZ28zQUhqYVkyQmtZR0JtK00vQXdNRDBsTUhnLzFUbUFBYWdDQXBnQmdCaHpRUUdBc1lBQUFMbEFFY0NVUUF3QUFBQUFBQnVBT3A0Mm1OZ1pHQmdZR1lJWUFEUkRGQVNDUUFBQ0lnQVZ3QjQya1dOTGEvQ01CU0duNFdOaEYyQklRUjFiOFhWQzJRQ2cwT2dzQWdjMElaTXRDWGRXQUlDeFEvblVKcHd4TW56ZnB3V0tIbVE4WjZNY2R6dnlTbEVmYmpnaDBuaW9haS94Q1V6L2htUTVTTnhmbGtsemlYWkp5NllvaE1QeGI4bkxwbnpYSHQ3dVhZbXFLM1hKcmlUdGMxeVowTGJlS2NXMVR6cWpYRW1IRHFqMWZHbWROKzAvZG1xdXFwWjQ3RmN1TkpoQ0NpMjR1aklqcE5rbG9ZbHUraTB3bDU4eFlKSy92N21HOGxkN0J6aVMxbzZSMjZ5TmIwMFd0bG42U3BxdWF4Zm43SXZLM2phWTJCbXdBc0FBSDBBQkE9PSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtcjc7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQU00QUFvQUFBQUFBNXdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRVlBQUFCZ2hWeDJ6R050WVhBQUFBRThBQUFBTVFBQUFEd0ZmUDNaWjJ4NVpnQUFBWEFBQUFCNEFBQUFlRnFydzZKb1pXRmtBQUFCNkFBQUFDMEFBQUEySit1SlFtaG9aV0VBQUFJWUFBQUFJQUFBQUNRRkp3SkNhRzEwZUFBQUFqZ0FBQUFNQUFBQURBWmxBUFJzYjJOaEFBQUNSQUFBQUFnQUFBQUlBQ29BUEcxaGVIQUFBQUpNQUFBQUdBQUFBQ0FBQmdBWGJtRnRaUUFBQW1RQUFBREhBQUFCTEw0V2trQndiM04wQUFBRExBQUFBQXdBQUFBZ0FBTUFBSGphWTJCbVVtU2N3TURLd01BMGkrbnNQeEdHZmhETitJYnhEWU14SXljREVMQXh3SUVpQXhKSUtTNUxCMG9xTWgxalp2Z1A1RE16TUlLRUdSRXEvZ09GQWNMU0RSb0FBSGphWTJCZ1lHSmdZR0FHWWhFZ3lRaW1XUmcwZ0RRYmtHWUV5aW95SGZ2L0g4Z0gwLzhmL0xVQnF3SUNBSnQ1Q1ZJQUFBQUFBZ0JxQUFBQTRBTGJBQXNBRlFBQUV3TU9BU0ltSndNK0FUSVdFdzRDTGdFMk54NEI0Q2dCQ0JNSkFTZ0NJaTBrQVFFaE1TRUNJQndZSVFLai9qc1BDUWtRQWNRYUhoMzlmUmtoQVNBeklnRUJJUUFBQVFDS0FpUUJ1d0xIQUFVQUFBRVhCeWNISndFam1CYUNnaGNDeDRrYVpXVWFBQUI0Mm1OZ1pHQmdBT0x2M0M4V3h2UGJmR1ZnWm1FQWdjZU1TbHVSYWFiTFRMZUJGQWNERTRnSEFCMWdDV1lBQUFCNDJtTmdaR0JnWnZqUHdNREFkSmtoaXlHYmNUY0RVQVFGTUFNQVU2NERiZ0xUQUFBQlN3QnFBa2NBaWdBQUFBQUFLZ0E4ZU5wallHUmdZR0JtRUdOZ1lnQUJSZ1kwQUFBQzlRQWVlTm8xamowTHdqQVVSVSt4RmExREIwR2NKUGdEaXRKQmNIVndjaFZIUHhLa1ExTkphNkZMZjd1dkliN0E0N3g3NzBzQ3BBeEVqQldSK1Q1V0xDY0xuTEJnR1hncStpWnd5cG90RTZKNExzcUdZK0NZR2JmQUNTdnVnYWVpZDRGVGRneW51dnA4VytQVXBkYkcyVmZsRGxmam1ySzJhcC92eHZGc3JIR1AxbWoxN0pYdXlxWjdWNnJJQzA3VVZIejQwbUp3S0M2aWFNK1dsM2lPQTFjL041VGlXY25zeWVYZHYzc1cxL3JFdzkraUpmR2tsNjdsbjZYc2Rid2xxeWhrci9nQk53MHRmd0I0Mm1OZ1pzQUxBQUI5QUFRPSkgZm9ybWF0KCd3b2ZmJyk7fQpAZm9udC1mYWNle2ZvbnQtZmFtaWx5OmNtc3k3O3NyYzp1cmwoZGF0YTphcHBsaWNhdGlvbi94LWZvbnQtd29mZjtiYXNlNjQsZDA5R1JnQUJBQUFBQUFNY0FBb0FBQUFBQTRnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJQVXk4eUFBQUE5QUFBQUVvQUFBQmdxa3lVVG1OdFlYQUFBQUZBQUFBQUtnQUFBRFFBRENKV1oyeDVaZ0FBQVd3QUFBQmNBQUFBYUo1Z1ZJWm9aV0ZrQUFBQnlBQUFBQzhBQUFBMktLcUpMbWhvWldFQUFBSDRBQUFBSGdBQUFDUUZ1d0FVYUcxMGVBQUFBaGdBQUFBSUFBQUFDQVluQUZCc2IyTmhBQUFDSUFBQUFBWUFBQUFHQURRQUFHMWhlSEFBQUFJb0FBQUFGd0FBQUNBQUJBQWZibUZ0WlFBQUFrQUFBQURMQUFBQk1oTkkvRk53YjNOMEFBQUREQUFBQUJBQUFBQWdBQU1BQVhqYVkyQm1GbWFjd01ES3dNQTBpK25zUHhHR2ZoRE4rSWJ4RFlNeEl5Y0RFTEF4b0FBSEdDT2x1Q3lkZ1UySldZbVpXZkdQRVFNRHN5THpPYUF3STBMcC8vOE1EQURMeEEzT0FBQjQybU5nWUdCaVlHQmdCbUlSSU1rSXBsa1lGSUEwQ3hBQytVck0vLzlEeUx2L3dQSU1BRkJ0Qm9FQUFIamFZMkJrQ1BqL244bUQ2UVNETEFNRG82QVltN29pbTVxSm1iaWlJQnB0SnNia3ppZ28rUytLVDBxU24zSE92MEllU1JrK3hxNS9LV0QrTWtsQnB2bC9PNlg0R1JrNVZEZ1lHU1VobERnanB6SW5JNk1BQXdEN05oSE5lTnBqWUdSZ1lBRGlGdGJTN2ZIOE5sOFptRmtZUU9BeG85SldCUDMvUC9ORXBoTkFMZ2NERTBnVUFCSmFDam9BZU5wallHUmdZRmI4WXdRa0p6SUVNUGd4ZVRBQVJWQUFFd0JKZUFMVEFBQURrUUFBQXBZQVVBQUFBQUFBTkFBQWVOcGpZR1JnWUdCaWtHTUEwUXhRRWdrQUFBT0xBQ1FBZU5wRmpUMVB3ekFVUlU5RVVva3dzQ0RFQkI2WW8xWVp1ckIxNk5TMUExdGJXMVdHT0pXZFJnb0RFeitjVzJPSk56eWQrL0Zzb09hYmd0c1VQS1o5bTVKSzZvOHJIbmpLdkpCNnkxenp3anQzRk9XOW5GYytNcGRLUGpOWFBHTXpMK1IvWmE1WjhyTVorc3QxZE1Ic0J1dUNQL1Z4WHU5ZGlOM2d6YXBaSnIxMTNvWEQ2S3c1enNaT1haek92V21ibGcwRFBSZXVqRGdDaHAwY205aHpVaGFaV2JOUFRxUlQ2dFZhMGVqdi8zeXIzS2ZPSWIxazFUa3FNYUpKVjFIN3JMYWgxV1g3QzhYU0w0TUFlTnBqWUdaQUJvd01hQUFBQUk0QUJRPT0pIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbW1pMTA7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQVJRQUFvQUFBQUFCTkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRVFBQUFCZ2hWNTA2Mk50WVhBQUFBRTRBQUFBTVFBQUFEd0FXUUNlWjJ4NVpnQUFBV3dBQUFHTEFBQUJvQ0xCM2lGb1pXRmtBQUFDK0FBQUFDOEFBQUEyS0NtSkpHaG9aV0VBQUFNb0FBQUFJQUFBQUNRR09nSElhRzEwZUFBQUEwZ0FBQUFNQUFBQURBaEZBRnBzYjJOaEFBQURWQUFBQUFnQUFBQUlBRjRBMEcxaGVIQUFBQU5jQUFBQUZ3QUFBQ0FBQlFCTWJtRnRaUUFBQTNRQUFBRE9BQUFCT0dvZGRodHdiM04wQUFBRVJBQUFBQXdBQUFBZ0FBTUFBSGphWTJCbU9zZzRnWUdWZ1lGcEZ0UFpmeUlNL1NDYThRM2pHd1pqUms0R0lHQmpnQU5HQmlTUVVseVdEcFIwWm5CbFp2Z1A1RE5EcEpIVS9BY0tBd0RyMXcwNWVOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdEU0FOQnVRWmdUS09qTzQvdjhQNUlQcC8vdis3d1dyQWdJQWtMNEk4UUFBQUhqYUZaQS9UeHRCRk1SMzl1M3R5dmF4NTNCdzU0VGpMR0o4QjBTMmtIM2VnMFN4dzE4Uk4wZ2dSUWhaSVdsU0lLV0lRSUdDSWtVUW9xU2g0U3ZRVVBJTjhnR1NOajFGUkpraUFyTG9OYU0zVS94bUdGajc0WVpLL0NlYll3eWtVVXVUdEljc1NUV1U5Q0RER0hsZzhpNXlVMFVNcWV5L2lkVGtqeGVFUVppYk1LRGlHNUxGZ2dPT2Qrc3J4N09yWXpLQU9Ibzd0V095aGhRRjVWQmpkZnJMMHVFRjBXYlczL3UrT1QwbDF6UmMvdVArbjFiZ3lrdTJkNEdsdWEyZHlxRHg5U1BIODVubW9GSUN1UHQ1c2Q0R25YODczZTluR3lRbTYzcGRjMklXbDZVUGQxVG0xNnpQV04yQzFTWmtabWxNN3ZmUXhLT2VNSUdIa2FUSE95WlJ0Y1FXYWx2YkJLR1NTU2ZMVFdxU3RFYTJaanRzOVdDZFZoWDgxM3ZobHUvK2pIdjZaZXljQ0tBKzc1VzVNK3pTU0FRSXZqQTRxL3JPNncvTG5TRUs4VXBVcU1BcDZuNWFzVkY5ZVdDODFneEdPVzUvdXc3RkV2QmpIajlSUTBwRUNpajRWNUVvK3RHemJnY29QLzJMeHJ5UDBxMmRVS2dYeWgvRC9jMndMS0twelc1SnlQOFV2RUcwQUhqYVkyQmtZR0FBWWlIZmgvUGorVzIrTWpDek1JREFZMGFsclFqNi8wdG1BYVlyUUM0SEF4TklGQUFSdXduWkFIamFZMkJrWUdCbStNL0F3TUQwaFVIOS93Vm1BUWFnQ0FwZ0JnQmlqQVFIQW5ZQUFBTGJBRE1DOUFBbkFBQUFBQUJlQU5CNDJtTmdaR0JnWUdid1pnRFJERkFTQ1FBQUNBc0FVZ0I0MmsyT3ZXN0NNQlJHVDlRUXFXbWxUcTJZa0tlT1VhTHNYUmlZV0ptNkFMWm9CdHNvQ1pGWWVJQStkVCtDaDlyUzFibm5mdjRCU201azNGZkcyMXp2SzZkUTkrQUZMN3duTHJSTjRwSWxuenlSNWM4eUs3NFM1N3p5blhqQkJ6K0pDL2xiNHBLYTMzWDA1OHZvZXJPTjF2WGg2SDNYMUR2WEQxME1wcW5xaDlpNDRQcjk2S3c1WEkyZHVtRTZlZE5XTFdzaW5qTVhSaHk5L3JXVnNUTUhqcHA1T2hxOXRKdmRvQzVxWXVRcTJmK0pqUkpoVHUzbjI2eFNCNjZxbGttWlFmV2t0S0hWMmZZUHJqMHY3d0FBZU5wallHYkFDd0FBZlFBRSkgZm9ybWF0KCd3b2ZmJyk7fQp0ZXh0LmYwIHtmb250LWZhbWlseTpjbXN5Nztmb250LXNpemU6Ni45NzM4NDhweH0KdGV4dC5mMSB7Zm9udC1mYW1pbHk6Y21taTEwO2ZvbnQtc2l6ZTo5Ljk2MjY0cHh9CnRleHQuZjIge2ZvbnQtZmFtaWx5OmNtbWk3O2ZvbnQtc2l6ZTo2Ljk3Mzg0OHB4fQp0ZXh0LmYzIHtmb250LWZhbWlseTpjbXI3O2ZvbnQtc2l6ZTo2Ljk3Mzg0OHB4fQpdXT4KPC9zdHlsZT4KPGcgaWQ9J3BhZ2UxJz4KPGcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtNDMuMDExNzcxLC00NS44MDI0MDgpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIGZpbGw9JyMwMDAnIHN0cm9rZT0nIzAwMCc+CjxnIHN0cm9rZS13aWR0aD0nMC40Jz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTI4LjUyMTQ3LC0xOS40OTMwNiknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTQzLjAxMTc3MSwtNDUuODAyNDA4KXNjYWxlKC0xLC0xKSc+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMzQuODA1NzU4LC03Ny44MzUxMDIpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0zLjkzMTI0LDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTM0LjgwNTc1OCwtNzcuODM1MTAyKXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjEnIHg9Jy0zNC44MDU3NTgnIHk9Jy03Ny44MzUxMDInPkM8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoNS41NjQzMDgsLTc3LjgzNTEwMilzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTMuOTc5MTYsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSg1LjU2NDMwOCwtNzcuODM1MTAyKXNjYWxlKC0xLC0xKSc+CjxnIGZpbGw9JyMwMDAnPgo8ZyBzdHJva2U9J25vbmUnPgo8dGV4dCBjbGFzcz0nZjEnIHg9JzUuNTY0MzA4JyB5PSctNzcuODM1MTAyJz5FPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgc3Ryb2tlPScjMDAwJyBzdHJva2UtbWl0ZXJsaW1pdD0nMTAnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0zNC44MDU3NTgsLTQ1LjgwMjQwOClzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTMuOTMxMjQsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMzQuODA1NzU4LC00NS44MDI0MDgpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMScgeD0nLTM0LjgwNTc1OCcgeT0nLTQ1LjgwMjQwOCc+QzwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2Utd2lkdGg9JzAuMzk5OTgnPgo8ZyBzdHJva2UtZGFzaGFycmF5PScyLjc5OTg1LDEuNTk5OTEnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgo8cGF0aCBkPSdNLTExLjg0NzkgMTUuMTU5NzZIMTEuMzUyMTEnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoMTEuNTUyMSwxNS4xNTk3NiknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMy40NDM3Niw3Ljk0NTkyKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNDMuMDExNzcxLC00NS44MDI0MDgpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nLTQzLjAxMTc3MScgeT0nLTQ1LjgwMjQwOCc+4oiDPC90ZXh0Pgo8dGV4dCBjbGFzcz0nZjMnIHg9Jy0zOC41MDA4ODYnIHk9Jy00NS44MDI0MDgnPiE8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTMuMTIxODksMTcuNTEyNTEpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC00My4wMTE3NzEsLTQ1LjgwMjQwOClzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YzJyB4PSctNDEuMjkxNDYxJyB5PSctNDcuNTY1MjUyJz7LhjwvdGV4dD4KPHRleHQgY2xhc3M9J2YyJyB4PSctNDMuMDExNzcxJyB5PSctNDUuODAyNDA4Jz5GPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2Utd2lkdGg9JzAuMzk5OTgnPgo8cGF0aCBkPSdNLTIwLjI4NDY4LTguODAwMDJWOC40MDAwNycgZmlsbD0nbm9uZScvPgo8ZyB0cmFuc2Zvcm09J21hdHJpeCgwLjAsMS4wLC0xLjAsMC4wLC0yMC4yODQ2OCw4LjYwMDA1KSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0yNi45NDQxNywtMC44MjY0KSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNDMuMDExNzcxLC00NS44MDI0MDgpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nLTQzLjAxMTc3MScgeT0nLTQ1LjgwMjQwOCc+eTwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00tMTEuODQ3OS0xMC4yOTkxTDExLjkwOTU5IDguNTUxNDUnIGZpbGw9J25vbmUnLz4KPGcgdHJhbnNmb3JtPSdtYXRyaXgoMC43ODMzMSwwLjYyMTU0LC0wLjYyMTU0LDAuNzgzMzEsMTIuMDY2MjQsOC42NzU3NCknPgo8ZyBzdHJva2UtZGFzaGFycmF5PSdub25lJyBzdHJva2UtZGFzaG9mZnNldD0nMC4wJz4KIDxnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCc+CiA8ZyBzdHJva2UtbGluZWpvaW49J3JvdW5kJz4KIDxwYXRoIGQ9J00tMi4wNzk4OCAyLjM5OTg2Qy0xLjY5OTg5IC45NTk5Mi0uODUzMTMgLjI3OTk4IDAgMEMtLjg1MzEzLS4yNzk5OC0xLjY5OTg5LS45NTk5Mi0yLjA3OTg4LTIuMzk5ODYnIGZpbGw9J25vbmUnLz4KIDwvZz4KIDwvZz4KIDwvZz4KPC9nPgo8ZyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgyLjU0MDI0LC03Ljg4NTYyKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtNDMuMDExNzcxLC00NS44MDI0MDgpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMicgeD0nLTQzLjAxMTc3MScgeT0nLTQ1LjgwMjQwOCc+RjwvdGV4dD4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9zdmc+" /></fr:resource-content><fr:resource-source
-type="latex"
-part="preamble"><![CDATA[
-   
-    \usepackage{tikz, tikz-cd, mathtools, amssymb}
-  \usetikzlibrary{shapes.geometric}
-  \usetikzlibrary{calc}
-  \usetikzlibrary{matrix}
-  \usetikzlibrary{decorations.markings}
-
-  \tikzset{
-    % basics
-    square/.style={draw, regular polygon, regular polygon sides=4},
-    triangle/.style={draw, regular polygon, regular polygon sides=3},
-  }
-
-  \tikzset{
-    % string diagrams
-    state/.style={triangle, shape border rotate=180, anchor=north},
-    costate/.style={triangle, anchor=south},
-    morphism/.style={draw, rectangle},
-    over/.style={
-      draw=white,
-      double=black,
-      % default is .4pt
-      line width=1.2pt,
-      double distance=.4pt,
-      text=black
-    },
-  }
-
-  \tikzset{ 
-    % tables
-    % https://tikz.net/tikz-table/
-    table/.style={
-        matrix of nodes,
-        row sep=-\pgflinewidth,
-        column sep=-\pgflinewidth,
-        nodes={
-            rectangle,
-            draw=black,
-            align=center
-        },
-        minimum height=1.5em,
-        text depth=0.5ex,
-        text height=2ex,
-        nodes in empty cells,
-%%
-        every even row/.style={
-            nodes={fill=gray!20}
-        },
-        column 1/.style={
-            nodes={font=\bfseries}
-        },
-        row 1/.style={
-            nodes={
-                fill=black,
-                text=white,
-                font=\bfseries
-            }
-        }
-    }
-  }
-
-  ]]></fr:resource-source><fr:resource-source
-type="latex"
-part="body"><![CDATA[
-  \begin {tikzcd}
-    C\ar [r, dashed, "\exists !"', "\hat {F}"] & E \\
-    C\ar [u, "y"]\ar [ur, "F"']
-  \end {tikzcd}
-]]></fr:resource-source></fr:resource></fr:figure>
- 
- commutes. This functor is called the <fr:em>Yoneda extension</fr:em> of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex>.</fr:p>
-  
-    
-    
-    <fr:tree
-toc="false"
+display="inline"><![CDATA[\Rightarrow ]]></fr:tex>, called <fr:em>implication</fr:em>, such that <fr:tex
+display="block"><![CDATA[z\leq  x\Rightarrow  y\text { if and only if } z\wedge  x\leq  y.]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="false"
+expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>5002</fr:anchor><fr:addr
-type="machine">#299</fr:addr><fr:route>unstable-299.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006C.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>956</fr:anchor><fr:addr
+type="user">rs-006X</fr:addr><fr:route>rs-006X.xml</fr:route><fr:title
+text="Boolean algebra">Boolean algebra</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-006X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>6</fr:month><fr:day>19</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:p>Since <fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
+name="ref-name">Mac Lane &amp; Moerdijk</fr:meta><fr:meta
+name="ref-at">p. 50</fr:meta><fr:meta
+name="ref-note">maclane-moerdijk-1994</fr:meta></fr:frontmatter><fr:mainmatter>
+	
+	
+	
+	<fr:link
 type="local"
-href="rs-006B.xml"
-addr="rs-006B"
-title="Density formula">every presheaf is a colimit of representables</fr:link>, hence a
-  colimit of objects in the image of the Yoneda embedding, and the functor
+href="maclane-moerdijk-1994.xml"
+addr="maclane-moerdijk-1994"
+title="Sheaves in geometry and logic" />
+<fr:p>A <fr:em>Boolean algebra</fr:em> is a <fr:link
+type="local"
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> in which every
+element <fr:tex
+display="inline"><![CDATA[x]]></fr:tex> has a <fr:em>complement</fr:em> <fr:tex
+display="inline"><![CDATA[\lnot  x]]></fr:tex> satisfying
   <fr:tex
-display="inline"><![CDATA[\hat {F}]]></fr:tex> must preserve colimits, there is (up to isomorphism) only one
-  candidate fomula: given a presheaf <fr:tex
-display="inline"><![CDATA[P]]></fr:tex>, we must have
-  <fr:tex
-display="block"><![CDATA[\begin {aligned}   \hat {F}P &= \hat {F}(\operatorname *{colim}(\text {el}(P)\xrightarrow {\Pi } C\xhookrightarrow {y} \hat {C})) \\\\   &= \operatorname *{colim} (\text {el}(P)\xrightarrow {\Pi } C\xhookrightarrow {y} \hat {C}\xrightarrow {\hat {F}} E) \\\\   &= \operatorname *{colim} (\text {el}(P) \xrightarrow {\Pi } C\xrightarrow {F} E).   \end {aligned}   ]]></fr:tex> By <fr:link
+display="block"><![CDATA[x\wedge  \lnot  x = \bot \quad \text { and }\quad  x\vee  \lnot  x = \top .]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>958</fr:anchor><fr:addr
+type="user">rs-00CB</fr:addr><fr:route>rs-00CB.xml</fr:route><fr:title
+text="Frame">Frame</fr:title><fr:taxon>Definition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-00CB.tree</fr:source-path><fr:date><fr:year>2025</fr:year><fr:month>2</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
-href="rs-0030.xml"
-addr="rs-0030"
-title="Functoriality of limits">functoriality of colimits</fr:link>, this is well-defined.</fr:p>
-
-  <fr:p>By the <fr:link
+href="rileyshahar.xml"
+addr="rileyshahar"
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:em>frame</fr:em> is a <fr:link
 type="local"
-href="rs-006B.xml"
-addr="rs-006B"
-title="Density formula">proof of the density formula</fr:link>, we recognize this as the
-  <fr:link
+href="rs-006T.xml"
+addr="rs-006T"
+title="Distributive lattice">distributive lattice</fr:link> with arbitrary
+<fr:link
 type="local"
-href="rs-0065.xml"
-addr="rs-0065"
-title="(Co)limit formula for Kan extensions">colimit formula for the Kan extension of <fr:tex
-display="inline"><![CDATA[F]]></fr:tex> along <fr:tex
-display="inline"><![CDATA[y]]></fr:tex></fr:link>. (Indeed,
-  since <fr:link
-type="local"
-href="rs-0019.xml"
-addr="rs-0019"
-title="Full and faithfullness of the Yoneda embedding">the Yoneda embedding is fully faithful</fr:link>, <fr:link
-type="local"
-href="rs-0069.xml"
-addr="rs-0069"
-title="Pointwise Kan extensions along fully faithful functors are isomorphisms">this Kan extension
-  is necessarily an isomorphism</fr:link>, so that this extension necessarily
-  makes the triangle commute.)</fr:p>
-  
-  <fr:p>It remains to show that <fr:tex
-display="inline"><![CDATA[\hat {F}]]></fr:tex> is cocontinuous. To do so, <fr:link
-type="local"
-href="rs-003P.xml"
-addr="rs-003P"
-title="Right adjoints preserve limits; left adjoints preserve colimits">it suffices
-  to show it is a left adjoint</fr:link>. We define the functor <fr:tex
-display="inline"><![CDATA[E\xrightarrow {R}   \hat {C}]]></fr:tex> by <fr:tex
-display="inline"><![CDATA[Re = E(F-, e).]]></fr:tex> To exhibit the adjunction, compute for
-  <fr:tex
-display="inline"><![CDATA[P\in \hat {C}]]></fr:tex> and <fr:tex
-display="inline"><![CDATA[e\in  E]]></fr:tex>, <fr:tex
-display="block"><![CDATA[     \begin {aligned}       \hat {C}(P, Re) &\cong  \hat {C}(\operatorname *{colim}_{(c,x)\in \text {el}(P)}C(-, c), Re) &&\text {by the density formula} \\       &\cong  \operatorname *{lim}_{(c, x)\in \text {el}(P)^\text {op}} \hat {C}(C(-, c), Re) &&\text {by the       representability of colimits} \\       &\cong  \operatorname *{lim}_{(c, x)\in \text {el}(P)^\text {op}} (Re)c &&\text {by the Yoneda lemma} \\       &\cong  \operatorname *{lim}_{(c, x)\in \text {el}(P)^\text {op}} E(Fc, e) &&\text {by definition of } R \\       &\cong  E(\operatorname *{colim}_{(c, x)\in \text {el}(P)} Fc, e) &&\text {by the representability of colimits} \\       &\cong  E(\hat {F}P, e) &&\text {by definition of } \hat {F}.     \end {aligned}   ]]></fr:tex></fr:p>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-  
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+href="rs-006J.xml"
+addr="rs-006J"
+title="Meet">joins</fr:link> and the infinitary distributive law <fr:tex
+display="block"><![CDATA[x\wedge  \bigvee  y_i = \bigvee  (x\wedge  y_i).]]></fr:tex></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

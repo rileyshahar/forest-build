@@ -7,17 +7,24 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7908</fr:anchor><fr:addr
-type="machine">#349</fr:addr><fr:route>unstable-349.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7598</fr:anchor><fr:addr
+type="machine">#349</fr:addr><fr:route>unstable-349.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0033.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:link
+  <fr:p>By the <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability of limits</fr:link>, each of these follows from
+  the corresponding result in <fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
@@ -33,37 +40,28 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7910</fr:anchor><fr:addr
-type="user">rs-002X</fr:addr><fr:route>rs-002X.xml</fr:route><fr:title
-text="Cat is cocomplete"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Cat</html:span> is cocomplete</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7600</fr:anchor><fr:addr
+type="user">rs-0033</fr:addr><fr:route>rs-0033.xml</fr:route><fr:title
+text="Equational theory of cartesian categories">Equational theory of cartesian categories</fr:title><fr:taxon>Proposition</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0033.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
-title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors><fr:meta
-name="ref-name">RIehl</fr:meta><fr:meta
-name="ref-at">Corollary 4.5.16</fr:meta><fr:meta
-name="ref-note">riehl-2017</fr:meta></fr:frontmatter><fr:mainmatter>
-	
-	
-	
-	<fr:link
+title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A <fr:link
 type="local"
-href="riehl-2017.xml"
-addr="riehl-2017"
-title="Category theory in context" />
-<fr:p><fr:link
+href="rs-003Z.xml"
+addr="rs-003Z"
+title="Cartesian monoidal category">cartesian category</fr:link> <fr:tex
+display="inline"><![CDATA[C]]></fr:tex> satisfies the following equations up to
+<fr:link
 type="local"
-href="rs-002V.xml"
-addr="rs-002V"
-title="Category of categories"><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="scat">Cat</html:span></fr:link> is <fr:link
-type="local"
-href="rs-002D.xml"
-addr="rs-002D"
-title="Cocomplete category">cocomplete</fr:link>.</fr:p>
+href="rs-0010.xml"
+addr="rs-0010"
+title="Natural isomorphism">natural isomorphism</fr:link>:</fr:p><fr:ul><fr:li><fr:tex
+display="inline"><![CDATA[x\times  y\cong  y\times  x]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\times (y\times  z)\cong (x\times  y)\times  z]]></fr:tex>;</fr:li>
+  <fr:li><fr:tex
+display="inline"><![CDATA[x\times  1\cong  x]]></fr:tex>.</fr:li></fr:ul>
   
     
     
@@ -74,17 +72,24 @@ show-heading="true"
 show-metadata="false"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>7899</fr:anchor><fr:addr
-type="machine">#349</fr:addr><fr:route>unstable-349.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-002X.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>4832</fr:anchor><fr:addr
+type="machine">#349</fr:addr><fr:route>unstable-349.xml</fr:route><fr:taxon>Proof</fr:taxon><fr:source-path>/home/riley/notes/forest/trees/rs-0033.tree</fr:source-path><fr:date><fr:year>2024</fr:year><fr:month>5</fr:month><fr:day>14</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="rileyshahar.xml"
 addr="rileyshahar"
 title="Riley Shahar">Riley Shahar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
-  <fr:link
+  <fr:p>By the <fr:link
 type="local"
-href="TODO.xml"
-addr="TODO"
-title="TODO">TODO</fr:link>
+href="rs-002O.xml"
+addr="rs-002O"
+title="Limits are representable">representability of limits</fr:link>, each of these follows from
+  the corresponding result in <fr:link
+type="local"
+href="rs-000C.xml"
+addr="rs-000C"
+title="Category of sets"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="scat">Set</html:span></fr:link>.</fr:p>
 </fr:mainmatter><fr:backmatter /></fr:tree>
   
 </fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
